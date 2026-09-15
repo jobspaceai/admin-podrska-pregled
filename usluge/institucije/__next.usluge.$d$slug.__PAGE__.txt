@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:T604,<h2>Tko je nadležan za što</h2>
+<table>
+<thead>
+<tr>
+<th>Institucija</th>
+<th>Za poslodavca najčešće</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MUP</strong></td>
+<td>Postupci za strane radnike: dozvole za boravak i rad, boravak, prijava boravišta</td>
+</tr>
+<tr>
+<td><strong>HZZ</strong></td>
+<td>Postupci u vezi sa zapošljavanjem stranih radnika i mjere zapošljavanja</td>
+</tr>
+<tr>
+<td><strong>HZMO</strong></td>
+<td>Mirovinsko osiguranje radnika: prijave i odjave</td>
+</tr>
+<tr>
+<td><strong>HZZO</strong></td>
+<td>Zdravstveno osiguranje radnika, bolovanja i ozljede na radu</td>
+</tr>
+<tr>
+<td><strong>Porezna uprava</strong></td>
+<td>Porezne obveze poslodavca i izvješća, potvrde o stanju duga</td>
+</tr>
+<tr>
+<td><strong>Državni inspektorat</strong></td>
+<td>Nadzor nad radnim odnosima i zaštitom na radu</td>
+</tr>
+</tbody>
+</table>
+<p>Pregled je pojednostavljen. Nadležnost za konkretan postupak provjeravamo za vaš slučaj.</p>
+<h2>Kad nam se javiti</h2>
+<ul>
+<li>Stigao je zahtjev za nadopunu, a nije jasno što se točno traži</li>
+<li>Predmet dugo stoji bez odgovora</li>
+<li>Nije jasno kojoj instituciji se obratiti za koji dokument</li>
+<li>Najavljen je nadzor inspekcije</li>
+</ul>
+<h2>Kako radimo</h2>
+<ol>
+<li><strong>Pročitamo zahtjev</strong> i utvrdimo što se traži i do kada.</li>
+<li><strong>Prikupimo dokumente</strong> od vas i radnika.</li>
+<li><strong>Pripremimo odgovor</strong> s kratkim objašnjenjem.</li>
+<li><strong>Pratimo predmet</strong> do rješenja i javljamo vam status.</li>
+</ol>b:X
+10:X
+10:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Komunikacija s institucijama\",\"description\":\"Vodimo komunikaciju s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom: nadopune, pojašnjenja, dostava dokumenata i praćenje predmeta.\",\"areaServed\":{\"@type\":\"Country\",\"name\":\"Hrvatska\"},\"provider\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Zastupate li nas u postupku?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Vodimo administrativni dio komunikacije i dokumentacije. Kada je potrebno pravno zastupanje, na primjer žalba ili upravni spor, upućujemo vas na odvjetnika.\"}},{\"@type\":\"Question\",\"name\":\"Što napraviti kad stigne zahtjev za nadopunu?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Prvo utvrditi točno što se traži i do kada. Zatim prikupiti dokumente i odgovoriti u roku, uz kratko objašnjenje. Nepotpun odgovor često znači novi zahtjev i duži postupak.\"}},{\"@type\":\"Question\",\"name\":\"Kojoj instituciji se obratiti za koji dokument?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"To ovisi o dokumentu. Na ovoj stranici je kratak pregled, a za vaš slučaj provjeravamo nadležnost prije nego pošaljete zahtjev.\"}}]}"}}],["$","section",null,{"className":"usluge-module__VWO5Ja__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"usluge-module__VWO5Ja__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/usluge/","children":"Usluge"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Komunikacija s institucijama"}]]}],["$","div",null,{"className":"usluge-module__VWO5Ja__introRow","children":[["$","span",null,{"className":"icon-tile","children":["$","$L3",null,{"icon":{"name":"landmark","size":24,"node":[["path",{"d":"M10 18v-7","key":"wt116b"}],["path",{"d":"M11.119 2.205a2 2 0 0 1 1.762 0l7.84 3.846A.5.5 0 0 1 20.5 7h-17a.5.5 0 0 1-.22-.949z","key":"yxxwt6"}],["path",{"d":"M14 18v-7","key":"vav6t3"}],["path",{"d":"M18 18v-7","key":"aexdmj"}],["path",{"d":"M3 22h18","key":"8prr45"}],["path",{"d":"M6 18v-7","key":"1ivflk"}]]},"aria-hidden":"true","focusable":"false"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"usluge-module__VWO5Ja__title","children":"Komunikacija s institucijama bez čekanja u redovima"}],["$","p",null,{"className":"usluge-module__VWO5Ja__lead","children":"Kad institucija traži nadopunu, pojašnjenje ili dodatni dokument, najvažnije je brzo razumjeti što točno traži. Pomažemo utvrditi što je potrebno i vodimo postupak do kraja."}],["$","div",null,{"className":"usluge-module__VWO5Ja__ctas","children":[["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green","children":"Zatražite ponudu"}],["$","a",null,{"href":"#pitanja","className":"btn btn-outline","children":"Česta pitanja"}]]}]]}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap usluge-module__VWO5Ja__layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"usluge-module__VWO5Ja__block","children":["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4"}}]}],"$L5","$L6"]}],"$L7"]}]}]],["$L8"],"$L9"]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$b","varyParams":"$10"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$b","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+15:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+19:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+1a:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+1b:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1c:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/2tdg2dqfj7g4q.css","style"]
+5:["$","div",null,{"className":"usluge-module__VWO5Ja__block","id":"pitanja","children":[["$","h2",null,{"className":"usluge-module__VWO5Ja__subheading","children":"Česta pitanja"}],["$","div",null,{"className":"FaqList-module__v8Q7GW__list","children":[["$","details","Zastupate li nas u postupku?",{"className":"FaqList-module__v8Q7GW__item","children":[["$","summary",null,{"className":"FaqList-module__v8Q7GW__question","children":[["$","span",null,{"children":"Zastupate li nas u postupku?"}],["$","span",null,{"aria-hidden":"true","className":"FaqList-module__v8Q7GW__plus","children":"+"}]]}],["$","p",null,{"className":"FaqList-module__v8Q7GW__answer","children":"Vodimo administrativni dio komunikacije i dokumentacije. Kada je potrebno pravno zastupanje, na primjer žalba ili upravni spor, upućujemo vas na odvjetnika."}]]}],["$","details","Što napraviti kad stigne zahtjev za nadopunu?",{"className":"FaqList-module__v8Q7GW__item","children":[["$","summary",null,{"className":"FaqList-module__v8Q7GW__question","children":[["$","span",null,{"children":"Što napraviti kad stigne zahtjev za nadopunu?"}],["$","span",null,{"aria-hidden":"true","className":"FaqList-module__v8Q7GW__plus","children":"+"}]]}],["$","p",null,{"className":"FaqList-module__v8Q7GW__answer","children":"Prvo utvrditi točno što se traži i do kada. Zatim prikupiti dokumente i odgovoriti u roku, uz kratko objašnjenje. Nepotpun odgovor često znači novi zahtjev i duži postupak."}]]}],["$","details","Kojoj instituciji se obratiti za koji dokument?",{"className":"FaqList-module__v8Q7GW__item","children":[["$","summary",null,{"className":"FaqList-module__v8Q7GW__question","children":[["$","span",null,{"children":"Kojoj instituciji se obratiti za koji dokument?"}],["$","span",null,{"aria-hidden":"true","className":"FaqList-module__v8Q7GW__plus","children":"+"}]]}],["$","p",null,{"className":"FaqList-module__v8Q7GW__answer","children":"To ovisi o dokumentu. Na ovoj stranici je kratak pregled, a za vaš slučaj provjeravamo nadležnost prije nego pošaljete zahtjev."}]]}]]}]]}]
+6:["$","div",null,{"className":"usluge-module__VWO5Ja__block","children":[["$","h2",null,{"className":"usluge-module__VWO5Ja__subheading","children":"Vodiči za ovo područje"}],["$","div",null,{"className":"usluge-module__VWO5Ja__postGrid","children":[["$","$L2","hzz-poslodavci-institucije",{"href":"/blog/hzz-poslodavci-institucije/","className":"PostCard-module__hd4OYG__card","children":[["$","span",null,{"className":"PostCard-module__hd4OYG__tag","children":"Komunikacija s institucijama"}],["$","span",null,{"className":"PostCard-module__hd4OYG__title","children":"HZZ, HZMO, HZZO i Porezna uprava: što poslodavac rješava gdje"}],["$","span",null,{"className":"PostCard-module__hd4OYG__excerpt","children":"HZZ za poslodavce, HZMO, HZZO, Porezna uprava i FINA: tko je nadležan za prijave radnika, potvrdu o stanju duga, blokadu računa i nadzor."}],["$","span",null,{"className":"PostCard-module__hd4OYG__meta","children":["8. ožujka 2027."," · ",8," min čitanja"]}]]}],["$","$L2","deficitarna-zanimanja",{"href":"/blog/deficitarna-zanimanja/","className":"PostCard-module__hd4OYG__card","children":[["$","span",null,{"className":"PostCard-module__hd4OYG__tag","children":"Komunikacija s institucijama"}],["$","span",null,{"className":"PostCard-module__hd4OYG__title","children":"Deficitarna zanimanja: što znače za poslodavca i gdje provjeriti popis"}],["$","span",null,{"className":"PostCard-module__hd4OYG__excerpt","children":"Deficitarna zanimanja s liste Upravnog vijeća HZZ-a oslobađaju poslodavca testa tržišta rada. Što još mijenjaju i gdje provjeriti važeći popis."}],["$","span",null,{"className":"PostCard-module__hd4OYG__meta","children":["18. siječnja 2027."," · ",6," min čitanja"]}]]}]]}]]}]
+7:["$","aside",null,{"className":"usluge-module__VWO5Ja__aside","children":[["$","div",null,{"className":"card usluge-module__VWO5Ja__includes","children":[["$","h2",null,{"children":"Što radimo za vas"}],["$","ul",null,{"className":"checks","children":[["$","li","Komunikacija s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom",{"children":[["$","$L3",null,{"icon":{"name":"check","size":24,"node":[["path",{"d":"M20 6 9 17l-5-5","key":"1gmf2c"}]]},"aria-hidden":"true","focusable":"false"}],"Komunikacija s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom"]}],["$","li","Tumačenje zahtjeva za nadopunu i priprema odgovora",{"children":[["$","$L3",null,{"icon":"$7:props:children:0:props:children:1:props:children:0:props:children:0:props:icon","aria-hidden":"true","focusable":"false"}],"Tumačenje zahtjeva za nadopunu i priprema odgovora"]}],["$","li","Prikupljanje i dostava dodatnih dokumenata",{"children":[["$","$L3",null,{"icon":"$7:props:children:0:props:children:1:props:children:0:props:children:0:props:icon","aria-hidden":"true","focusable":"false"}],"Prikupljanje i dostava dodatnih dokumenata"]}],["$","li","Praćenje statusa predmeta i rokova",{"children":[["$","$L3",null,{"icon":"$7:props:children:0:props:children:1:props:children:0:props:children:0:props:icon","aria-hidden":"true","focusable":"false"}],"Praćenje statusa predmeta i rokova"]}],["$","li","Priprema dokumentacije za nadzor inspekcije",{"children":[["$","$L3",null,{"icon":"$7:props:children:0:props:children:1:props:children:0:props:children:0:props:icon","aria-hidden":"true","focusable":"false"}],"Priprema dokumentacije za nadzor inspekcije"]}]]}]]}],["$","aside",null,{"className":"ContactPanel-module__b0dPgW__panel","children":[["$","div",null,{"className":"ContactPanel-module__b0dPgW__top","children":[["$","$L3",null,{"icon":{"name":"headset","size":24,"node":[["path",{"d":"M3 11h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-5Zm0 0a9 9 0 1 1 18 0m0 0v5a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3Z","key":"12oyoe"}],["path",{"d":"M21 16v2a4 4 0 0 1-4 4h-5","key":"1x7m43"}]]},"className":"ContactPanel-module__b0dPgW__big","aria-hidden":"true","focusable":"false"}],["$","div",null,{"children":[["$","h3",null,{"className":"ContactPanel-module__b0dPgW__title","children":"Tu smo za vas"}],["$","p",null,{"className":"ContactPanel-module__b0dPgW__text","children":"Opišite nam situaciju i javit ćemo vam sljedeće korake."}]]}]]}],null,null,["$","$L2",null,{"className":"btn btn-white","href":"/kontakt/","children":["Kontaktirajte nas ",["$","$L3",null,{"icon":{"name":"send","size":24,"node":[["path",{"d":"M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z","key":"1ffxy3"}],["path",{"d":"m21.854 2.147-10.94 10.939","key":"12cjpa"}]]},"aria-hidden":"true","focusable":"false"}]]}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/2tdg2dqfj7g4q.css","precedence":"next"}]
+9:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+c:["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Komunikacija s institucijama | MUP, HZZ, HZMO, HZZO"}],["$","meta","1",{"name":"description","content":"Vodimo komunikaciju s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom: nadopune, pojašnjenja, dostava dokumenata i praćenje predmeta."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/usluge/institucije/"}],["$","meta","4",{"property":"og:title","content":"Komunikacija s institucijama | MUP, HZZ, HZMO, HZZO"}],["$","meta","5",{"property":"og:description","content":"Vodimo komunikaciju s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom: nadopune, pojašnjenja, dostava dokumenata i praćenje predmeta."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/usluge/institucije/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Komunikacija s institucijama | MUP, HZZ, HZMO, HZZO"}],["$","meta","13",{"name":"twitter:description","content":"Vodimo komunikaciju s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom: nadopune, pojašnjenja, dostava dokumenata i praćenje predmeta."}],["$","meta","14",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","15",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","16",{"name":"twitter:image:width","content":"1200"}],["$","meta","17",{"name":"twitter:image:height","content":"630"}],["$","link","18",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1a","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+11:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+14:true
+17:null
+b:300
+b:C
+13:0
+d:"$undefined"
+f:"$undefined"
+12:"$undefined"
+a:"$undefined"

@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T1fcd,<p>Kad objavite „tražim smještaj za radnike" ili pregledavate oglase, fotografije i opis ne govore ispunjava li stan uvjete. Prije potpisa provjerite pet stvari: tko iznajmljuje, koliko osoba stan smije primiti, što se stvarno nalazi u stanu, hoće li najmodavac potpisati ugovor koji vam treba i mogu li radnici prijaviti boravište na adresi.</p>
+<p>Za radnike iz trećih zemalja provjera je stroža. Pravilnik o boravku državljana trećih zemalja (NN 43/2026) propisuje kvadraturu, najveći broj osoba i opremu, a ugovor mora imati podatke koje traži MUP. Stan koji ne zadovoljava te uvjete ne možete koristiti kao dokaz o smještaju, bez obzira na cijenu.</p>
+<h2>Tražim smještaj za radnike: gdje nastaju problemi</h2>
+<p>Oglasi na portalima, pa i kad tražite njuškalo smještaj za radnike, pisani su za privući najmoprimca. U praksi se razlike pojavljuju tek pri obilasku ili kod prijave boravišta:</p>
+<ul>
+<li>kvadratura u oglasu ne odgovara stvarnoj površini</li>
+<li>na adresi već žive druge osobe</li>
+<li>oglas nudi krevete ili sobe za radnike, a ne cijeli stan, pa je teško utvrditi ukupan broj stanara</li>
+<li>najmodavac ne želi ovjeriti ugovor ili navesti iznos najamnine</li>
+<li>oglas je objavio posrednik ili treća osoba, a ne vlasnik</li>
+</ul>
+<h2>Pet provjera prije potpisa</h2>
+<h3>1. Tko iznajmljuje stan</h3>
+<ul>
+<li>Zatražite podatke o vlasniku i usporedite ih s izvatkom iz zemljišne knjige.</li>
+<li>Ako oglas objavljuje netko tko nije vlasnik, tražite dokaz da smije davati stan u najam. Najmoprimac smije dati stan u podnajam samo uz suglasnost najmodavca.</li>
+<li>Ako je oglašivač agencija, provjerite je li upisana u javni Registar posrednika koji vodi Hrvatska gospodarska komora. Ugovor o posredovanju sklapa se u pisanom obliku.</li>
+</ul>
+<h3>2. Koliko osoba stan smije primiti</h3>
+<p>Za radnike iz trećih zemalja, kad smještaj osigurava poslodavac ili posreduje u njemu, vrijedi:</p>
+<ul>
+<li>najmanje 14 m² za prvu osobu i 6 m² za svaku sljedeću</li>
+<li>u stanu najviše osam osoba</li>
+<li>u kući s jednom ili dvije stambene jedinice najviše 10 radnika na 150 m²</li>
+</ul>
+<p>Pitajte koliko osoba već živi ili je prijavljeno na adresi. Te osobe ulaze u izračun. Prijava boravišta neće se izvršiti ako je na adresi prijavljeno više osoba nego što površina dopušta.</p>
+<p>Za stan u zgradi s četiri ili više stanova u koji dolazi više od četiri punoljetne nesrodne osobe iz trećih zemalja treba i pisana suglasnost suvlasnika zgrade. Pitajte najmodavca može li je pribaviti.</p>
+<h3>3. Što se stvarno nalazi u stanu</h3>
+<p>Stan obiđite osobno ili zatražite videoobilazak uživo. Provjerite:</p>
+<ul>
+<li>sanitarni čvor odvojen od prostorija za spavanje i broj kupaonica</li>
+<li>tekuću vodu, struju i grijanje</li>
+<li>prozore i prozračivanje, dnevno svjetlo</li>
+<li>krevete, stol, sjedenje i ormare za svaku osobu</li>
+<li>hladnjak, štednjak i sudoper</li>
+<li>stanje električnih i plinskih instalacija</li>
+<li>mogućnost odvojenih soba za muškarce i žene</li>
+</ul>
+<p>Sve nedostatke fotografirajte i upišite u zapisnik o primopredaji.</p>
+<h3>4. Hoće li najmodavac potpisati ugovor koji vam treba</h3>
+<p>Za radnika iz treće zemlje ugovor mora biti ovjeren kod javnog bilježnika ili Porezne uprave i sadržavati iznos najamnine, površinu i broj osoba koje već borave u prostoru. Prije plaćanja pologa pitajte najmodavca pristaje li na to. Odbijanje ovjere znak je da ugovor neće poslužiti kao dokaz.</p>
+<p>Dogovorite i odvojeno iskazivanje najamnine i režija, polog, popis inventara i otkazni rok.</p>
+<h3>5. Mogu li radnici prijaviti boravište</h3>
+<ul>
+<li>Adresa mora biti evidentirana u registru prostornih jedinica.</li>
+<li>Najmodavac treba pristati na prijavu boravišta radnika.</li>
+<li>Radnik iz treće zemlje boravište prijavljuje u roku od 15 dana od ulaska u Hrvatsku ili promjene adrese.</li>
+</ul>
+<h2>Smještaj za radnike Zagreb i drugi veći gradovi</h2>
+<p>U većim gradovima najčešće se nude stanovi u višestambenim zgradama. Kod njih je pravilo o suglasnosti suvlasnika i ograničenje od osam osoba po stanu važnije nego kod kuća. Ako vam treba smještaj za veću grupu, provjerite je li realno raspodijeliti radnike u više stanova umjesto jednog većeg.</p>
+<p>Pravila o kvadraturi i opremi ista su u cijeloj Hrvatskoj. Lokacija utječe na cijenu i dostupnost, ne na uvjete.</p>
+<h2>Kontrolni popis prije plaćanja pologa</h2>
+<ul>
+<li>Podaci o vlasniku usporedivi sa zemljišnom knjigom</li>
+<li>Suglasnost vlasnika ako oglas objavljuje najmoprimac</li>
+<li>Upis agencije u Registar posrednika, ako posreduje agencija</li>
+<li>Stvarna površina i broj osoba koje već žive na adresi</li>
+<li>Izračun najvećeg broja radnika</li>
+<li>Obilazak s fotografijama i popisom opreme</li>
+<li>Pristanak najmodavca na ovjeru ugovora s površinom i najamninom</li>
+<li>Suglasnost suvlasnika zgrade, ako je potrebna</li>
+<li>Pristanak na prijavu boravišta</li>
+<li>Nacrt ugovora pregledan prije uplate</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Plaćanje pologa na temelju fotografija.</strong> Nedostaci se otkriju tek pri useljenju.</li>
+<li><strong>Najam po krevetu bez uvida u ukupan broj stanara.</strong> Za radnike iz trećih zemalja u izračun ulaze sve osobe na adresi.</li>
+<li><strong>Pristanak na neovjereni ugovor.</strong> Ne može poslužiti kao dokaz o smještaju za dozvolu ili prijavu boravišta.</li>
+<li><strong>Ugovor s osobom koja nije vlasnik</strong> i nema suglasnost vlasnika.</li>
+<li><strong>Zanemarivanje suglasnosti suvlasnika zgrade</strong> kad dolazi veća grupa.</li>
+<li><strong>Uvjerenje da je adresa u redu jer netko tamo već živi.</strong> Prijava ovisi i o broju već prijavljenih osoba.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Mogu li unajmiti sobe za radnike umjesto cijelog stana?</h3>
+<p>Mogu, ali za radnike iz trećih zemalja pravilnik gleda cijeli prostor: ukupnu površinu i broj svih osoba koje u njemu borave. Zatražite podatak o broju osoba koje već žive na adresi.</p>
+<h3>Je li oglas na njuškalu dovoljan dokaz da je stan u redu?</h3>
+<p>Nije. Oglas nije isprava. Provjerite vlasništvo, stvarnu površinu, opremu i spremnost najmodavca na ovjeru ugovora.</p>
+<h3>Kako provjeriti agenciju iz oglasa?</h3>
+<p>Posrednici u prometu nekretnina upisuju se u javni Registar posrednika koji vodi Hrvatska gospodarska komora. S posrednikom se sklapa pisani ugovor o posredovanju.</p>
+<h3>Što ako najmodavac ne želi ovjeriti ugovor?</h3>
+<p>Za radnika iz treće zemlje takav ugovor ne vrijedi kao dokaz o primjerenom smještaju. U tom slučaju tražite drugi stan.</p>
+<h3>Koliko unaprijed tražiti smještaj za radnike?</h3>
+<p>Čim znate broj radnika i datum dolaska. U sezoni i u većim gradovima dobre ponude brzo nestaju, a prije potpisa treba ostaviti vrijeme za obilazak stana, provjeru najmodavca i dogovor oko ugovora. Polog nemojte plaćati dok te provjere nisu gotove.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Kad pronađete smještaj preko oglasa, provjerimo ga prije potpisa: dokumentaciju, površinu, broj osoba, opremu i nacrt ugovora. Nakon useljenja pomažemo s prijavom boravišta radnika. Smještaj ne tražimo umjesto vas i ne posredujemo u najmu. Više na stranici <a href="/admin-podrska-pregled/usluge/smjestaj-radnika/">smještaj za radnike</a>, a za konkretan oglas javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/full/2026_04_43_511.html">Pravilnik o izmjenama i dopunama Pravilnika o boravku državljana trećih zemalja u Republici Hrvatskoj, NN 43/2026</a></li>
+<li><a href="https://www.zakon.hr/z/142/zakon-o-strancima">Zakon o strancima, pročišćeni tekst (NN 133/20, 114/22, 151/22, 40/25, 55/26), zakon.hr</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/1996_10_91_1598.html">Zakon o najmu stanova, NN 91/1996</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_69_829.html">Zakon o posredovanju u prometu nekretnina, NN 69/2026</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Smještaj za radnike preko oglasa: što provjeriti prije potpisa\",\"description\":\"Tražim smještaj za radnike preko oglasa: što provjeriti prije potpisa, od vlasnika i kvadrature do broja osoba, opreme i dokumenata za prijavu boravišta.\",\"datePublished\":\"2027-06-28\",\"dateModified\":\"2027-06-28\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/smjestaj-radnika-oglasi/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Smještaj za radnike preko oglasa: što provjeriti prije potpisa"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Tražim smještaj za radnike preko oglasa: što provjeriti prije potpisa, od vlasnika i kvadrature do broja osoba, opreme i dokumenata za prijavu boravišta."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","28. lipnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"28. lipnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Smještaj radnika"}],["$","p",null,{"children":"Provjera uvjeta smještaja, ugovor o najmu i prijava boravišta radnika."}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Smještaj za radnike preko oglasa: što provjeriti prije potpisa"}],["$","meta","1",{"name":"description","content":"Tražim smještaj za radnike preko oglasa: što provjeriti prije potpisa, od vlasnika i kvadrature do broja osoba, opreme i dokumenata za prijavu boravišta."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/smjestaj-radnika-oglasi/"}],["$","meta","4",{"property":"og:title","content":"Smještaj za radnike preko oglasa: što provjeriti prije potpisa"}],["$","meta","5",{"property":"og:description","content":"Tražim smještaj za radnike preko oglasa: što provjeriti prije potpisa, od vlasnika i kvadrature do broja osoba, opreme i dokumenata za prijavu boravišta."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/smjestaj-radnika-oglasi/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-06-28"}],["$","meta","13",{"property":"article:modified_time","content":"2027-06-28"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Smještaj za radnike preko oglasa: što provjeriti prije potpisa"}],["$","meta","16",{"name":"twitter:description","content":"Tražim smještaj za radnike preko oglasa: što provjeriti prije potpisa, od vlasnika i kvadrature do broja osoba, opreme i dokumenata za prijavu boravišta."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

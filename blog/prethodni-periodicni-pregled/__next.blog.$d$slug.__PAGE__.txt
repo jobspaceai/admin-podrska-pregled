@@ -1,0 +1,191 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T26c3,<p>Prethodni liječnički pregled obavlja se prije nego što radnik počne raditi na poslovima s posebnim uvjetima rada, ili prije nego što ga premjestite na takve poslove. Periodični pregled ponavlja se nakon toga, prije isteka roka propisanog za tu vrstu posla. Rokovi u pravilniku su 12, 24 ili 48 mjeseci, a teku od datuma upisanog na zadnjem uvjerenju.</p>
+<p>Oba pregleda obavlja specijalist medicine rada na temelju uputnice RA-1 poslodavca. Rokove propisuje Pravilnik o poslovima s posebnim uvjetima rada (NN 5/84), koji se i dalje primjenjuje.</p>
+<h2>Što je prethodni liječnički pregled</h2>
+<p>Prethodni pregled obavlja se:</p>
+<ul>
+<li>prije početka rada na poslovima s posebnim uvjetima rada</li>
+<li>prije premještaja radnika na radno mjesto koje uključuje takve poslove</li>
+<li>kad se uvjeti rada na postojećem radnom mjestu promijene tako da ono postane radno mjesto s takvim poslovima</li>
+</ul>
+<p>Zakon o zaštiti na radu (članak 36.) zabranjuje da poslove s posebnim uvjetima rada obavlja radnik koji ne ispunjava propisane uvjete. Dogovoren termin zato nije dovoljan, potrebno je uvjerenje o zdravstvenoj sposobnosti.</p>
+<h2>Što je periodični liječnički pregled</h2>
+<p>Periodičnim pregledom provjerava se jesu li se kod radnika pojavila zdravstvena oštećenja zbog kojih više ne može obavljati iste poslove. Poslodavac je obvezan radnika ponovno uputiti na pregled prije isteka propisanog roka ili ranije, kad to ocijeni specijalist medicine rada.</p>
+<p>Ako radnika ne uputite na vrijeme ili on odbije pristupiti pregledu, ne smijete mu dopustiti da nastavi raditi na poslovima s posebnim uvjetima rada (članak 36. stavak 4. Zakona o zaštiti na radu).</p>
+<p>Prema odluci HZZO-a o specifičnoj zdravstvenoj zaštiti, periodičnim se smatra pregled obavljen u propisanom roku ili najviše 30 dana prije njegova isteka. Ako zadnji dan roka pada na blagdan, nedjelju ili dan kad ordinacija ne radi, pregled obavljen prvog sljedećeg radnog dana smatra se obavljenim u roku.</p>
+<h2>Razlika ukratko</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Prethodni pregled</th>
+<th>Periodični pregled</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kada</td>
+<td>prije početka rada ili premještaja</td>
+<td>prije isteka roka iz uvjerenja</td>
+</tr>
+<tr>
+<td>Svrha</td>
+<td>ispunjava li radnik uvjete za posao</td>
+<td>ispunjava li ih i dalje</td>
+</tr>
+<tr>
+<td>Tko plaća</td>
+<td>poslodavac, uz mogući povrat od HZZO-a</td>
+<td>HZZO, uz uvjete iz njegove odluke</td>
+</tr>
+<tr>
+<td>Posljedica propusta</td>
+<td>radnik ne smije početi raditi na tim poslovima</td>
+<td>radnik ne smije nastaviti raditi na tim poslovima</td>
+</tr>
+</tbody>
+</table>
+<p>Pregled izvan propisanih rokova, na koji radnika uputi poslodavac, HZZO smatra izvanrednim i njegov trošak ne pokriva.</p>
+<h2>Rokovi periodičnih pregleda po vrsti posla</h2>
+<p>Rokovi su u prilogu Pravilnika o poslovima s posebnim uvjetima rada, za dio poslova i posebno za psihičku sposobnost. Primjeri:</p>
+<table>
+<thead>
+<tr>
+<th>Posao</th>
+<th>Zdravstveno stanje</th>
+<th>Psihička sposobnost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rukovanje strojevima na kojima se ne može primijeniti zaštita od mehaničkih opasnosti</td>
+<td>48 mjeseci</td>
+<td>48 mjeseci</td>
+</tr>
+<tr>
+<td>Upravljanje samohodnim strojevima (bager, utovarivač, grejder)</td>
+<td>24 mjeseca</td>
+<td>48 mjeseci</td>
+</tr>
+<tr>
+<td>Upravljanje dizalicama</td>
+<td>24 mjeseca</td>
+<td>48 mjeseci</td>
+</tr>
+<tr>
+<td>Električne instalacije i postrojenja napona iznad 250 V</td>
+<td>48 mjeseci</td>
+<td>48 mjeseci</td>
+</tr>
+<tr>
+<td>Podizanje skela, postavljanje oplata i ograda</td>
+<td>24 mjeseca</td>
+<td>nije propisano</td>
+</tr>
+<tr>
+<td>Teško fizičko naprezanje (teret teži od 25 kg za muškarce, 15 kg za žene)</td>
+<td>24 mjeseca</td>
+<td>nije propisano</td>
+</tr>
+<tr>
+<td>Rad na visini iznad 3 m uz povećanu opasnost od pada</td>
+<td>12 mjeseci</td>
+<td>nije propisano</td>
+</tr>
+<tr>
+<td>Rad u buci iznad 90 dB</td>
+<td>24 mjeseca</td>
+<td>nije propisano</td>
+</tr>
+<tr>
+<td>Rad s vibracijama i potresanjem</td>
+<td>12 mjeseci</td>
+<td>nije propisano</td>
+</tr>
+<tr>
+<td>Izloženost nefibrogenim prašinama (drvo, cement, metal)</td>
+<td>24 mjeseca</td>
+<td>nije propisano</td>
+</tr>
+<tr>
+<td>Izloženost biološkim agensima</td>
+<td>24 mjeseca</td>
+<td>nije propisano</td>
+</tr>
+</tbody>
+</table>
+<p>Za rad u nepovoljnoj mikroklimi rok je 24 mjeseca ako je mikroklima izvan standarda, a 12 mjeseci ako je izvan fizioloških granica.</p>
+<p>Drugi propisi mogu odrediti vlastite rokove za svoje poslove. Za noćne radnike koji ne rade na poslovima s posebnim uvjetima rada pregled se ponavlja najkasnije svake tri godine neprekinutog noćnog rada, prema Pravilniku o sadržaju, načinu i rokovima zdravstvenih pregleda noćnih radnika (NN 32/15).</p>
+<h2>Koliko vrijedi liječnički pregled za posao</h2>
+<p>Ne postoji jedan rok za sve. Uvjerenje o zdravstvenoj sposobnosti (obrazac RA-2) sadrži datum do kojeg treba obaviti sljedeću provjeru, a rok teče od datuma na zadnjoj ispravi o sposobnosti. Radnik koji obavlja više poslova s posebnim uvjetima rada mora ispunjavati uvjete za svaki od njih, pa pratite svaki rok posebno.</p>
+<h2>Treba li novi pregled kod promjene radnog mjesta ili poslodavca</h2>
+<h3>Promjena radnog mjesta kod istog poslodavca</h3>
+<p>Novi pregled treba kad radnika premještate na poslove s posebnim uvjetima rada ili kad se uvjeti rada promijene tako da mogu utjecati na njegovu zdravstvenu sposobnost. Uvjerenje vrijedi za poslove navedene u njemu, pa ne pokriva nove rizike, primjerice rad na visini umjesto rada u buci.</p>
+<h3>Promjena poslodavca</h3>
+<p>Zakon o zaštiti na radu nalaže poslodavcu da osobu s kojom namjerava sklopiti ugovor o radu za poslove s posebnim uvjetima rada uputi na pregled. Uvjerenje kod prethodnog poslodavca izdano je na temelju tuđe uputnice i tuđe procjene rizika. U propisima koje smo pregledali nismo našli odredbu koja izričito uređuje može li ga novi poslodavac preuzeti. Zato radnika uputite na prethodni pregled, a nedoumice riješite sa svojim specijalistom medicine rada.</p>
+<h2>Kontrolni popis</h2>
+<ol>
+<li>Iz procjene rizika izdvojite radnike na poslovima s posebnim uvjetima rada.</li>
+<li>Za svakog radnika upišite poslove, datum zadnjeg uvjerenja i rok sljedećeg pregleda.</li>
+<li>Novog radnika pošaljite na prethodni pregled prije prvog dana na tim poslovima.</li>
+<li>Periodični pregled naručite tako da bude obavljen u zadnjih 30 dana prije isteka roka.</li>
+<li>Kod premještaja ili promjene uvjeta rada izdajte novu uputnicu s novim opisom poslova.</li>
+<li>Uvjerenja čuvajte tako da budu dostupna radniku na mjestu rada.</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ul>
+<li>Radnik počne raditi s dogovorenim terminom umjesto s obavljenim pregledom.</li>
+<li>Isti rok primijeni se na sve radnike, iako se rokovi razlikuju po vrsti posla.</li>
+<li>Periodični pregled obavi se mnogo ranije od roka, pa ga HZZO ne tretira kao periodični.</li>
+<li>Kod premještaja na drugo radno mjesto ne traži se novi pregled.</li>
+<li>Novi poslodavac bez provjere prihvati uvjerenje izdano za drugog poslodavca i druge poslove.</li>
+<li>Rok za psihičku sposobnost ne prati se odvojeno od roka za zdravstveno stanje.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Koliko vrijedi liječnički pregled za posao?</h3>
+<p>Do datuma upisanog u uvjerenju za tu vrstu posla. Prema pravilniku to je 12, 24 ili 48 mjeseci, ovisno o poslu, a specijalist može odrediti i raniji pregled.</p>
+<h3>Smije li radnik raditi dok čeka termin za prethodni liječnički pregled?</h3>
+<p>Na poslovima s posebnim uvjetima rada ne smije. Do dobivanja uvjerenja može obavljati samo poslove za koje pregled nije obvezan.</p>
+<h3>Što ako periodični pregled istekne dok je radnik na bolovanju?</h3>
+<p>HZZO u obavijesti poslodavcima navodi da radnik koji iz opravdanih razloga, primjerice zbog bolovanja ili rodiljnog dopusta, nije mogao obaviti periodični pregled u roku, pregled obavlja nakon prestanka tih okolnosti, ali prije povratka na poslove s posebnim uvjetima rada.</p>
+<h3>Tko plaća periodični liječnički pregled?</h3>
+<p>Prethodni i periodični pregledi ne smiju biti na trošak radnika. Periodični pregled obavljen u roku plaća HZZO, a prethodni plaća poslodavac, uz pravo na povrat od HZZO-a pod uvjetima iz njegove odluke.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Vodimo evidenciju rokova za svakog radnika, javljamo se prije isteka roka i organiziramo prethodne i periodične preglede, uključujući preglede kod premještaja. Pogledajte stranicu <a href="/admin-podrska-pregled/usluge/medicina-rada/">medicina rada i liječnički pregledi</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://uznr.mrms.hr/wp-content/uploads/propisi2/nacionalni/znr013.pdf">Pravilnik o poslovima s posebnim uvjetima rada, NN 5/84</a></li>
+<li><a href="https://www.zakon.hr/z/167/zakon-o-zastiti-na-radu">Zakon o zaštiti na radu, NN 71/14, 118/14, 154/14, 94/18, 96/18</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2010_06_70_2127.html">Pravilnik o poslovima na kojima radnik može raditi samo nakon prethodnog i redovnog utvrđivanja zdravstvene sposobnosti, NN 70/10</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2015_03_32_669.html">Pravilnik o sadržaju, načinu i rokovima zdravstvenih pregleda noćnih radnika, NN 32/15</a></li>
+<li><a href="https://hzzo.hr/ozljede-na-radu-i-profesionalne-bolesti-specificna-zdravstvena-zastita/5-obavijesti-poslodavcima">HZZO: obavijesti poslodavcima (prethodni i periodični pregledi)</a></li>
+<li><a href="https://hzzo.hr/ozljede-na-radu-i-profesionalne-bolesti-specificna-zdravstvena-zastita/3-popis-propisa-iz-zastite">HZZO: Odluka o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Prethodni i periodični liječnički pregled: razlika i rokovi\",\"description\":\"Prethodni liječnički pregled obavlja se prije početka rada, a periodični u roku iz pravilnika. Rokovi po vrsti posla i što kod promjene radnog mjesta.\",\"datePublished\":\"2027-08-09\",\"dateModified\":\"2027-08-09\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/prethodni-periodicni-pregled/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Prethodni i periodični liječnički pregled: razlika i rokovi"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Prethodni liječnički pregled obavlja se prije početka rada, a periodični u roku iz pravilnika. Rokovi po vrsti posla i što kod promjene radnog mjesta."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","9. kolovoza 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"9. kolovoza 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Medicina rada i liječnički pregledi"}],["$","p",null,{"children":"Organizacija prethodnih i periodičnih pregleda, uputnice i praćenje rokova za sve radnike."}],["$","$L2",null,{"href":"/usluge/medicina-rada/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Prethodni i periodični liječnički pregled: razlika i rokovi"}],["$","meta","1",{"name":"description","content":"Prethodni liječnički pregled obavlja se prije početka rada, a periodični u roku iz pravilnika. Rokovi po vrsti posla i što kod promjene radnog mjesta."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/prethodni-periodicni-pregled/"}],["$","meta","4",{"property":"og:title","content":"Prethodni i periodični liječnički pregled: razlika i rokovi"}],["$","meta","5",{"property":"og:description","content":"Prethodni liječnički pregled obavlja se prije početka rada, a periodični u roku iz pravilnika. Rokovi po vrsti posla i što kod promjene radnog mjesta."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/prethodni-periodicni-pregled/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-08-09"}],["$","meta","13",{"property":"article:modified_time","content":"2027-08-09"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Prethodni i periodični liječnički pregled: razlika i rokovi"}],["$","meta","16",{"name":"twitter:description","content":"Prethodni liječnički pregled obavlja se prije početka rada, a periodični u roku iz pravilnika. Rokovi po vrsti posla i što kod promjene radnog mjesta."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

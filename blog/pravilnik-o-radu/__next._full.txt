@@ -1,0 +1,158 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","pravilnik-o-radu",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","pravilnik-o-radu","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+13:null
+17:[["$","title","0",{"children":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","1",{"name":"description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/pravilnik-o-radu/"}],["$","meta","4",{"property":"og:title","content":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","5",{"property":"og:description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/pravilnik-o-radu/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-01-11"}],["$","meta","13",{"property":"article:modified_time","content":"2027-01-11"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","16",{"name":"twitter:description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]
+19:T3417,<p>Pravilnik o radu mora donijeti i objaviti poslodavac koji zapošljava najmanje 20 radnika. Njime uređuje plaće, organizaciju rada, postupak i mjere za zaštitu dostojanstva radnika, mjere zaštite od diskriminacije i druga pitanja važna za radnike, ako ta pitanja nisu uređena kolektivnim ugovorom.</p>
+<p>Pravilnik ne stupa na snagu samim potpisom. Ako kod poslodavca djeluje radničko vijeće, poslodavac se s njim prethodno mora savjetovati. Pravilnik mora imati naznačen dan stupanja na snagu, a na snagu ne može stupiti prije isteka osam dana od objave.</p>
+<p>U nastavku je sve što trebate znati prije nego što pravilnik izradite, izmijenite ili ga pokažete inspektoru rada.</p>
+<h2>Što je pravilnik o radu</h2>
+<p>Pravilnik o radu je opći akt poslodavca. Uređuje pitanja koja vrijede za sve radnike ili za pojedine skupine radnika, tako da ih ne morate posebno ugovarati u svakom ugovoru o radu.</p>
+<p>Poslodavac može donijeti jedan pravilnik za sve radnike ili posebne pravilnike za pojedina poduzeća, dijelove poduzeća ili skupine radnika.</p>
+<p>Pravilnik nije isto što i kolektivni ugovor. Kolektivni ugovor sklapaju poslodavac ili udruga poslodavaca i sindikat. Pravilnik donosi poslodavac sam, uz sudjelovanje radničkog vijeća kad ono postoji. Obveza iz članka 26. Zakona o radu odnosi se na pitanja koja nisu uređena kolektivnim ugovorom.</p>
+<h2>Kada poslodavac mora imati pravilnik o radu</h2>
+<p>Prag je jasan: <strong>najmanje 20 radnika</strong>. Poslodavac s 20 ili više radnika dužan je donijeti i objaviti pravilnik o radu.</p>
+<p>Na isti prag vežu se i neke druge obveze iz Zakona o radu, pa ih je praktično uskladiti istodobno:</p>
+<ul>
+<li>imenovanje osobe koja uz poslodavca prima i rješava pritužbe vezane uz zaštitu dostojanstva radnika (kod više od 75 radnika dvije osobe različitog spola)</li>
+<li>imenovanje osobe koja uživa povjerenje radnika i nadzire obradu osobnih podataka radnika</li>
+<li>utvrđivanje osnova i mjerila za isplatu plaće pravilnikom o radu, ako nisu uređeni kolektivnim ugovorom</li>
+<li>pravo radnika na sudjelovanje u odlučivanju i na izbor radničkog vijeća</li>
+</ul>
+<p>Kada broj radnika dosegne 20, nemojte čekati nadzor. Pravilnik se ne može donijeti preko noći, jer savjetovanje s radničkim vijećem i rok od osam dana od objave traju.</p>
+<h3>Što ako imate manje od 20 radnika</h3>
+<p>Zakon vas ne obvezuje na pravilnik o radu. Pitanja koja bi inače uredio pravilnik tada uređujete ugovorom o radu. Primjerice, poslodavac koji nije obvezan donijeti pravilnik mora osnove i mjerila za isplatu plaće ugovoriti ugovorom o radu.</p>
+<p>Zakon manjim poslodavcima ne zabranjuje donošenje pravilnika. Pravilnik može olakšati vođenje, jer se u ugovoru o radu za pojedine podatke smije uputiti na pravilnik.</p>
+<h2>Što pravilnik o radu mora sadržavati</h2>
+<p>Zakon o radu izričito navodi četiri skupine pitanja:</p>
+<ol>
+<li><strong>plaće</strong>, uključujući osnove i mjerila za isplatu plaće</li>
+<li><strong>organizaciju rada</strong></li>
+<li><strong>postupak i mjere za zaštitu dostojanstva radnika</strong> od uznemiravanja i spolnog uznemiravanja</li>
+<li><strong>mjere zaštite od diskriminacije</strong></li>
+</ol>
+<p>Uz to, pravilnik uređuje „druga pitanja važna za radnike" zaposlene kod tog poslodavca. Zakon o radu na više mjesta upućuje na pravilnik kao akt u kojem se neko pitanje može ili mora urediti.</p>
+<h3>Pitanja koja pravilnik mora urediti ako se primjenjuju</h3>
+<ul>
+<li><strong>Osobni podaci radnika:</strong> ako ih je potrebno prikupljati, obrađivati, koristiti ili dostavljati trećima radi prava i obveza iz radnog odnosa, poslodavac pravilnikom mora unaprijed odrediti koje će podatke u tu svrhu obrađivati.</li>
+<li><strong>Plaća:</strong> osnove i mjerila za isplatu plaće, ako nisu uređeni kolektivnim ugovorom. Osnove i mjerila ne mogu biti poslovna tajna.</li>
+<li><strong>Pripravnici:</strong> način osposobljavanja pripravnika mora biti propisan pravilnikom o radu ili određen ugovorom o radu.</li>
+</ul>
+<h3>Pitanja koja se pravilnikom mogu urediti</h3>
+<p>Zakon dopušta da se pravilnikom, uz kolektivni ugovor ili ugovor o radu, urede i:</p>
+<ul>
+<li>raspored radnog vremena</li>
+<li>trajanje godišnjeg odmora duže od zakonskog minimuma i raspored korištenja godišnjeg odmora</li>
+<li>plaćeni dopust, ako se uređuje drukčije od zakonskih sedam radnih dana</li>
+<li>povećana plaća za otežane uvjete rada, prekovremeni i noćni rad te rad nedjeljom i blagdanom</li>
+<li>naknade plaće za razdoblja u kojima radnik opravdano ne radi</li>
+<li>materijalna prava poput jubilarne nagrade, regresa i božićnice</li>
+<li>ukupni iznos otpremnine veći od zakonske gornje granice</li>
+<li>način dostave odluka o otkazu i drugih pismena radnicima</li>
+<li>postupak mirnog rješavanja sporova</li>
+</ul>
+<p>Ako je neko pravo različito uređeno ugovorom o radu, pravilnikom, kolektivnim ugovorom ili zakonom, primjenjuje se za radnika najpovoljnije pravo, osim ako zakonom nije drukčije određeno.</p>
+<h2>Pravilnik o radu primjer: zašto predložak nije dovoljan</h2>
+<p>Mnogi poslodavci krenu od gotovog primjera pravilnika o radu. Kao popis tema to je korisno. Problem nastaje kad pravilnik ostane nepromijenjen predložak:</p>
+<ul>
+<li>opisuje radno vrijeme i organizaciju koju nemate</li>
+<li>osnove i mjerila plaće ne odgovaraju onome što stvarno isplaćujete</li>
+<li>navodi prava veća od zakonskih koja niste namjeravali dati, a radnici ih mogu tražiti</li>
+<li>sadrži odredbe starijih verzija Zakona o radu</li>
+</ul>
+<p>Pravilnik je akt koji obvezuje vas. Ono što u njemu piše radnici mogu tražiti, a inspektor provjeravati. Zato svaku odredbu uskladite sa stvarnim radom i s ugovorima o radu.</p>
+<h2>Postupak donošenja i objave pravilnika o radu</h2>
+<h3>1. Izradite nacrt</h3>
+<p>Pripremite nacrt koji pokriva obvezne teme i vaša stvarna pravila. Provjerite je li neko pitanje već uređeno kolektivnim ugovorom koji se na vas primjenjuje.</p>
+<h3>2. Savjetujte se s radničkim vijećem</h3>
+<p>Donošenje pravilnika o radu zakon navodi kao važnu odluku o kojoj se poslodavac mora savjetovati s radničkim vijećem. Poslodavac mora radničkom vijeću dostaviti nacrt i podatke važne za odluku, potpuno i pravodobno.</p>
+<p>Ako sporazumom s radničkim vijećem nije drukčije određeno, radničko vijeće ima <strong>osam dana</strong> za očitovanje. Ako se ne očituje, smatra se da nema primjedbi. Na zahtjev radničkog vijeća poslodavac prije konačnog očitovanja mora omogućiti sastanak radi dodatnih odgovora i obrazloženja.</p>
+<p>Odluka donesena protivno odredbama o obvezi savjetovanja ništetna je. Ako kod poslodavca nije utemeljeno radničko vijeće, njegova prava i obveze u pravilu preuzima sindikalni povjerenik.</p>
+<p>Posebno pripazite na odredbe o osobnim podacima radnika. Odluku o prikupljanju, obrađivanju, korištenju i dostavljanju trećima podataka o radniku, kao i imenovanje osobe koja nadzire obradu tih podataka, poslodavac prema članku 151. Zakona o radu može donijeti samo uz prethodnu suglasnost radničkog vijeća.</p>
+<h3>3. Odredite dan stupanja na snagu</h3>
+<p>U pravilniku mora biti naznačen dan stupanja na snagu. Pravilnik ne može stupiti na snagu prije isteka osam dana od dana objave.</p>
+<h3>4. Objavite pravilnik</h3>
+<p>Način objave propisuje Pravilnik o načinu objave pravilnika o radu:</p>
+<ul>
+<li>pravilnik mora biti dostupan radnicima na uvid i izložen na vidljivom mjestu u prostorijama u kojima redovito borave tijekom radnog dana</li>
+<li>može se učiniti dostupnim i objavom na internim mrežnim stranicama, a na zahtjev radnika i dostavom elektroničkom poštom</li>
+<li>posebni pravilnici moraju biti dostupni radnicima na koje se odnose, na vidljivom mjestu u prostorijama u kojima ti radnici borave</li>
+<li>na zahtjev i o trošku radnika poslodavac mora omogućiti izradu preslike</li>
+<li>ako iz opravdanih razloga objava na propisani način nije moguća, poslodavac odmah po donošenju pisanom obavijesti na vidljivom mjestu ili preko voditelja skupine obavještava radnike i određuje osobu kod koje pravilnik mogu dobiti na uvid</li>
+</ul>
+<p>Sačuvajte dokaz o danu objave. Od tog dana računate rok od osam dana.</p>
+<h3>5. Primjenjujte i ažurirajte</h3>
+<p>Pravilnik se mijenja i dopunjuje na isti način na koji se donosi, dakle ponovno uz savjetovanje s radničkim vijećem i objavu. Kad se promijeni Zakon o radu, provjerite treba li uskladiti i pravilnik. Uz izmjene Zakona o radu koje su stupile na snagu 1. siječnja 2023. poslodavci su, primjerice, imali zakonsku obvezu uskladiti pravilnike u roku od šest mjeseci.</p>
+<p>Radničko vijeće može od nadležnog suda tražiti da nezakoniti pravilnik ili pojedine njegove odredbe oglasi ništetnima.</p>
+<h2>Kontrolni popis za pravilnik o radu</h2>
+<ul>
+<li>utvrđen broj radnika i je li dosegnut prag od 20</li>
+<li>provjereno što je već uređeno kolektivnim ugovorom</li>
+<li>uređene plaće, uključujući osnove i mjerila za isplatu</li>
+<li>uređena organizacija rada</li>
+<li>uređen postupak i mjere zaštite dostojanstva radnika</li>
+<li>uređene mjere zaštite od diskriminacije</li>
+<li>određeni osobni podaci radnika koji se obrađuju</li>
+<li>imenovane osobe za zaštitu dostojanstva i za nadzor obrade osobnih podataka</li>
+<li>provedeno savjetovanje s radničkim vijećem i, gdje treba, pribavljena suglasnost</li>
+<li>naznačen dan stupanja na snagu, najranije osmi dan nakon objave</li>
+<li>pravilnik objavljen na propisani način i sačuvan dokaz o objavi</li>
+<li>ugovori o radu usklađeni s pravilnikom</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ol>
+<li><strong>Pravilnika nema, a poslodavac ima 20 ili više radnika.</strong> Inspektor rada može u nadzoru narediti da se pravilnik donese i objavi ili da se njime urede obvezna pitanja.</li>
+<li><strong>Preskočeno savjetovanje s radničkim vijećem.</strong> Odluka donesena protivno obvezi savjetovanja ništetna je.</li>
+<li><strong>Pravilnik stupa na snagu na dan donošenja.</strong> Zakon traži najmanje osam dana od objave.</li>
+<li><strong>Pravilnik je potpisan, ali nije objavljen.</strong> Radnici ga ne mogu vidjeti, a poslodavac ne može dokazati kada je objavljen.</li>
+<li><strong>Nepromijenjeni predložak.</strong> Odredbe ne odgovaraju stvarnoj organizaciji rada i plaćama.</li>
+<li><strong>Nedostaju obvezna pitanja.</strong> Najčešće zaštita dostojanstva, osnove i mjerila plaće ili odredbe o osobnim podacima.</li>
+<li><strong>Pravilnik nije usklađen s izmjenama zakona.</strong> Stari tekst ostaje na oglasnoj ploči godinama.</li>
+</ol>
+<h2>Česta pitanja</h2>
+<h3>Računaju li se u 20 radnika i radnici na određeno vrijeme i s nepunim radnim vremenom?</h3>
+<p>Zakon govori o poslodavcu koji „zapošljava najmanje dvadeset radnika" i u tom članku ne razlikuje vrste ugovora. Ako ste blizu praga, stanje procijenite s pravnim stručnjakom i radije ranije pripremite pravilnik.</p>
+<h3>Mora li pravilnik o radu imati poslodavac koji ima kolektivni ugovor?</h3>
+<p>Obveza se odnosi na pitanja koja nisu uređena kolektivnim ugovorom. Ako kolektivni ugovor ne uređuje sva pitanja iz članka 26. Zakona o radu, preostala treba urediti pravilnikom.</p>
+<h3>Treba li radnik potpisati pravilnik o radu?</h3>
+<p>Zakon ne traži potpis radnika na pravilniku. Traži da pravilnik bude objavljen i dostupan radnicima. Prije stupanja na rad poslodavac mora omogućiti radniku da se upozna s propisima u vezi s radnim odnosima.</p>
+<h3>Što ako nemamo radničko vijeće?</h3>
+<p>Ako radničko vijeće nije utemeljeno, njegova prava i obveze u pravilu preuzima sindikalni povjerenik. Ako nema ni radničkog vijeća ni sindikalnog povjerenika, provjerite sa stručnjakom kako dokumentirati postupak donošenja.</p>
+<h3>Koje su obveze poslodavca prema pravilniku nakon donošenja?</h3>
+<p>Poslodavac mora pravilnik učiniti dostupnim radnicima, primjenjivati ga i mijenjati istim postupkom kojim ga je donio. Ako je neko pravo u ugovoru o radu povoljnije za radnika, primjenjuje se povoljnije pravo.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Pomažemo pripremiti nacrt pravilnika prema vašoj stvarnoj organizaciji rada, dopis radničkom vijeću, objavu i usklađivanje ugovora o radu s pravilnikom. Pravno mišljenje o pojedinim odredbama i sporovima prepuštamo odvjetniku. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23, pročišćeni tekst (zakon.hr)</a>, članci 8., 9., 15., 26., 27., 29., 56., 77., 85., 86., 90.b, 94., 95., 126., 132., 133., 134., 140., 150., 151., 153. i 226.; prijelazna odredba članka 65. Zakona o izmjenama i dopunama Zakona o radu, NN 151/22</li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_93_1872.html">Zakon o radu, NN 93/14, izvorni tekst (narodne-novine.nn.hr)</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_146_2734.html">Pravilnik o načinu objave pravilnika o radu, NN 146/14 (narodne-novine.nn.hr)</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži\",\"description\":\"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe.\",\"datePublished\":\"2027-01-11\",\"dateModified\":\"2027-01-11\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/pravilnik-o-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","11. siječnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}],"$L1b"]}]}]]
+1a:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"11. siječnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1b:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Radni odnos i kadrovska administracija"}],["$","p",null,{"children":"Ugovori, prijave i odjave, evidencije radnog vremena i godišnjih odmora, prestanak radnog odnosa."}],["$","$L2",null,{"href":"/usluge/radni-odnos/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]

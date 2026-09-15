@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","sanitarni-pregled",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","sanitarni-pregled","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:T271f,<p>Sanitarni pregled mora obaviti svatko tko na radnom mjestu dolazi u neposredan dodir s hranom ili vodom za ljudsku potrošnju, s kozmetičkim proizvodima, s dojenčadi i predškolskom djecom, radi na porođajnim i dječjim odjelima ili pruža usluge higijenske njege (frizeri, kozmetičari, maseri i slično). Obvezu propisuje Zakon o zaštiti pučanstva od zaraznih bolesti.</p>
+<p>Pregled se obavlja prije početka rada i zatim jednom godišnje, u zavodu za javno zdravstvo. Rezultati se upisuju u sanitarnu iskaznicu, koju mnogi i danas zovu sanitarna knjižica. Za rad s hranom uz pregled je obvezan i tečaj o zdravstvenoj ispravnosti hrane i osobnoj higijeni.</p>
+<h2>Tko mora na sanitarni pregled</h2>
+<p>Zakon o zaštiti pučanstva od zaraznih bolesti (članak 26.) određuje da se zdravstveni nadzor provodi nad osobama:</p>
+<ol>
+<li>koje sudjeluju u proizvodnji, prometu i usluživanju hrane ili opskrbi vodom za ljudsku potrošnju, a na radnom mjestu dolaze u neposredan dodir s hranom ili vodom</li>
+<li>koje sudjeluju u proizvodnji i prometu kozmetičkih proizvoda i dolaze u neposredan dodir s njima</li>
+<li>koje rade na smještaju, njezi i odgoju dojenčadi i predškolske djece</li>
+<li>koje rade na porođajnim i dječjim odjelima zdravstvenih ustanova</li>
+<li>koje pružaju higijensku njegu (javna kupališta, wellness centri, kozmetički saloni, brijačnice, frizerski saloni, saloni za masažu, manikuru i pedikuru) te koje rade na unošenju boja i stranih tijela u kožu i sluznice</li>
+</ol>
+<h3>Tko ne mora</h3>
+<p>Zdravstvenom nadzoru ne podliježu osobe u proizvodnji i prometu hrane ili kozmetike koje tijekom rada dolaze u dodir isključivo sa zapakiranim proizvodima (članak 26. stavak 2.).</p>
+<p>Neposredan dodir s hranom postoji i kad je hrana zapakirana, ali se pakovina zbog potrošača djelomično ili potpuno skida (članak 27.).</p>
+<h2>Koliko često se obavlja sanitarni pregled</h2>
+<p>Zakon (članak 28.) propisuje:</p>
+<ul>
+<li><strong>prije stupanja u radni odnos:</strong> pregled prije početka rada</li>
+<li><strong>rad s hranom i vodom:</strong> povremeni pregled na kliconoštvo svakih godinu dana, a ostali zdravstveni pregledi jednom godišnje</li>
+<li><strong>kozmetika, djeca, porođajni i dječji odjeli, higijenska njega:</strong> povremeni pregled jednom godišnje</li>
+<li><strong>izvanredno:</strong> kad se zarazna bolest pojavi na radnom mjestu ili u kućanstvu radnika, ili kad za to postoje epidemiološke indikacije, na prijedlog sanitarnog inspektora ili liječnika</li>
+</ul>
+<h2>Od čega se sastoji pregled</h2>
+<p>Pravilnik o načinu obavljanja zdravstvenih pregleda osoba pod zdravstvenim nadzorom (NN 116/18) za rad s hranom i vodom (članak 2.) propisuje:</p>
+<ul>
+<li>specijalistički pregled na zarazne bolesti s epidemiološkom anketom, pregledom kože, vlasišta i vidljivih sluznica te auskultacijom pluća</li>
+<li>bakteriološki pregled stolice na salmonele, EHEC i šigele</li>
+<li>parazitološki pregled stolice ili analnog otiska</li>
+<li>upućivanje na pulmološku obradu ako se posumnja na tuberkulozu</li>
+</ul>
+<p>Za kozmetiku i higijensku njegu pregled ne uključuje obvezni pregled stolice, a za rad s djecom uključuje (članci 4. do 7.). Povremeni pregled ima isti sadržaj kao pregled prije početka rada.</p>
+<h2>Tko obavlja pregled i gdje je sanitarna iskaznica</h2>
+<p>Preglede obavljaju higijensko-epidemiološke jedinice zavoda za javno zdravstvo županija i Grada Zagreba te Hrvatski zavod za javno zdravstvo (Pravilnik NN 116/18, članak 12.). Ne obavlja ih specijalist medicine rada, pa sanitarni pregled ne zamjenjuje pregled za poslove s posebnim uvjetima rada, i obrnuto.</p>
+<p>Rezultati se upisuju u sanitarnu iskaznicu, a iskaznica se čuva kod poslodavca kod kojeg pregledana osoba radi (članak 13.).</p>
+<h2>Obvezna edukacija uz sanitarni pregled</h2>
+<p>Osobe koje na radnom mjestu dolaze u dodir s hranom te osobe koje pripremaju i serviraju hranu moraju imati potrebna znanja o zdravstvenoj ispravnosti hrane i osobnoj higijeni <strong>prije početka rada</strong> i obnavljati ih <strong>svakih 5 godina</strong> (zakon, članak 37.). U praksi se taj tečaj često zove higijenski minimum.</p>
+<p>Pravilnik o načinu i programu stjecanja potrebnog znanja o zdravstvenoj ispravnosti hrane (NN 116/18, 9/20) određuje:</p>
+<ul>
+<li>tečaj provode zavodi za javno zdravstvo, a znanje se provjerava pred ispitnom komisijom</li>
+<li>nakon uspješne provjere zavod izdaje potvrdu, a radnik je mora imati prije početka rada</li>
+<li><strong>osnovni program</strong> vrijedi, među ostalim, za ugostiteljske objekte u kojima se pripremaju i poslužuju pića i topli napitci, trgovine hrane koja nije lako kvarljiva, kioske, mesnice i ribarnice</li>
+<li><strong>prošireni program</strong> traje 15 nastavnih sati i vrijedi za sve ostale koji rade s hranom</li>
+<li>za sezonske radnike prošireni program provodi se putem odobrenih edukativnih materijala</li>
+<li>osobe sa završenim srednjoškolskim strukovnim obrazovanjem za prehrambeno-prerađivačka, trgovačka i ugostiteljska zanimanja upućuju se na tečaj nakon pet godina od završetka škole</li>
+</ul>
+<p>Zakon od obveze izuzima osobe s diplomskim studijem iz određenih područja, na primjer medicine, farmacije ili prehrambenog inženjerstva.</p>
+<p>Osobe koje rade s kozmetičkim proizvodima i u uslugama njege i uljepšavanja moraju imati znanja o sprečavanju zaraznih bolesti, također prije početka rada i uz obnovu svakih 5 godina.</p>
+<h2>Tko plaća i koliko</h2>
+<p>Troškove pregleda za navedenih pet skupina radnika i troškove tečaja snosi poslodavac (zakon, članci 35. i 39.). Iznose određuje ministar zdravstva odlukom. Prema odlukama od 21. veljače 2024., koje su stupile na snagu 1. srpnja 2024. i objavljene su na stranicama zavoda za javno zdravstvo, iznosi s PDV-om su:</p>
+<table>
+<thead>
+<tr>
+<th>Usluga</th>
+<th>Iznos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pregled, rad s hranom ili vodom</td>
+<td>21,90 eura</td>
+</tr>
+<tr>
+<td>Pregled, rad s kozmetičkim proizvodima</td>
+<td>10,95 eura</td>
+</tr>
+<tr>
+<td>Pregled, rad s dojenčadi i predškolskom djecom</td>
+<td>21,90 eura</td>
+</tr>
+<tr>
+<td>Pregled, higijenska njega</td>
+<td>10,95 eura</td>
+</tr>
+<tr>
+<td>Tečaj, osnovni program (hrana)</td>
+<td>18,25 eura</td>
+</tr>
+<tr>
+<td>Tečaj, prošireni program (hrana)</td>
+<td>36,50 eura</td>
+</tr>
+</tbody>
+</table>
+<p>Provjerite u zavodu jesu li iznosi promijenjeni.</p>
+<h2>Kontrolni popis</h2>
+<ul>
+<li>Za svako radno mjesto znate dolazi li radnik u neposredan dodir s hranom, kozmetikom ili djecom.</li>
+<li>Radnik je obavio sanitarni pregled i ima potvrdu o tečaju prije prvog radnog dana.</li>
+<li>Sanitarna iskaznica čuva se u vašem objektu.</li>
+<li>Rok godišnjeg pregleda i rok obnove tečaja upisani su za svakog radnika.</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Radnik počne raditi, a pregled se obavi naknadno.</strong> Pregled je propisan prije stupanja u radni odnos.</li>
+<li><strong>Propušten godišnji pregled.</strong></li>
+<li><strong>Zaboravljena obnova tečaja</strong> nakon 5 godina.</li>
+<li><strong>Pogrešan program tečaja.</strong> Osnovni program ne pokriva kuhinju restorana.</li>
+<li><strong>Sanitarni pregled zamjenjuje se pregledom medicine rada.</strong> To su različiti pregledi u različitim ustanovama.</li>
+<li><strong>Trošak se naplaćuje radniku.</strong> Zakon ga stavlja na poslodavca.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Je li sanitarna knjižica isto što i sanitarna iskaznica?</h3>
+<p>U svakodnevnom govoru da. Važeći pravilnik (NN 116/18) koristi naziv sanitarna iskaznica.</p>
+<h3>Mora li prodavač zapakirane hrane na sanitarni pregled?</h3>
+<p>Ne, ako tijekom rada dolazi u dodir isključivo sa zapakiranom hranom. Ako skida pakovinu zbog kupca, mora.</p>
+<h3>Treba li higijenski minimum za rad u kafiću?</h3>
+<p>Da. Za ugostiteljske objekte u kojima se pripremaju i poslužuju pića i topli napitci pravilnik propisuje tečaj po osnovnom programu.</p>
+<h3>Smije li radnik raditi dok čeka nalaz?</h3>
+<p>Zakon propisuje pregled prije stupanja u radni odnos, a potvrdu o tečaju radnik mora imati prije početka rada. Termin za pregled nije isto što i obavljen pregled.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Utvrđujemo koji radnici moraju na sanitarni pregled i tečaj, naručujemo ih i pratimo rokove godišnjih pregleda i obnove znanja. Pogledajte stranicu <a href="/admin-podrska-pregled/usluge/medicina-rada/">medicina rada i liječnički pregledi</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/1067/zakon-o-za%C5%A1titi-pu%C4%8Danstva-od-zaraznih-bolesti">Zakon o zaštiti pučanstva od zaraznih bolesti, NN 79/07, 113/08, 43/09, 130/17, 114/18, 47/20, 134/20, 143/21 (zakon.hr)</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2018_12_116_2320.html">Pravilnik o načinu obavljanja zdravstvenih pregleda osoba pod zdravstvenim nadzorom, NN 116/18</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2018_12_116_2318.html">Pravilnik o načinu i programu stjecanja potrebnog znanja o zdravstvenoj ispravnosti hrane, NN 116/18</a> i <a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2020_01_9_175.html">izmjene NN 9/20</a></li>
+<li><a href="https://www.zzjz-sibenik.hr/dokumenti/cjenik/Odluka-o-visini-troskova-zdravstvenih-pregleda-osoba-koje-podlijezu-zdravstvenom-nadzoru-01-07-2024.pdf">Ministarstvo zdravstva: Odluka o visini troškova zdravstvenih pregleda osoba koje podliježu zdravstvenom nadzoru (objava ZZJZ Šibensko-kninske županije)</a></li>
+<li><a href="https://www.zzjzosijek.hr/images/uploaded/informacije/Odluka%20o%20visini%20tro%C5%A1kova%20stjecanja%20potrebnog%20znanja%20o%20zdravstvenom%20odgoju.pdf">Ministarstvo zdravstva: Odluka o visini troškova stjecanja potrebnog znanja o zdravstvenom odgoju osoba (objava NZJZ Osječko-baranjske županije)</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Sanitarni pregled i sanitarna knjižica: tko ih mora imati\",\"description\":\"Sanitarni pregled obvezan je za rad s nezapakiranom hranom, kozmetikom, djecom i u higijenskoj njezi. Tko ga mora imati, koliko često i što je s tečajem higijene.\",\"datePublished\":\"2027-03-15\",\"dateModified\":\"2027-03-15\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/sanitarni-pregled/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Sanitarni pregled i sanitarna knjižica: tko ih mora imati"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Sanitarni pregled obvezan je za rad s nezapakiranom hranom, kozmetikom, djecom i u higijenskoj njezi. Tko ga mora imati, koliko često i što je s tečajem higijene."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","15. ožujka 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19"]}],"$L1a"]}]}]]
+1b:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"15. ožujka 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1a:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Medicina rada i liječnički pregledi"}],["$","p",null,{"children":"Organizacija prethodnih i periodičnih pregleda, uputnice i praćenje rokova za sve radnike."}],["$","$L2",null,{"href":"/usluge/medicina-rada/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+13:null
+17:[["$","title","0",{"children":"Sanitarni pregled i sanitarna knjižica: tko ih mora imati"}],["$","meta","1",{"name":"description","content":"Sanitarni pregled obvezan je za rad s nezapakiranom hranom, kozmetikom, djecom i u higijenskoj njezi. Tko ga mora imati, koliko često i što je s tečajem higijene."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/sanitarni-pregled/"}],["$","meta","4",{"property":"og:title","content":"Sanitarni pregled i sanitarna knjižica: tko ih mora imati"}],["$","meta","5",{"property":"og:description","content":"Sanitarni pregled obvezan je za rad s nezapakiranom hranom, kozmetikom, djecom i u higijenskoj njezi. Tko ga mora imati, koliko često i što je s tečajem higijene."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/sanitarni-pregled/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-03-15"}],["$","meta","13",{"property":"article:modified_time","content":"2027-03-15"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Sanitarni pregled i sanitarna knjižica: tko ih mora imati"}],["$","meta","16",{"name":"twitter:description","content":"Sanitarni pregled obvezan je za rad s nezapakiranom hranom, kozmetikom, djecom i u higijenskoj njezi. Tko ga mora imati, koliko često i što je s tečajem higijene."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","22",{}]]

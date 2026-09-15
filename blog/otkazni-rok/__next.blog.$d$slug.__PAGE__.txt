@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T3a5e,<p>Otkazni rok je razdoblje između dostave otkaza i prestanka ugovora o radu. Kod redovitog otkaza Zakon o radu propisuje najkraće trajanje otkaznog roka: od dva tjedna za radnika koji je kod vas neprekidno radio manje od godinu dana do tri mjeseca za radnika s dvadeset godina neprekidnog rada. Stariji radnici s dugim stažem imaju pravo na dodatak.</p>
+<p>Rok počinje teći od dana kad je otkaz dostavljen radniku. U nekim situacijama ne teče, na primjer za vrijeme bolovanja ili trudnoće, pa ugovor može prestati kasnije nego što ste planirali. Zato datum prestanka nije dovoljno jednom izračunati, nego ga treba pratiti do kraja.</p>
+<p>U nastavku su pravila iz Zakona o radu, odnos zakona i ugovora, primjeri računanja i popis koraka koje poslodavac treba provjeriti prije uručenja otkaza.</p>
+<h2>Kada se primjenjuje otkazni rok</h2>
+<p>Otkazni rok vezan je uz <strong>redoviti otkaz ugovora o radu</strong>. Poslodavac može redovito otkazati samo ako ima opravdani razlog: poslovno uvjetovani, osobno uvjetovani, otkaz uvjetovan skrivljenim ponašanjem radnika ili nezadovoljavanje na probnom radu. Radnik može redovito otkazati bez navođenja razloga, ali uz propisani ili ugovoreni otkazni rok.</p>
+<p>Otkazni rok se ne primjenjuje ili se primjenjuje drukčije u ovim slučajevima:</p>
+<ul>
+<li><strong>Izvanredni otkaz.</strong> Daje se bez obveze poštivanja otkaznog roka, kad zbog osobito teške povrede obveze ili druge osobito važne činjenice nastavak radnog odnosa nije moguć. Može se dati samo u roku od 15 dana od saznanja za tu činjenicu.</li>
+<li><strong>Otkaz na probnom radu.</strong> Otkazni rok je najmanje jedan tjedan.</li>
+<li><strong>Istek ugovora na određeno vrijeme.</strong> Ugovor prestaje istekom vremena na koje je sklopljen, bez otkaza.</li>
+<li><strong>Sporazum radnika i poslodavca.</strong> Zakon ga navodi kao zaseban način prestanka ugovora, koji mora biti u pisanom obliku. Pravila o otkaznom roku odnose se na otkaz, a datum prestanka kod sporazuma određuju strane.</li>
+<li><strong>Radnik sa 65 godina života i 15 godina mirovinskog staža.</strong> Ako ih ima u trenutku otkazivanja, nema pravo na otkazni rok.</li>
+<li><strong>Članovi uprave i izvršni direktori</strong> koji rade u radnom odnosu. Na njih se ne primjenjuju odredbe Zakona o radu o otkaznom roku.</li>
+</ul>
+<h2>Koliko traje otkazni rok prema Zakonu o radu</h2>
+<p>Zakon o radu u članku 122. propisuje <strong>najkraće</strong> trajanje otkaznog roka kod redovitog otkaza. Mjerilo je koliko je radnik neprekidno proveo u radnom odnosu <strong>kod istog poslodavca</strong>, a ne ukupni radni staž.</p>
+<table>
+<thead>
+<tr>
+<th>Neprekidni rad kod istog poslodavca</th>
+<th>Najkraći otkazni rok</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>manje od jedne godine</td>
+<td>dva tjedna</td>
+</tr>
+<tr>
+<td>jedna godina</td>
+<td>mjesec dana</td>
+</tr>
+<tr>
+<td>dvije godine</td>
+<td>mjesec dana i dva tjedna</td>
+</tr>
+<tr>
+<td>pet godina</td>
+<td>dva mjeseca</td>
+</tr>
+<tr>
+<td>deset godina</td>
+<td>dva mjeseca i dva tjedna</td>
+</tr>
+<tr>
+<td>dvadeset godina</td>
+<td>tri mjeseca</td>
+</tr>
+</tbody>
+</table>
+<p>Radnik s tri godine neprekidnog rada tako ima najmanje mjesec dana i dva tjedna, jer je navršio dvije, ali ne i pet godina.</p>
+<h3>Dodatak za starije radnike</h3>
+<p>Radniku koji je kod poslodavca neprekidno proveo dvadeset godina otkazni rok se povećava:</p>
+<ul>
+<li>za <strong>dva tjedna</strong> ako je navršio 50 godina života</li>
+<li>za <strong>mjesec dana</strong> ako je navršio 55 godina života.</li>
+</ul>
+<h3>Otkaz zbog skrivljenog ponašanja</h3>
+<p>Kad se ugovor otkazuje zbog povrede obveze iz radnog odnosa, otkazni rok iznosi <strong>polovicu</strong> rokova iz tablice, uključujući i dodatak za starije radnike. Prije takvog otkaza poslodavac mora radnika pisano upozoriti na obvezu i mogućnost otkaza te mu omogućiti da iznese obranu, osim kad postoje okolnosti zbog kojih to nije opravdano očekivati.</p>
+<h3>Kad otkaz ugovora o radu daje radnik</h3>
+<p>Kolektivnim ugovorom ili ugovorom o radu može se za radnika koji otkazuje odrediti <strong>kraći</strong> otkazni rok nego za poslodavca. Ako radnik otkazuje zbog osobito važnog razloga, otkazni rok ne može biti duži od mjesec dana.</p>
+<h2>Odnos zakona, kolektivnog ugovora i ugovora o radu</h2>
+<p>Zakon daje minimum. Iznad njega vrijede ova pravila:</p>
+<ul>
+<li><strong>Duži rok je dopušten.</strong> Poslodavac i radnik, kao i sindikati i udruge poslodavaca, mogu ugovoriti uvjete povoljnije za radnika od zakonskih.</li>
+<li><strong>Primjenjuje se najpovoljnije pravo.</strong> Ako je isto pravo različito uređeno ugovorom o radu, pravilnikom o radu, kolektivnim ugovorom ili zakonom, primjenjuje se ono najpovoljnije za radnika, osim ako zakon ne određuje drukčije.</li>
+<li><strong>Ugovor mora govoriti o otkaznom roku.</strong> Pisani ugovor o radu mora sadržavati podatke o postupku otkazivanja i otkaznim rokovima. Umjesto toga može uputiti na zakon, kolektivni ugovor ili pravilnik o radu.</li>
+<li><strong>Kraći rok od zakonskog</strong> dopušten je samo u korist radnika koji sam otkazuje, i to kolektivnim ugovorom ili ugovorom o radu.</li>
+</ul>
+<p>U praksi to znači da prije otkaza treba pročitati sva tri izvora. Ako kolektivni ugovor koji vas obvezuje daje radniku duži otkazni rok, ne možete se pozvati na zakonski minimum.</p>
+<h2>Kako se računa otkazni rok</h2>
+<h3>Od kada teče</h3>
+<p>Otkazni rok počinje teći <strong>od dana dostave otkaza</strong>. Otkaz mora biti u pisanom obliku, poslodavac ga mora pisano obrazložiti i mora ga dostaviti osobi kojoj otkazuje. Bez dokaza o dostavi teško je dokazati kad je rok počeo.</p>
+<p>Iznimka: ako je radnik u vrijeme dostave odluke o otkazu na bolovanju, otkazni rok počinje teći od dana prestanka bolovanja.</p>
+<h3>Kako se broje tjedni i mjeseci</h3>
+<p>Zakon o radu ne uređuje posebno način brojenja otkaznog roka. Za pitanja koja nisu uređena Zakonom o radu primjenjuju se opći propisi obveznoga prava. Zakon o obveznim odnosima propisuje da rok određen u tjednima ili mjesecima završava onoga dana koji se po imenu i broju podudara s danom od kojeg rok teče, a ako takvog dana nema u posljednjem mjesecu, rok završava posljednjeg dana tog mjeseca. Ako posljednji dan pada na dan kad se po zakonu ne radi, posljednjim danom računa se sljedeći radni dan.</p>
+<p>Primjeri prema tom pravilu:</p>
+<ul>
+<li>otkaz dostavljen 10. ožujka, rok od dva tjedna: završava 24. ožujka</li>
+<li>otkaz dostavljen 10. ožujka, rok od mjesec dana: završava 10. travnja</li>
+<li>otkaz dostavljen 31. siječnja, rok od mjesec dana: završava posljednjeg dana veljače.</li>
+</ul>
+<p>Kod rokova poput „mjesec dana i dva tjedna" i kod dana koji padaju na blagdan dobro je izračun provjeriti sa stručnjakom, jer o datumu ovisi i odjava radnika s osiguranja.</p>
+<h3>Kada otkazni rok ne teče</h3>
+<p>Otkazni rok <strong>ne teče</strong> za vrijeme:</p>
+<ul>
+<li>trudnoće</li>
+<li>rodiljnog, roditeljskog, posvojiteljskog i očinskog dopusta te drugih dopusta i rada s polovicom punog radnog vremena prema propisu o rodiljnim i roditeljskim potporama</li>
+<li>privremene nesposobnosti za rad tijekom liječenja ili oporavka od ozljede na radu ili profesionalne bolesti</li>
+<li>vršenja dužnosti i prava državljana u obrani</li>
+<li>privremene nesposobnosti za rad (bolovanja), uz iznimku opisanu u nastavku.</li>
+</ul>
+<p>Iznimno, prva četiri razloga s popisa ne zaustavljaju otkazni rok kad ugovor prestaje tijekom likvidacije društva ili prestanka društva po skraćenom postupku bez likvidacije.</p>
+<p>Otkazni rok <strong>teče</strong> za vrijeme godišnjeg odmora i plaćenog dopusta.</p>
+<h3>Bolovanje tijekom otkaznog roka</h3>
+<p>Članak 121. Zakona o radu, u tekstu izmijenjenom 2022. (NN 151/22, primjenjuje se od 1. siječnja 2023.), sadrži dva važna pravila:</p>
+<ol>
+<li><strong>Radnik oslobođen rada.</strong> Ako je poslodavac radniku otkazao i <strong>tom odlukom</strong> ga oslobodio obveze rada prije nego što je bolovanje počelo, otkazni rok teče i za vrijeme bolovanja. Kolektivni ugovor, pravilnik o radu ili ugovor o radu mogu to urediti drukčije.</li>
+<li><strong>Radnik koji nije oslobođen rada.</strong> Ako se tijek otkaznog roka prekine zbog bolovanja, radni odnos prestaje najkasnije istekom šest mjeseci od dana početka tijeka otkaznog roka.</li>
+</ol>
+<h2>Rad ili oslobađanje od rada tijekom otkaznog roka</h2>
+<p>Tijekom otkaznog roka ugovor o radu je još na snazi. Ako poslodavac ne odluči drukčije, radnik radi i prima plaću.</p>
+<p>Dva pravila vrijede bez obzira na to što je dogovoreno:</p>
+<ul>
+<li><strong>Traženje novog posla.</strong> Radnik ima pravo biti odsutan s rada najmanje četiri sata tjedno radi traženja novog zaposlenja, uz naknadu plaće.</li>
+<li><strong>Oslobađanje od rada.</strong> Ako poslodavac radnika oslobodi obveze rada, mora mu isplatiti naknadu plaće i priznati sva ostala prava kao da je radio do isteka otkaznog roka.</li>
+</ul>
+<p>Oslobađanje od rada unesite u samu odluku o otkazu. Samo tada otkazni rok teče i ako radnik kasnije otvori bolovanje, osim ako vaš kolektivni ugovor, pravilnik o radu ili ugovor o radu to ne uređuju drukčije.</p>
+<h2>Kontrolni popis prije uručenja otkaza</h2>
+<ol>
+<li>Utvrdite vrstu otkaza: redoviti (i koji razlog), izvanredni ili otkaz na probnom radu.</li>
+<li>Provjerite koliko je radnik <strong>neprekidno</strong> radio kod vas i koliko ima godina.</li>
+<li>Pročitajte ugovor o radu, pravilnik o radu i kolektivni ugovor koji vas obvezuje. Ima li duži otkazni rok?</li>
+<li>Kod otkaza zbog skrivljenog ponašanja provjerite postoje li pisano upozorenje i mogućnost obrane.</li>
+<li>Pripremite pisani, obrazloženi otkaz i osigurajte dokaz o dostavi.</li>
+<li>Odlučite radi li radnik tijekom otkaznog roka ili je oslobođen rada i to navedite u odluci.</li>
+<li>Provjerite je li radnik na bolovanju u trenutku dostave i pratite prekide tijekom roka.</li>
+<li>Datum prestanka ugovora uskladite s odjavom s obveznih osiguranja.</li>
+<li>U roku od 15 dana od prestanka radnog odnosa vratite radniku isprave, primjerak odjave s mirovinskog i zdravstvenog osiguranja te izdajte potvrdu o vrsti poslova i trajanju radnog odnosa.</li>
+<li>Provjerite pravo na otpremninu. Zakonom je uređena za radnika kojem poslodavac otkazuje nakon dvije godine neprekidnog rada, uz iznimke.</li>
+<li>Ako je radnik državljanin treće zemlje s dozvolom za boravak i rad, poslodavac o prestanku ugovora o radu mora obavijestiti policijsku upravu odnosno policijsku postaju u roku od pet radnih dana.</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Računanje ukupnog radnog staža.</strong> Otkazni rok ovisi o neprekidnom radu kod istog poslodavca, ne o stažu iz e-radne knjižice.</li>
+<li><strong>Zanemaren duži rok iz kolektivnog ugovora ili ugovora o radu.</strong> Zakonski rok je minimum, a ne pravilo za sve.</li>
+<li><strong>Oslobađanje od rada usmeno ili naknadnim dopisom.</strong> Da bi otkazni rok tekao i tijekom bolovanja, oslobađanje treba biti u odluci o otkazu.</li>
+<li><strong>Datum prestanka upisan „na kamen".</strong> Bolovanje, trudnoća ili rodiljni dopust mogu zaustaviti rok, pa odjava prema prvotnom datumu može biti preuranjena.</li>
+<li><strong>Puni rok kod skrivljenog ponašanja ili pola roka bez pravog razloga.</strong> Polovica roka vrijedi samo za otkaz uvjetovan skrivljenim ponašanjem radnika.</li>
+<li><strong>Isti predložak za otkaz i sporazumni raskid.</strong> To su različiti načini prestanka ugovora, s različitim postupkom i posljedicama.</li>
+<li><strong>Otkaz bez dokaza o dostavi.</strong> Rok teče od dostave, pa bez dokaza nije jasno ni kad je počeo ni kad je istekao.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Koliki je otkazni rok ako radnik sam da otkaz ugovora o radu?</h3>
+<p>U pravilu isti kao i kad otkazuje poslodavac, prema trajanju rada kod poslodavca. Kolektivnim ugovorom ili ugovorom o radu može se za radnika odrediti kraći rok. Ako radnik otkazuje zbog osobito važnog razloga, rok ne može biti duži od mjesec dana.</p>
+<h3>Može li otkazni rok biti kraći od onoga u Zakonu o radu?</h3>
+<p>Za poslodavca ne. Kraći rok dopušten je samo za slučaj kad radnik otkazuje, i to ako je tako određeno kolektivnim ugovorom ili ugovorom o radu. Duži rok od zakonskog uvijek se može ugovoriti.</p>
+<h3>Teče li otkazni rok za vrijeme bolovanja?</h3>
+<p>U pravilu ne teče. Teče samo ako je poslodavac radnika odlukom o otkazu oslobodio obveze rada prije početka bolovanja, osim ako akti poslodavca ili ugovori to ne uređuju drukčije. Ako radnik nije oslobođen rada, radni odnos prestaje najkasnije šest mjeseci od početka tijeka otkaznog roka.</p>
+<h3>Mora li radnik raditi za vrijeme otkaznog roka?</h3>
+<p>Da, osim ako ga poslodavac oslobodi obveze rada. Tada mu pripada naknada plaće i sva prava kao da radi. U svakom slučaju radnik ima pravo na najmanje četiri sata tjedno plaćene odsutnosti radi traženja novog posla.</p>
+<h3>Postoji li otkazni rok kod sporazumnog raskida?</h3>
+<p>Zakon o radu otkazni rok veže uz otkaz. Sporazum o prestanku ugovora o radu zaseban je način prestanka i mora biti u pisanom obliku, a datum prestanka dogovaraju radnik i poslodavac.</p>
+<h3>Koliki je otkazni rok na probnom radu?</h3>
+<p>Najmanje jedan tjedan. Iznimka postoji kad su radnik i poslodavac tijekom radnog odnosa sklopili novi ugovor za druge poslove s probnim radom. Tada radnik kod otkaza zbog nezadovoljavanja na probnom radu ima pravo na otkazni rok prema članku 122. Zakona o radu.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Pripremamo dokumentaciju za prestanak radnog odnosa: provjeru otkaznog roka prema ugovoru i aktima poslodavca, praćenje datuma prestanka, odjave s osiguranja i potvrde koje radnik mora dobiti. Kad slučaj traži pravno mišljenje ili zastupanje, upućujemo vas na odvjetnika. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a> ili nam se javite putem <a href="/admin-podrska-pregled/kontakt/">kontakta</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23 (pročišćeni tekst, zakon.hr)</a>, članci 4., 8., 9., 15., 53., 112. do 122., 126. i 130.</li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_151_2343.html">Zakon o izmjenama i dopunama Zakona o radu, NN 151/22</a></li>
+<li><a href="https://www.zakon.hr/z/75/zakon-o-obveznim-odnosima">Zakon o obveznim odnosima, NN 35/05, 41/08, 125/11, 78/15, 29/18, 126/21, 114/22, 156/22, 155/23, 69/26 (pročišćeni tekst, zakon.hr)</a>, članak 300.</li>
+<li><a href="https://www.zakon.hr/z/142/zakon-o-strancima">Zakon o strancima, NN 133/20, 114/22, 151/22, 40/25, 55/26 (pročišćeni tekst, zakon.hr)</a>, članak 95.</li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Otkazni rok: koliko traje i kako se računa\",\"description\":\"Otkazni rok prema Zakonu o radu traje od dva tjedna do tri mjeseca, ovisno o stažu kod poslodavca. Od kada teče, kada staje i što smije ugovor.\",\"datePublished\":\"2026-11-02\",\"dateModified\":\"2026-11-02\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/otkazni-rok/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Otkazni rok: koliko traje i kako se računa"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Otkazni rok prema Zakonu o radu traje od dva tjedna do tri mjeseca, ovisno o stažu kod poslodavca. Od kada teče, kada staje i što smije ugovor."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","2. studenoga 2026."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"2. studenoga 2026."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Radni odnos i kadrovska administracija"}],["$","p",null,{"children":"Ugovori, prijave i odjave, evidencije radnog vremena i godišnjih odmora, prestanak radnog odnosa."}],["$","$L2",null,{"href":"/usluge/radni-odnos/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Otkazni rok: koliko traje i kako se računa"}],["$","meta","1",{"name":"description","content":"Otkazni rok prema Zakonu o radu traje od dva tjedna do tri mjeseca, ovisno o stažu kod poslodavca. Od kada teče, kada staje i što smije ugovor."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/otkazni-rok/"}],["$","meta","4",{"property":"og:title","content":"Otkazni rok: koliko traje i kako se računa"}],["$","meta","5",{"property":"og:description","content":"Otkazni rok prema Zakonu o radu traje od dva tjedna do tri mjeseca, ovisno o stažu kod poslodavca. Od kada teče, kada staje i što smije ugovor."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/otkazni-rok/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-11-02"}],["$","meta","13",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Otkazni rok: koliko traje i kako se računa"}],["$","meta","16",{"name":"twitter:description","content":"Otkazni rok prema Zakonu o radu traje od dva tjedna do tri mjeseca, ovisno o stažu kod poslodavca. Od kada teče, kada staje i što smije ugovor."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

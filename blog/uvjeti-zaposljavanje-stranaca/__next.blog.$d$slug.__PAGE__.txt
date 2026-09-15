@@ -1,0 +1,189 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T3b8f,<p>Zapošljavanje stranih radnika iz trećih zemalja moguće je samo ako firma ispunjava uvjete iz članka 99. Zakona o strancima. Hrvatski zavod za zapošljavanje (HZZ) ih provjerava prije nego da mišljenje za dozvolu za boravak i rad. Najvažniji su: aktivna djelatnost povezana sa zanimanjem, porezna urednost, barem jedan domaći radnik na neodređeno i puno radno vrijeme u zadnjih godinu dana, priljev na račun u zadnjih 12 mjeseci, račun bez blokade dulje od 30 dana te omjer domaćih i stranih radnika od 20 %, odnosno 10 % za deficitarna zanimanja.</p>
+<p>Uvjeti su postroženi izmjenama zakona iz NN 55/2026, koje vrijede od 4. lipnja 2026. Ako firma ne ispunjava samo jedan uvjet, HZZ neće dati pozitivno mišljenje, a MUP tada ne može izdati dozvolu. Zato uvjete provjerite prije testa tržišta rada, a ne nakon.</p>
+<h2>Na koga se uvjeti odnose</h2>
+<p>Uvjeti iz članka 99. vrijede za zapošljavanje državljana trećih zemalja na temelju mišljenja HZZ-a. To je najčešći način zapošljavanja stranaca, i uz test tržišta rada i za deficitarna zanimanja s liste Upravnog vijeća HZZ-a. Državljanin treće zemlje je osoba koja nema državljanstvo države članice Europskog gospodarskog prostora (EGP) ni Švicarske.</p>
+<p>Uvjeti se ne provjeravaju za produljenje dozvole za istog poslodavca, istog radnika i isto zanimanje, za sezonski rad do 90 dana u poljoprivredi, šumarstvu, ugostiteljstvu i turizmu te za kategorije iz članka 110. zakona. U tim slučajevima nije potrebno mišljenje HZZ-a. Zapreke na strani poslodavca koje provjerava MUP ipak vrijede i tada.</p>
+<h2>Uvjeti za zapošljavanje stranih radnika: popis</h2>
+<h3>1. Aktivna djelatnost povezana sa zanimanjem</h3>
+<p>Poslodavac mora aktivno obavljati registriranu gospodarsku djelatnost u Hrvatskoj, i to djelatnost povezanu sa zanimanjem za koje traži radnika. Registracija djelatnosti na papiru nije dovoljna. Bez toga HZZ neće provesti test tržišta rada, a MUP po istoj osnovi može odbiti zahtjev.</p>
+<h3>2. Podmirene javne obveze i predana porezna izvješća</h3>
+<p>Poslodavac mora imati podmirene obveze po osnovi javnih davanja o kojima evidenciju vodi Ministarstvo financija. Od 2026. mora imati i predana sva propisana izvješća prema poreznim propisima. Urednost se utvrđuje na temelju potvrde Porezne uprave o stanju duga.</p>
+<p>I manji dug ili nepredano izvješće može zaustaviti mišljenje, pa stanje provjerite prije zahtjeva.</p>
+<h3>3. Barem jedan domaći radnik na neodređeno, godinu dana</h3>
+<p>Poslodavac u posljednjih godinu dana mora imati zaposlenog u kontinuitetu najmanje jednog istog radnika koji je državljanin Hrvatske, EGP-a ili Švicarske, na neodređeno i puno radno vrijeme, u Hrvatskoj.</p>
+<p>Na što paziti:</p>
+<ul>
+<li>mora biti <strong>isti radnik</strong> cijelu godinu, a ne više radnika koji su se izmjenjivali</li>
+<li>ugovor mora biti na <strong>neodređeno</strong> i na <strong>puno radno vrijeme</strong></li>
+<li><strong>poslodavac fizička osoba</strong> (primjerice obrtnik) ubraja se u broj zaposlenih</li>
+<li><strong>sezonski obrt</strong> poslodavca fizičke osobe umjesto toga mora u prethodnoj sezoni zapošljavati najmanje jednog takvog radnika</li>
+<li>u domaće radnike ubrajaju se i hrvatski iseljenici i njihovi potomci te članovi njihovih obitelji s odobrenim privremenim boravkom radi useljavanja i povratka ili sa stalnim boravkom po toj osnovi</li>
+</ul>
+<p>Nova firma ili firma bez domaćeg radnika dakle ne može odmah zapošljavati strane radnike na temelju mišljenja HZZ-a.</p>
+<h3>4. Priljev na transakcijski račun</h3>
+<p>U posljednjih 12 mjeseci poslodavac mora imati priljev po transakcijskom računu od najmanje:</p>
+<ul>
+<li><strong>100.000 €</strong> ako je pravna osoba</li>
+<li><strong>40.000 €</strong> ako je fizička osoba</li>
+</ul>
+<p>Priljevom se smatraju sve uplate na transakcijski račun poslodavca. Razdoblje od 12 mjeseci računa se od mjeseca koji prethodi mjesecu podnošenja zahtjeva. Podatke HZZ-u na zahtjev dostavlja Porezna uprava.</p>
+<p>Ovaj uvjet zamijenio je raniji uvjet prometa u zadnjih šest mjeseci. Ako imate više računa ili je firma tek prešla na novi račun, provjerite kako će se priljev utvrditi u vašem slučaju.</p>
+<h3>5. Račun bez dulje blokade</h3>
+<p>U posljednjih šest mjeseci poslodavcu račun nije smio biti blokiran dulje od 30 dana u kontinuitetu. Dokaz na zahtjev HZZ-a dostavlja Financijska agencija.</p>
+<h3>6. Bez osuda, sankcija i neprijavljenog rada</h3>
+<p>Poslodavac:</p>
+<ul>
+<li>ne smije biti pravomoćno osuđen za kaznena djela protiv radnih odnosa i socijalnog osiguranja ili opće sigurnosti</li>
+<li>ne smije imati pravomoćno izrečenu prekršajnopravnu sankciju za najteže prekršaje protiv radnih odnosa ili za prekršaje protiv socijalnog osiguranja ili zaštite na radu</li>
+<li>ne smije biti na popisu poslodavaca kod kojih je utvrđen neprijavljeni rad</li>
+</ul>
+<h3>7. Omjer domaćih i stranih radnika</h3>
+<p>HZZ izdaje pozitivno mišljenje ako je broj radnika koji su državljani Hrvatske, EGP-a ili Švicarske, zaposlenih na puno radno vrijeme u trenutku podnošenja zahtjeva, najmanje:</p>
+<ul>
+<li><strong>20 %</strong> broja zaposlenih radnika iz trećih zemalja</li>
+<li><strong>10 %</strong> tog broja, ako se radnik zapošljava u zanimanju s liste Upravnog vijeća HZZ-a</li>
+</ul>
+<p>Kod svakog novog zahtjeva u broj stranih radnika uračunavaju se i već izdana pozitivna mišljenja HZZ-a. HZZ na svojim stranicama navodi da u izračun ulaze pozitivna mišljenja izdana od 15. ožujka 2025.</p>
+<p><strong>Primjer izračuna</strong> (orijentacijski):</p>
+<table>
+<thead>
+<tr>
+<th>Domaći radnici na puno radno vrijeme</th>
+<th>Najviše stranih radnika uz 20 %</th>
+<th>Najviše stranih radnika uz 10 %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>5</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>15</td>
+<td>30</td>
+</tr>
+<tr>
+<td>5</td>
+<td>25</td>
+<td>50</td>
+</tr>
+<tr>
+<td>10</td>
+<td>50</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+<p>Firma s 3 domaća radnika i 12 stranih radnika (uključujući izdana mišljenja) za zanimanje uz test tržišta rada ima prostora za još najviše 3 radnika. Domaći radnici na nepuno radno vrijeme ne ulaze u izračun. Kako se u vašem slučaju računaju pojedine kategorije, primjerice radnici s dozvolom iz članka 110., provjerite prije zahtjeva. HZZ za prvu procjenu nudi informativni kalkulator.</p>
+<p>Zakon u članku 100.a sadrži i ograničenje ukupnog broja zahtjeva: poslodavac s do 50 domaćih radnika može podnijeti ukupno 50 zahtjeva, a s 51 do 250 domaćih radnika ukupno 250. Ograničenje se primjenjuje do nastupanja uvjeta za primjenu omjera. Ako planirate veće zapošljavanje, i to treba provjeriti.</p>
+<h2>Zapreke zbog kojih MUP može odbiti zahtjev</h2>
+<p>Čak i uz pozitivno mišljenje HZZ-a MUP može odbiti dozvolu zbog zapreka iz članka 93. zakona. Na strani poslodavca to su, među ostalim:</p>
+<ul>
+<li>neispunjavanje obveza prema socijalnoj sigurnosti, pravima radnika, uvjetima rada i zapošljavanja, porezima ili kolektivnom ugovoru</li>
+<li>otvoren stečajni postupak ili postupak likvidacije</li>
+<li>glavna svrha osnivanja ili djelovanja firme je olakšavanje ulaska stranaca</li>
+<li>u sudskom ili obrtnom registru upisana je osoba pravomoćno osuđena za propisana kaznena djela ili prekršaje pomaganja nezakonitom boravku</li>
+<li>poslodavac je dva ili više puta kažnjen zbog kršenja pravila o primjerenom smještaju</li>
+<li>poslodavac nije u roku uplatio iznos u državni proračun kad je to morao zbog radnika koji nije počeo raditi ili je dobio otkaz u prva tri mjeseca</li>
+<li>jedina osoba ovlaštena za zastupanje društva je državljanin treće zemlje, ili su upisani samo takvi, a on, odnosno barem jedan od njih, nema dozvolu propisanu zakonom</li>
+</ul>
+<p>Posljednja točka je novost iz 2026. Takav direktor mora u roku od 30 dana od upisa u sudski registar podnijeti zahtjev za dozvolu za boravak i rad.</p>
+<h2>Uvjeti za ugovor i plaću</h2>
+<p>Uvjeti nisu samo na razini firme. Ugovor o radu sa stranim radnikom ne smije sadržavati diskriminatorne odredbe koje ga stavljaju u nepovoljniji položaj od ostalih radnika u Hrvatskoj. Plaća ne smije biti manja od plaće zaposlenih u Hrvatskoj u istom zanimanju ili sličnim i srodnim zanimanjima, u skladu s posebnim zakonima i kolektivnim ugovorima. HZZ i to provjerava u mišljenju.</p>
+<h2>Što se promijenilo novim zakonom</h2>
+<p>U odnosu na zakon u verziji NN 40/25:</p>
+<ul>
+<li>omjer je povećan sa 16 % na 20 %, a za deficitarna zanimanja s 8 % na 10 %</li>
+<li>umjesto prometa u zadnjih šest mjeseci traži se priljev na račun u zadnjih 12 mjeseci</li>
+<li>uveden je uvjet da račun nije bio blokiran dulje od 30 dana u kontinuitetu u zadnjih šest mjeseci</li>
+<li>uz podmirene obveze traže se i predana porezna izvješća</li>
+<li>djelatnost mora biti aktivna i povezana sa zanimanjem za koje se traži radnik</li>
+<li>izdana pozitivna mišljenja izričito se uračunavaju u broj stranih radnika</li>
+<li>hrvatski iseljenici i njihovi potomci s odgovarajućim boravkom ubrajaju se u domaće radnike</li>
+</ul>
+<h2>Uvjeti vrijede i dok radnici rade</h2>
+<p>Uvjeti se ne provjeravaju samo jednom. HZZ mora bez odgode obavijestiti policijsku upravu ako poslodavac više ne ispunjava uvjete iz članka 99. MUP tada može ukinuti dozvolu za boravak i rad izdanu na temelju mišljenja HZZ-a. Dozvola se može ukinuti i ako se provjerom utvrdi da poslodavac ne isplaćuje plaću ili doprinose.</p>
+<p>Dozvola se u pravilu ne ukida dok traje dopušteno razdoblje nezaposlenosti radnika. Za firmu je rizik ipak jasan: pad priljeva, dug ili blokada mogu ugroziti i dozvole radnika koji već rade.</p>
+<h2>Prijava stranih radnika nakon dozvole</h2>
+<p>Kada dobijete dozvolu, obveze se nastavljaju:</p>
+<ul>
+<li>radnik može početi raditi na temelju potvrde samo ako je <strong>prijavljen na obvezno zdravstveno i mirovinsko osiguranje</strong></li>
+<li>o prestanku ugovora o radu ili drugih uvjeta za dozvolu poslodavac obavještava <strong>policijsku upravu u roku od pet radnih dana</strong></li>
+<li>ako zapošljavate stranca koji smije raditi bez dozvole za boravak i rad, primjerice sa stalnim boravkom, o tome obavještavate <strong>policijsku upravu u roku od osam dana</strong> od zasnivanja radnog odnosa ili početka rada</li>
+</ul>
+<h2>Kontrolni popis za samoprovjeru</h2>
+<ol>
+<li>Djelatnost firme aktivna je i povezana sa zanimanjem koje tražite</li>
+<li>Nema duga prema Poreznoj upravi i sva propisana izvješća su predana</li>
+<li>Isti domaći radnik zaposlen je na neodređeno i puno radno vrijeme najmanje godinu dana bez prekida</li>
+<li>Priljev na račun u zadnjih 12 mjeseci iznosi najmanje 100.000 € (pravna osoba) ili 40.000 € (fizička osoba)</li>
+<li>Račun nije bio blokiran dulje od 30 dana u kontinuitetu u zadnjih šest mjeseci</li>
+<li>Nema pravomoćnih osuda ni sankcija iz članka 99. i firma nije na popisu zbog neprijavljenog rada</li>
+<li>Omjer domaćih i stranih radnika ispunjen je i nakon novog zahtjeva, uključujući izdana mišljenja</li>
+<li>Firma nije u stečaju ni likvidaciji, a direktor iz treće zemlje ima propisanu dozvolu</li>
+<li>Ugovor i plaća odgovaraju pravilima za to zanimanje</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ol>
+<li><strong>Provjera uvjeta tek nakon testa tržišta rada.</strong> Test prođe, a mišljenje HZZ-a padne zbog omjera ili duga.</li>
+<li><strong>Brojanje domaćih radnika na nepuno radno vrijeme.</strong> U omjer ulaze samo radnici na puno radno vrijeme.</li>
+<li><strong>Zaboravljena izdana mišljenja.</strong> Radnici koji još nisu stigli već se broje kao strani radnici.</li>
+<li><strong>Domaći radnik koji se mijenjao.</strong> Uvjet traži istog radnika na neodređeno godinu dana u kontinuitetu.</li>
+<li><strong>Priljev računan kao prihod iz knjiga.</strong> Gleda se priljev na transakcijski račun za 12 mjeseci.</li>
+<li><strong>Registrirana djelatnost bez stvarnog poslovanja.</strong> Djelatnost mora biti aktivna i povezana sa zanimanjem.</li>
+<li><strong>Uvjeti zanemareni nakon izdavanja dozvola.</strong> Ako firma prestane ispunjavati uvjete, dozvole radnika mogu biti ukinute.</li>
+</ol>
+<h2>Česta pitanja</h2>
+<h3>Može li nova firma zapošljavati strane radnike?</h3>
+<p>Na temelju mišljenja HZZ-a u pravilu ne može odmah. Traži se barem jedan isti domaći radnik na neodređeno i puno radno vrijeme u posljednjih godinu dana te priljev na račun u posljednjih 12 mjeseci.</p>
+<h3>Može li obrtnik zapošljavati strane radnike?</h3>
+<p>Može, ako ispunjava uvjete. Za poslodavca fizičku osobu propisani priljev je 40.000 € u zadnjih 12 mjeseci, a sam obrtnik ubraja se u broj zaposlenih za uvjet domaćeg radnika. Za sezonski obrt uvjet domaćeg radnika gleda se u prethodnoj sezoni.</p>
+<h3>Koliko stranih radnika mogu zaposliti?</h3>
+<p>Ovisi o broju domaćih radnika na puno radno vrijeme. Njih mora biti najmanje 20 % broja stranih radnika, odnosno 10 % za deficitarna zanimanja, uz uračunata izdana pozitivna mišljenja HZZ-a.</p>
+<h3>Je li kratka blokada računa prepreka za zapošljavanje stranaca?</h3>
+<p>Uvjet iz zakona je da račun u zadnjih šest mjeseci nije bio blokiran dulje od 30 dana u kontinuitetu. Kraća blokada sama po sebi ne krši taj uvjet, ali provjerite je li iza nje nepodmireni dug.</p>
+<h3>Tko provjerava uvjete, HZZ ili MUP?</h3>
+<p>Uvjete iz članka 99. provjerava HZZ i o njima daje mišljenje koje obvezuje MUP. MUP provjerava uvjete na strani radnika i zapreke iz članka 93., primjerice stečaj ili likvidaciju poslodavca.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Prije prvog zahtjeva prolazimo s vama kroz sve uvjete iz zakona, računamo omjer i provjeravamo priljev, blokade i poreznu urednost. Ako neki uvjet nije ispunjen, kažemo vam što treba riješiti prije zahtjeva. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/strani-radnici/">zapošljavanje stranih radnika</a>, a za provjeru vaše firme javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/142/zakon-o-strancima">Zakon o strancima, pročišćeni tekst (NN 133/20, 114/22, 151/22, 40/25, 55/26), zakon.hr</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_55_692.html">Zakon o izmjenama i dopunama Zakona o strancima, NN 55/2026</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_545.html">Zakon o izmjenama i dopunama Zakona o strancima, NN 40/2025</a></li>
+<li><a href="https://www.hzz.hr/usluge/radne-dozvole-za-zaposljavanje-stranaca-i-test-trzista-rada/novi-sustav-zaposljavanja-stranaca/">HZZ: O sustavu zapošljavanja stranaca i uvjeti za pozitivno mišljenje</a></li>
+<li><a href="https://www.hzz.hr/usluge/radne-dozvole-za-zaposljavanje-stranaca-i-test-trzista-rada/savjeti-za-predaju-zahtjeva/">HZZ: Savjeti za predaju zahtjeva</a></li>
+<li><a href="https://www.hzz.hr/usluge/radne-dozvole-za-zaposljavanje-stranaca-i-test-trzista-rada/">HZZ: Dozvole za boravak i rad za državljane trećih zemalja i test tržišta rada</a></li>
+<li><a href="https://mup.gov.hr/radne-dozvole/286764">MUP: Radne dozvole</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Može li vaša firma zapošljavati strane radnike? Uvjeti za poslodavca\",\"description\":\"Uvjeti za zapošljavanje stranih radnika prema Zakonu o strancima: omjer domaćih radnika, priljev, blokada računa, porezna urednost i zapreke za poslodavca.\",\"datePublished\":\"2027-04-26\",\"dateModified\":\"2027-04-26\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/uvjeti-zaposljavanje-stranaca/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Može li vaša firma zapošljavati strane radnike? Uvjeti za poslodavca"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Uvjeti za zapošljavanje stranih radnika prema Zakonu o strancima: omjer domaćih radnika, priljev, blokada računa, porezna urednost i zapreke za poslodavca."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","26. travnja 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"26. travnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Dozvole i boravak stranih radnika"}],["$","p",null,{"children":"Provjera uvjeta poslodavca, dozvola za boravak i rad, produljenja i promjene poslodavca."}],["$","$L2",null,{"href":"/usluge/strani-radnici/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Može li vaša firma zapošljavati strane radnike? Uvjeti za poslodavca"}],["$","meta","1",{"name":"description","content":"Uvjeti za zapošljavanje stranih radnika prema Zakonu o strancima: omjer domaćih radnika, priljev, blokada računa, porezna urednost i zapreke za poslodavca."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/uvjeti-zaposljavanje-stranaca/"}],["$","meta","4",{"property":"og:title","content":"Može li vaša firma zapošljavati strane radnike? Uvjeti za poslodavca"}],["$","meta","5",{"property":"og:description","content":"Uvjeti za zapošljavanje stranih radnika prema Zakonu o strancima: omjer domaćih radnika, priljev, blokada računa, porezna urednost i zapreke za poslodavca."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/uvjeti-zaposljavanje-stranaca/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-04-26"}],["$","meta","13",{"property":"article:modified_time","content":"2027-04-26"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Može li vaša firma zapošljavati strane radnike? Uvjeti za poslodavca"}],["$","meta","16",{"name":"twitter:description","content":"Uvjeti za zapošljavanje stranih radnika prema Zakonu o strancima: omjer domaćih radnika, priljev, blokada računa, porezna urednost i zapreke za poslodavca."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

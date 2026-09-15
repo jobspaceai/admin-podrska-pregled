@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T25a0,<p>Uputnica RA-1 je obrazac kojim poslodavac upućuje radnika ili budućeg radnika na pregled kod specijalista medicine rada. Ispunjava je i potpisuje poslodavac, a ne liječnik ni radnik. Na temelju nje specijalist medicine rada utvrđuje zdravstvenu sposobnost za poslove koje ste opisali i izdaje uvjerenje o zdravstvenoj sposobnosti.</p>
+<p>Obrazac je propisan Pravilnikom o poslovima na kojima radnik može raditi samo nakon prethodnog i redovnog utvrđivanja zdravstvene sposobnosti (NN 70/10). Važeći Zakon o radu (NN 93/14) taj je pravilnik izričito ostavio na snazi do donošenja novog propisa, a Ministarstvo rada ga i dalje navodi među propisima koji se primjenjuju.</p>
+<p>Liječnik ocjenjuje sposobnost upravo za poslove i uvjete rada upisane u uputnici. Ako opis ne odgovara stvarnom radu, uvjerenje ne pokriva stvarne rizike.</p>
+<h2>Kada vam treba uputnica RA-1</h2>
+<p>Pregled na temelju uputnice RA-1 obavlja se za tri skupine poslova:</p>
+<ul>
+<li>poslove koji su propisima zaštite na radu utvrđeni kao poslovi s posebnim uvjetima rada</li>
+<li>poslove za koje drugi zakon, propis ili kolektivni ugovor traži prethodno i redovno utvrđivanje zdravstvene sposobnosti</li>
+<li>poslove na kojima se staž osiguranja računa s povećanim trajanjem</li>
+</ul>
+<p>Uputnicu izdajete:</p>
+<ul>
+<li><strong>prije početka rada</strong> na takvim poslovima (prethodni pregled)</li>
+<li><strong>prije isteka roka</strong> za ponovnu provjeru sposobnosti (periodični pregled)</li>
+<li>kad se <strong>promijene uvjeti rada</strong> koji mogu utjecati na zdravstvenu sposobnost, ili kad pregled ocijeni potrebnim specijalist medicine rada, izabrani liječnik primarne zaštite ili vi kao poslodavac</li>
+</ul>
+<p>Zakon o zaštiti na radu (članak 36.) traži da osobu s kojom namjeravate sklopiti ugovor o radu za poslove s posebnim uvjetima rada uputite na pregled uputnicom s podacima o vrsti poslova i okolnostima koje utječu na ocjenu sposobnosti.</p>
+<h2>Tko ispunjava i potpisuje uputnicu</h2>
+<p>Uputnicu izdaje <strong>poslodavac</strong> (članak 4. pravilnika NN 70/10). Na propisanom obrascu predviđeno je mjesto za naziv poslodavca, broj i datum uputnice, oznaka M. P. i <strong>potpis odgovorne osobe</strong>.</p>
+<p>Podatke može pripremiti osoba koja najbolje poznaje radno mjesto i procjenu rizika, primjerice stručnjak zaštite na radu. Specijalist medicine rada uputnicu ne ispunjava, nego na temelju nje obavlja pregled i izdaje uvjerenje (obrazac RA-2).</p>
+<p>Za radnike ustupljene preko agencije za privremeno zapošljavanje HZZO navodi da uputnicu za prethodni pregled izdaje korisnik, odnosno firma kod koje radnik stvarno radi.</p>
+<h2>Što uputnica RA-1 mora sadržavati</h2>
+<p>Obrazac u prilogu pravilnika NN 70/10 ima četiri skupine podataka.</p>
+<h3>Podaci o radniku</h3>
+<ul>
+<li>ime i prezime te ime oca ili majke</li>
+<li>datum i mjesto rođenja, OIB</li>
+<li>zanimanje i školska sprema</li>
+<li>ukupni radni staž i staž na poslovima za koje se utvrđuje sposobnost</li>
+</ul>
+<h3>Osnova pregleda</h3>
+<ul>
+<li>članak i točka Pravilnika o poslovima s posebnim uvjetima rada, ili</li>
+<li>zakon, propis ili kolektivni ugovor koji traži pregled, ili</li>
+<li>oznaka da se radi o poslovima sa stažem osiguranja s povećanim trajanjem</li>
+</ul>
+<h3>Vrsta pregleda i posljednji pregled</h3>
+<ul>
+<li>prethodni, periodični ili izvanredni pregled</li>
+<li>kada je obavljen posljednji pregled, po kojoj osnovi i s kojom ocjenom</li>
+</ul>
+<h3>Opis rada</h3>
+<ul>
+<li>kratak opis poslova</li>
+<li>strojevi, alati i aparati kojima radnik rukuje ili koje poslužuje</li>
+<li>predmet rada, odnosno tvari s kojima radnik radi ili dolazi u dodir</li>
+<li>mjesto rada (npr. na otvorenom, na visini, u mokrom) i organizacija rada (npr. smjene, noćni rad, rad na traci)</li>
+<li>položaj tijela i aktivnosti, uključujući dizanje, prenošenje i guranje tereta u kilogramima</li>
+<li>funkcije bez kojih se posao ne može obaviti, npr. vid na daljinu, raspoznavanje boja, dobar sluh</li>
+<li>uvjeti rada (npr. buka, vibracije, temperatura, prašina), kemijske tvari i biološke štetnosti</li>
+</ul>
+<p>Zakon o zaštiti na radu (članak 64.) traži da specijalist medicine rada ocjenu donese uzimajući u obzir podatke o poslovima iz procjene rizika. Zato opis poslova i štetnosti preuzmite iz procjene rizika, a ne samo iz naziva radnog mjesta.</p>
+<h2>U kojem obliku i gdje nabaviti obrazac</h2>
+<p>Obrazac je sastavni dio pravilnika, a HZZO nudi tiskanicu RA-1 za preuzimanje. Neke ordinacije objavljuju prilagođene verzije s dodatnim poljima. Takvu verziju možete koristiti ako ima sva polja iz propisanog obrasca.</p>
+<p>U propisima koje smo pregledali nema odredbe o predaji uputnice elektroničkim putem. Dogovorite s ordinacijom prihvaća li skeniranu uputnicu ili traži original.</p>
+<h2>Kontrolni popis prije slanja radnika na pregled</h2>
+<ol>
+<li>U procjeni rizika provjerite radi li radnik poslove za koje je pregled obvezan i pod koju točku pravilnika spadaju.</li>
+<li>Upišite sve takve poslove. Radnik koji obavlja više poslova s posebnim uvjetima rada mora ispunjavati uvjete za svaki od njih.</li>
+<li>Označite vrstu pregleda i upišite podatke o posljednjem pregledu.</li>
+<li>Opišite stvarne uvjete rada: strojeve, tvari, teret u kilogramima, rad na visini, smjene.</li>
+<li>Označite funkcije bez kojih se posao ne može obaviti.</li>
+<li>Dajte uputnicu na potpis odgovornoj osobi.</li>
+<li>Zadržite presliku. Ako tražite povrat troškova prethodnog pregleda od HZZO-a, uz zahtjev se prilaže i obrazac RA-1.</li>
+<li>Kad dobijete uvjerenje, u evidenciju upišite datum do kojeg treba obaviti sljedeću provjeru.</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ul>
+<li>Upisan je samo naziv radnog mjesta, bez opisa stvarnih poslova, strojeva i štetnosti.</li>
+<li>Nije navedena točka pravilnika ili navedena točka ne odgovara procjeni rizika.</li>
+<li>Radnik obavlja više poslova s posebnim uvjetima rada, a na uputnici je samo jedan.</li>
+<li>Označen je periodični pregled, a radnik zapravo prelazi na drugo radno mjesto s drugim uvjetima rada.</li>
+<li>Radnik počne raditi s uputnicom u ruci, prije nego što je dobio uvjerenje. Zakon o zaštiti na radu zabranjuje da poslove s posebnim uvjetima rada obavlja radnik koji ne ispunjava propisane uvjete.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Je li uputnica RA-1 i dalje važeći obrazac?</h3>
+<p>Prema službenim izvorima koje smo provjerili, da. Pravilnik NN 70/10 i dalje se primjenjuje, a HZZO obrazac nudi među tiskanicama. Ipak provjerite je li u međuvremenu donesen novi pravilnik.</p>
+<h3>Tko potpisuje uputnicu RA-1?</h3>
+<p>Odgovorna osoba poslodavca. Liječnik je ne potpisuje, nego na temelju nje obavlja pregled i izdaje uvjerenje.</p>
+<h3>Što sadrži uvjerenje o zdravstvenoj sposobnosti?</h3>
+<p>Uvjerenje (obrazac RA-2) sadrži ocjenu (sposoban, privremeno nesposoban ili nesposoban) i datum do kojeg treba obaviti sljedeću provjeru zdravstvenog stanja, a gdje je propisano i psihičkih sposobnosti.</p>
+<h3>Tko plaća pregled?</h3>
+<p>Prethodni i periodični pregledi za poslove s posebnim uvjetima rada ne smiju biti na trošak radnika. Prema odluci HZZO-a o specifičnoj zdravstvenoj zaštiti, prethodni pregled plaća poslodavac, a HZZO mu iznos vraća u roku od 45 dana od primitka zahtjeva, uz dokumentaciju i pod uvjetom da je pregledanog radnika zaposlio. Periodične preglede, uz uvjete iz te odluke, izravno plaća HZZO.</p>
+<h3>Što ako se radnik ili poslodavac ne slaže s ocjenom?</h3>
+<p>Pravilnik NN 70/10 predviđa pisanu žalbu u roku od 15 dana od primitka uvjerenja, o kojoj odlučuje drugostupanjsko povjerenstvo specijalista medicine rada. Kod svog specijalista medicine rada provjerite kome se žalba danas podnosi.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Za vaše radnike pripremamo uputnice RA-1 na temelju procjene rizika, dogovaramo termine kod medicine rada i vodimo rokove sljedećih pregleda. Više o tome pročitajte na stranici <a href="/admin-podrska-pregled/usluge/medicina-rada/">medicina rada i liječnički pregledi</a>, a za konkretan slučaj javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2010_06_70_2127.html">Pravilnik o poslovima na kojima radnik može raditi samo nakon prethodnog i redovnog utvrđivanja zdravstvene sposobnosti, NN 70/10</a>, <a href="https://uznr.mrms.hr/wp-content/uploads/propisi2/nacionalni/rsp014.pdf">s obrascima</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_93_1872.html">Zakon o radu, NN 93/14, članak 233. (propisi koji ostaju na snazi)</a></li>
+<li><a href="https://www.zakon.hr/z/167/zakon-o-zastiti-na-radu">Zakon o zaštiti na radu, NN 71/14, 118/14, 154/14, 94/18, 96/18 (pročišćeni tekst)</a></li>
+<li><a href="https://uznr.mrms.hr/wp-content/uploads/propisi2/nacionalni/znr013.pdf">Pravilnik o poslovima s posebnim uvjetima rada, NN 5/84</a></li>
+<li><a href="https://hzzo.hr/ozljede-na-radu-i-profesionalne-bolesti-specificna-zdravstvena-zastita/7-tiskanice">HZZO: tiskanice za zaštitu zdravlja na radu</a></li>
+<li><a href="https://hzzo.hr/ozljede-na-radu-i-profesionalne-bolesti-specificna-zdravstvena-zastita/5-obavijesti-poslodavcima">HZZO: obavijesti poslodavcima (prethodni pregledi, povrat troškova, agencijski radnici)</a></li>
+<li><a href="https://mrosp.gov.hr/pristup-informacijama-16/zakoni-i-ostali-propisi-7485/uprava-za-rad-i-zastitu-na-radu-4173-7487/7487">Ministarstvo rada: katalog propisa Uprave za rad i zaštitu na radu</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Uputnica RA-1: tko je ispunjava i što mora sadržavati\",\"description\":\"Uputnicu RA-1 izdaje i potpisuje poslodavac prije pregleda kod specijalista medicine rada. Što mora sadržavati, kada vam treba i gdje se najčešće griješi.\",\"datePublished\":\"2027-05-10\",\"dateModified\":\"2027-05-10\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/uputnica-ra-1/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Uputnica RA-1: tko je ispunjava i što mora sadržavati"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Uputnicu RA-1 izdaje i potpisuje poslodavac prije pregleda kod specijalista medicine rada. Što mora sadržavati, kada vam treba i gdje se najčešće griješi."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","10. svibnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"10. svibnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Medicina rada i liječnički pregledi"}],["$","p",null,{"children":"Organizacija prethodnih i periodičnih pregleda, uputnice i praćenje rokova za sve radnike."}],["$","$L2",null,{"href":"/usluge/medicina-rada/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Uputnica RA-1: tko je ispunjava i što mora sadržavati"}],["$","meta","1",{"name":"description","content":"Uputnicu RA-1 izdaje i potpisuje poslodavac prije pregleda kod specijalista medicine rada. Što mora sadržavati, kada vam treba i gdje se najčešće griješi."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/uputnica-ra-1/"}],["$","meta","4",{"property":"og:title","content":"Uputnica RA-1: tko je ispunjava i što mora sadržavati"}],["$","meta","5",{"property":"og:description","content":"Uputnicu RA-1 izdaje i potpisuje poslodavac prije pregleda kod specijalista medicine rada. Što mora sadržavati, kada vam treba i gdje se najčešće griješi."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/uputnica-ra-1/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-05-10"}],["$","meta","13",{"property":"article:modified_time","content":"2027-05-10"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Uputnica RA-1: tko je ispunjava i što mora sadržavati"}],["$","meta","16",{"name":"twitter:description","content":"Uputnicu RA-1 izdaje i potpisuje poslodavac prije pregleda kod specijalista medicine rada. Što mora sadržavati, kada vam treba i gdje se najčešće griješi."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

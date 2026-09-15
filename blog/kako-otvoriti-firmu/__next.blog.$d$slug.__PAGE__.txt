@@ -1,0 +1,243 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T4cf3,<p>Kako otvoriti firmu u Hrvatskoj? Najčešće se osniva društvo s ograničenom odgovornošću (d.o.o.) ili jednostavno društvo s ograničenom odgovornošću (j.d.o.o.). Osnivački akt sklapate kod javnog bilježnika ili online bez javnog bilježnika, putem sustava START ili modula e-Osnivanje sudskog registra. Nakon uplate temeljnog kapitala i prijave trgovačkom sudu slijede rješenje o upisu, OIB društva, poslovni račun i prijave Poreznoj upravi, mirovinskom i zdravstvenom osiguranju te Registru stvarnih vlasnika.</p>
+<p>Koliko to traje? Zakon o sudskom registru propisuje da se rješenje o upisu mora donijeti u roku od pet radnih dana od podnošenja uredne i osnovane prijave, osim ako postoje opravdani razlozi za duži rok. Ukupno trajanje ovisi o tome koliko brzo pripremite dokumente, uplatite kapital i obavite prijave nakon upisa.</p>
+<p>U nastavku su kanali osnivanja, redoslijed koraka, dokumenti i obveze u prvim tjednima poslovanja. Obrt je poseban oblik poslovanja i upisuje se u Obrtni registar, pa ovdje nije detaljno obrađen.</p>
+<h2>D.o.o. ili j.d.o.o.: što osnivate</h2>
+<p>Oba oblika su trgovačka društva u kojima članovi u pravilu ne odgovaraju za obveze društva. Razlike iz Zakona o trgovačkim društvima:</p>
+<table>
+<thead>
+<tr>
+<th>Pitanje</th>
+<th>D.o.o.</th>
+<th>J.d.o.o.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Najniži temeljni kapital</td>
+<td>2.500 eura</td>
+<td>1 euro</td>
+</tr>
+<tr>
+<td>Uplata prije upisa</td>
+<td>najmanje četvrtina uloga u novcu</td>
+<td>cijeli kapital, samo u novcu</td>
+</tr>
+<tr>
+<td>Broj članova</td>
+<td>nije ograničen tim člankom</td>
+<td>najviše pet</td>
+</tr>
+<tr>
+<td>Članovi uprave</td>
+<td>nije ograničeno člankom 390.a</td>
+<td>jedan</td>
+</tr>
+<tr>
+<td>Osnivački akt</td>
+<td>društveni ugovor ili izjava o osnivanju</td>
+<td>obrazac zapisnika koji sastavlja javni bilježnik ili propisani obrazac za osnivanje na daljinu</td>
+</tr>
+</tbody>
+</table>
+<p>J.d.o.o. mora u zakonske rezerve unositi četvrtinu dobiti umanjene za gubitak iz prethodne godine. Tvrtka j.d.o.o. mora sadržavati oznaku „j.d.o.o.". Kad j.d.o.o. poveća temeljni kapital na 2.500 eura ili više, na njega se prestaju primjenjivati posebna pravila za j.d.o.o., a smije zadržati postojeću tvrtku.</p>
+<p>Kod d.o.o. ulog se može uplatiti i unosom stvari i prava, ali se takav ulog mora u cijelosti unijeti prije upisa u sudski registar. Nominalni iznos poslovnog udjela u d.o.o. ne može biti manji od 10 eura i mora biti višekratnik broja deset.</p>
+<h2>Prije osnivanja: odluke koje morate donijeti</h2>
+<h3>Naziv (tvrtka)</h3>
+<p>Tvrtka je ime pod kojim društvo posluje. Prema Zakonu o trgovačkim društvima, tvrtka uz naznaku imena sadrži naznaku predmeta poslovanja i oznaku oblika („d.o.o." ili „j.d.o.o."). Ne smije stvarati zabunu o predmetu poslovanja ni o povezanosti s drugim društvom, niti vrijeđati tuđa prava. Prije prijave provjerite u sudskom registru postoji li slična tvrtka. Gov.hr navodi da se u zahtjevu može predložiti više varijanti imena.</p>
+<h3>Sjedište i djelatnosti</h3>
+<p>Odredite adresu sjedišta i djelatnosti koje ćete upisati. Ako za neku djelatnost poseban propis traži suglasnost ili dozvolu, Zakon o sudskom registru propisuje da se upis te djelatnosti provodi tek na temelju te suglasnosti ili dozvole.</p>
+<h3>Članovi, udjeli i uprava</h3>
+<p>Odlučite tko su osnivači, kolike su udjele preuzeli i tko je direktor. Za domaće osnivače osnivački akt sadrži OIB. Kod e-osnivanja svaki osnivač mora imati hrvatski OIB, a građanin EGP-a bez OIB-a preusmjerava se na Poreznu upravu, koja ga izdaje. Za strane osnivače kod javnog bilježnika unaprijed provjerite koje podatke i isprave trebate.</p>
+<h3>Kanal osnivanja</h3>
+<p>Kanal ovisi o državljanstvu, prebivalištu, vrsti uloga i o tome želite li javnog bilježnika. Pregled je u sljedećem poglavlju.</p>
+<h2>Kanali osnivanja firme</h2>
+<h3>1. Javni bilježnik i sustav eNotar</h3>
+<p>Klasičan put je sastavljanje društvenog ugovora (više osnivača) ili izjave o osnivanju (jedan osnivač) kod javnog bilježnika. Za d.o.o. se sklapa kao javnobilježnički akt ili privatna isprava koju potvrdi javni bilježnik. Za j.d.o.o. javni bilježnik sastavlja propisani obrazac zapisnika.</p>
+<p>Zakon o trgovačkim društvima i Zakon o sudskom registru dopuštaju da se te isprave sastave u elektroničkom obliku i uz nazočnost na daljinu, putem sredstava elektroničke komunikacije (videoveza i slično). Javni bilježnik tada provjerava identitet elektroničkom identifikacijom.</p>
+<p>Javni bilježnik prijavu za upis šalje sudu elektronički. Od 1. travnja 2025. Pravilnik o načinu upisa u sudski registar uređuje pokretanje postupka putem sustava eNotar Hrvatske javnobilježničke komore.</p>
+<p>Ovaj kanal koriste i osnivači koji ne mogu koristiti START ni e-Osnivanje, primjerice državljani trećih zemalja ili pravne osobe kao osnivači.</p>
+<h3>Što je bilo s e-Tvrtkom?</h3>
+<p>E-Tvrtka je bio sustav preko kojeg su javni bilježnici i HITRO.HR uredi elektronički slali prijave za osnivanje d.o.o. trgovačkom sudu. Izmjenama Pravilnika o načinu upisa u sudski registar (NN 56/25) odredbe o e-Tvrtki brisane su s učinkom od 1. lipnja 2026., a elektronička prijava putem javnog bilježnika ide kroz sustav eNotar. Ako negdje pročitate uputu da se firma otvara „preko e-Tvrtke", provjerite je li ažurna.</p>
+<h3>2. START</h3>
+<p>START je informacijski sustav za elektroničko pokretanje poslovanja za d.o.o., j.d.o.o. i obrt, bez javnog bilježnika. Koristi se od kuće, a Fina ima i START Point lokacije u pojedinim poslovnicama s računalom i čitačem kartica.</p>
+<p><strong>Tko ga može koristiti:</strong> punoljetni hrvatski državljanin s prijavljenim prebivalištem ili boravištem u Hrvatskoj i važećom osobnom iskaznicom. Svi sudionici trebaju aktivan korisnički pretinac u sustavu e-Građani.</p>
+<p><strong>Što treba:</strong> za d.o.o. i j.d.o.o. vjerodajnica visoke razine sigurnosti koja omogućuje kvalificirani elektronički potpis, primjerice elektronička osobna iskaznica ili Finin certifikat na kriptouređaju, te bankovna kartica za uplatu kapitala i pristojbi.</p>
+<p><strong>Što obuhvaća:</strong> obvezno upis društva u sudski registar i Registar poslovnih subjekata Državnog zavoda za statistiku. Opcionalno u istom postupku možete odabrati upis u registar obveznika PDV-a, zahtjev za otvaranje računa u banci, registraciju u sustavu HZMO-a i upis u Registar stvarnih vlasnika.</p>
+<h3>3. E-osnivanje preko sudskog registra</h3>
+<p>Modul e-Osnivanje sustava sudskog registra omogućuje osnivanje d.o.o. i j.d.o.o. na daljinu bez javnog bilježnika, kad se temeljni kapital uplaćuje u novcu. Prijava se podnosi isključivo elektronički, a osnivački akt sklapa se na propisanim obrascima.</p>
+<p>Prema korisničkim uputama sudskog registra, e-osnivanje nije omogućeno:</p>
+<ul>
+<li>na temelju punomoći</li>
+<li>kad je predlagatelj pravna osoba</li>
+<li>državljanima izvan Europskog gospodarskog prostora</li>
+<li>ako društvo prema zakonu mora imati nadzorni odbor</li>
+</ul>
+<p>Osnivači i direktori mogu biti iz Hrvatske ili drugih država EU-a i EGP-a. Prijava se potpisuje kvalificiranim elektroničkim potpisom, a svi sudionici redom potpisuju dokumentaciju. Kapital i sudske pristojbe plaćaju se karticom. Prema uputama, prijava koja nije dovršena u roku od 60 dana zatvara se.</p>
+<p>Ako sud posumnja u identitet, poslovnu sposobnost ili ovlasti sudionika, može zatražiti da se osobno pojave pred javnim bilježnikom radi provjere.</p>
+<h3>4. HITRO.HR</h3>
+<p>HITRO.HR uredi u poslovnicama Fine pružaju informacije o dokumentaciji i pomažu u postupku osnivanja trgovačkog društva i upisa promjena. Ministarstvo pravosuđa u 2026. godini i dalje navodi HITRO.HR među kanalima elektroničke komunikacije sa sudskim registrom.</p>
+<h3>Koji kanal odabrati</h3>
+<table>
+<thead>
+<tr>
+<th>Situacija</th>
+<th>Mogući kanali</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hrvatski državljanin s prebivalištem u RH, eOI ili certifikat</td>
+<td>START, e-Osnivanje, javni bilježnik</td>
+</tr>
+<tr>
+<td>Državljanin EU/EGP-a</td>
+<td>e-Osnivanje, javni bilježnik</td>
+</tr>
+<tr>
+<td>Državljanin treće zemlje</td>
+<td>javni bilježnik</td>
+</tr>
+<tr>
+<td>Osnivač je pravna osoba</td>
+<td>javni bilježnik</td>
+</tr>
+<tr>
+<td>Ulog u stvarima i pravima</td>
+<td>javni bilježnik</td>
+</tr>
+<tr>
+<td>Osnivanje preko punomoćnika</td>
+<td>javni bilježnik (punomoć ovjerena kod javnog bilježnika)</td>
+</tr>
+</tbody>
+</table>
+<h2>Kako otvoriti d.o.o. korak po korak</h2>
+<ol>
+<li><strong>Odluka o obliku.</strong> D.o.o. ili j.d.o.o., osnivači, udjeli, direktor.</li>
+<li><strong>Provjera naziva</strong> u sudskom registru.</li>
+<li><strong>Priprema podataka:</strong> OIB osnivača i direktora, sjedište, djelatnosti, iznos kapitala.</li>
+<li><strong>Osnivački akt:</strong> kod javnog bilježnika (uključujući na daljinu) ili na propisanom obrascu u START-u ili e-Osnivanju.</li>
+<li><strong>Uplata temeljnog kapitala.</strong> Kod javnog bilježnika poslovni udjeli uplaćuju se na račun društva kod banke u Hrvatskoj ili u polog na poseban račun javnog bilježnika. Banka ili javni bilježnik izdaje potvrdu da će društvo moći slobodno raspolagati uplaćenim iznosom nakon upisa. Kod e-osnivanja kapital se uplaćuje karticom na privremeni račun i prenosi na poslovni račun društva nakon osnivanja.</li>
+<li><strong>Prijava za upis u sudski registar</strong> s prilozima. Gov.hr uz prijavu navodi i izjavu o nepostojanju nepodmirenih dugovanja.</li>
+<li><strong>Rješenje trgovačkog suda.</strong> Rok je pet radnih dana od uredne i osnovane prijave. Ako prijava nije uredna, rok teče ispočetka od predaje ispravljene prijave.</li>
+<li><strong>OIB društva i razvrstavanje po NKD-u.</strong> Kod e-osnivanja uz rješenje se dostavlja potvrda Porezne uprave o OIB-u, a prijava se automatski šalje Državnom zavodu za statistiku radi razvrstavanja po djelatnosti. Kod drugih kanala gov.hr navodi zahtjev DZS-u za obavijest o razvrstavanju.</li>
+<li><strong>Poslovni račun</strong> u banci i prijenos kapitala.</li>
+<li><strong>Registar stvarnih vlasnika:</strong> upis najkasnije u roku od 30 dana od osnivanja.</li>
+<li><strong>Porezna uprava:</strong> prijava u registar poreznih obveznika i, ako je potrebno, zahtjev za upis u registar obveznika PDV-a.</li>
+<li><strong>HZMO i HZZO:</strong> prijava o početku poslovanja obveznika plaćanja doprinosa i prijave osiguranih osoba (gov.hr navodi obrasce M-11P i M-1P).</li>
+<li><strong>Adresa e-pošte u sudskom registru:</strong> zahtjev za upis barem jedne adrese e-pošte najkasnije u roku od tri mjeseca od upisa osnivanja.</li>
+<li><strong>Knjigovodstvo:</strong> ugovor s knjigovodstvenim servisom ili zaposlenim računovođom prije prvih poslovnih događaja.</li>
+</ol>
+<h2>Dokumenti za osnivanje firme</h2>
+<h3>Za osnivanje</h3>
+<ul>
+<li>osobni dokumenti i OIB osnivača i članova uprave (za strane osobe odgovarajući identifikacijski podaci)</li>
+<li>osnivački akt: društveni ugovor, izjava o osnivanju ili obrazac zapisnika za j.d.o.o.</li>
+<li>prijava za upis u sudski registar</li>
+<li>potvrda o uplati temeljnog kapitala</li>
+<li>izjava o nepostojanju nepodmirenih dugovanja</li>
+<li>suglasnost ili dozvola nadležnog tijela, ako je djelatnost traži</li>
+<li>za strane osnivače pravne osobe: izvadak iz stranog registra (Zakon o sudskom registru traži da izvadak iz registra ne bude stariji od 30 dana od podnošenja prijave)</li>
+<li>punomoć ovjerena kod javnog bilježnika, ako osnivača zastupa punomoćnik</li>
+</ul>
+<h3>Nakon upisa</h3>
+<p>Za prijavu Poreznoj upravi gov.hr navodi: rješenje trgovačkog suda, obavijest DZS-a o razvrstavanju, ugovor o najmu prostora sjedišta, ugovor s knjigovodstvenim servisom, presliku potpisnog kartona i prijavu društva HZMO-u i HZZO-u. Za otvaranje računa gov.hr navodi presliku rješenja o upisu, obavijest DZS-a i presliku osobne iskaznice.</p>
+<h2>Troškovi osnivanja</h2>
+<p>Temeljni kapital nije trošak, nego novac društva kojim ono raspolaže nakon upisa. Troškovi osnivanja su:</p>
+<ul>
+<li><strong>sudske pristojbe</strong> za upis u sudski registar, prema Zakonu o sudskim pristojbama</li>
+<li><strong>nagrada i troškovi javnog bilježnika</strong>, ako ga koristite</li>
+<li><strong>troškovi nakon upisa</strong>: poslovni račun, certifikati za e-usluge i knjigovodstvo</li>
+</ul>
+<p>Ministarstvo pravosuđa u travnju 2026. navodi da se za elektroničke prijave u sudski registar plaća upola manja sudska pristojba. START i e-Osnivanje ne zahtijevaju javnog bilježnika. Iznose pristojbi i nagrada provjerite na dan osnivanja kod suda, javnog bilježnika ili u samom sustavu, jer ovise o kanalu i vrsti upisa.</p>
+<h2>Koliko traje osnivanje firme</h2>
+<p>Trajanje se sastoji od nekoliko dijelova:</p>
+<ul>
+<li><strong>priprema:</strong> odluke o obliku, nazivu, članovima i djelatnostima te pribavljanje OIB-a i vjerodajnica</li>
+<li><strong>sklapanje osnivačkog akta i uplata kapitala:</strong> ovisi o terminu kod javnog bilježnika ili o tome kad svi sudionici potpišu dokumente u sustavu</li>
+<li><strong>odlučivanje suda:</strong> pet radnih dana od uredne prijave, prema Zakonu o sudskom registru</li>
+<li><strong>koraci nakon upisa:</strong> račun, Porezna uprava, osiguranja, registar stvarnih vlasnika</li>
+</ul>
+<p>Fina za START navodi da se postupak odvija „u roku od svega nekoliko radnih dana". Najčešći razlog kašnjenja je neuredna prijava, jer se tada rok suda računa od predaje ispravljene prijave.</p>
+<h2>Firma sa stranim osnivačem</h2>
+<p>Osnivači i direktori iz EU-a i EGP-a mogu koristiti e-Osnivanje, uz uvjet da i predlagatelj bude osoba iz EU-a ili EGP-a. Državljani trećih zemalja firmu osnivaju preko javnog bilježnika. Zakon o trgovačkim društvima za strane osnivače traži odgovarajuće identifikacijske podatke, a za e-osnivanje je hrvatski OIB obavezan.</p>
+<p>Vlasništvo u firmi i pravo na boravak i rad u Hrvatskoj odvojena su pitanja. Osnivanje firme samo po sebi ne daje strancu pravo na boravak ni na rad, pa to treba posebno provjeriti prije osnivanja.</p>
+<h2>Kontrolni popis</h2>
+<ul>
+<li>oblik društva i raspodjela udjela dogovoreni</li>
+<li>naziv provjeren u sudskom registru</li>
+<li>OIB ili identifikacijski podaci za sve osnivače i direktora</li>
+<li>odabran kanal (javni bilježnik, START, e-Osnivanje)</li>
+<li>vjerodajnica i kvalificirani elektronički potpis, ako osnivate online</li>
+<li>sredstva za temeljni kapital i pristojbe</li>
+<li>dozvole za djelatnosti koje ih traže</li>
+<li>adresa sjedišta s pravom korištenja</li>
+<li>knjigovodstveni servis dogovoren prije upisa</li>
+<li>plan prijava nakon upisa: račun, Porezna uprava, HZMO i HZZO, Registar stvarnih vlasnika, e-pošta u sudskom registru</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Odabir j.d.o.o. samo zbog kapitala od 1 euro.</strong> J.d.o.o. ima najviše pet članova i jednog direktora te obvezne rezerve iz dobiti. Za veće planove d.o.o. može biti prikladniji od početka.</li>
+<li><strong>Pogrešan kanal.</strong> Državljanin treće zemlje ili osnivanje preko punomoćnika ne može ići kroz e-Osnivanje, pa se gubi vrijeme.</li>
+<li><strong>Neuredna prijava.</strong> Rok suda od pet radnih dana teče tek od uredne prijave.</li>
+<li><strong>Zaboravljen Registar stvarnih vlasnika.</strong> Rok je 30 dana od osnivanja i vrijedi i za jednočlani j.d.o.o.</li>
+<li><strong>Propušten upis adrese e-pošte u sudski registar.</strong> Zahtjev se podnosi najkasnije tri mjeseca od upisa osnivanja.</li>
+<li><strong>Upute o e-Tvrtki koje više ne vrijede.</strong> Od lipnja 2026. elektroničke prijave javnih bilježnika idu kroz eNotar.</li>
+<li><strong>Knjigovodstvo tek nakon prvih računa.</strong> Poslovne događaje treba evidentirati od početka.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Što je e-osnivanje?</h3>
+<p>E-osnivanje je modul sudskog registra za osnivanje d.o.o. i j.d.o.o. na daljinu bez javnog bilježnika, kad se kapital uplaćuje u novcu. Dostupan je državljanima Hrvatske i drugih država EU-a i EGP-a s odgovarajućom vjerodajnicom i kvalificiranim elektroničkim potpisom.</p>
+<h3>Koristi li se još e-Tvrtka?</h3>
+<p>Odredbe Pravilnika o načinu upisa u sudski registar o sustavu e-Tvrtka brisane su s učinkom od 1. lipnja 2026. Javni bilježnici prijave elektronički šalju putem sustava eNotar.</p>
+<h3>Kako otvoriti d.o.o. bez javnog bilježnika?</h3>
+<p>Putem sustava START, ako ste hrvatski državljanin s prebivalištem ili boravištem u Hrvatskoj, ili putem e-Osnivanja u sudskom registru, ako ste državljanin EU-a ili EGP-a. Osnivački akt tada se sklapa na propisanim obrascima, a kapital se uplaćuje u novcu.</p>
+<h3>Koliko traje osnivanje d.o.o.?</h3>
+<p>Sud mora donijeti rješenje u roku od pet radnih dana od uredne i osnovane prijave. Prije toga treba pripremiti dokumente i uplatiti kapital, a nakon upisa slijede prijave koje traju ovisno o vašoj brzini i instituciji.</p>
+<h3>Mora li cijeli temeljni kapital biti uplaćen prije upisa?</h3>
+<p>Za d.o.o. ne: svaki osnivač prije upisa uplaćuje najmanje četvrtinu uloga u novcu, a ukupne uplate u novcu ne smiju biti manje od četvrtine temeljnog kapitala. Za j.d.o.o. da: prijava se podnosi tek kad su svi udjeli potpuno uplaćeni.</p>
+<h3>Može li direktor biti jedini osnivač?</h3>
+<p>Može. Kad društvo osniva jedan osnivač, umjesto društvenog ugovora daje izjavu o osnivanju, a u praksi često sam preuzima i ulogu direktora. Takvo društvo i dalje mora upisati stvarnog vlasnika u Registar stvarnih vlasnika.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Pomažemo odabrati oblik i kanal osnivanja, pripremiti dokumente i složiti redoslijed prijava nakon upisa, uz organizaciju knjigovodstva, zaštite na radu i medicine rada kad zaposlite prve radnike. Više o tome na stranici <a href="/admin-podrska-pregled/usluge/osnivanje-firme/">osnivanje firme</a>, a za svoj slučaj javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/546/zakon-o-trgovackim-drustvima">Zakon o trgovačkim društvima, NN 111/93 do 136/24</a> (članci 10., 13., 14., 387., 389., 390. i 390.a)</li>
+<li><a href="https://www.zakon.hr/z/271/zakon-o-sudskom-registru">Zakon o sudskom registru, NN 1/95 do 123/23</a> (članci 38.b, 52.a do 52.f i 53.)</li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_56_746.html">Pravilnik o izmjenama i dopunama Pravilnika o načinu upisa u sudski registar, NN 56/25</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2019_05_53_1016.html">Pravilnik o Registru stvarnih vlasnika, NN 53/19</a> i <a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2020_01_1_11.html">izmjene NN 1/20</a></li>
+<li><a href="https://gov.hr/hr/osnivanje-drustva-s-ogranicenom-odgovornoscu/1358">gov.hr: Osnivanje društva s ograničenom odgovornošću</a></li>
+<li><a href="https://www.fina.hr/javne-usluge/start">Fina: START</a> i <a href="https://start.gov.hr">START portal</a></li>
+<li><a href="https://esudreg.pravosudje.hr/assets/eOsnivanje%20-%20Korisnicke%20upute%20HR.pdf">Sudski registar: Korisničke upute za osnivanje trgovačkog društva na daljinu</a></li>
+<li><a href="https://www.fina.hr/javne-usluge/hitro.hr">Fina: HITRO.HR</a></li>
+<li><a href="https://mpudt.gov.hr/vijesti-8/digitalizacija-sudskog-registra-86-prijava-u-sudski-registar-podnosi-se-elektronickim-putem/30781?lang=hr">Ministarstvo pravosuđa, uprave i digitalne transformacije: Digitalizacija sudskog registra (13. 4. 2026.)</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Kako otvoriti firmu u Hrvatskoj: koraci, dokumenti i trajanje\",\"description\":\"Kako otvoriti firmu u Hrvatskoj: izbor d.o.o. ili j.d.o.o., osnivanje preko javnog bilježnika, START-a ili e-osnivanja, dokumenti, redoslijed koraka i rokovi.\",\"datePublished\":\"2027-04-12\",\"dateModified\":\"2027-04-12\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/kako-otvoriti-firmu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Kako otvoriti firmu u Hrvatskoj: koraci, dokumenti i trajanje"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Kako otvoriti firmu u Hrvatskoj: izbor d.o.o. ili j.d.o.o., osnivanje preko javnog bilježnika, START-a ili e-osnivanja, dokumenti, redoslijed koraka i rokovi."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","12. travnja 2027."]}],null,["$","span",null,{"children":[12," min čitanja"]}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"12. travnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Osnivanje firme"}],["$","p",null,{"children":"Obrt, j.d.o.o. ili d.o.o.: odabir oblika, dokumentacija, prve prijave i plan razvoja firme."}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kako otvoriti firmu u Hrvatskoj: koraci, dokumenti i trajanje"}],["$","meta","1",{"name":"description","content":"Kako otvoriti firmu u Hrvatskoj: izbor d.o.o. ili j.d.o.o., osnivanje preko javnog bilježnika, START-a ili e-osnivanja, dokumenti, redoslijed koraka i rokovi."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/kako-otvoriti-firmu/"}],["$","meta","4",{"property":"og:title","content":"Kako otvoriti firmu u Hrvatskoj: koraci, dokumenti i trajanje"}],["$","meta","5",{"property":"og:description","content":"Kako otvoriti firmu u Hrvatskoj: izbor d.o.o. ili j.d.o.o., osnivanje preko javnog bilježnika, START-a ili e-osnivanja, dokumenti, redoslijed koraka i rokovi."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/kako-otvoriti-firmu/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-04-12"}],["$","meta","13",{"property":"article:modified_time","content":"2027-04-12"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Kako otvoriti firmu u Hrvatskoj: koraci, dokumenti i trajanje"}],["$","meta","16",{"name":"twitter:description","content":"Kako otvoriti firmu u Hrvatskoj: izbor d.o.o. ili j.d.o.o., osnivanje preko javnog bilježnika, START-a ili e-osnivanja, dokumenti, redoslijed koraka i rokovi."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

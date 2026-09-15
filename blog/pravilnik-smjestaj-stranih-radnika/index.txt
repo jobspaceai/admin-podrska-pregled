@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","pravilnik-smjestaj-stranih-radnika",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","pravilnik-smjestaj-stranih-radnika","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:T3b6e,<p>Zaseban „pravilnik o smještaju stranih radnika" u Hrvatskoj ne postoji. Kad poslodavci traže taj propis, zapravo traže uvjete primjerenog smještaja koji su od 30. travnja 2026. propisani u Pravilniku o izmjenama i dopunama Pravilnika o boravku državljana trećih zemalja u Republici Hrvatskoj (NN 43/2026). Zakonska osnova je članak 103.f Zakona o strancima.</p>
+<p>Taj pravilnik prvi put brojkama određuje minimalnu kvadraturu, najveći broj osoba u stanu i kući, obveznu opremu i dokaze koje prilažete MUP-u. Uvjeti vrijede za radnike iz trećih zemalja kojima poslodavac osigurava smještaj ili je posrednik u osiguravanju smještaja, te za sezonske radnike.</p>
+<p>U nastavku su uvjeti koje stan ili kuća moraju ispuniti, dokumenti za MUP i tijela koja provjeravaju smještaj.</p>
+<h2>Postoji li pravilnik o smještaju stranih radnika</h2>
+<p>Pravila o smještaju stranih radnika nalaze se u dva propisa:</p>
+<ol>
+<li><strong>Zakon o strancima</strong> (NN 133/20, 114/22, 151/22, 40/25, 55/26). Članak 103.f određuje da smještaj koji osigurava poslodavac mora biti primjeren. Članak 104. isto propisuje za sezonske radnike.</li>
+<li><strong>Pravilnik o boravku državljana trećih zemalja u Republici Hrvatskoj</strong> (NN 20/22, 155/22, 43/26). Članci 46. do 50. razrađuju tehničke uvjete, najamninu i dokaze, a članak 77. dokumente za prijavu boravišta.</li>
+</ol>
+<p>Pravilnik je donio ministar unutarnjih poslova, uz prethodnu suglasnost ministara nadležnih za prostorno uređenje i graditeljstvo, rad, zdravstvo te vanjske i europske poslove.</p>
+<p>Kad netko traži „zakon o smještaju stranih radnika", odgovor je isti. Posebnog zakona nema, a osnova je Zakon o strancima.</p>
+<p>Postoji i Pravilnik o odgovarajućem smještaju (NN 28/2019), koji se ponekad miješa s ovim temama. On je donesen na temelju Zakona o tržištu rada i odnosi se na situaciju kad Hrvatski zavod za zapošljavanje nezaposlenoj osobi nudi posao izvan mjesta stanovanja. S dozvolama za boravak i rad stranih radnika nije povezan.</p>
+<h3>Što se promijenilo 2025. i 2026.</h3>
+<ul>
+<li><strong>Ožujak 2025. (NN 40/25):</strong> u Zakon o strancima uveden je članak 103.f o primjerenom smještaju. Zakon je propisao da najamnina ne smije biti previsoka u odnosu na neto primitke radnika i da se ne smije automatski odbijati od plaće. Tehničke uvjete trebao je propisati pravilnik.</li>
+<li><strong>Travanj 2026. (NN 43/26):</strong> pravilnik je objavljen 22. travnja 2026. i stupio je na snagu 30. travnja 2026. Donio je kvadraturu, broj osoba, opremu, granicu najamnine od 30 % neto plaće i Obrazac 17a.</li>
+<li><strong>Svibanj 2026. (NN 55/26):</strong> izmjene Zakona o strancima na snazi su od 4. lipnja 2026. Obveza primjerenog smještaja sada izričito vrijedi i kod produljenja dozvole. Rok u kojem poslodavac policiji javlja promjenu primjerenosti smještaja je 15 dana.</li>
+</ul>
+<p>Izmjene zakona iz 2026. nalažu ministru da Pravilnik o boravku uskladi sa zakonom u roku od šest mjeseci. Prije primjene zato provjerite je li u Narodnim novinama objavljena nova izmjena pravilnika.</p>
+<h2>Na koga se uvjeti odnose</h2>
+<p>Uvjeti primjerenog smještaja primjenjuju se u ovim slučajevima:</p>
+<ul>
+<li><strong>Dozvola za boravak i rad na temelju mišljenja HZZ-a</strong>, kad poslodavac osigurava smještaj ili posreduje u njemu. Od izmjena iz 2026. to vrijedi i za produljenje dozvole.</li>
+<li><strong>Sezonski radnici.</strong> Ako smještaj osigurava poslodavac, vrijede svi uvjeti, uključujući pravila o najamnini. Ako sezonski radnik sam osigurava smještaj, i dalje prilaže dokaz s podacima o površini, a prostor mora ispuniti uvjete o vrsti objekta i kvadraturi.</li>
+</ul>
+<p>Pravilnik se temelji na Zakonu o strancima, koji uređuje položaj državljana trećih zemalja. Na hrvatske državljane i državljane država EGP-a ne primjenjuje se.</p>
+<h3>Prijelazno razdoblje</h3>
+<p>Na radnike koji su 30. travnja 2026. već imali prijavljeno boravište odredbe o primjerenom smještaju ne primjenjuju se ako nastave boraviti na istom boravištu godinu dana od stupanja pravilnika na snagu. Isto vrijedi kod prijave boravišta na temelju produljene dozvole. Kod selidbe na novu adresu ta iznimka ne pomaže.</p>
+<h2>Pravilnik o smještaju stranih radnika: minimalni uvjeti</h2>
+<h3>Gdje radnici smiju biti smješteni</h3>
+<p>Primjeren smještaj može biti:</p>
+<ul>
+<li>u stanu u višestambenoj zgradi</li>
+<li>u manje složenoj zgradi s jednom ili dvije stambene jedinice</li>
+<li>u ugostiteljsko-turističkoj građevini namijenjenoj za smještaj, na koju ugostitelj ima pravo korištenja, ako se ne ugrožava osnovna djelatnost</li>
+<li>u kampu unutar zone ugostiteljsko-turističke namjene, za sezonske radnike, ako smješteni radnici zauzimaju najviše 3 % ležaja ukupnog kapaciteta kampa</li>
+<li>u građevini u vlasništvu poslodavca koja se uz gospodarsku namjenu koristi za smještaj radnika, ako ima građevinsku i uporabnu dozvolu u namjeni smještaja radnika i ako je adresa evidentirana u registru prostornih jedinica</li>
+<li>u privremenoj građevini na gradilištu, ako je akt za provedbu prostornog plana predvidio privremene građevine za boravak radnika</li>
+</ul>
+<p>Za kamp postoji posebno prijelazno pravilo od godinu dana za usklađenje s propisima o prostornom uređenju.</p>
+<h3>Kvadratura i broj osoba</h3>
+<ul>
+<li><strong>Najmanje 14 m² za prvu osobu i 6 m² za svaku sljedeću.</strong> U površinu ulaze prostor za spavanje, pripremu hrane i sanitarne prostorije.</li>
+<li><strong>U stanu najviše osam osoba</strong>, čak i kad je stan veći od izračunate kvadrature.</li>
+<li><strong>U kući (zgradi s jednom ili dvije stambene jedinice) najviše 10 radnika na svakih 150 m².</strong></li>
+</ul>
+<p>Primjer izračuna: za četiri radnika stan mora imati najmanje 32 m² (14 + 3 × 6). Za osam radnika, što je najviše u stanu, potrebno je najmanje 56 m².</p>
+<p>Pravilo o 14 m² i 6 m² ne primjenjuje se na smještaj u ugostiteljsko-turističkoj građevini.</p>
+<h3>Sanitarije, kuhinja i oprema</h3>
+<p>Primjeren smještaj mora:</p>
+<ol>
+<li>imati sanitarni čvor fizički odvojen od prostorija za boravak i spavanje</li>
+<li>imati tekuću vodu, struju i grijanje (grijanje nije obvezno u objektu u kojem radnici borave samo ljeti)</li>
+<li>imati dovoljno dnevnog svjetla i odgovarajuću umjetnu rasvjetu</li>
+<li>imati mogućnost prozračivanja</li>
+<li>biti opremljen namještajem (krevet, sjedenje, stol, ormar) i opremom za pripremu hrane (hladnjak, štednjak, sudoper), osim ako postoji zajednički prostor poput kantine</li>
+<li>ispunjavati propisane zahtjeve za električne i plinske instalacije</li>
+</ol>
+<p>Uz to, prostorije za spavanje muškaraca i žena moraju biti fizički odvojene, osim za članove obitelji. Oprema ne smije biti dotrajala ni oštećena. U stanu mora postojati najmanje jedan sanitarni čvor, a u kući najmanje jedan na svakih 150 m².</p>
+<h3>Suglasnost suvlasnika zgrade</h3>
+<p>Ako se u zgradi s četiri ili više posebnih dijelova u isti stan smješta više od četiri punoljetna radnika koji nisu u bliskom srodstvu, potrebna je pisana suglasnost suvlasnika zgrade. Isto pravilo vrijedi i kod prijave boravišta.</p>
+<h3>Najamnina</h3>
+<p>Kad poslodavac osigurava smještaj ili posreduje u njemu:</p>
+<ul>
+<li>najamnina mora biti primjerena plaći i ne smije biti veća od 30 % neto plaće</li>
+<li>najamnina se ne smije automatski ustegnuti iz plaće</li>
+<li>radnik mora dobiti ugovor o najmu ili izjavu poslodavca vlasnika nekretnine u kojoj su jasno navedeni uvjeti i iznos najamnine</li>
+<li>ako je smještaj besplatan, poslodavac radniku izdaje dokument s uvjetima smještaja</li>
+<li>primjeren smještaj osigurava se za vrijeme važenja ugovora o radu</li>
+</ul>
+<h2>Dokazi o smještaju koje traži MUP</h2>
+<p><strong>Uz zahtjev za dozvolu za boravak i rad</strong> dokaz o primjerenom smještaju je:</p>
+<ul>
+<li>ugovor o najmu ovjeren kod javnog bilježnika ili Porezne uprave, s iznosom najamnine i površinom prostora, ili</li>
+<li>izjava poslodavca koji je vlasnik nekretnine, s podacima o površini.</li>
+</ul>
+<p>Oba dokumenta moraju sadržavati <strong>broj osoba koje već borave u prostoru</strong>. Bez tog podatka ne može se utvrditi je li poštovano ograničenje kvadrature i broja osoba.</p>
+<p><strong>Obrazac 17a</strong> je izjava o primjerenom smještaju. Podnositelj zahtjeva njome potvrđuje da smještaj odgovara uvjetima pravilnika. Ne mora biti ovjeren kod javnog bilježnika. Kad radnik tek dolazi u Hrvatsku, uz zahtjev se prilaže Obrazac 17a, a ugovor ili izjava vlasnika prilažu se kod prijave boravišta.</p>
+<p><strong>Kod prijave boravišta</strong> radnik uz Obrazac 16a prilaže dokaz o pravu stanovanja, primjerice ovjereni ugovor o najmu ili izjavu poslodavca vlasnika. Za sezonske radnike i radnike iz članka 103.f prilaže se i Obrazac 17a. Boravište se ne može prijaviti na adresu sjedišta poslodavca, osim ako ta adresa ispunjava uvjete primjerenog smještaja. Adresa mora biti evidentirana u registru prostornih jedinica.</p>
+<p>Rok za prijavu boravišta za radnika na privremenom boravku je 15 dana od ulaska u Hrvatsku ili od promjene adrese (članak 178. Zakona o strancima, nakon izmjena iz 2026.).</p>
+<h2>Tko provjerava smještaj stranih radnika</h2>
+<ul>
+<li><strong>Policijska uprava ili postaja</strong> provjerava dokaze uz zahtjev za dozvolu i kod prijave boravišta. Prijava boravišta neće se izvršiti ako je na adresi prijavljeno više osoba nego što dopušta površina smještajne jedinice.</li>
+<li><strong>Terenska provjera MUP-a.</strong> Ako se utvrdi da radnik stvarno ne boravi na prijavljenoj adresi, boravište se odjavljuje po službenoj dužnosti.</li>
+<li><strong>Državni inspektorat</strong> obavlja inspekcijski nadzor nad smještajem sezonskih radnika i radnika s dozvolom na temelju mišljenja HZZ-a, kad smještaj osigurava poslodavac ili posreduje u njemu.</li>
+</ul>
+<p>Posljedice nisu samo prekršajne. Zakon o strancima predviđa da se zahtjev za dozvolu može odbiti ako je poslodavac dva ili više puta kažnjen zbog povrede odredbe o primjerenom smještaju.</p>
+<p>O promjeni primjerenosti smještaja poslodavac obavještava policijsku upravu ili postaju u roku od 15 dana. Za sezonske radnike zakon propisuje rok od osam dana.</p>
+<h2>Kontrolni popis prije potpisa i prijave</h2>
+<ul>
+<li>Izračunajte potrebnu površinu: 14 m² + 6 m² za svaku sljedeću osobu</li>
+<li>Provjerite najveći broj osoba: osam u stanu, 10 na 150 m² u kući</li>
+<li>Utvrdite koliko osoba već boravi na adresi</li>
+<li>Obiđite prostor: odvojen sanitarni čvor, grijanje, prozori, kuhinja, kreveti i ormari</li>
+<li>Provjerite je li adresa u registru prostornih jedinica</li>
+<li>Ako je zgrada s četiri ili više stanova i dolazi više od četiri radnika, pribavite suglasnost suvlasnika</li>
+<li>U ugovor upišite iznos najamnine, površinu i broj osoba koje već borave</li>
+<li>Ovjerite ugovor kod javnog bilježnika ili Porezne uprave</li>
+<li>Provjerite da najamnina nije veća od 30 % neto plaće</li>
+<li>Ispunite Obrazac 17a</li>
+<li>Pratite rokove za prijavu boravišta i obavijest policiji o promjeni smještaja</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Traženje „pravilnika o smještaju" kao posebnog propisa.</strong> Uvjeti su u Pravilniku o boravku državljana trećih zemalja, pa ih poslodavci ne pronađu ili se oslanjaju na neslužbene sažetke.</li>
+<li><strong>Računanje po sobi umjesto po ukupnoj površini.</strong> Pravilnik propisuje ukupnu kvadraturu stana i najveći broj osoba, a ne kvadraturu po sobi.</li>
+<li><strong>Zanemarivanje osoba koje već žive na adresi.</strong> Ugovor mora navesti broj osoba koje već borave u prostoru, a prijava se odbija ako je adresa prenapučena.</li>
+<li><strong>Ugovor bez ovjere ili bez podataka o površini i najamnini.</strong> Takav ugovor ne vrijedi kao dokaz o primjerenom smještaju.</li>
+<li><strong>Automatsko ustezanje najamnine iz plaće.</strong> Pravilnik to izričito zabranjuje.</li>
+<li><strong>Selidba bez obavijesti.</strong> Promjenu smještaja treba javiti policiji u propisanom roku, a novu adresu prijaviti.</li>
+<li><strong>Prijava boravišta na adresu sjedišta firme</strong> koja nije prostor za stanovanje.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Kako se točno zove pravilnik o smještaju stranih radnika 2026.?</h3>
+<p>Službeni naziv je Pravilnik o izmjenama i dopunama Pravilnika o boravku državljana trećih zemalja u Republici Hrvatskoj, NN 43/2026. Na snazi je od 30. travnja 2026. Uvjeti smještaja nalaze se u člancima 46. do 50.</p>
+<h3>Postoji li zakon o smještaju stranih radnika?</h3>
+<p>Ne postoji poseban zakon. Smještaj stranih radnika uređuje Zakon o strancima u člancima 103.f i 104., a pravilnik razrađuje tehničke uvjete i dokaze.</p>
+<h3>Koliko radnika smije živjeti u stanu od 50 m²?</h3>
+<p>Po pravilu 14 m² za prvu osobu i 6 m² za svaku sljedeću, u 50 m² mogu boraviti najviše sedam osoba (14 + 6 × 6 = 50 m²). U taj broj ubrajaju se i osobe koje već žive na adresi.</p>
+<h3>Vrijede li uvjeti i kad radnik sam nađe stan?</h3>
+<p>Za sezonskog radnika koji sam osigurava smještaj i dalje se traži dokaz o površini, a prostor mora ispunjavati uvjete o vrsti objekta i kvadraturi. Za ostale radnike pravilnik uvjete veže uz smještaj koji osigurava poslodavac ili u kojem posreduje.</p>
+<h3>Odnosi li se pravilnik na hrvatske radnike ili radnike iz EU-a?</h3>
+<p>Ne. Pravilnik se donosi na temelju Zakona o strancima i odnosi se na državljane trećih zemalja.</p>
+<h3>Tko dolazi u kontrolu smještaja?</h3>
+<p>Inspekcijski nadzor nad smještajem obavlja Državni inspektorat. Policija provjerava dokumentaciju kod dozvole i prijave boravišta, a može obaviti i terensku provjeru adrese.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Prije potpisa ugovora provjerimo ispunjava li smještaj koji ste pronašli uvjete pravilnika: površinu, broj osoba, opremu i dokumentaciju. Pripremimo podatke za ugovor i Obrazac 17a te pratimo prijavu boravišta za svakog radnika. U najmu nekretnina ne posredujemo. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/smjestaj-radnika/">smještaj za radnike</a>, a za konkretan slučaj javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/full/2026_04_43_511.html">Pravilnik o izmjenama i dopunama Pravilnika o boravku državljana trećih zemalja u Republici Hrvatskoj, NN 43/2026</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_55_692.html">Zakon o izmjenama i dopunama Zakona o strancima, NN 55/2026</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_545.html">Zakon o izmjenama i dopunama Zakona o strancima, NN 40/2025</a></li>
+<li><a href="https://www.zakon.hr/z/142/zakon-o-strancima">Zakon o strancima, pročišćeni tekst (NN 133/20, 114/22, 151/22, 40/25, 55/26), zakon.hr</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2019_03_28_587.html">Pravilnik o odgovarajućem smještaju, NN 28/2019</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Pravilnik o smještaju stranih radnika: što poslodavac mora osigurati\",\"description\":\"Pravilnik o smještaju stranih radnika ne postoji kao zaseban propis. Uvjeti su u Pravilniku o boravku (NN 43/26): kvadratura, broj osoba, sanitarije i dokazi za MUP.\",\"datePublished\":\"2026-11-02\",\"dateModified\":\"2026-11-02\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/pravilnik-smjestaj-stranih-radnika/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Pravilnik o smještaju stranih radnika: što poslodavac mora osigurati"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Pravilnik o smještaju stranih radnika ne postoji kao zaseban propis. Uvjeti su u Pravilniku o boravku (NN 43/26): kvadratura, broj osoba, sanitarije i dokazi za MUP."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","2. studenoga 2026."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19"]}],"$L1a"]}]}]]
+1b:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"2. studenoga 2026."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1a:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Smještaj radnika"}],["$","p",null,{"children":"Provjera uvjeta smještaja, ugovor o najmu i prijava boravišta radnika."}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+13:null
+17:[["$","title","0",{"children":"Pravilnik o smještaju stranih radnika: što poslodavac mora osigurati"}],["$","meta","1",{"name":"description","content":"Pravilnik o smještaju stranih radnika ne postoji kao zaseban propis. Uvjeti su u Pravilniku o boravku (NN 43/26): kvadratura, broj osoba, sanitarije i dokazi za MUP."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/pravilnik-smjestaj-stranih-radnika/"}],["$","meta","4",{"property":"og:title","content":"Pravilnik o smještaju stranih radnika: što poslodavac mora osigurati"}],["$","meta","5",{"property":"og:description","content":"Pravilnik o smještaju stranih radnika ne postoji kao zaseban propis. Uvjeti su u Pravilniku o boravku (NN 43/26): kvadratura, broj osoba, sanitarije i dokazi za MUP."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/pravilnik-smjestaj-stranih-radnika/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-11-02"}],["$","meta","13",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Pravilnik o smještaju stranih radnika: što poslodavac mora osigurati"}],["$","meta","16",{"name":"twitter:description","content":"Pravilnik o smještaju stranih radnika ne postoji kao zaseban propis. Uvjeti su u Pravilniku o boravku (NN 43/26): kvadratura, broj osoba, sanitarije i dokazi za MUP."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","22",{}]]

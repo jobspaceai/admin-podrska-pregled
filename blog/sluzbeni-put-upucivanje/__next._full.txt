@@ -1,0 +1,175 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","sluzbeni-put-upucivanje",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","sluzbeni-put-upucivanje","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:T3aff,<p>Službeni put je kratko putovanje radnika radi poslova njegova radnog mjesta, na primjer na sastanak, sajam ili obuku. Upućivanje znači da radnik u drugoj državi radi za vašeg klijenta ili u povezanom društvu, u okviru prekograničnog pružanja usluga. Ustupanje znači da radnika na rad drugom poslodavcu daje agencija za privremeno zapošljavanje ili, pod posebnim uvjetima, povezano društvo.</p>
+<p>Razlika nije samo u nazivu. Za upućivanje vrijede pravila države primateljice o plaći i uvjetima rada, obavijest o upućivanju i A1 potvrda. Za službeni put vrijede porezna pravila o putnom nalogu i dnevnicama. Naziv u putnom nalogu ne mijenja stvarne obveze.</p>
+<h2>Službeni put: radnik putuje poslom</h2>
+<p>Pravilnik o porezu na dohodak službenim putovanjem u inozemstvo smatra putovanje do 30 dana neprekidno iz Hrvatske u stranu državu i obratno, te putovanja između stranih država i unutar strane države. Dnevnica pokriva izdatke prehrane, pića i prijevoza u mjestu u koje je radnik upućen.</p>
+<p>Izdaci za službeni put obračunavaju se na temelju urednog i vjerodostojnog putnog naloga, uz priložene račune. Putni nalog sadrži osobito datum izdavanja, ime radnika, odredište, svrhu i trajanje putovanja, vrijeme polaska i povratka, podatke o prijevoznom sredstvu, potpis ovlaštene osobe, obračun troškova i izvješće s puta.</p>
+<h3>Dnevnice za inozemstvo</h3>
+<p>Prema Pravilniku o porezu na dohodak, neoporezivi iznos dnevnice za službeno putovanje u inozemstvo:</p>
+<ul>
+<li>za putovanje dulje od 12 sati dnevno iznosi do iznosa propisanog za korisnike državnog proračuna</li>
+<li>za putovanje od 8 do 12 sati iznosi do 50 % tog iznosa</li>
+<li>umanjuje se za 30 % ako je na teret poslodavca osiguran jedan obrok (ručak ili večera), odnosno za 60 % ako su osigurana dva obroka</li>
+</ul>
+<p>Iznose po državama propisuje Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji se financiraju iz sredstava državnog proračuna (NN 16/2024). Provjerite je li i dalje na snazi.</p>
+<h3>Poslovni put nije upućivanje, ali A1 ostaje</h3>
+<p>Prema portalu Your Europe, radnici koje šaljete u drugu državu EU-a na konferencije, sastanke, sajmove ili obuke nisu upućeni radnici. Na njih se ne primjenjuju pravila o upućivanju. Za socijalno osiguranje ipak treba, kad god je moguće unaprijed, obavijestiti nadležnu ustanovu i zatražiti A1 potvrdu.</p>
+<h2>Upućivanje radnika: rad za vašeg klijenta u drugoj državi</h2>
+<p>Prema članku 18. Zakona o radu, poslodavac može u okviru privremenog i povremenog prekograničnog pružanja usluga na ograničeno vrijeme uputiti radnika na rad u inozemstvo radi obavljanja ugovorenih poslova.</p>
+<h3>Ugovor o radu</h3>
+<p>Ako rad u inozemstvu traje dulje od četiri uzastopna tjedna, ugovor o radu ili pisana potvrda prije odlaska mora sadržavati i državu i trajanje rada, raspored radnog vremena, neradne dane i blagdane, valutu plaće, druga primanja za vrijeme rada u inozemstvu, poveznicu na nacionalnu mrežnu stranicu o upućivanju države primateljice te pravo i uvjete povratka.</p>
+<p>Za upućivanje kraće od četiri uzastopna tjedna radnik prije početka dobiva pisanu informaciju s tim podacima. Primjerak prijave na obvezno zdravstveno osiguranje tijekom rada u inozemstvu poslodavac uručuje radniku prije odlaska, ako ga je na to osiguranje dužan osigurati.</p>
+<h3>Uvjeti rada države primateljice</h3>
+<p>Pravila o upućivanju temelje se na Direktivi 96/71/EZ, izmijenjenoj Direktivom (EU) 2018/957. Prema portalu Your Europe, upućenom radniku jamčite uvjete rada države primateljice, među ostalim:</p>
+<ul>
+<li>najdulje radno vrijeme i najkraći odmor</li>
+<li>najkraći plaćeni godišnji odmor</li>
+<li>naknadu za rad sa svim obveznim sastavnim dijelovima</li>
+<li>zaštitu zdravlja i sigurnost na radu</li>
+<li>uvjete smještaja kad ga poslodavac osigurava</li>
+</ul>
+<p>Ako upućivanje traje dulje od 12 mjeseci, odnosno 18 mjeseci uz obrazloženu obavijest državi primateljici, radniku treba osigurati sve obvezne uvjete rada te države, uz iznimke koje ona propisuje.</p>
+<h3>Dnevnica za rad na terenu u inozemstvu</h3>
+<p>Porezni propis poznaje i dnevnicu za rad na terenu u inozemstvu. Prema Pravilniku o porezu na dohodak, ona se isplaćuje radniku izaslanom na rad odnosno raspoređenom na rad u inozemstvo po osnovi radnog odnosa s poslodavcem u Hrvatskoj. Ne odnosi se na ustupljene radnike. Dnevnice za službeni put, dnevnice za rad na terenu i naknada za odvojeni život međusobno se isključuju.</p>
+<h2>Ustupanje radnika: agencija ili povezano društvo</h2>
+<h3>Agencija za privremeno zapošljavanje</h3>
+<p>Prema Zakonu o radu, agencija za privremeno zapošljavanje na temelju ugovora o ustupanju radnika ustupa radnika korisniku za privremeno obavljanje poslova. Kad ustupa radnika korisniku u inozemstvu, ugovor o ustupanju sadrži i podatke o zakonodavstvu koje se primjenjuje na radni odnos i o pravima koja korisnik mora osigurati radniku.</p>
+<p>Pravila o upućivanju primjenjuju se i na radnike ustupljene preko agencija. Prema Your Europe, iznimka za kratka upućivanja do mjesec dana, koju države mogu propisati za plaću i godišnji odmor, ne vrijedi za agencijske radnike.</p>
+<h3>Povezano društvo</h3>
+<p>Unutar Hrvatske poslodavac može radnika privremeno ustupiti povezanom društvu najdulje šest mjeseci neprekidno, na temelju sporazuma povezanih poslodavaca i pisane suglasnosti radnika. Ako radnika šaljete u povezano društvo sa sjedištem u inozemstvu radi obavljanja ugovorenih poslova, potrebna je pisana suglasnost radnika. Za to vrijeme radnik se smatra upućenim radnikom u smislu Zakona o radu i pravila o koordinaciji socijalne sigurnosti.</p>
+<h2>Usporedba na jednom mjestu</h2>
+<table>
+<thead>
+<tr>
+<th>Pitanje</th>
+<th>Službeni put</th>
+<th>Upućivanje</th>
+<th>Ustupanje preko agencije</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Svrha</td>
+<td>sastanak, sajam, obuka, kratki poslovni zadatak</td>
+<td>rad za klijenta ili u povezanom društvu u drugoj državi</td>
+<td>rad kod korisnika, uz ugovor o ustupanju</td>
+</tr>
+<tr>
+<td>Obavijest u državi primateljici</td>
+<td>ne po pravilima o upućivanju</td>
+<td>da, prije početka ili najkasnije na početku</td>
+<td>da</td>
+</tr>
+<tr>
+<td>A1 potvrda</td>
+<td>da, za socijalno osiguranje</td>
+<td>da</td>
+<td>da</td>
+</tr>
+<tr>
+<td>Plaća prema pravilima države primateljice</td>
+<td>ne</td>
+<td>da</td>
+<td>da</td>
+</tr>
+<tr>
+<td>Dnevnica</td>
+<td>za službeni put</td>
+<td>za rad na terenu u inozemstvu</td>
+<td>ne odnosi se na ustupljene radnike</td>
+</tr>
+</tbody>
+</table>
+<h2>Prijave u državi primateljici</h2>
+<p>Prema Your Europe, obavijest o upućivanju šaljete tijelima države primateljice prije početka upućivanja, a najkasnije kad ono počne. Obavijest sadrži najmanje podatke o poslodavcu, broj upućenih radnika, kontakt osobe, adresu mjesta rada, očekivano trajanje s datumima početka i završetka te vrstu usluge. Države mogu tražiti i više. Upute su na nacionalnoj mrežnoj stranici o upućivanju svake države.</p>
+<h3>Njemačka: prijava Zollu i minimalna plaća</h3>
+<p>U Njemačkoj prijave upućenih radnika zaprima carinska uprava (Zoll). Prema Zollu, prijava se podnosi prije početka rada, putem portala Meldeportal-Mindestlohn. Obveza postoji za djelatnosti obuhvaćene propisima o minimalnoj plaći i upućivanju (MiLoG, AEntG) te za ustupanje radnika (AÜG). Među njima su graditeljstvo, ugostiteljstvo i smještaj, prijevoz putnika i čišćenje zgrada. Trajanje posla nije važno.</p>
+<p>Minimalna plaća u Njemačkoj, prema njemačkom Ministarstvu rada i socijalnih poslova, iznosi 13,90 eura bruto po satu od 1. siječnja 2026. i 14,60 eura bruto po satu od 1. siječnja 2027. U granama obuhvaćenima njemačkim zakonom o upućivanju (AEntG) mogu vrijediti i kolektivno ugovoreni minimalni uvjeti rada ili doprinosi blagajnama za godišnji odmor, pa za svoju djelatnost provjerite i njih.</p>
+<h3>Rad u Austriji: prijava ZKO 3 i BUAK</h3>
+<p>Za rad u Austriji upućivanje se prijavljuje prije početka rada obrascem ZKO 3 Središnjem koordinacijskom uredu (ZKO) pri austrijskom Ministarstvu financija. Prema službenoj austrijskoj platformi za upućivanje, Austrija nema zakonom propisanu minimalnu plaću. Najniža plaća u pravilu proizlazi iz kolektivnog ugovora za djelatnost i vrstu posla.</p>
+<p>U graditeljstvu vrijede i pravila zavoda BUAK (Bauarbeiter-Urlaubs- und Abfertigungskasse). Prema BUAK-u, prijave ZKO 3 smatraju se prvom prijavom BUAK-u. Za radnike iz trećih zemalja potrebna je i potvrda austrijske službe za zapošljavanje AMS.</p>
+<h2>Plaća i dnevnice upućenog radnika</h2>
+<p>Naknada upućenog radnika mora doseći minimum države primateljice. Važno je što se u taj minimum ubraja.</p>
+<p>Primjer je hrvatski Zakon o upućivanju radnika u Republiku Hrvatsku, kojim su prenesene direktive o upućivanju. Za radnike upućene u Hrvatsku propisuje da se troškovi putovanja, hrane i smještaja ne smatraju naknadom za rad. Dodatak karakterističan za upućivanje dio je naknade za rad, osim ako se isplaćuje kao naknada stvarnih troškova. Ako se ne može utvrditi koji je dio čega, smatra se da je cijeli iznos naknada troškova.</p>
+<p>Kako se dnevnice i dodaci računaju u drugoj državi, provjerite u njezinu propisu. Porezni tretman plaće za rad u inozemstvu ovisi i o ugovoru o izbjegavanju dvostrukog oporezivanja, pa ga provjerite s poreznim savjetnikom prije dužeg upućivanja.</p>
+<h2>Kontrolni popis prije slanja radnika u inozemstvo</h2>
+<ul>
+<li>Utvrdili ste je li riječ o službenom putu, upućivanju ili ustupanju.</li>
+<li>Za službeni put izdan je putni nalog.</li>
+<li>Za upućivanje ugovor o radu ili pisana informacija sadrže podatke iz članka 18. Zakona o radu.</li>
+<li>Zatražena je A1 potvrda od HZMO-a.</li>
+<li>Obavijest o upućivanju poslana je u državi primateljici prije početka rada.</li>
+<li>Plaća je usklađena s pravilima države primateljice, uključujući koji se dodaci ubrajaju u minimum.</li>
+<li>Za radnika iz treće zemlje provjereno je pravo na rad u državi primateljici.</li>
+<li>Praćeno je trajanje zbog pravila od 12 i 18 mjeseci te 24 mjeseca za A1.</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Rad kod klijenta vodi se kao službeni put.</strong> Odlučuje stvarni posao, ne naziv u putnom nalogu.</li>
+<li><strong>Isplaćuje se samo hrvatska plaća.</strong> Upućenom radniku jamči se naknada za rad države primateljice.</li>
+<li><strong>Dnevnice se automatski ubrajaju u minimalnu plaću.</strong> Naknade stvarnih troškova putovanja, hrane i smještaja ne ubrajaju se.</li>
+<li><strong>Obavijest u državi primateljici kasni.</strong> Obavijest se šalje najkasnije na početku upućivanja, a u Njemačkoj i Austriji prije početka rada.</li>
+<li><strong>Na službeni put ide se bez A1 potvrde.</strong> Za socijalno osiguranje A1 se traži i za poslovna putovanja.</li>
+<li><strong>Ustupljenom radniku isplaćuje se dnevnica za rad na terenu u inozemstvu.</strong> Pravilnik je izričito isključuje za ustupljene radnike.</li>
+<li><strong>Ne prati se trajanje.</strong> Nakon 12, odnosno 18 mjeseci radniku treba osigurati sve obvezne uvjete rada države primateljice, uz njezine iznimke.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Koliko dugo može trajati službeni put u inozemstvo?</h3>
+<p>Pravilnik o porezu na dohodak službenim putovanjem u inozemstvo smatra putovanje do 30 dana neprekidno. Dulji boravak radi rada treba procijeniti kao upućivanje ili rad na terenu.</p>
+<h3>Pripadaju li dnevnice za inozemstvo i upućenom radniku?</h3>
+<p>Upućenom radniku može se isplatiti dnevnica za rad na terenu u inozemstvu, ako je u radnom odnosu s hrvatskim poslodavcem i nije ustupljeni radnik. Dnevnice za službeni put, rad na terenu i naknada za odvojeni život međusobno se isključuju.</p>
+<h3>Treba li A1 potvrda za službeni put?</h3>
+<p>Prema Your Europe, poslovni put na sastanak ili sajam nije upućivanje, ali za socijalno osiguranje treba zatražiti A1 potvrdu. U Hrvatskoj je izdaje HZMO.</p>
+<h3>Što treba za rad u Austriji?</h3>
+<p>Prijava upućivanja obrascem ZKO 3 prije početka rada, plaća prema primjenjivom austrijskom kolektivnom ugovoru i A1 potvrda. U graditeljstvu vrijede i pravila BUAK-a, a za radnike iz trećih zemalja potvrda AMS-a.</p>
+<h3>Je li ustupanje radnika isto što i upućivanje?</h3>
+<p>Nije. Kod ustupanja radnik radi kod korisnika na temelju ugovora o ustupanju. Pravila o upućivanju ipak se primjenjuju i na agencijske radnike ustupljene u drugu državu.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Pomažemo razvrstati angažman u inozemstvu, pripremiti A1 dokumentaciju i provjeriti prijave i plaću u državi primateljici. Više na stranici <a href="/admin-podrska-pregled/usluge/a1-izaslanje/">A1 potvrda i izaslanje radnika</a>, a za konkretan projekt javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/c/podzakonski-propis/60043/pravilnik-o-porezu-na-dohodak-%E2%80%93-procisceni-tekst">Pravilnik o porezu na dohodak, pročišćeni tekst (NN 10/17 do 157/25), zakon.hr</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/full/2024_02_16_277.html">Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji se financiraju iz sredstava državnog proračuna, NN 16/2024</a></li>
+<li><a href="https://www.zakon.hr/z/307/Zakon-o-radu">Zakon o radu, pročišćeni tekst (NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23), zakon.hr</a></li>
+<li><a href="https://www.zakon.hr/z/2674/zakon-o-upucivanju-radnika-u-republiku-hrvatsku-i-prekogranicnoj-provedbi-odluka-o-novcanoj-kazni">Zakon o upućivanju radnika u Republiku Hrvatsku i prekograničnoj provedbi odluka o novčanoj kazni (NN 128/20, 114/22), zakon.hr</a></li>
+<li><a href="https://europa.eu/youreurope/business/hiring-managing-staff/cross-border-posted-workers/posting-staff-abroad/index_en.htm">Your Europe: Upućivanje radnika u drugu državu EU</a></li>
+<li><a href="https://www.mirovinsko.hr/hr/izdavanje-potvrda-a1-mjerodavno-zakonodavstvo-eu/384">HZMO: Izdavanje potvrda A1</a></li>
+<li><a href="https://www.zoll.de/DE/Fachthemen/Arbeit/Anmeldungen-bei-Entsendung/Anmeldung/anmeldung_node.html">Zoll: Prijave kod upućivanja (Anmeldung)</a></li>
+<li><a href="https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/fuenfte-mindestlohnanpassungsverordnung-milov5.html">BMAS: Peta uredba o prilagodbi minimalne plaće (MiLoV5)</a></li>
+<li><a href="https://www.entsendeplattform.at/en/minimum-wage">Austrijska platforma za upućivanje: minimalna plaća</a></li>
+<li><a href="https://www.entsendeplattform.at/en/formal-requirements/notification-requirements">Austrijska platforma za upućivanje: obveza prijave</a></li>
+<li><a href="https://buak.at/entsendungen/fuer-arbeitgeberinnen/">BUAK: Upućivanja, za poslodavce</a></li>
+<li><a href="https://www.entsendeplattform.at/en/formal-requirements/employment-permit">Austrijska platforma za upućivanje: dozvola za rad</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Službeni put, upućivanje ili ustupanje radnika: u čemu je razlika\",\"description\":\"Službeni put, upućivanje i ustupanje radnika u inozemstvo imaju različite obveze: prijave u državi primateljici, A1 potvrdu, plaću i dnevnice za inozemstvo.\",\"datePublished\":\"2027-07-26\",\"dateModified\":\"2027-07-26\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/sluzbeni-put-upucivanje/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Službeni put, upućivanje ili ustupanje radnika: u čemu je razlika"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Službeni put, upućivanje i ustupanje radnika u inozemstvo imaju različite obveze: prijave u državi primateljici, A1 potvrdu, plaću i dnevnice za inozemstvo."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","26. srpnja 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19"]}],"$L1a"]}]}]]
+19:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"26. srpnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1a:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"A1 i izaslanje radnika"}],["$","p",null,{"children":"A1 potvrde i prijave za rad vaših radnika u drugim državama EU."}],["$","$L2",null,{"href":"/usluge/a1-izaslanje/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+1b:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+13:null
+17:[["$","title","0",{"children":"Službeni put, upućivanje ili ustupanje radnika: u čemu je razlika"}],["$","meta","1",{"name":"description","content":"Službeni put, upućivanje i ustupanje radnika u inozemstvo imaju različite obveze: prijave u državi primateljici, A1 potvrdu, plaću i dnevnice za inozemstvo."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/sluzbeni-put-upucivanje/"}],["$","meta","4",{"property":"og:title","content":"Službeni put, upućivanje ili ustupanje radnika: u čemu je razlika"}],["$","meta","5",{"property":"og:description","content":"Službeni put, upućivanje i ustupanje radnika u inozemstvo imaju različite obveze: prijave u državi primateljici, A1 potvrdu, plaću i dnevnice za inozemstvo."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/sluzbeni-put-upucivanje/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-07-26"}],["$","meta","13",{"property":"article:modified_time","content":"2027-07-26"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Službeni put, upućivanje ili ustupanje radnika: u čemu je razlika"}],["$","meta","16",{"name":"twitter:description","content":"Službeni put, upućivanje i ustupanje radnika u inozemstvo imaju različite obveze: prijave u državi primateljici, A1 potvrdu, plaću i dnevnice za inozemstvo."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","22",{}]]

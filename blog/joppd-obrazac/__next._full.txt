@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","joppd-obrazac",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","joppd-obrazac","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+13:null
+17:[["$","title","0",{"children":"JOPPD obrazac: što je, kada se predaje i najčešće greške"}],["$","meta","1",{"name":"description","content":"JOPPD obrazac poslodavac predaje Poreznoj upravi na dan isplate plaće ili najkasnije sljedeći radni dan. Rokovi, ispravak, strani radnici i česte greške."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/joppd-obrazac/"}],["$","meta","4",{"property":"og:title","content":"JOPPD obrazac: što je, kada se predaje i najčešće greške"}],["$","meta","5",{"property":"og:description","content":"JOPPD obrazac poslodavac predaje Poreznoj upravi na dan isplate plaće ili najkasnije sljedeći radni dan. Rokovi, ispravak, strani radnici i česte greške."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/joppd-obrazac/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-11-02"}],["$","meta","13",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"JOPPD obrazac: što je, kada se predaje i najčešće greške"}],["$","meta","16",{"name":"twitter:description","content":"JOPPD obrazac poslodavac predaje Poreznoj upravi na dan isplate plaće ili najkasnije sljedeći radni dan. Rokovi, ispravak, strani radnici i česte greške."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]
+19:T3a8e,<p>JOPPD obrazac je izvješće kojim poslodavac Poreznoj upravi prijavljuje što je isplatio radnicima i drugim fizičkim osobama, koliko je obračunao poreza na dohodak i doprinosa te koje je neoporezive primitke isplatio. Puni naziv je Izvješće o primicima, porezu na dohodak te doprinosima za obvezna osiguranja, a oblik, sadržaj i rokove propisuje Pravilnik o porezu na dohodak.</p>
+<p>Osnovno pravilo za rok je jednostavno: JOPPD se podnosi na dan isplate ili najkasnije sljedeći radni dan. Iznimke postoje za neisplaćenu plaću, primitke u naravi i neoporezive primitke. Ako se podaci pokažu netočnima, obrazac se ne mijenja nego se podnosi novi JOPPD s oznakom ispravka ili dopune.</p>
+<p>U nastavku su pravila koja vrijede u 2026., prema pročišćenom tekstu Pravilnika o porezu na dohodak koji uključuje izmjene iz NN 16/25 i NN 157/25.</p>
+<h2>Što je JOPPD obrazac i što sadrži</h2>
+<p>JOPPD je jedinstveno izvješće. Podaci iz njega koriste se za potrebe Porezne uprave, ali i Središnjeg registra osiguranika. Zato greška u obrascu nije samo porezni problem.</p>
+<p>Obrazac ima dvije stranice.</p>
+<h3>Stranica A</h3>
+<p>Stranica A je zbirni dio. Na nju se upisuju:</p>
+<ul>
+<li>oznaka izvješća i vrsta izvješća</li>
+<li>podaci o podnositelju izvješća</li>
+<li>broj osoba i broj redaka sa stranice B</li>
+<li>ukupni iznosi obračunanog predujma poreza na dohodak</li>
+<li>ukupni iznosi doprinosa, odvojeno po vrstama</li>
+<li>ukupan iznos isplaćenih neoporezivih primitaka</li>
+</ul>
+<h3>Stranica B</h3>
+<p>Stranica B sadrži pojedinačne obračune, redak po redak. Za svaku osobu upisuju se, među ostalim, šifra općine ili grada prebivališta i rada, OIB, ime i prezime, oznaka stjecatelja primitka i oznaka primitka, sati rada, razdoblje na koje se isplata odnosi, iznos primitka, osnovica i doprinosi, dohodak, osobni odbitak, porezna osnovica, porez, neoporezivi primici, način isplate i iznos za isplatu. Svi stupci u retku moraju biti popunjeni, oznakom, iznosom ili nulom.</p>
+<h3>Oznaka izvješća</h3>
+<p>Oznaka izvješća ima oblik GGDDD: zadnje dvije znamenke godine i redni broj dana u godini. Svaki dan ima svoju oznaku i ona se za istog podnositelja ne može ponoviti kao izvorno izvješće. Ako se JOPPD podnosi nakon posljednjeg dana u mjesecu isplate, upisuje se oznaka posljednjeg dana u tom mjesecu.</p>
+<h3>Prilozi s oznakama</h3>
+<p>Oznake za stupce propisane su u šest priloga obrasca. Prilozi 2., 4. i 6. izmijenjeni su s učinkom od 1. siječnja 2026. (NN 157/25). Program za obračun plaće mora koristiti važeće oznake.</p>
+<h2>Tko predaje JOPPD i kako</h2>
+<p>JOPPD podnose isplatitelji primitaka, obveznici obračunavanja doprinosa ili sami porezni obveznici. Za poslodavca to znači da obrazac podnosi za svaku isplatu plaće, naknade plaće, oporezivih i neoporezivih primitaka radnicima, ali i za primitke osoba koje nisu radnici, primjerice kod drugog dohotka.</p>
+<p>Ako se izvješće podnosi za više od tri osobe ili je podnositelj korisnik sustava ePorezna, podaci se obvezno dostavljaju elektronički, putem ePorezne.</p>
+<p>Obrazac potpisuje ovlaštena osoba podnositelja, koja potpisom ili naprednim elektroničkim potpisom jamči za istinitost i točnost podataka. Kad JOPPD tehnički šalje knjigovodstveni servis, to čini na temelju ovlaštenja ili punomoći koju mu je poslodavac dao u sustavu ePorezna. Podnositelj izvješća i dalje je poslodavac.</p>
+<h2>JOPPD rokovi</h2>
+<p>Pravilnik o porezu na dohodak (članak 79.) propisuje ove rokove:</p>
+<table>
+<thead>
+<tr>
+<th>Situacija</th>
+<th>Rok za JOPPD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Isplata plaće i drugih oporezivih primitaka</td>
+<td>na dan isplate ili najkasnije sljedeći radni dan</td>
+</tr>
+<tr>
+<td>Plaća nije isplaćena na dan dospijeća</td>
+<td>danom nastanka obveze dostave obračuna radniku o dospjeloj, a neisplaćenoj plaći</td>
+</tr>
+<tr>
+<td>Naknadna isplata te plaće</td>
+<td>do 15. u mjesecu nakon mjeseca isplate</td>
+</tr>
+<tr>
+<td>Oporezivi primici u naravi</td>
+<td>do 15. u mjesecu nakon mjeseca u kojem je primitak ostvaren</td>
+</tr>
+<tr>
+<td>Neoporezivi primici, zbirno</td>
+<td>do 15. u mjesecu za prethodni mjesec, osim za primitke navedene u nastavku</td>
+</tr>
+<tr>
+<td>Neoporezivi primici isplaćeni u prosincu</td>
+<td>do 15. siječnja, s oznakom izvješća 31. prosinca prethodne godine</td>
+</tr>
+</tbody>
+</table>
+<p>Plaća se prema Zakonu o radu isplaćuje najkasnije 15. dana tekućeg mjeseca za prethodni mjesec. Ako je ne isplati ili ne isplati u cijelosti, poslodavac do kraja mjeseca u kojem je isplata dospjela mora radniku dostaviti obračun, a s tim obračunom dospijevaju i porez i doprinosi.</p>
+<p>Zbirno izvješćivanje do 15. u mjesecu ne odnosi se na neke neoporezive primitke: novčane nagrade za radne rezultate, prigodne nagrade, naknade za odmor radnika, paušalne naknade za prehranu, naknade za redovnu skrb djece i premije dopunskog i dodatnog zdravstvenog osiguranja. Svaki neoporezivi primitak može se iskazati i pojedinačno na dan isplate.</p>
+<p>Isplaćeni predujmovi dnevnica i naknada za korištenje privatnog automobila u službene svrhe iskazuju se tek nakon konačnog obračuna putnog naloga.</p>
+<h2>Ispravak JOPPD obrasca</h2>
+<p>Ispravak JOPPD obrasca podnosi se kad je izvješće uredno zaprimljeno, a naknadno se utvrdi da su neki podaci netočni. Pravila su u članku 83. Pravilnika.</p>
+<h3>Vrste izvješća</h3>
+<ul>
+<li><strong>1</strong> – izvorno izvješće</li>
+<li><strong>2</strong> – ispravak već podnesenog izvješća</li>
+<li><strong>3</strong> – dopuna izvornog izvješća</li>
+<li><strong>4</strong> – izvješće kojim se ispravljaju samo podaci pod IX. i X. stranice A</li>
+</ul>
+<h3>Kako se radi ispravak (vrsta 2)</h3>
+<ol>
+<li>Na stranici A upišite istu oznaku izvješća kao na izvornom obrascu i vrstu izvješća 2.</li>
+<li>Pod podatke o podnositelju upišite iste podatke kao na izvorniku.</li>
+<li>Na stranici A iskažite broj osoba i zbrojeve samo iz redaka koji se ispravljaju.</li>
+<li>Na stranici B za svaki ispravljeni redak upišite iste identifikacijske podatke kao na izvorniku, a u stupce s iznosima upišite vrijednosti koje su trebale biti na izvornom izvješću.</li>
+<li>Ako se osoba u cijelosti briše iz izvješća, sati i svi iznosi u njezinom retku upisuju se kao nule.</li>
+</ol>
+<p>Za istu oznaku izvješća dnevno se može podnijeti samo jedan ispravak i samo jedna dopuna.</p>
+<h3>Dopuna (vrsta 3)</h3>
+<p>Dopunom se dodaju osobe koje su izostavljene iz izvornog izvješća, iako je za njih obveza izvješćivanja već postojala. Na stranici B nastavlja se sljedeći slobodni redni broj s izvornika.</p>
+<h3>Što se ne može ispraviti</h3>
+<p>OIB podnositelja, OIB stjecatelja primitka, oznaka izvješća i podaci pod 1. do 9. stranice B ne smiju se ispravljati ni mijenjati. Ako je radniku upisan pogrešan OIB, postupak ima dva koraka: ispravkom (vrsta 2) njegov redak se ponovi s nulama u iznosima, a zatim se dopunom (vrsta 3) podnese redak s točnim OIB-om i svim podacima.</p>
+<p>Ako Porezna uprava izvorni JOPPD odbije zbog logičkih, matematičkih ili formalnih nedostataka, to nije razlog za ispravak. Tada se ponovno šalje izvorno izvješće.</p>
+<h2>JOPPD za strane radnike</h2>
+<p>Za strane radnike vrijede ista pravila i rokovi kao za domaće, ali nekoliko podataka treba provjeriti prije prve plaće.</p>
+<ul>
+<li><strong>OIB.</strong> Na stranici B obvezno se upisuje OIB stjecatelja primitka. Bez OIB-a radnik se ne može ispravno iskazati.</li>
+<li><strong>Šifra općine prebivališta.</strong> Za osobe koje u Hrvatskoj nemaju prebivalište ni uobičajeno boravište upisuju se znamenke 99 i oznaka države rezidentnosti, prema popisu Porezne uprave.</li>
+<li><strong>Porezna rezidentnost.</strong> Rezident je osoba koja u Hrvatskoj ima prebivalište ili uobičajeno boravište. Opći porezni zakon uobičajenim boravištem smatra stalan ili vremenski povezan boravak od najmanje 183 dana u jednoj ili dvije kalendarske godine. Rezidentnost utječe na osobni odbitak i na šifre u JOPPD-u.</li>
+<li><strong>Osobni odbitak.</strong> Nerezidentu se u mjesečnom obračunu priznaje osnovni osobni odbitak. Uvećanja za uzdržavane članove i djecu Zakon o porezu na dohodak predviđa za rezidente.</li>
+<li><strong>Porezna kartica.</strong> Osobni odbitak i pripadnost općini priznaju se isključivo na temelju porezne kartice koju poslodavac dobiva od Porezne uprave.</li>
+</ul>
+<p>JOPPD nije prijava radnika na mirovinsko osiguranje. Prijava i odjava na osiguranje podnose se posebno, prema pravilima Hrvatskog zavoda za mirovinsko osiguranje.</p>
+<h2>Tko je odgovoran: poslodavac ili knjigovođa</h2>
+<p>Kad obračun plaća radi knjigovodstveni servis, odgovornost je podijeljena ovako:</p>
+<ul>
+<li><strong>Poslodavac</strong> je podnositelj izvješća. Njegova ovlaštena osoba jamči za točnost podataka. Prema Zakonu o računovodstvu, poduzetnik koji računovodstvene poslove povjeri drugoj osobi ostaje u potpunosti odgovoran za povjerene poslove.</li>
+<li><strong>Knjigovođa</strong> radi obračun i šalje obrazac na temelju podataka koje dobije. Kvaliteta izvješća ovisi o tim podacima.</li>
+</ul>
+<h3>Kontrolni popis podataka prije obračuna</h3>
+<ul>
+<li>evidencija radnog vremena: redovni sati, prekovremeni, noćni, nedjelja i blagdan</li>
+<li>bolovanja, godišnji odmori, plaćeni i neplaćeni dopusti</li>
+<li>novi radnici i radnici kojima je prestao radni odnos u mjesecu</li>
+<li>promjene ugovora: plaća, radno vrijeme, mjesto rada</li>
+<li>porezne kartice novih radnika i prijavljene promjene uzdržavanih članova</li>
+<li>neoporezivi primici: prijevoz, dnevnice, smještaj, prehrana, nagrade, s dokumentacijom</li>
+<li>za strane radnike: OIB, adresa i podaci potrebni za utvrđivanje rezidentnosti</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ol>
+<li><strong>JOPPD se šalje prekasno.</strong> Rok je dan isplate ili najkasnije sljedeći radni dan, a ne kraj tjedna ili mjeseca.</li>
+<li><strong>Pogrešan OIB ili pogrešna oznaka stjecatelja.</strong> OIB se ne može ispraviti običnim ispravkom, pa jedna tipfeler znači dva nova izvješća.</li>
+<li><strong>Ispravak umjesto ponovnog slanja.</strong> Odbijeno izvorno izvješće nije zaprimljeno i ne ispravlja se, nego se ponovno šalje kao izvorno.</li>
+<li><strong>Neoporezivi primici izostave se iz izvješća.</strong> Isplata koja je neoporeziva i dalje se prijavljuje u JOPPD-u, uz odgovarajuću oznaku.</li>
+<li><strong>Sati rada ne odgovaraju evidenciji.</strong> Sati se za pojedini mjesec iskazuju samo jednom, kod redovne plaće. Razlike između evidencije, obračunske liste i JOPPD-a vidljive su pri nadzoru.</li>
+<li><strong>Strani radnik obračunava se kao rezident bez provjere.</strong> Pogrešna rezidentnost mijenja osobni odbitak i šifru prebivališta.</li>
+<li><strong>Program koristi zastarjele oznake priloga.</strong> Prilozi su mijenjani 2025. i 2026., pa stare oznake mogu dovesti do odbijanja izvješća.</li>
+</ol>
+<h2>Česta pitanja</h2>
+<h3>Tko potpisuje JOPPD obrazac?</h3>
+<p>Ovlaštena osoba podnositelja izvješća, najčešće direktor ili osoba koju je poslodavac ovlastio. Potpisom jamči da su podaci istiniti i točni. Knjigovođa može obrazac poslati u ime poslodavca na temelju ovlaštenja u ePoreznoj.</p>
+<h3>Koji su JOPPD rokovi kad plaća kasni?</h3>
+<p>Ako plaća nije isplaćena na dan dospijeća, JOPPD s obračunanim porezom i doprinosima podnosi se kad nastane obveza dostave obračuna radniku o neisplaćenoj plaći. Kad se plaća naknadno isplati, podnosi se novo izvješće do 15. u mjesecu nakon mjeseca isplate.</p>
+<h3>Kako se ispravlja pogrešan OIB radnika?</h3>
+<p>Ispravkom s vrstom izvješća 2 redak s pogrešnim OIB-om ponovi se s nulama u satima i iznosima. Zatim se dopunom s vrstom izvješća 3 podnese redak s točnim OIB-om i svim podacima koji su trebali biti na izvornom izvješću.</p>
+<h3>Treba li JOPPD za strane radnike neke posebne podatke?</h3>
+<p>Treba OIB, a za osobe bez prebivališta i uobičajenog boravišta u Hrvatskoj šifra 99 s oznakom države rezidentnosti. Prije prve plaće provjerite i poreznu karticu i rezidentnost, jer o tome ovisi osobni odbitak.</p>
+<h3>Prijavljuje li se neoporezivi primitak u JOPPD-u?</h3>
+<p>Da. Neoporezivi primici iskazuju se na stranici B uz oznaku iz Priloga 4., zbirno do 15. u mjesecu za prethodni mjesec ili pojedinačno na dan isplate, ovisno o vrsti primitka.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>JOPPD ne sastavljamo i ne šaljemo mi, to radi vaše računovodstvo. Naš dio posla je da računovodstvo na vrijeme dobije potpune podatke: evidencije, odsutnosti, promjene ugovora, dokumentaciju za neoporezive primitke i podatke o stranim radnicima. Ako računovodstvo nemate ili ono ne radi sa stranim radnicima, povezat ćemo vas s onim koje ima to iskustvo. Više na stranici <a href="/admin-podrska-pregled/usluge/place-i-racunovodstvo/">plaće i računovodstvo</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/c/podzakonski-propis/60043/pravilnik-o-porezu-na-dohodak-%E2%80%93-procisceni-tekst">Pravilnik o porezu na dohodak, NN 10/17, 128/17, 106/18, 1/19, 80/19, 1/20, 74/20, 1/21, 102/22, 112/22, 156/22, 1/23, 56/23, 143/23, 16/25, 157/25, pročišćeni tekst (zakon.hr)</a>, članci 77. do 83.</li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2025_01_16_148.html">Pravilnik o izmjenama i dopunama Pravilnika o porezu na dohodak, NN 16/25 (narodne-novine.nn.hr)</a></li>
+<li><a href="https://www.zakon.hr/c/podzakonski-propis/671582/nn-157-2025-%2830.12.2025.%29%2C-pravilnik-o-izmjenama-i-dopunama-pravilnika-o-porezu-na-dohodak">Pravilnik o izmjenama i dopunama Pravilnika o porezu na dohodak, NN 157/25 (zakon.hr)</a></li>
+<li><a href="https://www.zakon.hr/z/85/zakon-o-porezu-na-dohodak">Zakon o porezu na dohodak, NN 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23, 152/24 (zakon.hr)</a>, članci 3., 4., 14., 16., 24., 25., 26. i 27.</li>
+<li><a href="https://www.zakon.hr/z/365/Zakon-o-doprinosima">Zakon o doprinosima, NN 84/08 do 152/24 (zakon.hr)</a>, članci 24. i 25.</li>
+<li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23 (zakon.hr)</a>, članci 92. i 93.</li>
+<li><a href="https://www.zakon.hr/z/100/opci-porezni-zakon">Opći porezni zakon, NN 115/16, 106/18, 121/19, 32/20, 42/20, 114/22, 152/24, 151/25 (zakon.hr)</a>, članak 43.</li>
+<li><a href="https://www.zakon.hr/z/118/zakon-o-racunovodstvu">Zakon o računovodstvu, NN 85/24, 145/24, 151/25, 59/26 (zakon.hr)</a>, članak 7.</li>
+<li><a href="https://e-porezna.porezna-uprava.hr/Pages/KakoPostatiKorisnik.aspx">Porezna uprava: Kako postati korisnik ePorezne i dodjela ovlaštenja</a></li>
+<li><a href="https://www.mirovinsko.hr/hr/prijave-i-odjave-na-osiguranje-600/600">HZMO: Prijave i odjave na osiguranje</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"JOPPD obrazac: što je, kada se predaje i najčešće greške\",\"description\":\"JOPPD obrazac poslodavac predaje Poreznoj upravi na dan isplate plaće ili najkasnije sljedeći radni dan. Rokovi, ispravak, strani radnici i česte greške.\",\"datePublished\":\"2026-11-02\",\"dateModified\":\"2026-11-02\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/joppd-obrazac/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"JOPPD obrazac: što je, kada se predaje i najčešće greške"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"JOPPD obrazac poslodavac predaje Poreznoj upravi na dan isplate plaće ili najkasnije sljedeći radni dan. Rokovi, ispravak, strani radnici i česte greške."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","2. studenoga 2026."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}],"$L1b"]}]}]]
+1a:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"2. studenoga 2026."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1b:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Plaće i računovodstvo"}],["$","p",null,{"children":"Povezujemo vas s računovodstvom koje poznaje vaše poslovanje i pripremamo podatke za obračun."}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]

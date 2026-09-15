@@ -1,0 +1,133 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T2660,<p>Najniži temeljni kapital d.o.o. prema Zakonu o trgovačkim društvima (ZTD) iznosi 2.500 eura. Za jednostavno društvo s ograničenom odgovornošću (j.d.o.o.) minimum je 1 euro, a za dioničko društvo (d.d.) 25.000 eura. Ti iznosi vrijede od uvođenja eura 1. siječnja 2023., kada su zamijenili ranije iznose u kunama.</p>
+<p>Temeljni kapital je iznos koji osnivači obećaju uplatiti društvu i koji se upisuje u sudski registar. Nije pristojba ni trošak osnivanja. Novac uplaćen na ime kapitala pripada društvu i služi njegovom poslovanju.</p>
+<h2>Koliko iznosi temeljni kapital po obliku društva</h2>
+<table>
+<thead>
+<tr>
+<th>Oblik</th>
+<th>Najniži temeljni kapital</th>
+<th>Najniži iznos udjela ili dionice</th>
+<th>Uplata prije upisa u registar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>J.d.o.o.</td>
+<td>1 euro</td>
+<td>1 euro, u punim eurima</td>
+<td>cijeli kapital, samo u novcu</td>
+</tr>
+<tr>
+<td>D.o.o.</td>
+<td>2.500 eura</td>
+<td>10 eura, višekratnik broja 10</td>
+<td>najmanje četvrtina, uz uvjete iz zakona</td>
+</tr>
+<tr>
+<td>D.d.</td>
+<td>25.000 eura</td>
+<td>nominalni iznos dionice najmanje 1 euro</td>
+<td>najmanje četvrtina najnižeg iznosa za koji se dionica izdaje i cijeli iznos iznad toga</td>
+</tr>
+</tbody>
+</table>
+<p>Zakon propisuje samo minimum. Osnivači mogu upisati i veći kapital, a ukupni iznos svih poslovnih udjela, odnosno dionica, mora odgovarati temeljnom kapitalu.</p>
+<h2>Temeljni kapital d.o.o.</h2>
+<p>Kod d.o.o.-a svaki osnivač preuzima jedan ili više poslovnih udjela. Nominalni iznos udjela ne može biti manji od 10 eura i mora biti višekratnik broja deset. Zbroj svih udjela jednak je temeljnom kapitalu.</p>
+<p>Prije upisa u sudski registar vrijede ova pravila:</p>
+<ul>
+<li>svaki osnivač mora uplatiti najmanje četvrtinu udjela koji uplaćuje u novcu,</li>
+<li>ukupne novčane uplate ne smiju biti manje od četvrtine temeljnog kapitala,</li>
+<li>udjeli koji se uplaćuju unosom stvari ili prava moraju se u cijelosti unijeti prije upisa,</li>
+<li>ako društvo osniva jedan osnivač, on mora dati primjereno osiguranje za neuplaćeni dio novčanog udjela.</li>
+</ul>
+<p>Kod d.o.o.-a s minimalnim kapitalom od 2.500 eura to znači da prije upisa u novcu treba uplatiti najmanje 625 eura, uz ispunjenje uvjeta za svakog osnivača. Ostatak ostaje obveza članova prema društvu.</p>
+<h2>Temeljni kapital j.d.o.o.</h2>
+<p>Temeljni kapital j.d.o.o. je najmanje 1 euro. Poslovni udjeli su najmanje 1 euro i moraju glasiti na pune iznose eura. Uplaćuju se samo u novcu, a prijava za upis u registar podnosi se tek kad su svi udjeli potpuno uplaćeni.</p>
+<p>Mali kapital j.d.o.o.-a zakon nadoknađuje obvezom zakonskih rezervi: društvo u njih unosi četvrtinu dobiti, umanjene za gubitak iz prethodne godine. Kad j.d.o.o. poveća temeljni kapital na najmanje 2.500 eura, na njega se prestaju primjenjivati ta posebna pravila.</p>
+<h2>Temeljni kapital dioničkog društva</h2>
+<p>Dioničko društvo mora imati temeljni kapital od najmanje 25.000 eura. Dionice mogu imati nominalni iznos, najmanje 1 euro, ili biti bez nominalnog iznosa. Kod dionica bez nominalnog iznosa dio kapitala koji otpada na jednu dionicu ne može biti manji od 1 eura.</p>
+<p>Ako se dionice uplaćuju u novcu, prije upisa u registar mora se uplatiti najmanje četvrtina najnižeg iznosa za koji se dionica može izdati. Ako se dionica izdaje za viši iznos, uplaćuje se i cijeli iznos iznad toga. Ulozi u stvarima i pravima unose se u cijelosti prije upisa. Novčane uplate idu na račun društva kod kreditne institucije u Hrvatskoj.</p>
+<h2>Kamo i kada se uplaćuje</h2>
+<p>Kod d.o.o.-a i j.d.o.o.-a udjeli se uplaćuju na račun društva kod kreditne institucije u Hrvatskoj ili u polog na poseban račun javnog bilježnika. Banka, odnosno javni bilježnik, izdaje potvrdu da će društvo moći slobodno raspolagati uplaćenim iznosom nakon upisa u sudski registar. Ta potvrda prilaže se prijavi za upis.</p>
+<h2>Čemu služi temeljni kapital</h2>
+<p>Temeljni kapital ima tri praktične uloge:</p>
+<ul>
+<li><strong>Početna imovina društva.</strong> Nakon upisa društvo raspolaže uplaćenim novcem i koristi ga za poslovanje.</li>
+<li><strong>Zaštita vjerovnika.</strong> Članovi d.o.o.-a ne mogu tražiti da im društvo vrati ono što su uplatili na ime udjela, niti im se na uplaćeni iznos smije plaćati kamata.</li>
+<li><strong>Signal za upozorenje.</strong> Ako se uoči gubitak u visini polovine temeljnog kapitala, skupština d.o.o.-a mora se sazvati bez odgađanja, a uprava d.d.-a mora odmah sazvati glavnu skupštinu.</li>
+</ul>
+<h2>Temeljni kapital i troškovi osnivanja doo</h2>
+<p>To su dva različita iznosa. Temeljni kapital ostaje imovina društva, a troškovi osnivanja su izdaci za postupak.</p>
+<p>ZTD izričito zabranjuje da se osnivačima iz temeljnog kapitala isplati naknada troškova za pripremne radnje ili osnivanje. Troškovi osnivanja ne smiju se ni priračunati kapitalu kao uplata udjela. Društvo može osnivačima naknaditi troškove osnivanja samo do visine koju određuje društveni ugovor. Ako nije drugačije ugovoreno, troškove snose osnivači razmjerno svojim udjelima.</p>
+<p>Troškovi osnivanja ovise o načinu osnivanja: s javnim bilježnikom ili na daljinu putem sudskog registra. Točne iznose provjerite kod javnog bilježnika i u važećim propisima o pristojbama u trenutku osnivanja.</p>
+<h2>Društva osnovana prije uvođenja eura</h2>
+<p>Društva upisana u sudski registar prije uvođenja eura, ili za koja je prijava za upis podnesena prije tog dana, nisu obuhvaćena novim pravilima o iznosima u eurima dok ne provedu usklađenje. Pri usklađenju se kapital preračunava po fiksnom tečaju konverzije. Za d.o.o. obveza usklađenja s pravilima u eurima nije ograničena rokom, ali se mora provesti prilikom prve promjene društvenog ugovora ili izjave o osnivanju, statusne promjene ili promjene nekog od udjela. Za dionička društva rok za usklađenje bio je najkasnije godinu dana od uvođenja eura.</p>
+<h2>Kontrolni popis</h2>
+<ol>
+<li>Odredite oblik društva i najniži kapital za taj oblik.</li>
+<li>Procijenite treba li vam veći kapital od minimuma za prve mjesece poslovanja.</li>
+<li>Podijelite udjele među osnivačima u skladu s pravilima o najnižem iznosu udjela.</li>
+<li>Odlučite uplaćuje li se kapital u novcu ili unosom stvari i prava (samo d.o.o. i d.d.).</li>
+<li>Uplatite propisani dio na račun društva ili u polog javnog bilježnika i uzmite potvrdu.</li>
+<li>Troškove osnivanja planirajte odvojeno od kapitala.</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Miješanje kapitala i troškova osnivanja.</strong> Troškovi se ne plaćaju iz temeljnog kapitala niti se računaju kao uplata udjela.</li>
+<li><strong>Pogrešni iznosi udjela.</strong> Kod d.o.o.-a udio mora biti višekratnik broja deset, a kod j.d.o.o.-a glasiti na pune eure.</li>
+<li><strong>Djelomična uplata kod j.d.o.o.-a.</strong> Prijava za upis podnosi se tek nakon potpune uplate.</li>
+<li><strong>Uvjerenje da se kapital ne smije trošiti.</strong> Nakon upisa društvo uplaćenim novcem slobodno raspolaže u poslovanju.</li>
+<li><strong>Zanemarivanje gubitka.</strong> Gubitak u visini polovine kapitala traži sazivanje skupštine.</li>
+<li><strong>Stari kapital u kunama.</strong> Kod prve promjene društvenog ugovora d.o.o. mora provesti usklađenje s eurom.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Koliki je temeljni kapital jdoo?</h3>
+<p>Najmanje 1 euro, uplaćen u cijelosti u novcu prije podnošenja prijave za upis u sudski registar.</p>
+<h3>Mora li se cijeli temeljni kapital d.o.o. uplatiti odmah?</h3>
+<p>Ne. Prije upisa uplaćuje se najmanje četvrtina svakog novčanog udjela, a ukupno najmanje četvrtina temeljnog kapitala. Udjeli u stvarima i pravima unose se u cijelosti prije upisa.</p>
+<h3>Može li se temeljni kapital vratiti osnivačima?</h3>
+<p>Članovi d.o.o.-a ne mogu tražiti da im društvo vrati ono što su uplatili na ime udjela. Kapital se može mijenjati samo postupkom koji propisuje ZTD.</p>
+<h3>Koliki je temeljni kapital za dioničko društvo?</h3>
+<p>Najmanje 25.000 eura. Nominalni iznos dionice ne može biti manji od 1 eura.</p>
+<h3>Jesu li troškovi osnivanja doo dio temeljnog kapitala?</h3>
+<p>Nisu. Troškovi osnivanja odvojeni su od kapitala i ne smiju se isplatiti iz njega.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Pomažemo vam odrediti oblik i visinu kapitala prema planu poslovanja, pripremiti korake osnivanja i uskladiti uplate s pravilima. Pogledajte stranicu <a href="/admin-podrska-pregled/usluge/osnivanje-firme/">osnivanje firme</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/546/zakon-o-trgova%C4%8Dkim-dru%C5%A1tvima">Zakon o trgovačkim društvima, pročišćeni tekst, NN 111/93, 34/99, 121/99, 52/00, 118/03, 107/07, 146/08, 137/09, 125/11, 152/11, 111/12, 68/13, 110/15, 40/19, 34/22, 114/22, 18/23, 130/23, 136/24 (zakon.hr)</a>, članci 162., 163., 179., 251., 385., 389., 390., 390.a, 393., 394., 406., 442. te prijelazne odredbe iz NN 114/22</li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_114_1712.html">Zakon o izmjenama Zakona o trgovačkim društvima, NN 114/22 (narodne-novine.nn.hr)</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/full/2024_11_136_2248.html">Zakon o izmjenama i dopunama Zakona o trgovačkim društvima, NN 136/24 (narodne-novine.nn.hr)</a></li>
+<li><a href="https://gov.hr/hr/osnivanje-drustva-s-ogranicenom-odgovornoscu/1358">Osnivanje društva s ograničenom odgovornošću (gov.hr)</a></li>
+<li><a href="https://gov.hr/hr/osnivanje-jednostavnog-drustva-s-ogranicenom-odgovornoscu/2747">Osnivanje jednostavnog društva s ograničenom odgovornošću (gov.hr)</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Temeljni kapital d.o.o., j.d.o.o. i d.d.: koliko je potrebno i čemu služi\",\"description\":\"Temeljni kapital d.o.o. iznosi najmanje 2.500 eura, j.d.o.o. 1 euro, a d.d. 25.000 eura. Kada se uplaćuje, kamo i po čemu se razlikuje od troškova osnivanja.\",\"datePublished\":\"2027-06-21\",\"dateModified\":\"2027-06-21\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/temeljni-kapital/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Temeljni kapital d.o.o., j.d.o.o. i d.d.: koliko je potrebno i čemu služi"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Temeljni kapital d.o.o. iznosi najmanje 2.500 eura, j.d.o.o. 1 euro, a d.d. 25.000 eura. Kada se uplaćuje, kamo i po čemu se razlikuje od troškova osnivanja."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","21. lipnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"21. lipnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Osnivanje firme"}],["$","p",null,{"children":"Obrt, j.d.o.o. ili d.o.o.: odabir oblika, dokumentacija, prve prijave i plan razvoja firme."}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Temeljni kapital d.o.o., j.d.o.o. i d.d.: koliko je potrebno i čemu služi"}],["$","meta","1",{"name":"description","content":"Temeljni kapital d.o.o. iznosi najmanje 2.500 eura, j.d.o.o. 1 euro, a d.d. 25.000 eura. Kada se uplaćuje, kamo i po čemu se razlikuje od troškova osnivanja."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/temeljni-kapital/"}],["$","meta","4",{"property":"og:title","content":"Temeljni kapital d.o.o., j.d.o.o. i d.d.: koliko je potrebno i čemu služi"}],["$","meta","5",{"property":"og:description","content":"Temeljni kapital d.o.o. iznosi najmanje 2.500 eura, j.d.o.o. 1 euro, a d.d. 25.000 eura. Kada se uplaćuje, kamo i po čemu se razlikuje od troškova osnivanja."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/temeljni-kapital/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-06-21"}],["$","meta","13",{"property":"article:modified_time","content":"2027-06-21"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Temeljni kapital d.o.o., j.d.o.o. i d.d.: koliko je potrebno i čemu služi"}],["$","meta","16",{"name":"twitter:description","content":"Temeljni kapital d.o.o. iznosi najmanje 2.500 eura, j.d.o.o. 1 euro, a d.d. 25.000 eura. Kada se uplaćuje, kamo i po čemu se razlikuje od troškova osnivanja."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

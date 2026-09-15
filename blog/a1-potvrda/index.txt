@@ -1,0 +1,158 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","a1-potvrda",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","a1-potvrda","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+13:null
+17:[["$","title","0",{"children":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","meta","1",{"name":"description","content":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/a1-potvrda/"}],["$","meta","4",{"property":"og:title","content":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","meta","5",{"property":"og:description","content":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/a1-potvrda/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-05-17"}],["$","meta","13",{"property":"article:modified_time","content":"2027-05-17"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","meta","16",{"name":"twitter:description","content":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]
+19:T3821,<p>A1 obrazac, službeno prenosivi dokument A1, dokaz je o tome koje se zakonodavstvo socijalne sigurnosti primjenjuje na radnika koji radi u drugoj državi članici EU-a. Kad radnika šaljete na posao u Njemačku ili Austriju, A1 potvrda pokazuje da se doprinosi i dalje plaćaju u Hrvatskoj. U Hrvatskoj je izdaje Hrvatski zavod za mirovinsko osiguranje (HZMO), a ne HZZO.</p>
+<p>A1 potvrda nije radna dozvola. Ne daje pravo na boravak ni na rad, ne zamjenjuje prijavu upućenog radnika u državi u koju radnik ide i ne određuje plaću koju mu morate isplatiti. To su zasebne obveze, koje treba riješiti prije odlaska.</p>
+<h2>Što je A1 obrazac i čemu služi</h2>
+<p>Koordinaciju sustava socijalne sigurnosti u EU-u uređuju Uredba (EZ) br. 883/2004 i provedbena Uredba (EZ) br. 987/2009. Njihova je svrha da se na osobu primjenjuje zakonodavstvo samo jedne države članice. Opće je pravilo da se primjenjuje zakonodavstvo države u kojoj osoba radi.</p>
+<p>Od tog pravila postoje iznimke. Najčešća je upućivanje, odnosno izaslanje radnika: poslodavac privremeno šalje radnika u drugu državu članicu, a radnik ostaje osiguran u matičnoj državi. A1 potvrda vrijedi na cijelom području EU-a kao dokaz da se doprinosi plaćaju u državi koja ju je izdala i da ne postoji obveza plaćanja doprinosa u drugim državama u kojima se radi.</p>
+<p>Ustanove drugih država članica prihvaćaju dokumente koje je izdala ustanova države članice sve dok ih ta država ne ukine ili proglasi nevažećima. Tako propisuje članak 5. Uredbe 987/2009.</p>
+<h3>Kada se A1 izdaje</h3>
+<p>Prema HZMO-u, A1 potvrda izdaje se u točno određenim situacijama:</p>
+<ul>
+<li>upućene zaposlene i samozaposlene osobe</li>
+<li>zaposlene i samozaposlene osobe koje rade u dvije ili više država članica</li>
+<li>osobe kojima je odobreno odstupanje na temelju članka 16. Uredbe 883/2004</li>
+<li>državni službenici, pomorci kad se ne primjenjuje pravilo zastave broda, članovi letačke i kabinske posade te ugovorno osoblje EU-a</li>
+</ul>
+<p>Pravila vrijede u odnosima među državama članicama EU-a, državama Europskog gospodarskog prostora (Island, Lihtenštajn, Norveška) i Švicarskom.</p>
+<h2>Tko izdaje A1 potvrdu u Hrvatskoj: HZMO, ne HZZO</h2>
+<p>Za izdavanje A1 potvrde u Hrvatskoj nadležan je HZMO. Za upućene zaposlene osobe nadležne su sve područne službe i uredi HZMO-a prema sjedištu poslodavca. Za sve druge situacije A1 se izdaje centralizirano, u Područnoj službi u Zagrebu.</p>
+<p>Zahtjev se može podnijeti i elektronički, putem e-usluge u sustavu HZMO Lana.</p>
+<p>Zabuna s HZZO-om ima povijesni razlog. Prema vodiču HZMO-a, izaslanja započeta prema dvostranim ugovorima s Austrijom, Mađarskom, Nizozemskom, Njemačkom i Slovenijom prije ulaska Hrvatske u EU vodio je HZZO. Za sva izaslanja na koja se primjenjuje Uredba 883/2004 nadležan je HZMO.</p>
+<h2>Uvjeti za izaslanje zaposlenih osoba</h2>
+<p>Prema članku 12. Uredbe 883/2004 i vodiču HZMO-a, na upućenog radnika i dalje se primjenjuje hrvatsko zakonodavstvo ako su ispunjeni ovi uvjeti:</p>
+<ol>
+<li>izaslanje ne traje dulje od 24 mjeseca</li>
+<li>radnik nije izaslan da zamijeni drugu izaslanu osobu</li>
+<li>na radnika se najmanje mjesec dana neposredno prije izaslanja primjenjivalo hrvatsko zakonodavstvo</li>
+<li>poslodavac redovito obavlja svoju djelatnost u Hrvatskoj</li>
+<li>za vrijeme izaslanja postoji neposredna veza između radnika i poslodavca</li>
+</ol>
+<p>Uvjet od mjesec dana ne znači da je radnik morao mjesec dana raditi kod istog poslodavca. HZMO navodi da je dovoljno da je bio obuhvaćen hrvatskim sustavom, na primjer kao nezaposlena osoba obuhvaćena sustavom davanja za nezaposlenost ili zdravstvenim osiguranjem.</p>
+<h3>Obavlja li poslodavac redovito djelatnost u Hrvatskoj</h3>
+<p>Poslodavac koji u Hrvatskoj obavlja samo administrativne poslove i poslove unutarnjeg upravljanja ne ispunjava taj uvjet. HZMO procjenjuje više kriterija, među njima:</p>
+<ul>
+<li>mjesto registriranog sjedišta i glavne uprave</li>
+<li>broj administrativnog osoblja u Hrvatskoj i u državi rada</li>
+<li>gdje je sklopljen ugovor o radu i koje se pravo primjenjuje na ugovore s klijentima i radnicima</li>
+<li>ostvareni promet: prema vodiču HZMO-a, uvjet se smatra ispunjenim ako poslodavac ostvaruje 25 % prometa u matičnoj državi</li>
+<li>razdoblje u kojem poslodavac posluje u Hrvatskoj</li>
+</ul>
+<h3>Kada pravila o izaslanju ne vrijede</h3>
+<p>HZMO navodi slučajeve koji isključuju izaslanje, među njima:</p>
+<ul>
+<li>radnika se u državi rada stavi na raspolaganje drugom poslodavcu</li>
+<li>poslodavac iz jedne države angažira radnika na tržištu rada druge države s namjerom da ga pošalje na rad upravo u tu drugu državu</li>
+<li>radnik je izaslan da zamijeni drugog izaslanog radnika</li>
+<li>radnik je sklopio ugovor o radu s poslodavcem kod kojega je izaslan</li>
+</ul>
+<h2>Koliko dugo vrijedi A1 potvrda i može li se produžiti</h2>
+<p>Kod izaslanja A1 se ne izdaje za razdoblje dulje od 24 mjeseca. Ako posao traje dulje, može se podnijeti zahtjev za odstupanje prema članku 16. Uredbe 883/2004. Uz pristanak nadležne ustanove države rada razdoblje se može produžiti, prema HZMO-u najdulje do pet godina, uključujući prvo razdoblje izaslanja. Zahtjev se podnosi unaprijed, prije isteka postojećeg izaslanja.</p>
+<p>Još nekoliko pravila iz vodiča HZMO-a:</p>
+<ul>
+<li>nakon završetka izaslanja novo izaslanje za istu osobu može se odobriti nakon dva mjeseca</li>
+<li>kratki prekidi do dva mjeseca (godišnji odmor, bolovanje, usavršavanje) ne prekidaju izaslanje i ne produžuju ga</li>
+<li>izaslanje kraće od 24 mjeseca može se produžiti najviše do 24 mjeseca</li>
+</ul>
+<p>Tijekom izaslanja poslodavac obavještava HZMO o promjenama, posebno ako izaslanje završi prije roka, ako prekid traje dulje od dva mjeseca ili ako se radnik rasporedi drugom poslodavcu u državi rada. Ako izaslanje nije započelo ili je završilo ranije, izdanu potvrdu treba vratiti radi poništavanja.</p>
+<h2>Kako podnijeti zahtjev za A1 potvrdu</h2>
+<p>Poslodavac obavještava nadležnu ustanovu o izaslanju, kad god je to moguće unaprijed. Tako propisuje članak 15. Uredbe 987/2009.</p>
+<p>Za upućene zaposlene osobe HZMO traži:</p>
+<ul>
+<li>zahtjev za izdavanje potvrde A1, posebno za svakog radnika, popunjen i ovjeren od poslodavca</li>
+<li>upitnik za poslodavce s podacima o poslovanju, prometu i ugovorima</li>
+<li>ugovor o radu ili dodatak ugovoru o radu koji obuhvaća rad u drugoj državi članici</li>
+<li>ugovor o poslu u državi članici za koju se traži izaslanje</li>
+<li>financijsko izvješće, odnosno ispis iz registra FINA-e</li>
+</ul>
+<h2>Što A1 potvrda ne rješava</h2>
+<h3>Pravo na rad i boravak</h3>
+<p>A1 se bavi samo socijalnom sigurnošću. Pitanje smije li radnik raditi u drugoj državi uređuju propisi te države. Za radnike iz trećih zemalja to treba posebno provjeriti.</p>
+<h3>Prijava upućenih radnika u državi primateljici</h3>
+<p>Prema portalu Your Europe, poslodavac šalje obavijest nadležnim tijelima države primateljice prije početka upućivanja, a najkasnije kad upućivanje počne. Svaka država ima nacionalnu mrežnu stranicu o upućivanju s uputama. A1 potvrda tu obavijest ne zamjenjuje.</p>
+<h3>Plaća i uvjeti rada</h3>
+<p>Upućenim radnicima jamče se uvjeti rada države primateljice, među ostalim najdulje radno vrijeme, najkraći odmor, plaćeni godišnji odmor i naknada za rad. Ako upućivanje traje dulje od 12 mjeseci, odnosno 18 mjeseci uz obrazloženu obavijest, radniku treba osigurati sve obvezne uvjete rada države primateljice, uz iznimke koje propisuje ta država.</p>
+<h3>Ugovor o radu</h3>
+<p>Prema članku 18. Zakona o radu, ako rad u inozemstvu traje dulje od četiri uzastopna tjedna, ugovor o radu ili pisana potvrda prije odlaska mora sadržavati dodatne podatke: državu i trajanje rada, radno vrijeme, valutu plaće, druga primanja, poveznicu na nacionalnu stranicu o upućivanju i uvjete povratka. Za kraće upućivanje radnik prije početka dobiva pisanu informaciju s tim podacima.</p>
+<h2>A1 potvrda za državljane trećih zemalja zaposlene u Hrvatskoj</h2>
+<p>Uredba (EU) br. 1231/2010 proširuje primjenu uredbi 883/2004 i 987/2009 na državljane trećih zemalja koji zakonito borave u državi članici i nalaze se u prekograničnoj situaciji. Vodič HZMO-a tu uredbu navodi među propisima koji se primjenjuju na izaslanje. Prema Europskoj komisiji, Uredba 1231/2010 ne primjenjuje se na Dansku. Za upućivanje radnika iz treće zemlje u Norvešku, Island, Lihtenštajn ili Švicarsku posebno provjerite koja pravila vrijede.</p>
+<p>Radnik iz treće zemlje zaposlen kod vas može, dakle, dobiti A1 potvrdu ako ispunjava uvjete za izaslanje. No hrvatska dozvola za boravak i rad odnosi se na rad u Hrvatskoj, kod poslodavca i na poslovima za koje je izdana. Pravo na rad u državi primateljici provjerava se po njezinim propisima.</p>
+<p>Primjer: prema austrijskoj službenoj platformi za upućivanje, za državljane trećih zemalja upućene iz države EU-a potrebna je potvrda austrijske službe za zapošljavanje (AMS), EU-Entsendebestätigung. Poslodavac u prijavi navodi podatke o dozvoli za rad i boravak izdanoj u državi iz koje upućuje.</p>
+<h2>Kontrolni popis prije odlaska radnika</h2>
+<ul>
+<li>Utvrđeno je radi li se o izaslanju, radu u više država ili kratkom službenom putu.</li>
+<li>Radnik je bio obuhvaćen hrvatskim sustavom najmanje mjesec dana prije izaslanja.</li>
+<li>Firma redovito posluje u Hrvatskoj, a ne samo administrativno.</li>
+<li>Ugovor o radu ili dodatak sadrži podatke o radu u inozemstvu.</li>
+<li>Zahtjev i upitnik predani su HZMO-u prije odlaska.</li>
+<li>Poslana je obavijest o upućivanju u državi primateljici.</li>
+<li>Za radnika iz treće zemlje provjereno je pravo na rad u državi primateljici.</li>
+<li>Plaća je usklađena s pravilima države primateljice.</li>
+<li>Datum isteka A1 potvrde upisan je u kalendar.</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>A1 potvrda smatra se radnom dozvolom.</strong> A1 dokazuje samo koje se socijalno osiguranje primjenjuje.</li>
+<li><strong>Zahtjev se šalje HZZO-u.</strong> Za A1 potvrdu nadležan je HZMO.</li>
+<li><strong>Izostaje prijava u državi primateljici.</strong> A1 ne zamjenjuje obavijest o upućivanju.</li>
+<li><strong>Radnik se zaposli i odmah šalje van.</strong> Bez mjesec dana u hrvatskom sustavu uvjet za izaslanje nije ispunjen.</li>
+<li><strong>Firma u Hrvatskoj ima samo ured.</strong> Ako poslodavac ovdje obavlja samo administrativne poslove, izaslanje nije moguće.</li>
+<li><strong>Ne prati se trajanje.</strong> Nakon 24 mjeseca bez odobrenog odstupanja pravila o izaslanju prestaju vrijediti.</li>
+<li><strong>Hrvatska dozvola smatra se dovoljnom za rad u cijeloj EU.</strong> Za radnike iz trećih zemalja država primateljica ima svoja pravila.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Tko izdaje A1 potvrdu u Hrvatskoj?</h3>
+<p>HZMO. Za upućene zaposlene osobe nadležne su područne službe i uredi HZMO-a prema sjedištu poslodavca. Zahtjev se može podnijeti i putem sustava HZMO Lana.</p>
+<h3>Koliko dugo vrijedi A1 obrazac?</h3>
+<p>Kod izaslanja najdulje 24 mjeseca. Dulje razdoblje moguće je samo uz odstupanje prema članku 16. Uredbe 883/2004 i pristanak države rada, prema HZMO-u najdulje do pet godina ukupno.</p>
+<h3>Treba li A1 potvrda za kratki poslovni put?</h3>
+<p>Prema portalu Your Europe, radnici koji putuju na sastanke, sajmove, konferencije ili obuke nisu upućeni radnici u smislu pravila o upućivanju. Za socijalno osiguranje ipak treba, kad god je moguće unaprijed, obavijestiti nadležnu ustanovu i zatražiti A1 potvrdu.</p>
+<h3>Moraju li upućeni radnici imati A1 potvrdu i prijavu u državi primateljici?</h3>
+<p>U pravilu da. A1 potvrdu izdaje HZMO, a obavijest o upućivanju šalje se tijelima države primateljice prema njezinim pravilima.</p>
+<h3>Može li se izaslanje radnika iz treće zemlje odobriti na temelju hrvatske dozvole?</h3>
+<p>A1 se može izdati ako radnik zakonito boravi u Hrvatskoj i ispunjava uvjete za izaslanje. Pravo na rad u državi primateljici provjerava se posebno, po njezinim propisima.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Pripremamo dokumentaciju za A1 potvrdu, provjeravamo uvjete za izaslanje i obveze prijave u državi u koju radnici idu. Kod radnika iz trećih zemalja provjeravamo što hrvatska dozvola pokriva, a što ne. Više na stranici <a href="/admin-podrska-pregled/usluge/a1-izaslanje/">A1 potvrda i izaslanje radnika</a>, a za konkretan projekt javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.mirovinsko.hr/hr/izdavanje-potvrda-a1-mjerodavno-zakonodavstvo-eu/384">HZMO: Izdavanje potvrda A1 (mjerodavno zakonodavstvo/EU)</a></li>
+<li><a href="https://www.mirovinsko.hr/UserDocsImages/Publikacije/EU-brosure/Vodic-za-izaslanje-radnika-detasmani-2026.pdf">HZMO: Vodič za izaslanje radnika u Europskoj uniji (detašmani), 2026.</a></li>
+<li><a href="https://www.mirovinsko.hr/UserDocsImages/Dokumenti/Izdavanje%20potvrda%20A1/A1%20TISKANICE/UPITNIK-ZA-POSLODAVCE-UZ-ZAHTJEV-ZA-IZDAVANJE-POTVRDE-A1.pdf">HZMO: Upitnik za poslodavce uz zahtjev za izdavanje potvrde A1</a></li>
+<li><a href="https://www.mirovinsko.hr/UserDocsImages/Dokumenti/Propisi/Uredbe_EU/Uredba-883-2004.pdf">Uredba (EZ) br. 883/2004 o koordinaciji sustava socijalne sigurnosti, tekst na stranicama HZMO-a</a></li>
+<li><a href="https://www.mirovinsko.hr/UserDocsImages/Dokumenti/Propisi/Uredbe_EU/Uredba-987-2009.pdf">Uredba (EZ) br. 987/2009 o postupku provedbe Uredbe 883/2004, tekst na stranicama HZMO-a</a></li>
+<li><a href="https://ec.europa.eu/social/main.jsp?catId=867&#x26;langId=en">Europska komisija: EU zakonodavstvo o koordinaciji socijalne sigurnosti</a></li>
+<li><a href="https://europa.eu/youreurope/business/hiring-managing-staff/cross-border-posted-workers/posting-staff-abroad/index_en.htm">Your Europe: Upućivanje radnika u drugu državu EU</a></li>
+<li><a href="https://www.zakon.hr/z/307/Zakon-o-radu">Zakon o radu, pročišćeni tekst (NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23), zakon.hr</a></li>
+<li><a href="https://www.entsendeplattform.at/en/formal-requirements/employment-permit">Austrijska platforma za upućivanje: dozvola za rad</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje\",\"description\":\"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava.\",\"datePublished\":\"2027-05-17\",\"dateModified\":\"2027-05-17\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/a1-potvrda/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","17. svibnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}],"$L1b"]}]}]]
+1a:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"17. svibnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1b:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"A1 i izaslanje radnika"}],["$","p",null,{"children":"A1 potvrde i prijave za rad vaših radnika u drugim državama EU."}],["$","$L2",null,{"href":"/usluge/a1-izaslanje/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]

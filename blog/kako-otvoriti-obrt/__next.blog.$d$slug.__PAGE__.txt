@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T3bd3,<p>Kako otvoriti obrt? Zahtjev za upis u Obrtni registar podnosite online putem e-Obrta ili sustava START, ili osobno u nadležnom upravnom tijelu županije odnosno Grada Zagreba. Upis se ne naplaćuje. Nadležno tijelo mora izdati obrtnicu ili rješenje o odbijanju najkasnije u roku od 15 dana od uredno podnesenog zahtjeva. Nakon upisa slijede prijave Poreznoj upravi i obveznim osiguranjima.</p>
+<p>Obrt je često bolji izbor od d.o.o. kada krećete sami, s malim ulaganjem i niskim poslovnim rizikom. Za obveze obrta obrtnik odgovara cjelokupnom svojom imovinom, dok članovi d.o.o. u pravilu ne odgovaraju za obveze društva. Zato d.o.o. ima prednost kad je rizik veći, kad ulazite s partnerima ili planirate brži rast.</p>
+<h2>Što je obrt</h2>
+<p>Zakon o obrtu obrt definira kao samostalno i trajno obavljanje dopuštenih gospodarskih djelatnosti od strane fizičke osobe, sa svrhom postizanja dohotka ili dobiti. Obrtnik posluje u svoje ime i za svoj račun, a može se koristiti i radom drugih osoba.</p>
+<p>Obrt nije pravna osoba. Obrtnik posluje kao fizička osoba, što je glavni razlog razlike u odgovornosti u odnosu na d.o.o.</p>
+<h3>Vrste obrta</h3>
+<ul>
+<li><strong>Slobodni obrti:</strong> za njih se ne traži ispit o stručnoj osposobljenosti ni majstorski ispit.</li>
+<li><strong>Vezani obrti:</strong> traži se ispit o stručnoj osposobljenosti, odgovarajuća srednja stručna sprema ili majstorski ispit.</li>
+<li><strong>Povlašteni obrti:</strong> smiju se obavljati samo na temelju povlastice ili dozvole nadležnog ministarstva ili drugog tijela.</li>
+</ul>
+<p>Popis vezanih i povlaštenih obrta propisan je Pravilnikom o vezanim i povlaštenim obrtima (NN 148/24), koji je na snazi od 1. siječnja 2025.</p>
+<h2>Uvjeti za otvaranje obrta</h2>
+<p>Prema članku 8. Zakona o obrtu, fizička osoba može obavljati obrt ako:</p>
+<ol>
+<li>joj nije izrečena sigurnosna ili zaštitna mjera zabrane obavljanja djelatnosti, dok ta mjera traje</li>
+<li>ima pravo korištenja prostora, kada je prostor potreban za obavljanje obrta</li>
+</ol>
+<p>Za vezani obrt dodatno se traži stručni uvjet. Ako ga sami ne ispunjavate, obrt možete obavljati ako na tim poslovima zaposlite radnika u punom radnom vremenu koji ispunjava uvjet. Za pojedine djelatnosti propisani su i posebni zdravstveni uvjeti, primjerice za većinu djelatnosti s hranom.</p>
+<p>Prostor, oprema i sredstva moraju udovoljavati minimalnim tehničkim i drugim uvjetima iz posebnih propisa za pojedinu djelatnost. Obrt se u stambenom prostoru može obavljati samo za djelatnosti i pod uvjetima iz posebnog pravilnika.</p>
+<h2>Kako otvoriti obrt: kanali</h2>
+<h3>e-Obrt</h3>
+<p>Putem e-Obrta zahtjev za upis novog obrta mogu podnijeti hrvatski državljani i stranci. Prema gov.hr, uvjet za upis novog obrta je upisano prebivalište ili boravište u Hrvatskoj. E-Obrt se odnosi na upis u Obrtni registar, a ostale prijave (Porezna uprava, osiguranja) obavljate odvojeno.</p>
+<h3>START</h3>
+<p>START je sustav za elektroničko pokretanje poslovanja za d.o.o., j.d.o.o. i obrt. Namijenjen je punoljetnim hrvatskim državljanima s prebivalištem ili boravištem u Hrvatskoj. Za obrt je potrebna vjerodajnica najmanje značajne razine sigurnosti s popisa NIAS-a.</p>
+<p>Uz obvezan upis obrta u Obrtni registar i registar poreznih obveznika, u istom postupku možete odabrati upis u registar obveznika PDV-a, zahtjev za otvaranje računa u banci i registraciju u sustavu HZMO-a. Fina ima START Point lokacije u pojedinim poslovnicama, s računalom i čitačem kartica.</p>
+<h3>Nadležno upravno tijelo</h3>
+<p>Zahtjev se može predati i osobno ili poštom nadležnom upravnom tijelu u županiji, odnosno Gradu Zagrebu. Taj put koriste i državljani EU-a i trećih zemalja. Za strance iz trećih zemalja gov.hr navodi i dozvolu za rad te važeću potvrdu o boravištu.</p>
+<h3>Je li HITRO.HR još aktivan?</h3>
+<p>HITRO.HR i dalje postoji kao servis Vlade koji radi u poslovnicama Fine. Djelatnici pružaju informacije o potrebnoj dokumentaciji i pomažu pri popunjavanju obrazaca za upis obrta. Online upis obrta danas se radi putem e-Obrta ili sustava START.</p>
+<h2>Dokumenti za upis obrta</h2>
+<ul>
+<li>dokaz o identitetu (osobna iskaznica ili putovnica)</li>
+<li>dokaz o pravu korištenja prostora, kada je prostor potreban</li>
+<li>za vezane obrte: dokaz o srednjoj stručnoj spremi, majstorskom ispitu ili ispitu o stručnoj osposobljenosti, ili podaci o radniku koji taj uvjet ispunjava</li>
+<li>dokaz o posebnim zdravstvenim uvjetima, za djelatnosti gdje se traže</li>
+<li>povlastica ili dozvola, za povlaštene obrte</li>
+<li>za državljane trećih zemalja: dozvola za rad i potvrda o boravištu</li>
+</ul>
+<h2>Rokovi nakon upisa</h2>
+<ol>
+<li><strong>Obrtnica:</strong> nadležno tijelo izdaje obrtnicu ili rješenje o odbijanju najkasnije u roku od 15 dana od uredno podnesenog zahtjeva.</li>
+<li><strong>Početak rada:</strong> obrtnik mora početi obavljati obrt u roku od godine dana od izdavanja obrtnice.</li>
+<li><strong>Prijava početka:</strong> početak obavljanja obrta prijavljuje se nadležnom tijelu najkasnije osam dana prije početka rada.</li>
+<li><strong>Porezna uprava:</strong> početak djelatnosti prijavljuje se u roku od osam dana od početka obavljanja djelatnosti, uz podatke o osobi koja vodi poslovne knjige. Tada birate i način oporezivanja.</li>
+<li><strong>HZMO i HZZO:</strong> gov.hr navodi prijavu HZMO-u u roku od 24 sata od pokretanja poslovanja, a podaci se automatski prosljeđuju HZZO-u.</li>
+</ol>
+<p>Obrtnici plaćaju i komorski doprinos Hrvatskoj obrtničkoj komori, kako navodi Porezna uprava. Ako posao privremeno stane, obrt se može privremeno obustaviti do jedne godine, uz pisanu obavijest nadležnom tijelu u roku od 30 dana od obustave.</p>
+<h2>Kako se obrt oporezuje</h2>
+<p>Obrtnik u pravilu plaća porez na dohodak. Postoje tri mogućnosti:</p>
+<ul>
+<li><strong>Poslovne knjige.</strong> Dohodak se utvrđuje kao razlika primitaka i izdataka. Vode se knjiga primitaka i izdataka, popis dugotrajne imovine, knjiga prometa i evidencija o tražbinama i obvezama.</li>
+<li><strong>Paušalno oporezivanje.</strong> Moguće ako niste obveznik PDV-a i primici ne prelaze prag za obvezni ulazak u sustav PDV-a (60.000 eura od 2025.). Slobodna zanimanja ne mogu paušal.</li>
+<li><strong>Porez na dobit.</strong> Obrtnik može izjaviti da će plaćati porez na dobit umjesto poreza na dohodak. Obvezno postaje obveznik poreza na dobit ako u prethodnom poreznom razdoblju ostvari ukupni primitak veći od 1.000.000 eura.</li>
+</ul>
+<h2>Obrt ili d.o.o.: usporedba</h2>
+<table>
+<thead>
+<tr>
+<th>Pitanje</th>
+<th>Obrt</th>
+<th>D.o.o.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pravna osobnost</td>
+<td>fizička osoba</td>
+<td>pravna osoba</td>
+</tr>
+<tr>
+<td>Odgovornost za obveze</td>
+<td>obrtnik cjelokupnom imovinom</td>
+<td>članovi u pravilu ne odgovaraju</td>
+</tr>
+<tr>
+<td>Najniži kapital</td>
+<td>nema</td>
+<td>2.500 eura (j.d.o.o. 1 euro)</td>
+</tr>
+<tr>
+<td>Upis</td>
+<td>Obrtni registar, bez pristojbe</td>
+<td>sudski registar</td>
+</tr>
+<tr>
+<td>Porez</td>
+<td>dohodak (knjige ili paušal) ili dobit</td>
+<td>porez na dobit</td>
+</tr>
+<tr>
+<td>Registar stvarnih vlasnika</td>
+<td>nije obveznik</td>
+<td>obveznik</td>
+</tr>
+</tbody>
+</table>
+<h3>Odgovornost</h3>
+<p>Za obveze iz obavljanja obrta obrtnik odgovara cjelokupnom svojom imovinom. Zakon o obrtu pritom ograničava ovrhu, primjerice na stvarima nužnima za obavljanje djelatnosti kad je ona glavni izvor sredstava za život i na nekretnini u kojoj obrtnik stanuje u opsegu nužnom za osnovne stambene potrebe. To ograničenje ne vrijedi ako je obrtnik vjerovniku dobrovoljno dao založno pravo na toj nekretnini.</p>
+<p>Članovi d.o.o. ne odgovaraju za obveze društva, osim kada to određuje Zakon o trgovačkim društvima. Tko zlorabi tu okolnost, primjerice upravlja imovinom društva kao da je vlastita ili umanjuje imovinu društva na štetu vjerovnika, ne može se pozvati na ograničenu odgovornost.</p>
+<h3>Kapital i osnivanje</h3>
+<p>Najniži temeljni kapital d.o.o. je 2.500 eura, a prije upisa svaki osnivač u novcu mora uplatiti najmanje četvrtinu preuzetog udjela. Jednostavno društvo s ograničenom odgovornošću (j.d.o.o.) može imati najviše pet članova i jednog člana uprave, najniži temeljni kapital je 1 euro i mora se uplatiti u cijelosti prije prijave za upis. J.d.o.o. mora u zakonske rezerve unositi četvrtinu dobiti.</p>
+<p>Osnivanje d.o.o. uključuje osnivački akt kod javnog bilježnika ili na daljinu preko sudskog registra ili START-a te prijavu trgovačkom sudu. Obrt se upisuje u Obrtni registar bez pristojbe.</p>
+<h3>Porez</h3>
+<p>D.o.o. plaća porez na dobit po stopi od 10 % ako su prihodi u poreznom razdoblju do 1.000.000 eura, odnosno 18 % ako su jednaki ili veći od tog iznosa. Isplata dobiti vlasniku i plaća direktora oporezuju se posebno.</p>
+<p>Koji je oblik povoljniji ovisi o visini dobiti, planu isplata i troškovima, pa izračun treba napraviti s knjigovođom na vašim brojkama.</p>
+<h2>Kada je obrt bolji izbor od d.o.o.</h2>
+<p>Obrt obično ima smisla kada:</p>
+<ul>
+<li>krećete sami i želite brzo i bez troška upisa početi raditi</li>
+<li>posao ima nizak rizik od većih šteta ili dugova</li>
+<li>očekujete primitke u okviru paušala i jednostavnu administraciju</li>
+<li>ne trebate partnere ni vanjske ulagače</li>
+</ul>
+<p>D.o.o. obično ima smisla kada:</p>
+<ul>
+<li>posao nosi veći rizik (ugovori s velikim iznosima, jamstva, odgovornost za štetu)</li>
+<li>ulazite s jednim ili više partnera i trebate jasno podijeljene udjele</li>
+<li>planirate rast, zapošljavanje više ljudi ili ulazak ulagača</li>
+<li>želite odvojiti osobnu imovinu od imovine posla</li>
+</ul>
+<p>Obrt se kasnije ne pretvara automatski u d.o.o. Zakon o obrtu prijenos obrta uz zadržavanje matičnog broja predviđa samo u posebnim slučajevima, primjerice na bračnog druga ili srodnike u ravnoj lozi kad obrtnik ostvari pravo na mirovinu. Prijelaz iz obrta u d.o.o. zato treba planirati kao posebno osnivanje.</p>
+<h2>Kontrolni popis: otvaranje obrta</h2>
+<ol>
+<li>Odredite djelatnost i provjerite je li obrt slobodni, vezani ili povlašteni.</li>
+<li>Pripremite dokaze o stručnosti, zdravstvenim uvjetima ili povlastici ako se traže.</li>
+<li>Osigurajte pravo korištenja prostora ako je potreban.</li>
+<li>Odaberite naziv obrta: tvrtka sadrži naziv, oznaku obrta, ime i prezime obrtnika i sjedište.</li>
+<li>Podnesite zahtjev putem e-Obrta, START-a ili nadležnom upravnom tijelu.</li>
+<li>Nakon obrtnice prijavite početak rada najkasnije osam dana prije početka.</li>
+<li>Prijavite se Poreznoj upravi i odaberite način oporezivanja.</li>
+<li>Uredite obvezna osiguranja (HZMO, HZZO).</li>
+<li>Otvorite poslovni račun, uredite izdavanje računa i fiskalizaciju.</li>
+<li>Istaknite tvrtku obrta na adresi sjedišta ili mjestu obavljanja obrta.</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Obrt u vezanoj djelatnosti bez stručnog uvjeta.</strong> Bez dokaza ili zaposlenog stručnog radnika obrt se ne može upisati.</li>
+<li><strong>Zanemarena osobna odgovornost.</strong> Obrtnik odgovara cjelokupnom imovinom, što treba uzeti u obzir kod ugovora s većim rizikom.</li>
+<li><strong>Propušten rok za Poreznu upravu.</strong> Rok je osam dana od početka obavljanja djelatnosti.</li>
+<li><strong>Obrt otvoren u stanu za djelatnost koja to ne dopušta.</strong> Stambeni prostor dopušten je samo za djelatnosti iz pravilnika.</li>
+<li><strong>Pretpostavka da je paušal automatski.</strong> Način oporezivanja bira se kod Porezne uprave.</li>
+<li><strong>Odluka obrt ili d.o.o. samo prema trošku osnivanja.</strong> Važniji su rizik, partneri i plan rasta.</li>
+<li><strong>Prekasno planiran prijelaz u d.o.o.</strong> Obrt se ne pretvara u društvo, pa prijelaz traži vrijeme i pripremu.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Koliko košta otvaranje obrta?</h3>
+<p>Upis obrta ne naplaćuje se. Hrvatska obrtnička komora navodi da je od 1. rujna 2021. ukinuta pristojba za upis obrta i izdavanje rješenja. Troškovi mogu nastati za pojedine dokaze, primjerice priznavanje inozemne kvalifikacije.</p>
+<h3>Mogu li otvoriti obrt online?</h3>
+<p>Možete, putem e-Obrta ili sustava START. START je za hrvatske državljane s prebivalištem ili boravištem u Hrvatskoj, a e-Obrt mogu koristiti i stranci s prebivalištem ili boravištem u Hrvatskoj.</p>
+<h3>Što je hitro.hr i treba li mi?</h3>
+<p>HITRO.HR je servis u poslovnicama Fine koji pomaže s informacijama i obrascima za upis obrta i osnivanje društva. Nije obavezan, obrt možete otvoriti i sami online ili u nadležnom tijelu.</p>
+<h3>Obrt ili d.o.o., što je bolje za početak?</h3>
+<p>Obrt je jednostavniji i bez troška upisa, ali obrtnik odgovara cjelokupnom imovinom. D.o.o. ograničava odgovornost i lakše primi partnere, ali traži temeljni kapital, osnivački akt i više administracije. Odluku donesite prema riziku posla i planu rasta.</p>
+<h3>Mogu li imati obrt i biti zaposlen?</h3>
+<p>Zakon o obrtu to ne zabranjuje. Obrtnik tada prava iz radnog odnosa ostvaruje kod poslodavca. Ako je djelatnost obrta ista kao djelatnost poslodavca, prema Zakonu o radu potrebno je njegovo odobrenje.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Pomažemo odabrati između obrta, j.d.o.o. i d.o.o. prema vašim planovima, pripremamo popis dokumenata i rokova te organiziramo knjigovodstvo i obveze poslodavca kad zaposlite prvog radnika. Više na stranici <a href="/admin-podrska-pregled/usluge/osnivanje-firme/">osnivanje firme</a>, a za konkretan slučaj javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/297/zakon-o-obrtu">Zakon o obrtu, NN 143/13, 127/19 i 41/20</a> (članci 2., 4., 6., 8., 9., 11., 12., 17., 19., 31., 36. i 37.)</li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_148_2441.html">Pravilnik o vezanim i povlaštenim obrtima, NN 148/24</a></li>
+<li><a href="https://www.zakon.hr/z/85/zakon-o-porezu-na-dohodak">Zakon o porezu na dohodak, NN 115/16 do 152/24</a> (članci 29., 34., 82. i 83.)</li>
+<li><a href="https://www.zakon.hr/z/99/zakon-o-porezu-na-dobit">Zakon o porezu na dobit, NN 177/04 do 151/25</a> (članci 2. i 28.)</li>
+<li><a href="https://www.zakon.hr/z/546/zakon-o-trgovackim-drustvima">Zakon o trgovačkim društvima, NN 111/93 do 136/24</a> (članci 10., 389., 390. i 390.a)</li>
+<li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14 do 64/23</a> (članak 101.)</li>
+<li><a href="https://gov.hr/hr/osnivanje-obrta/1356">gov.hr: Otvaranje obrta u Hrvatskoj</a></li>
+<li><a href="https://www.fina.hr/javne-usluge/start">Fina: START</a> i <a href="https://start.gov.hr">START portal</a></li>
+<li><a href="https://www.fina.hr/javne-usluge/hitro.hr">Fina: HITRO.HR</a></li>
+<li><a href="https://www.hok.hr/gospodarstvo-i-savjetovanje/postupak-i-troskovi-otvaranja-obrta">Hrvatska obrtnička komora: Postupak i troškovi otvaranja obrta</a></li>
+<li><a href="https://porezna-uprava.gov.hr/hr/obrtnici-pausalisti/4564">Porezna uprava: Obrtnici paušalisti</a></li>
+<li><a href="https://www.fina.hr/javne-usluge-za-poslovne-subjekte/registri/registar-stvarnih-vlasnika">Fina: Registar stvarnih vlasnika</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Kako otvoriti obrt i kada je bolji izbor od d.o.o.\",\"description\":\"Kako otvoriti obrt: uvjeti, kanali e-Obrt, START i HITRO.HR, rokovi i prve prijave te usporedba obrta i d.o.o. po odgovornosti, kapitalu i porezu.\",\"datePublished\":\"2027-03-01\",\"dateModified\":\"2027-03-01\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/kako-otvoriti-obrt/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Kako otvoriti obrt i kada je bolji izbor od d.o.o."}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Kako otvoriti obrt: uvjeti, kanali e-Obrt, START i HITRO.HR, rokovi i prve prijave te usporedba obrta i d.o.o. po odgovornosti, kapitalu i porezu."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","1. ožujka 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"1. ožujka 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Osnivanje firme"}],["$","p",null,{"children":"Obrt, j.d.o.o. ili d.o.o.: odabir oblika, dokumentacija, prve prijave i plan razvoja firme."}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kako otvoriti obrt i kada je bolji izbor od d.o.o."}],["$","meta","1",{"name":"description","content":"Kako otvoriti obrt: uvjeti, kanali e-Obrt, START i HITRO.HR, rokovi i prve prijave te usporedba obrta i d.o.o. po odgovornosti, kapitalu i porezu."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/kako-otvoriti-obrt/"}],["$","meta","4",{"property":"og:title","content":"Kako otvoriti obrt i kada je bolji izbor od d.o.o."}],["$","meta","5",{"property":"og:description","content":"Kako otvoriti obrt: uvjeti, kanali e-Obrt, START i HITRO.HR, rokovi i prve prijave te usporedba obrta i d.o.o. po odgovornosti, kapitalu i porezu."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/kako-otvoriti-obrt/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-03-01"}],["$","meta","13",{"property":"article:modified_time","content":"2027-03-01"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Kako otvoriti obrt i kada je bolji izbor od d.o.o."}],["$","meta","16",{"name":"twitter:description","content":"Kako otvoriti obrt: uvjeti, kanali e-Obrt, START i HITRO.HR, rokovi i prve prijave te usporedba obrta i d.o.o. po odgovornosti, kapitalu i porezu."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

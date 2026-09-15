@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","knjigovodstveni-servis",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","knjigovodstveni-servis","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+13:null
+17:[["$","title","0",{"children":"Kako odabrati knjigovodstveni servis za firmu s radnicima"}],["$","meta","1",{"name":"description","content":"Kako odabrati knjigovodstveni servis za firmu s radnicima: iskustvo s plaćama i stranim radnicima, podjela odgovornosti i što mora pisati u ugovoru."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/knjigovodstveni-servis/"}],["$","meta","4",{"property":"og:title","content":"Kako odabrati knjigovodstveni servis za firmu s radnicima"}],["$","meta","5",{"property":"og:description","content":"Kako odabrati knjigovodstveni servis za firmu s radnicima: iskustvo s plaćama i stranim radnicima, podjela odgovornosti i što mora pisati u ugovoru."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/knjigovodstveni-servis/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-12-07"}],["$","meta","13",{"property":"article:modified_time","content":"2026-12-07"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Kako odabrati knjigovodstveni servis za firmu s radnicima"}],["$","meta","16",{"name":"twitter:description","content":"Kako odabrati knjigovodstveni servis za firmu s radnicima: iskustvo s plaćama i stranim radnicima, podjela odgovornosti i što mora pisati u ugovoru."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]
+19:T2da3,<p>Dobar knjigovodstveni servis za firmu s radnicima nije samo onaj koji uredno knjiži račune. Mora pouzdano raditi obračun plaća i JOPPD u zakonskim rokovima, znati što traži zapošljavanje stranih radnika i jasno vam reći koje podatke i do kada mora dobiti od vas. Sve to treba biti zapisano u ugovoru.</p>
+<p>Pri odabiru imajte na umu jedno pravilo iz Zakona o računovodstvu: kad poduzetnik računovodstvene poslove povjeri drugoj osobi, on za te poslove ostaje u potpunosti odgovoran. Servis radi posao, ali odgovornost prema Poreznoj upravi i drugim nadzornim tijelima ostaje na vašoj firmi. Zato birate partnera kojem možete vjerovati i s kojim ćete jasno podijeliti posao.</p>
+<h2>Što knjigovodstveni servis radi, a što ostaje vama</h2>
+<p>Zakon o računovodstvu (NN 85/24, 145/24, 151/25, 59/26) računovodstvenim poslovima smatra prikupljanje i obradu podataka na temelju knjigovodstvenih isprava, vođenje poslovnih knjiga, sastavljanje godišnjih financijskih izvještaja te obradu financijskih podataka za statističke, porezne i druge potrebe. Trgovačko društvo, pa tako i d.o.o., dužno je voditi poslovne knjige i sastavljati godišnje financijske izvještaje.</p>
+<p>U firmi s radnicima tome se pridružuje posao s plaćama. Uobičajena podjela izgleda ovako:</p>
+<table>
+<thead>
+<tr>
+<th>Posao</th>
+<th>Tko ga obično radi</th>
+<th>Tko odgovara</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vođenje poslovnih knjiga, financijski izvještaji</td>
+<td>servis</td>
+<td>poduzetnik</td>
+</tr>
+<tr>
+<td>Obračun plaće, obračunska lista, JOPPD</td>
+<td>servis</td>
+<td>poduzetnik kao poslodavac i podnositelj izvješća</td>
+</tr>
+<tr>
+<td>Evidencija radnog vremena i odsutnosti</td>
+<td>poslodavac</td>
+<td>poslodavac</td>
+</tr>
+<tr>
+<td>Vjerodostojnost knjigovodstvenih isprava (računi, putni nalozi)</td>
+<td>poslodavac</td>
+<td>poslodavac</td>
+</tr>
+<tr>
+<td>Prijave i odjave radnika na osiguranje</td>
+<td>ovisi o dogovoru</td>
+<td>poslodavac</td>
+</tr>
+<tr>
+<td>Dostava podataka o promjenama ugovora o radu</td>
+<td>poslodavac</td>
+<td>poslodavac</td>
+</tr>
+</tbody>
+</table>
+<p>Knjigovodstvenu ispravu potpisuje osoba ovlaštena za zastupanje poduzetnika ili osoba kojoj je ta ovlast prenesena i time jamči da je isprava vjerodostojna. JOPPD obrazac potpisuje ovlaštena osoba podnositelja izvješća, koja jamči za točnost podataka. Servis može isprave obraditi i obrazac poslati, ali ne može znati podatke koje mu niste dali.</p>
+<h2>Što firma s radnicima treba od servisa</h2>
+<h3>Obračun plaća bez kašnjenja</h3>
+<p>Plaća se isplaćuje najkasnije 15. dana u mjesecu za prethodni mjesec, a JOPPD se podnosi na dan isplate ili najkasnije sljedeći radni dan. Radniku se obračun dostavlja najkasnije 15 dana od isplate. Servis mora imati kapacitet da te rokove poštuje svaki mjesec, i kad netko od zaposlenih u servisu nije dostupan.</p>
+<h3>Iskustvo s neoporezivim primicima</h3>
+<p>Prijevoz, dnevnice, rad na terenu, prehrana, smještaj radnika i nagrade imaju svoje iznose, uvjete i dokumentaciju prema Pravilniku o porezu na dohodak. Ako ih vaša firma često isplaćuje, pitajte servis kako provjerava dokumentaciju i kako vas upozorava kad je isplata iznad neoporezivog iznosa.</p>
+<h3>Iskustvo sa stranim radnicima</h3>
+<p>Kod stranih radnika servis treba znati:</p>
+<ul>
+<li>utvrditi poreznu rezidentnost i primijeniti odgovarajući osobni odbitak</li>
+<li>ispravno upisati podatke o prebivalištu i OIB u JOPPD</li>
+<li>koji podaci iz obračuna trebaju za produljenja dozvola i druge postupke</li>
+</ul>
+<p>Ako servis nema takvih klijenata, to nije nužno prepreka, ali o tome razgovarajte unaprijed.</p>
+<h3>Pristup sustavima</h3>
+<p>Da bi servis podnosio JOPPD i druge prijave elektronički, poslodavac mu daje ovlaštenje u sustavu ePorezna, putem aplikacije ili obrasca punomoći. Punomoć se može i opozvati. Evidentirajte koja ovlaštenja ste dali i kome.</p>
+<h2>Kontrolni popis: što treba biti u ugovoru</h2>
+<p>Zakon o računovodstvu ne propisuje sadržaj ugovora s knjigovodstvenim servisom. Zato je na vama da ugovor bude dovoljno precizan. Dobar ugovor sadrži barem ovo:</p>
+<ol>
+<li><strong>Opseg usluge.</strong> Točan popis poslova: knjiženje, obračun plaća, JOPPD, prijave i odjave radnika, porezne prijave, godišnji financijski izvještaji, izvještaji za statistiku. Što nije navedeno, ne podrazumijeva se.</li>
+<li><strong>Rokovi dostave dokumenata.</strong> Do kojeg dana vi dostavljate račune, evidencije radnog vremena i promjene.</li>
+<li><strong>Rokovi servisa.</strong> Do kada servis radi obračun plaće, šalje JOPPD i dostavlja obračunske liste.</li>
+<li><strong>Način dostave i komunikacije.</strong> Kanal za dokumente, kontakt osoba i zamjena.</li>
+<li><strong>Ovlaštenja.</strong> Koja ovlaštenja u ePoreznoj i drugim sustavima servis dobiva i kako se ukidaju.</li>
+<li><strong>Zaštita osobnih podataka.</strong> Servis obrađuje osobne podatke vaših radnika. Kad podatke obrađuje u vaše ime, Opća uredba o zaštiti podataka (članak 28.) traži da se obrada uredi ugovorom ili drugim pravnim aktom.</li>
+<li><strong>Odgovornost i naknada štete.</strong> Tko snosi trošak kamata ili ispravaka ako grešku napravi servis, a tko ako je greška u dostavljenim podacima.</li>
+<li><strong>Osiguranje od odgovornosti.</strong> Ima li servis polici i do kojeg iznosa.</li>
+<li><strong>Cijena i što ulazi u nju.</strong> Mjesečna naknada, obračun po radniku ili dokumentu, dodatni poslovi i kako se naplaćuju.</li>
+<li><strong>Raskid i primopredaja.</strong> Otkazni rok, predaja dokumentacije i poslovnih knjiga, prestanak ovlaštenja.</li>
+</ol>
+<h3>Rokovi čuvanja koje treba imati na umu pri primopredaji</h3>
+<p>Zakon o računovodstvu propisuje:</p>
+<ul>
+<li>isplatne liste: najmanje šest godina</li>
+<li>analitička evidencija o plaćama za koje se plaćaju obvezni doprinosi: trajno</li>
+<li>dnevnik i glavna knjiga te pomoćne knjige: najmanje 11 godina</li>
+<li>isprave na temelju kojih su podaci uneseni u dnevnik, glavnu i pomoćne knjige: najmanje 11 godina, osim ako zakon o fiskalizaciji propisuje drukčije</li>
+</ul>
+<p>Ugovor treba osigurati da vam servis pri raskidu preda sve što ste dužni čuvati, u obliku koji možete koristiti.</p>
+<h2>Pitanja za prvi razgovor</h2>
+<ul>
+<li>Za koliko firmi s radnicima radite obračun plaća i u kojim djelatnostima?</li>
+<li>Imate li klijente sa stranim radnicima?</li>
+<li>Tko će konkretno raditi naše plaće i tko ga mijenja kad je odsutan?</li>
+<li>Do kojeg dana u mjesecu trebate evidencije i dokumente?</li>
+<li>Kako nas obavještavate o promjenama propisa koje utječu na plaće?</li>
+<li>Kako izgleda primopredaja ako jednog dana promijenimo servis?</li>
+<li>Imate li osiguranje od profesionalne odgovornosti?</li>
+</ul>
+<p>Ne čudite se ako servis od vas traži identifikacijske podatke i podatke o vlasnicima. Zakon o sprječavanju pranja novca i financiranja terorizma vanjskog računovođu navodi među osobama koje obavljaju profesionalnu djelatnost.</p>
+<h2>Promjena knjigovodstvenog servisa</h2>
+<p>Kad mijenjate servis, planirajte prijelaz na početku obračunskog razdoblja i unaprijed dogovorite:</p>
+<ol>
+<li>do kojeg mjeseca stari servis radi plaće i predaje JOPPD</li>
+<li>predaju dokumentacije, poslovnih knjiga i evidencija o plaćama</li>
+<li>ukidanje ovlaštenja starom servisu i davanje ovlaštenja novom</li>
+<li>prijenos podataka o radnicima: porezne kartice, podaci o osiguranju, otvorene obustave</li>
+<li>popis otvorenih pitanja: ispravci JOPPD-a, nepodmirene obveze, nadzori u tijeku</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ol>
+<li><strong>Nema pisanog ugovora s opsegom posla.</strong> Kasnije nije jasno je li servis bio dužan raditi prijave radnika ili samo obračun.</li>
+<li><strong>Odabir samo prema cijeni.</strong> Niža mjesečna naknada ne znači ništa ako obračun kasni ili ispravci postanu redovni.</li>
+<li><strong>Pretpostavka da servis odgovara umjesto firme.</strong> Prema Zakonu o računovodstvu odgovornost za povjerene poslove ostaje na poduzetniku.</li>
+<li><strong>Podaci stižu kasno ili nepotpuno.</strong> Servis ne može ispraviti evidenciju radnog vremena koju nije dobio.</li>
+<li><strong>Ovlaštenja ostaju aktivna nakon raskida.</strong> Staro ovlaštenje u ePoreznoj treba ukinuti.</li>
+<li><strong>Primopredaja bez popisa.</strong> Bez popisa predanih dokumenata teško je dokazati što nedostaje.</li>
+</ol>
+<h2>Česta pitanja</h2>
+<h3>Koja je razlika između knjigovodstvenog i računovodstvenog servisa?</h3>
+<p>U praksi se oba izraza koriste za istu uslugu. Zakon o računovodstvu govori o računovodstvenim poslovima, koji uključuju i vođenje poslovnih knjiga i sastavljanje financijskih izvještaja. Važnije od naziva je što piše u ugovoru.</p>
+<h3>Treba li d.o.o. knjigovođu?</h3>
+<p>D.o.o. kao trgovačko društvo mora voditi poslovne knjige i sastavljati godišnje financijske izvještaje. Zakon dopušta da te poslove povjeri drugoj osobi, na primjer knjigovođi za d.o.o. ili servisu, ali odgovornost ostaje na društvu.</p>
+<h3>Tko odgovara ako knjigovodstveni servis pogriješi?</h3>
+<p>Prema državi odgovara vaša firma. Odnos sa servisom, uključujući naknadu štete, uređuje se ugovorom. Zato je važno da ugovor jasno razdvaja greške servisa od grešaka u podacima koje ste dostavili.</p>
+<h3>Koliko košta knjigovodstveni servis?</h3>
+<p>Ne postoji propisana cijena. Ovisi o broju dokumenata, broju radnika, poslovima koje servis preuzima i složenosti poslovanja. Tražite ponudu u kojoj je jasno što je uključeno u mjesečnu naknadu, a što se naplaćuje posebno.</p>
+<h3>Može li knjigovodstveni servis sam slati JOPPD?</h3>
+<p>Može, ako mu poslodavac dodijeli ovlaštenje u sustavu ePorezna. Podnositelj izvješća i dalje je poslodavac.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Knjige ne vodimo. Pomažemo vam pronaći računovodstvo koje ima iskustva s vašom djelatnošću i sa stranim radnicima, a zatim s njim usklađujemo podatke: evidencije, ugovore, odsutnosti i dokumentaciju za neoporezive primitke. Ako vaše sadašnje računovodstvo dobro radi, surađujemo s njim. Više na stranici <a href="/admin-podrska-pregled/usluge/place-i-racunovodstvo/">plaće i računovodstvo</a> ili putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/118/zakon-o-racunovodstvu">Zakon o računovodstvu, NN 85/24, 145/24, 151/25, 59/26 (zakon.hr)</a>, članci 4., 7., 9., 10., 13. i 18.</li>
+<li><a href="https://www.zakon.hr/c/podzakonski-propis/60043/pravilnik-o-porezu-na-dohodak-%E2%80%93-procisceni-tekst">Pravilnik o porezu na dohodak, pročišćeni tekst s izmjenama do NN 157/25 (zakon.hr)</a>, članci 7., 77. i 79.</li>
+<li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23 (zakon.hr)</a>, članci 92. i 93.</li>
+<li><a href="https://www.zakon.hr/z/117/zakon-o-sprjecavanju-pranja-novca-i-financiranju-terorizma">Zakon o sprječavanju pranja novca i financiranja terorizma, NN 108/17, 39/19, 151/22 (zakon.hr)</a>, članak 4.</li>
+<li><a href="https://e-porezna.porezna-uprava.hr/Pages/KakoPostatiKorisnik.aspx">Porezna uprava: Kako postati korisnik ePorezne, dodjela ovlaštenja i punomoć</a></li>
+<li><a href="https://azop.hr/ugovor-o-obradi-osobnih-podataka-izmedu-voditelja-obrade-i-izvrsitelja-obrade-sukladno-odredbama-opce-uredbe-o-zastiti-podataka/">AZOP: Ugovor o obradi osobnih podataka između voditelja i izvršitelja obrade</a></li>
+<li><a href="https://www.mirovinsko.hr/hr/prijave-i-odjave-na-osiguranje-600/600">HZMO: Prijave i odjave na osiguranje</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Kako odabrati knjigovodstveni servis za firmu s radnicima\",\"description\":\"Kako odabrati knjigovodstveni servis za firmu s radnicima: iskustvo s plaćama i stranim radnicima, podjela odgovornosti i što mora pisati u ugovoru.\",\"datePublished\":\"2026-12-07\",\"dateModified\":\"2026-12-07\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/knjigovodstveni-servis/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Kako odabrati knjigovodstveni servis za firmu s radnicima"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Kako odabrati knjigovodstveni servis za firmu s radnicima: iskustvo s plaćama i stranim radnicima, podjela odgovornosti i što mora pisati u ugovoru."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","7. prosinca 2026."]}],null,["$","span",null,{"children":[7," min čitanja"]}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]}],"$L1b"]}]}]]
+1a:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"7. prosinca 2026."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1b:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Plaće i računovodstvo"}],["$","p",null,{"children":"Povezujemo vas s računovodstvom koje poznaje vaše poslovanje i pripremamo podatke za obračun."}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]

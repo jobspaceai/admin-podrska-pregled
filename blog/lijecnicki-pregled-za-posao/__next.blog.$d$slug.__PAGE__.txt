@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T38f8,<p>Liječnički pregled za posao nije obvezan za svako radno mjesto. Obvezan je kad propis za određeni posao traži da se zdravstvena sposobnost utvrdi prije početka rada: kod poslova s posebnim uvjetima rada, noćnog rada, rada s računalom (pregled vida), rada s hranom (sanitarni pregled), zapošljavanja maloljetnika i profesionalnih vozača.</p>
+<p>Za ostale poslove poslodavac radnika može uputiti na pregled, ali to tada nije zakonska obveza. U oba slučaja trošak pregleda snosi poslodavac.</p>
+<p>U nastavku objašnjavamo tko mora na pregled i na temelju kojeg propisa, kako izgleda postupak, smije li radnik raditi dok čeka termin i od čega se pregled sastoji.</p>
+<h2>Liječnički pregled za posao: što kaže zakon</h2>
+<p>Ne postoji jedan propis koji uređuje sve preglede. Obveza proizlazi iz vrste posla, a najčešći slučajevi su ovi:</p>
+<table>
+<thead>
+<tr>
+<th>Tko</th>
+<th>Kakav pregled</th>
+<th>Propis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Radnici na poslovima s posebnim uvjetima rada</td>
+<td>prethodni i periodični pregled kod specijalista medicine rada</td>
+<td>Zakon o zaštiti na radu, čl. 36.; Pravilnik NN 5/84</td>
+</tr>
+<tr>
+<td>Radnici na drugim poslovima za koje zakon, propis ili kolektivni ugovor traži utvrđivanje sposobnosti</td>
+<td>prethodni i redovni pregled</td>
+<td>Pravilnik NN 70/10, čl. 2.</td>
+</tr>
+<tr>
+<td>Noćni radnici</td>
+<td>pregled prije početka noćnog rada i redovito tijekom rada</td>
+<td>Zakon o radu, čl. 72.</td>
+</tr>
+<tr>
+<td>Radnici koji rade s računalom</td>
+<td>pregled vida kod specijalista medicine rada</td>
+<td>Pravilnik NN 73/21, čl. 19.</td>
+</tr>
+<tr>
+<td>Osobe u neposrednom dodiru s hranom, kozmetikom, djecom i u higijenskoj njezi</td>
+<td>sanitarni pregled u zavodu za javno zdravstvo</td>
+<td>Zakon o zaštiti pučanstva od zaraznih bolesti, čl. 26. i 28.</td>
+</tr>
+<tr>
+<td>Maloljetnici</td>
+<td>pregled prije zapošljavanja</td>
+<td>Zakon o radu, čl. 21.</td>
+</tr>
+<tr>
+<td>Profesionalni vozači</td>
+<td>pregled za upravljanje vozilima</td>
+<td>Pravilnik NN 51/24</td>
+</tr>
+</tbody>
+</table>
+<p>Noćnom radniku koji radi na poslovima s posebnim uvjetima rada pregled se obavlja prema propisima zaštite na radu (Zakon o radu, članak 72. stavak 4.).</p>
+<h3>Kada pregled nije obvezan</h3>
+<p>Za posao koji nije ni na jednom od popisa zakon ne traži pregled. Poslodavac radnika ipak može uputiti na liječnički pregled radi utvrđivanja zdravstvene sposobnosti za određene poslove, i tada trošak snosi poslodavac (Zakon o radu, članak 24. stavci 2. i 3.; Zakon o zaštiti na radu, članak 64. stavak 1.).</p>
+<p>Radnik kojem redoviti pregled nije propisan ima pravo tražiti da mu poslodavac jednom u pet godina osigura zdravstveni pregled primjeren rizicima na radu (Zakon o zaštiti na radu, članak 63. stavci 2. i 3.).</p>
+<h2>Medicina rada: liječnički pregled i vrste pregleda</h2>
+<p>HZZO-ova Odluka o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite (članak 6.) razlikuje četiri vrste pregleda:</p>
+<ul>
+<li><strong>Prethodni pregled</strong> obavlja se prije početka rada, prije premještaja radnika na takve poslove i kad se uvjeti rada promijene tako da radno mjesto postane mjesto s takvim poslovima.</li>
+<li><strong>Periodični pregled</strong> obavlja se u roku iz propisa, odnosno najviše 30 dana prije isteka roka.</li>
+<li><strong>Kontrolni pregled</strong> obavlja se unutar šest mjeseci od periodičnog, kad liječnik zbog odstupanja u nalazima nije mogao donijeti ocjenu.</li>
+<li><strong>Izvanredni pregled</strong> je pregled na koji poslodavac uputi radnika izvan propisanih rokova.</li>
+</ul>
+<p>Liječnik može odrediti i raniji ponovni pregled. Za poslove s posebnim uvjetima rada poslodavac mora radnika ponovno uputiti na pregled prije isteka roka ili kada to ocijeni specijalist medicine rada (Zakon o zaštiti na radu, članak 36. stavak 3.).</p>
+<h2>Kako izgleda postupak</h2>
+<ol>
+<li><strong>Utvrdite obvezu.</strong> Iz procjene rizika i opisa poslova vidite je li radno mjesto na nekom od popisa.</li>
+<li><strong>Izaberite specijalista medicine rada.</strong> Poslodavac bira doktora za svoje radnike na tiskanici koju ovjerava HZZO.</li>
+<li><strong>Izdajte uputnicu RA-1.</strong> Za poslove s posebnim uvjetima rada uputnica mora sadržavati podatke o vrsti poslova i okolnostima koje utječu na ocjenu sposobnosti (Zakon o zaštiti na radu, članak 36. stavak 2.).</li>
+<li><strong>Radnik obavi pregled.</strong> Opseg pregleda ovisi o poslu.</li>
+<li><strong>Dobivate uvjerenje RA-2.</strong> U njemu je ocjena sposobnosti i rok ponovnog pregleda.</li>
+<li><strong>Evidentirajte rok.</strong> Pisani dokaz o sposobnosti mora biti dostupan radniku (Zakon o zaštiti na radu, članak 62. stavak 2.).</li>
+</ol>
+<p>Radnik ili poslodavac koji se ne slaže s ocjenom može se pisano žaliti u roku od 15 dana od primitka uvjerenja (Pravilnik NN 70/10, članak 7.).</p>
+<p>Sanitarni pregled ide drugim putem: obavljaju ga zavodi za javno zdravstvo, a rezultati se upisuju u sanitarnu iskaznicu.</p>
+<h2>Od čega se sastoji liječnički pregled za posao</h2>
+<p>Ne postoji jedan standardni pregled za sve poslove. Pravilnik NN 70/10 (članak 5.) određuje da se pregled obavlja prema doktrini i kriterijima medicine rada i obuhvaća ciljanu obradu organa i organskih sustava koji su posebno opterećeni radom ili ugroženi štetnostima s radnog mjesta. Zato je važno da uputnica točno opisuje posao.</p>
+<p>Za neke preglede propis izričito navodi sadržaj:</p>
+<ul>
+<li><strong>Profesionalni vozači</strong> (Pravilnik NN 51/24, članak 18.): pregled specijalista medicine rada s EKG-om i spirometrijom, pregled vidnih funkcija, audiometrija i ispitivanje ravnoteže, glukoza u plazmi i GGT, pregled specijalista psihologije te potvrda izabranog liječnika o bolestima i terapiji.</li>
+<li><strong>Sanitarni pregled za rad s hranom</strong> (Pravilnik NN 116/18, članak 2.): specijalistički pregled na zarazne bolesti s epidemiološkom anketom, pregledom kože, vlasišta i sluznica te auskultacijom pluća, bakteriološki i parazitološki pregled stolice.</li>
+<li><strong>Rad s računalom</strong> (Pravilnik NN 73/21, članak 19.): pregled vida kod specijalista medicine rada, a ako je potrebno, i kod oftalmologa.</li>
+</ul>
+<p>Za poslove s posebnim uvjetima rada opseg ovisi o štetnostima. Primjer iz javnog cjenika: Dom zdravlja Primorsko-goranske županije u cjeniku iz 2024. opisuje prethodni ili periodični pregled za takve poslove kao pregled koji uključuje antropometrijska mjerenja, vidne funkcije, EKG, spirometriju i audiogram. Druga ustanova može imati drugačiji opseg, ovisno o poslu.</p>
+<p>Što radnik treba donijeti na pregled, provjerite s ordinacijom unaprijed. Za profesionalne vozače propis traži potvrdu izabranog liječnika opće ili obiteljske medicine o bolestima i terapiji, a ako vozač nema izabranog liječnika, potpisanu izjavu o zdravstvenom stanju (Pravilnik NN 51/24, članak 18.).</p>
+<h2>Smije li radnik raditi prije pregleda</h2>
+<p>Na poslovima za koje je pregled obvezan, ne smije. Propisi to kažu izričito:</p>
+<ul>
+<li>poslodavac ne smije dopustiti obavljanje poslova s posebnim uvjetima rada radniku koji ne ispunjava propisane uvjete (Zakon o zaštiti na radu, članak 36. stavak 1.)</li>
+<li>zdravstveni pregled za takve poslove obavlja se prije početka rada (Pravilnik NN 70/10, članak 3.)</li>
+<li>noćnom radniku pregled se omogućuje prije početka noćnog rada (Zakon o radu, članak 72. stavak 3.)</li>
+<li>maloljetnika se ne smije zaposliti prije prethodnog utvrđivanja zdravstvene sposobnosti (Zakon o radu, članak 21. stavak 3.)</li>
+<li>sanitarni pregled obavlja se prije stupanja u radni odnos (Zakon o zaštiti pučanstva od zaraznih bolesti, članak 28.)</li>
+</ul>
+<p>Dogovoren termin nije obavljen pregled. Ako termin kasni, radnik do uvjerenja može raditi samo poslove za koje pregled nije uvjet, ako takvi poslovi postoje i ugovor o radu to dopušta.</p>
+<h2>Liječnički pregled za posao i slobodan dan</h2>
+<p>Ni Zakon o radu ni Zakon o zaštiti na radu nemaju posebnu odredbu o „slobodnom danu" za liječnički pregled. Zakoni jasno uređuju samo trošak: pregled ne smije ići na teret radnika.</p>
+<p>U praksi se pregled na koji poslodavac upućuje radnika organizira u radnom vremenu ili se o terminu dogovara s radnikom. Ako imate kolektivni ugovor ili pravilnik o radu, provjerite uređuju li to pitanje. Za konkretan slučaj, na primjer pregled izvan radnog vremena, zatražite pravni savjet.</p>
+<h2>Koliko vrijedi uvjerenje</h2>
+<p>Rok vrijedi onoliko koliko je upisano u uvjerenju i koliko propisuje propis za taj posao. Primjeri:</p>
+<ul>
+<li>poslovi s posebnim uvjetima rada: 12, 24 ili 48 mjeseci, ovisno o poslu (prilog Pravilnika NN 5/84)</li>
+<li>vozači kategorija C i D: svakih 5 godina ili pri produljenju dozvole, vozači kategorije B u profesionalne svrhe svakih 10 godina (Pravilnik NN 51/24, članak 5.)</li>
+<li>rad s računalom: pregled vida svakih pet godina do 45. godine života i svake tri godine nakon toga (Pravilnik NN 73/21, članak 19.)</li>
+<li>rad s hranom: povremeni sanitarni pregled jednom godišnje (Zakon o zaštiti pučanstva od zaraznih bolesti, članak 28.)</li>
+</ul>
+<h2>Kontrolni popis</h2>
+<ul>
+<li>Za svako radno mjesto znate treba li pregled i na temelju kojeg propisa.</li>
+<li>Imate izabranog specijalista medicine rada.</li>
+<li>Uputnica opisuje stvarne poslove i štetnosti iz procjene rizika.</li>
+<li>Radnik počinje raditi tek nakon uvjerenja, ne nakon dogovora termina.</li>
+<li>Uvjerenje je spremljeno, a rok sljedećeg pregleda upisan u vaš kalendar.</li>
+<li>Kod premještaja na drugo radno mjesto provjeravate treba li novi pregled.</li>
+</ul>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Pregled nakon prvog radnog dana.</strong> Na poslovima gdje je pregled obvezan, to je rad bez utvrđene sposobnosti.</li>
+<li><strong>Uputnica s općim opisom posla.</strong> Liječnik ocjenjuje sposobnost za poslove upisane u uputnici.</li>
+<li><strong>Traženje da radnik plati pregled.</strong> Trošak snosi poslodavac.</li>
+<li><strong>Jedan rok za sve.</strong> Rokovi se razlikuju po vrsti posla i po ocjeni liječnika.</li>
+<li><strong>Zaboravljen pregled vida za rad s računalom.</strong> Taj pregled nije isto što i pregled za poslove s posebnim uvjetima rada.</li>
+<li><strong>Sanitarni pregled zamijenjen pregledom medicine rada.</strong> To su različiti pregledi kod različitih ustanova.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Tko plaća liječnički pregled za posao?</h3>
+<p>Poslodavac. Prethodni i periodični pregledi ne smiju biti na trošak radnika (Zakon o zaštiti na radu, članak 64. stavak 2.), a trošak pregleda na koji poslodavac sam uputi radnika također snosi poslodavac (Zakon o radu, članak 24. stavak 3.).</p>
+<h3>Imam li pravo na slobodan dan za liječnički pregled za posao?</h3>
+<p>Zakon ne predviđa poseban slobodan dan za pregled. Termin dogovorite s poslodavcem, a provjerite i kolektivni ugovor ili pravilnik o radu.</p>
+<h3>Mora li na pregled radnik koji radi u uredu?</h3>
+<p>Za uredski posao pregled za poslove s posebnim uvjetima rada u pravilu nije potreban. Ako radnik radi s računalom, poslodavac mu mora osigurati pregled vida prema Pravilniku NN 73/21. Točan odgovor daje procjena rizika za to radno mjesto.</p>
+<h3>Vrijedi li uvjerenje od prethodnog poslodavca?</h3>
+<p>Zakon o zaštiti na radu traži da osobu s kojom namjeravate sklopiti ugovor za poslove s posebnim uvjetima rada uputite na pregled uputnicom koja opisuje vaše poslove. Uvjerenje drugog poslodavca izdano je za druge poslove i uvjete rada, pa takav slučaj provjerite sa svojim specijalistom medicine rada prije početka rada.</p>
+<h3>Što ako liječnik ocijeni da radnik nije sposoban?</h3>
+<p>Na poslove za koje nije sposoban ne smijete ga rasporediti. Radnik ili poslodavac mogu se žaliti u roku od 15 dana od primitka uvjerenja. O mogućnosti drugog rasporeda ili prestanka ugovora zatražite pravni savjet.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Utvrđujemo koji radnici moraju na pregled, pripremamo uputnice, naručujemo radnike kod medicine rada, uključujući veći broj radnika odjednom, i pratimo rok svakog uvjerenja. Detalje pogledajte na stranici <a href="/admin-podrska-pregled/usluge/medicina-rada/">medicina rada i liječnički pregledi</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/167/zakon-o-zastiti-na-radu">Zakon o zaštiti na radu, NN 71/14, 118/14, 154/14, 94/18, 96/18 (zakon.hr)</a></li>
+<li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23 (zakon.hr)</a></li>
+<li><a href="https://uznr.mrms.hr/wp-content/uploads/propisi2/nacionalni/znr013.pdf">Pravilnik o poslovima s posebnim uvjetima rada, NN 5/84 (tekst na stranicama Ministarstva rada)</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2010_06_70_2127.html">Pravilnik o poslovima na kojima radnik može raditi samo nakon prethodnog i redovnog utvrđivanja zdravstvene sposobnosti, NN 70/10</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/full/2021_06_73_1375.html">Pravilnik o zaštiti na radu radnika izloženih statodinamičkim, psihofiziološkim i drugim naporima na radu, NN 73/21</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_51_872.html">Pravilnik o zdravstvenim pregledima vozača i kandidata za vozače, NN 51/24</a></li>
+<li><a href="https://www.zakon.hr/z/1067/zakon-o-za%C5%A1titi-pu%C4%8Danstva-od-zaraznih-bolesti">Zakon o zaštiti pučanstva od zaraznih bolesti, NN 79/07, 113/08, 43/09, 130/17, 114/18, 47/20, 134/20, 143/21 (zakon.hr)</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2018_12_116_2320.html">Pravilnik o načinu obavljanja zdravstvenih pregleda osoba pod zdravstvenim nadzorom, NN 116/18</a></li>
+<li><a href="https://hzzo.hr/ozljede-na-radu-i-profesionalne-bolesti-specificna-zdravstvena-zastita/3-popis-propisa-iz-zastite">HZZO: Odluka o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite (popis propisa)</a></li>
+<li><a href="https://hzzo.hr/ozljede-na-radu-i-profesionalne-bolesti-specificna-zdravstvena-zastita/5-obavijesti-poslodavcima">HZZO: obavijesti poslodavcima o prethodnim, periodičnim i izvanrednim pregledima</a></li>
+<li><a href="https://domzdravlja-pgz.hr/cjenik/">Dom zdravlja Primorsko-goranske županije: cjenik</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Liječnički pregled za posao: tko mora, kada i od čega se sastoji\",\"description\":\"Liječnički pregled za posao nije obvezan za svaki posao. Pročitajte kada ga zakon traži, smije li radnik raditi prije pregleda i od čega se pregled sastoji.\",\"datePublished\":\"2027-01-04\",\"dateModified\":\"2027-01-04\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/lijecnicki-pregled-za-posao/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Liječnički pregled za posao: tko mora, kada i od čega se sastoji"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Liječnički pregled za posao nije obvezan za svaki posao. Pročitajte kada ga zakon traži, smije li radnik raditi prije pregleda i od čega se pregled sastoji."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","4. siječnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"4. siječnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Medicina rada i liječnički pregledi"}],["$","p",null,{"children":"Organizacija prethodnih i periodičnih pregleda, uputnice i praćenje rokova za sve radnike."}],["$","$L2",null,{"href":"/usluge/medicina-rada/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Liječnički pregled za posao: tko mora, kada i od čega se sastoji"}],["$","meta","1",{"name":"description","content":"Liječnički pregled za posao nije obvezan za svaki posao. Pročitajte kada ga zakon traži, smije li radnik raditi prije pregleda i od čega se pregled sastoji."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/lijecnicki-pregled-za-posao/"}],["$","meta","4",{"property":"og:title","content":"Liječnički pregled za posao: tko mora, kada i od čega se sastoji"}],["$","meta","5",{"property":"og:description","content":"Liječnički pregled za posao nije obvezan za svaki posao. Pročitajte kada ga zakon traži, smije li radnik raditi prije pregleda i od čega se pregled sastoji."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/lijecnicki-pregled-za-posao/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-01-04"}],["$","meta","13",{"property":"article:modified_time","content":"2027-01-04"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Liječnički pregled za posao: tko mora, kada i od čega se sastoji"}],["$","meta","16",{"name":"twitter:description","content":"Liječnički pregled za posao nije obvezan za svaki posao. Pročitajte kada ga zakon traži, smije li radnik raditi prije pregleda i od čega se pregled sastoji."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

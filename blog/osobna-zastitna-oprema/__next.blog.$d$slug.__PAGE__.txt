@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:T2353,<p>Osobnu zaštitnu opremu radnicima osigurava poslodavac, o svom trošku i prema procjeni rizika. Zaštitna oprema koristi se na poslovima na kojima rizike nije moguće dovoljno ukloniti drugim mjerama, poput zaštite na stroju ili bolje organizacije rada. Poslodavac ne mora samo kupiti opremu. Mora odabrati odgovarajuću, objasniti radniku kako se koristi, održavati je i paziti da se stvarno nosi.</p>
+<p>Zakon o zaštiti na radu i Pravilnik o uporabi osobne zaštitne opreme ne propisuju poseban obrazac evidencije zaduženja. Popis osobne zaštitne opreme ipak je obvezni prilog procjene rizika, a potpisana evidencija zaduženja najjednostavniji je dokaz da je radnik opremu dobio.</p>
+<h2>Što je osobna zaštitna oprema</h2>
+<p>Prema Pravilniku o uporabi osobne zaštitne opreme (NN 5/21), to je sva oprema koju radnik nosi, drži ili na drugi način koristi na radu kako bi ga štitila od izvora opasnosti ili štetnosti. U to ulaze i pomagala i dodaci koji služe istoj svrsi.</p>
+<p>Pravilnik izričito navodi što se <strong>ne smatra</strong> osobnom zaštitnom opremom, na primjer:</p>
+<ul>
+<li>obično radno odijelo ili odora koja nije posebno namijenjena sigurnosti i zaštiti zdravlja</li>
+<li>sportska oprema</li>
+<li>oprema za samoobranu</li>
+<li>prijenosni uređaji za otkrivanje i dojavu opasnosti</li>
+</ul>
+<p>Do 2021. vrijedio je Pravilnik o uporabi osobnih zaštitnih sredstava (NN 39/06). Izraz „osobna zaštitna sredstva" i dalje se često koristi, ali važeći propis govori o osobnoj zaštitnoj opremi.</p>
+<h2>Kada poslodavac mora osigurati zaštitnu opremu</h2>
+<p>Zakon o zaštiti na radu propisuje da poslodavac osigurava odgovarajuću osobnu zaštitnu opremu kad organizacijskim mjerama ili osnovnim pravilima zaštite na radu nije moguće otkloniti ili dovoljno ograničiti rizike (članak 41.). Jedno od općih načela prevencije je davanje prednosti skupnim mjerama zaštite pred pojedinačnim (članak 11.).</p>
+<p>U praksi to znači sljedeći redoslijed: najprije ukloniti opasnost ili zaštititi izvor, a zaštitnu opremu dati za rizik koji nakon toga ostane. Maska nije zamjena za odsis prašine ako se prašina može odvesti na mjestu nastanka.</p>
+<h2>Veza s procjenom rizika</h2>
+<p>Poslodavac određuje osobnu zaštitnu opremu <strong>na temelju procjene rizika</strong> (članak 6. Pravilnika). Pravilnik o izradi procjene rizika među obvezne priloge procjene ubraja popis osobne zaštitne opreme za poslove na kojima se mora upotrebljavati (članak 11.).</p>
+<p>Prije odabira poslodavac mora ocijeniti odgovara li oprema rizicima: analizirati rizike koji ostaju, odrediti potrebne značajke opreme i usporediti ih s opremom koja je dostupna. Ocjenu mora ponoviti kad se promijeni stanje na kojem se temeljila (članak 12. Pravilnika). Ako uvedete novi stroj, kemikaliju ili posao, provjerite i popis zaštitne opreme.</p>
+<h2>Tko plaća zaštitnu opremu</h2>
+<p>Poslodavac. Pravilnik propisuje da poslodavac mora <strong>na vlastiti trošak</strong> osigurati ispravnu osobnu zaštitnu opremu te provoditi održavanje, popravke, zamjenu i brinuti o higijenskom stanju opreme (članak 10.). Zakon o zaštiti na radu dodaje da troškove zaštite na radu snosi poslodavac i da njezino provođenje ne smije teretiti radnika (članak 17.). Ako troškovi zaštite na radu terete radnika, zakon to propisuje kao prekršaj poslodavca (članak 98.).</p>
+<h2>Obveze poslodavca kod izdavanja opreme</h2>
+<ul>
+<li><strong>Prikladna oprema:</strong> mora štititi od očekivanih rizika, ne smije uzrokovati nove rizike, mora odgovarati uvjetima na mjestu rada i zdravstvenom stanju radnika te se jednostavno prilagoditi (članak 7.).</li>
+<li><strong>Usklađena oprema:</strong> ako radnik nosi više komada opreme, oni moraju biti međusobno prilagodljivi i i dalje djelotvorni.</li>
+<li><strong>Osobna uporaba:</strong> oprema je u pravilu namijenjena jednom radniku. Ako je koristi više radnika, poslodavac mora spriječiti zdravstvene i higijenske probleme (članak 9.).</li>
+<li><strong>Upute:</strong> radnicima treba staviti na raspolaganje tehničke upute i upute za uporabu (članak 10.), a upute im moraju biti razumljive (članak 11.).</li>
+<li><strong>Osposobljavanje:</strong> u sklopu osposobljavanja za rad na siguran način radnika treba teoretski i praktično osposobiti za pravilnu uporabu opreme, a po potrebi i pokazati kako se koristi (članak 11.).</li>
+<li><strong>Isključenje iz uporabe:</strong> opremu koja se oštetila ili promijenila tako da više ne štiti treba isključiti iz uporabe (članak 41. Zakona o zaštiti na radu).</li>
+<li><strong>Nadzor:</strong> ovlaštenik poslodavca nadzire koriste li radnici propisanu opremu i zabranjuje rad radniku koji je ne koristi (članak 24. Zakona).</li>
+</ul>
+<h2>Obveze radnika</h2>
+<p>Radnik mora pravilno koristiti propisanu osobnu zaštitnu opremu i nakon korištenja je vratiti na određeno mjesto (članak 68. Zakona o zaštiti na radu). Obveze radnika ne umanjuju odgovornost poslodavca, koji i dalje mora organizirati nadzor.</p>
+<h2>Kako voditi evidenciju zaduženja</h2>
+<p>Budući da obrazac nije propisan, evidenciju možete voditi na papiru ili elektronički. Iz prakse, dobra evidencija sadrži:</p>
+<ol>
+<li>ime i prezime radnika i radno mjesto</li>
+<li>vrstu opreme, oznaku modela i veličinu</li>
+<li>datum izdavanja</li>
+<li>potvrdu radnika da je opremu primio i dobio upute, s potpisom</li>
+<li>datum zamjene ili povrata i razlog, primjerice oštećenje ili istek roka uporabe koji je odredio proizvođač</li>
+<li>napomenu o jeziku uputa ako radnik ne govori hrvatski</li>
+</ol>
+<p>Evidencija treba odgovarati popisu opreme iz procjene rizika. Ako procjena za radno mjesto traži zaštitne cipele i rukavice, a u evidenciji su samo rukavice, to je prvo pitanje koje će postaviti i stručnjak i inspektor.</p>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Oprema se kupuje bez veze s procjenom rizika</strong>, pa radnici imaju opremu koja ne štiti od stvarnih rizika.</li>
+<li><strong>Trošak opreme odbija se od plaće</strong> ili se od radnika traži da je kupi sam.</li>
+<li><strong>Radnik potpiše da je opremu primio</strong>, ali nitko mu nije objasnio kako je koristiti.</li>
+<li><strong>Oštećena oprema ostaje u uporabi</strong> jer nitko ne prati njezino stanje.</li>
+<li><strong>Popis opreme u procjeni rizika nije ažuriran</strong> nakon uvođenja nove opreme ili poslova.</li>
+<li><strong>Upute za uporabu postoje samo na jeziku</strong> koji radnik ne razumije.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>Smije li poslodavac radniku naplatiti zaštitnu opremu?</h3>
+<p>Ne. Poslodavac osigurava osobnu zaštitnu opremu na vlastiti trošak, a troškovi zaštite na radu ne smiju teretiti radnika.</p>
+<h3>Je li radno odijelo osobna zaštitna oprema?</h3>
+<p>Obično radno odijelo ili odora koja nije posebno namijenjena sigurnosti i zaštiti zdravlja nije osobna zaštitna oprema. Odjeća koja štiti od određenog rizika, na primjer visoke temperature ili kemikalija, jest.</p>
+<h3>Što ako radnik odbija nositi osobna zaštitna sredstva?</h3>
+<p>Radnik je obvezan pravilno koristiti propisanu opremu. Ovlaštenik poslodavca mora radniku zabraniti rad ako ga obavlja bez propisane opreme. Zakon predviđa i to da inspektor zabrani obavljanje radnih postupaka bez propisane osobne zaštitne opreme.</p>
+<h3>Smije li više radnika koristiti istu opremu?</h3>
+<p>Može, ako okolnosti to zahtijevaju, ali poslodavac mora poduzeti mjere da zajednička uporaba ne uzrokuje zdravstvene ili higijenske probleme.</p>
+<h3>Mora li evidencija zaduženja biti na propisanom obrascu?</h3>
+<p>Zakon o zaštiti na radu i Pravilnik o uporabi osobne zaštitne opreme ne propisuju obrazac. Evidencija služi kao dokaz da je poslodavac ispunio obveze, pa je vodite uredno i uskladite s procjenom rizika.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Uz stručnjaka zaštite na radu provjeravamo odgovara li zaštitna oprema procjeni rizika, pripremamo evidenciju zaduženja i upute koje radnici razumiju. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://zakon.hr/c/podzakonski-propis/47161/nn-5-2021-(20.1.2021.),-pravilnik-o-uporabi-osobne-zastitne-opreme">Pravilnik o uporabi osobne zaštitne opreme, NN 5/21 (zakon.hr)</a></li>
+<li><a href="https://www.zakon.hr/z/167/Zakon-o-za%C5%A1titi-na-radu">Zakon o zaštiti na radu, NN 71/14, 118/14, 154/14, 94/18, 96/18, pročišćeni tekst (zakon.hr)</a></li>
+<li><a href="https://www.zakon.hr/cms.htm?id=43107">Pravilnik o izradi procjene rizika, NN 112/14, 129/19, pročišćeni tekst (zakon.hr)</a></li>
+<li><a href="https://mrosp.gov.hr/pristup-informacijama-16/zakoni-i-ostali-propisi-7485/uprava-za-rad-i-zastitu-na-radu-7487/7487">Ministarstvo rada, mirovinskoga sustava, obitelji i socijalne politike: propisi iz područja rada i zaštite na radu</a></li>
+</ul>9:X
+e:X
+e:C
+0:{"buildId":"sEj0Jj8TVe1GsYLhxlsjQ","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Osobna zaštitna oprema: obveze poslodavca i evidencija zaduženja\",\"description\":\"Zaštitna oprema za radnike: poslodavac je određuje prema procjeni rizika i plaća je sam. Što mora osigurati, kako voditi evidenciju zaduženja i gdje se griješi.\",\"datePublished\":\"2027-06-14\",\"dateModified\":\"2027-06-14\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/osobna-zastitna-oprema/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Osobna zaštitna oprema: obveze poslodavca i evidencija zaduženja"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Zaštitna oprema za radnike: poslodavac je određuje prema procjeni rizika i plaća je sam. Što mora osigurati, kako voditi evidenciju zaduženja i gdje se griješi."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","14. lipnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+17:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"14. lipnja 2027."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Zaštita na radu"}],["$","p",null,{"children":"Stručnjak zaštite na radu, procjena rizika, osposobljavanje radnika i priprema za inspekciju."}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Osobna zaštitna oprema: obveze poslodavca i evidencija zaduženja"}],["$","meta","1",{"name":"description","content":"Zaštitna oprema za radnike: poslodavac je određuje prema procjeni rizika i plaća je sam. Što mora osigurati, kako voditi evidenciju zaduženja i gdje se griješi."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/osobna-zastitna-oprema/"}],["$","meta","4",{"property":"og:title","content":"Osobna zaštitna oprema: obveze poslodavca i evidencija zaduženja"}],["$","meta","5",{"property":"og:description","content":"Zaštitna oprema za radnike: poslodavac je određuje prema procjeni rizika i plaća je sam. Što mora osigurati, kako voditi evidenciju zaduženja i gdje se griješi."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/osobna-zastitna-oprema/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-06-14"}],["$","meta","13",{"property":"article:modified_time","content":"2027-06-14"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Osobna zaštitna oprema: obveze poslodavca i evidencija zaduženja"}],["$","meta","16",{"name":"twitter:description","content":"Zaštitna oprema za radnike: poslodavac je određuje prema procjeni rizika i plaća je sam. Što mora osigurati, kako voditi evidenciju zaduženja i gdje se griješi."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+12:true
+15:null
+9:300
+9:C
+11:0
+b:"$undefined"
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"

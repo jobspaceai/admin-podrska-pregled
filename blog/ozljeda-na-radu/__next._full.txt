@@ -1,0 +1,190 @@
+1:"$Sreact.fragment"
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
+3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+4:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+5:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
+e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default",1]
+:HL["/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","style"]
+:HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+c:X
+0:{"P":null,"c":["","blog","ozljeda-na-radu",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","ozljeda-na-radu","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Administrativna podrška u poslovanju, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Administrativna podrška"}],["$","span",null,{"children":"u poslovanju"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite ponudu"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti i vodiči"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Administrativna podrška u poslovanju"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Administrativna podrška za poslodavce: zaštita na radu, medicina rada, radni odnos, osnivanje firme, smještaj radnika i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sEj0Jj8TVe1GsYLhxlsjQ"}
+11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
+16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
+6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3clj9ksp2vpp-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:C
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
+18:T499e,<p>Kad se dogodi ozljeda na radu, poslodavac prvo osigurava prvu pomoć i isključuje izvor opasnosti. Ako je ozljeda smrtna ili je ozlijeđenom radniku pružena hitna medicinska pomoć i zadržan je na bolničkom liječenju, poslodavac odmah obavještava inspekciju rada. Svaku ozljedu upisuje u evidenciju, a Hrvatskom zavodu za zdravstveno osiguranje (HZZO) podnosi prijavu u roku od osam dana od dana ozljede.</p>
+<p>Od 16. travnja 2026. vrijedi novi pravilnik HZZO-a i nova tiskanica „Prijava ozljede na radu". Stara tiskanica „Prijava o ozljedi na radu" smjela se koristiti najkasnije do 1. srpnja 2026. Ako u ladici imate stare obrasce, više ih ne koristite.</p>
+<p>U nastavku je postupak redom kojim se odvija: od prvih minuta nakon ozljede do priznavanja ozljede i naknade plaće.</p>
+<h2>Što se smatra ozljedom na radu</h2>
+<p>Pojam ozljede na radu koriste dva zakona, i to s malo drukčijim opsegom.</p>
+<p><strong>Zakon o zaštiti na radu</strong> ozljedom na radu smatra ozljedu radnika nastalu u prostoru poslodavca u kojem radi, koji koristi tijekom rada ili kojem može pristupiti, odnosno u drugom prostoru u kojem radnik obavlja rad (članak 3.). Taj zakon uređuje obveze poslodavca prema inspekciji, povjereniku radnika i evidencijama.</p>
+<p><strong>Zakon o obveznom zdravstvenom osiguranju</strong> uređuje priznavanje ozljede kod HZZO-a i prava radnika. Prema njemu ozljedom na radu smatra se (članak 66.):</p>
+<ul>
+<li>ozljeda izazvana neposrednim i kratkotrajnim mehaničkim, fizikalnim ili kemijskim djelovanjem, naglom promjenom položaja tijela ili iznenadnim opterećenjem, ako je uzročno vezana uz posao</li>
+<li>bolest nastala izravno i isključivo kao posljedica nesretnog slučaja ili više sile za vrijeme rada ili u vezi s radom</li>
+<li>ozljeda koju osigurana osoba zadobije na redovitom putu od stana do mjesta rada i natrag</li>
+<li>ozljeda nastala tijekom obveznoga kondicijskog treninga propisanog za određene poslove</li>
+</ul>
+<p>Ozljedom na radu ne smatra se ozljeda do koje je došlo zbog skrivljenog ili nesavjesnog ponašanja (primjerice tučnjave ili rada pod utjecajem alkohola), aktivnosti koje nisu u vezi s radom, namjernog nanošenja ozljede iz osobnih razloga, napadaja kronične bolesti ili zdravstvene predispozicije (članak 67.).</p>
+<p>Ozljeda na sportskim aktivnostima koje organizira poslodavac, kao što su radničke igre ili team building, u pravilu se ne priznaje kao ozljeda na radu. Iznimka je kad je sudjelovanje sastavni dio radne obveze prema opisu poslova (članak 86. Pravilnika o kriterijima i načinu ostvarivanja prava iz obveznoga zdravstvenog osiguranja).</p>
+<h2>Prvi koraci odmah nakon ozljede</h2>
+<ol>
+<li><strong>Pružite prvu pomoć</strong> i, ako je potrebno, pozovite hitnu medicinsku pomoć. Poslodavac mora imati organiziranu prvu pomoć i osposobljene radnike (članak 56. Zakona o zaštiti na radu).</li>
+<li><strong>Isključite izvor ozljede</strong>: zaustavite stroj, isključite struju, udaljite ostale radnike iz opasne zone.</li>
+<li><strong>Procijenite treba li odmah obavijestiti inspekciju</strong> (sljedeće poglavlje).</li>
+<li><strong>Zabilježite okolnosti</strong> dok su svježe: vrijeme, mjesto, posao koji je radnik obavljao, opremu, svjedoke.</li>
+<li><strong>Obavijestite stručnjaka zaštite na radu</strong> i ovlaštenika. Stručnjak prema zakonu prikuplja i analizira podatke o ozljedama i priprema propisane prijave (članak 21.).</li>
+</ol>
+<p>Neispravnu radnu opremu ili zaštitnu opremu zbog koje je došlo do ozljede morate isključiti iz uporabe (članak 41.).</p>
+<h2>Kada morate odmah obavijestiti inspekciju</h2>
+<p>Poslodavac mora obavijestiti tijelo nadležno za inspekcijski nadzor, danas Državni inspektorat, o dvije vrste događaja (članak 65. Zakona o zaštiti na radu):</p>
+<ul>
+<li><strong>smrtnoj ozljedi</strong> nastaloj u prostoriji ili na prostoru u kojem poslodavac obavlja rad</li>
+<li><strong>ozljedi nastaloj u tom prostoru zbog koje je radniku ili osobi na radu pružena hitna medicinska pomoć i zbog koje je ozlijeđena osoba zadržana na liječenju u bolnici ili dnevnoj bolnici</strong></li>
+</ul>
+<p>Obavijest se daje <strong>odmah po nastanku ozljede</strong>. Zakon smatra da ste obvezu ispunili ako ste nakon isključenja izvora ozljede, pružanja prve pomoći i pozivanja hitne pomoći bez odgađanja nazvali mjesno nadležni ured inspekcije na broj objavljen na njegovim službenim stranicama ili jedinstveni broj za hitne službe 112.</p>
+<p>Državni inspektorat na svojim stranicama navodi da se takve ozljede u radno vrijeme područnog ureda prijavljuju na broj dežurnog inspektora rada za zaštitu na radu, a izvan radnog vremena na broj 112. Brojeve područnih ureda provjerite unaprijed i stavite ih u postupak za slučaj ozljede.</p>
+<p>Nakon obavijesti inspektor rada mora obaviti nadzor odmah (članak 93.).</p>
+<h3>Povjerenik radnika i odbor za zaštitu na radu</h3>
+<p>Uz inspekciju, kod težih događaja postoje i unutarnje obveze:</p>
+<ul>
+<li>o svakoj smrtnoj ili teškoj ozljedi na radu poslodavac <strong>odmah izvještava povjerenika radnika</strong> za zaštitu na radu, ako je izabran (članak 32. stavak 8.)</li>
+<li>povjerenika poslodavac <strong>poziva na očevid</strong> na mjestu rada (članak 32. stavak 9.)</li>
+<li>poslodavac koji ima odbor za zaštitu na radu (obvezan od 50 radnika) mora <strong>sazvati sjednicu odbora u roku od dva radna dana</strong> i o njoj obavijestiti inspektora (članak 34.)</li>
+</ul>
+<h2>Prijava ozljede na radu HZZO-u</h2>
+<p>Prijava HZZO-u pokreće postupak priznavanja ozljede na radu. O priznavanju ovise prava radnika, uključujući naknadu plaće i troškove liječenja. Prijavu podnosi poslodavac po službenoj dužnosti ili na zahtjev radnika (članak 128. Zakona o obveznom zdravstvenom osiguranju).</p>
+<h3>Rok za prijavu</h3>
+<p>Prijava ozljede na radu podnosi se <strong>u roku od osam dana od dana nastanka ozljede</strong> (članak 130. Zakona o obveznom zdravstvenom osiguranju).</p>
+<p>Ako prijava nije podnesena ni u roku od tri godine od isteka tog roka, osigurana osoba gubi pravo na pokretanje postupka priznavanja ozljede na radu.</p>
+<p>Ako poslodavac ne podnese prijavu, na zahtjev radnika ili prijedlog nadležnog specijalista medicine rada prijavu podnosi izabrani doktor obiteljske medicine. To ne oslobađa poslodavca njegove obveze.</p>
+<h3>Prijava ozljede na radu: obrazac</h3>
+<p>Prijava se podnosi na tiskanici <strong>„Prijava ozljede na radu"</strong> propisanoj Pravilnikom o kriterijima i načinu ostvarivanja prava iz obveznoga zdravstvenog osiguranja (NN 37/26). Tiskanicu možete preuzeti na stranicama HZZO-a, u dijelu o ozljedama na radu.</p>
+<p>Što trebate znati o tiskanici (članci 90. i 95. Pravilnika):</p>
+<ul>
+<li>ima dva dijela: jedan popunjava poslodavac, a drugi izabrani doktor obiteljske medicine, i svatko svoj dio dostavlja HZZO-u</li>
+<li>u tiskanici se obvezno upisuje oznaka uzroka ozljede iz popisa koji je prilog pravilniku, osim kod ozljede na putu do posla ili s posla</li>
+<li>popunjava se u pet primjeraka: za poslodavca, radnika, specijalista medicine rada, izabranog doktora i HZZO</li>
+</ul>
+<p>HZZO pokreće postupak kad zaprimi i prijavu poslodavca i izvješće izabranog doktora.</p>
+<h3>Kome i kako se podnosi</h3>
+<p>Prijava se podnosi područnom uredu HZZO-a prema prebivalištu ili boravištu ozlijeđene osobe ili prema sjedištu poslodavca (članak 89. Pravilnika).</p>
+<p>Postoje dva načina:</p>
+<ul>
+<li><strong>neposredno</strong> u područnom uredu. Kad predajete osobno, na preslici prijave ili posebnom papiru mora vam se potvrditi datum primitka i broj pod kojim je prijava zaprimljena</li>
+<li><strong>elektronički putem portala e-Zdravstveno</strong>, ako ste kod HZZO-a registrirani kao korisnik usluge na temelju pristupnog lista. Ta mogućnost vrijedi od 1. srpnja 2026. (članak 93. Pravilnika)</li>
+</ul>
+<p>Potvrdu o primitku ili dokaz o elektroničkom slanju sačuvajte. To je vaš dokaz da je rok poštovan.</p>
+<h3>Što priložiti uz prijavu</h3>
+<p>Uz prijavu se prilaže dokumentacija iz koje je vidljivo da je ozljeda uzročno vezana uz rad (članak 91. Pravilnika). Pravilnik navodi:</p>
+<ul>
+<li>presliku medicinske dokumentacije o ozljedi</li>
+<li>presliku osobnog zdravstvenog kartona</li>
+<li>pisanu izjavu radnika o okolnostima ozljede</li>
+<li>pisane izjave očevidaca, ako ih ima</li>
+<li>presliku zapisnika inspekcije rada, ako je nadzor obavljen</li>
+<li>presliku zapisnika o ispitivanju alkohola, droga ili lijekova, ako je ispitivanje obavljeno</li>
+<li>kod prometne nesreće: zapisnik policije ili europsko izvješće o prometnoj nesreći, evidenciju radnog vremena za taj dan i putni nalog ako je radnik bio na službenom putu</li>
+<li>obdukcijski nalaz kod smrtne ozljede</li>
+<li>drugu dokumentaciju koju zatraži službena osoba HZZO-a</li>
+</ul>
+<p>Kod ozljede na izdvojenom mjestu rada, primjerice pri radu od kuće, prilaže se i ugovor o radu kojim se dokazuje rad na izdvojenom mjestu, potvrda s evidencijom radnog vremena i drugi dokazi o uvjetima rada.</p>
+<h3>Prijava i kad radnik nije na bolovanju</h3>
+<p>Prijava se podnosi neovisno o tome je li ozljeda dovela do privremene nesposobnosti za rad (članak 94. Pravilnika). Radnik koji se ozlijedio, a nastavio je raditi, i dalje mora biti prijavljen. Posljedice se ponekad pokažu kasnije.</p>
+<h3>Kako HZZO odlučuje</h3>
+<p>HZZO ozljedu na radu u pravilu priznaje ovjerom zaprimljene prijave, bez posebnog rješenja (članak 129. Zakona o obveznom zdravstvenom osiguranju). Rješenje donosi kad ozljedu ne prizna, kad odlučuje na zahtjev radnika ili člana obitelji i kad se poslodavac u postupku izričito pisano izjasni da događaj ne smatra ozljedom na radu (članak 97. Pravilnika).</p>
+<p>Ovjerenu prijavu ili rješenje HZZO dostavlja podnositelju, radniku, izabranom doktoru i specijalistu medicine rada u roku od osam dana (članak 98. Pravilnika).</p>
+<h2>Ozljeda na putu do posla</h2>
+<p>Ozljeda na redovitom putu od stana do mjesta rada i natrag može se priznati kao ozljeda na radu (članak 66. Zakona o obveznom zdravstvenom osiguranju). Uz prijavu treba dokazati da je riječ o redovitom, uobičajenom i neprekinutom putu, poduzetom u primjerenom vremenu prije ili nakon radnog vremena (članak 91. Pravilnika).</p>
+<p>U praksi to znači da će HZZO gledati:</p>
+<ul>
+<li>je li radnik išao uobičajenim putem između stana i posla</li>
+<li>je li put bio prekinut, primjerice zbog privatnih obaveza</li>
+<li>odgovara li vrijeme ozljede radnom vremenu</li>
+</ul>
+<p>Kod prometne nesreće na putu prilažu se zapisnik policije ili europsko izvješće o nesreći i evidencija radnog vremena za taj dan. Oznaka uzroka ozljede u tiskanici za ozljedu na putu se ne upisuje.</p>
+<p>Obveza hitne obavijesti inspekciji iz članka 65. Zakona o zaštiti na radu odnosi se na ozljede nastale u prostoriji ili na prostoru u kojem poslodavac obavlja rad. Kod ozljede na putu do posla postupak s HZZO-om je obvezan, a za obavijest inspekciji savjetujte se sa stručnjakom zaštite na radu.</p>
+<h2>Naknada plaće za vrijeme bolovanja zbog ozljede na radu</h2>
+<p>Za vrijeme privremene nesposobnosti zbog priznate ozljede na radu radnik ima pravo na naknadu plaće u visini <strong>100 % osnovice</strong> (članak 55. Zakona o obveznom zdravstvenom osiguranju).</p>
+<p>Naknadu od prvog dana obračunava i isplaćuje poslodavac, a HZZO mu je dužan vratiti isplaćeni iznos u roku od 45 dana od primitka zahtjeva za povrat (članak 41.). Priznata ozljeda na radu daje radniku i pravo na cjelokupno liječenje koje je posljedica ozljede na teret obveznoga zdravstvenog osiguranja.</p>
+<h2>Evidencija, analiza i mjere nakon ozljede</h2>
+<p>Poslodavac mora voditi evidenciju o ozljedama na radu, profesionalnim bolestima i nezgodama na radu (članak 61. Zakona o zaštiti na radu). Ovlaštenik, u suradnji sa stručnjakom zaštite na radu, osigurava evidentiranje svake nezgode i ozljede na radu (članak 24.).</p>
+<p>Evidencija nije samo formalnost. Nakon ozljede trebate provjeriti:</p>
+<ul>
+<li><strong>odgovara li procjena rizika stvarnom stanju.</strong> Učestalost ozljeda i njihovi uzroci jedan su od pokazatelja koje poslodavac uzima u obzir kad preispituje procjenu rizika (članak 12. Pravilnika o izradi procjene rizika)</li>
+<li><strong>treba li ponovno osposobiti radnike.</strong> Osposobljavanje se ponavlja kod utvrđenog oštećenja zdravlja uzrokovanog radom i kod pojave novih rizika (članak 27.)</li>
+<li><strong>je li oprema ispravna</strong> i jesu li radnici koristili propisanu zaštitnu opremu</li>
+</ul>
+<p>I nezgodu, događaj koji nije uzrokovao ozljedu ali je mogao, zakon traži evidentirati (članak 3. i članak 61.). Takvi događaji često upozore na rizik prije nego što netko strada.</p>
+<h2>Odgovornost poslodavca</h2>
+<p>Za ozljedu na radu poslodavac odgovara po načelu objektivne odgovornosti (članak 25. Zakona o zaštiti na radu). To znači da se smatra da ozljeda potječe od rada. Poslodavac se odgovornosti može osloboditi ili je umanjiti samo ako je šteta nastala zbog više sile, namjere ili krajnje nepažnje radnika ili treće osobe, na koje nije mogao utjecati ni izbjeći posljedice unatoč provedenoj zaštiti na radu.</p>
+<p>Zato je važno da uredna dokumentacija postoji prije ozljede: procjena rizika, zapisnik o osposobljavanju, upute i dokazi o ispravnosti opreme.</p>
+<h2>Kontrolni popis: postupak kod ozljede na radu</h2>
+<ol>
+<li>Pružite prvu pomoć i pozovite hitnu pomoć ako je potrebno.</li>
+<li>Isključite izvor ozljede i osigurajte ostale radnike.</li>
+<li>Ako je ozljeda smrtna ili je radnik zadržan u bolnici nakon hitne pomoći, odmah nazovite dežurnog inspektora područnog ureda ili 112.</li>
+<li>Kod smrtne ili teške ozljede odmah obavijestite povjerenika radnika i pozovite ga na očevid.</li>
+<li>Ako imate odbor za zaštitu na radu, sazovite sjednicu u roku od dva radna dana.</li>
+<li>Zapišite okolnosti i prikupite izjavu radnika i svjedoka.</li>
+<li>Upišite ozljedu u evidenciju ozljeda na radu.</li>
+<li>Popunite tiskanicu „Prijava ozljede na radu" i uputite radnika izabranom doktoru.</li>
+<li>Priložite propisanu dokumentaciju.</li>
+<li>Podnesite prijavu HZZO-u u roku od osam dana i sačuvajte dokaz o predaji.</li>
+<li>Obračunajte naknadu plaće i podnesite HZZO-u zahtjev za povrat.</li>
+<li>Sa stručnjakom zaštite na radu analizirajte uzrok i provjerite procjenu rizika, osposobljenost radnika i opremu.</li>
+</ol>
+<h2>Najčešće greške</h2>
+<ul>
+<li><strong>Korištenje stare tiskanice.</strong> Od 1. srpnja 2026. koristi se samo tiskanica „Prijava ozljede na radu" iz pravilnika NN 37/26.</li>
+<li><strong>Prijava tek kad radnik ode na bolovanje.</strong> Rok od osam dana teče od dana ozljede, a prijava se podnosi i kad nema bolovanja.</li>
+<li><strong>Poziv inspekciji „sutra ujutro".</strong> Kod smrtne ozljede i ozljede s bolničkim liječenjem nakon hitne pomoći obavijest mora biti odmah.</li>
+<li><strong>Nepotpuna dokumentacija.</strong> Bez izjava radnika i svjedoka i medicinske dokumentacije HZZO teško utvrđuje vezu s radom.</li>
+<li><strong>Nema dokaza o predaji.</strong> Bez potvrde o primitku teško je dokazati da je rok poštovan.</li>
+<li><strong>Ozljeda se riješi „na licu mjesta" bez evidencije.</strong> Zakon traži evidentiranje svake ozljede na radu, a nezgode su također dio evidencije.</li>
+<li><strong>Nakon ozljede ništa se ne mijenja.</strong> Ako se ozljeda dogodila, procjenu rizika i osposobljavanje treba preispitati.</li>
+</ul>
+<h2>Česta pitanja</h2>
+<h3>U kojem roku se prijavljuje ozljeda na radu?</h3>
+<p>Prijava ozljede na radu podnosi se HZZO-u u roku od osam dana od dana nastanka ozljede. Smrtnu ozljedu i ozljedu zbog koje je radnik nakon hitne pomoći zadržan na bolničkom liječenju poslodavac inspekciji prijavljuje odmah.</p>
+<h3>Gdje nabaviti prijava ozljede na radu obrazac?</h3>
+<p>Tiskanica „Prijava ozljede na radu" propisana je Pravilnikom o kriterijima i načinu ostvarivanja prava iz obveznoga zdravstvenog osiguranja (NN 37/26) i dostupna je na stranicama HZZO-a, u dijelu o ozljedama na radu i profesionalnim bolestima.</p>
+<h3>Može li se prijava ozljede na radu podnijeti elektronički?</h3>
+<p>Može, putem portala e-Zdravstveno, ako je poslodavac kod HZZO-a registriran kao korisnik usluge na temelju pristupnog lista. Ta mogućnost vrijedi od 1. srpnja 2026.</p>
+<h3>Moram li prijaviti ozljedu ako radnik nije otvorio bolovanje?</h3>
+<p>Da. Prijava se podnosi neovisno o tome je li ozljeda dovela do privremene nesposobnosti za rad.</p>
+<h3>Što ako smatram da događaj nije ozljeda na radu?</h3>
+<p>Prijavu i dalje podnosite, a u postupku se možete pisano izjasniti da događaj ne smatrate ozljedom na radu. HZZO tada odlučuje rješenjem.</p>
+<h3>Tko prijavljuje ozljedu ako poslodavac to ne napravi?</h3>
+<p>Na zahtjev radnika ili prijedlog nadležnog specijalista medicine rada prijavu podnosi izabrani doktor obiteljske medicine. Radnik može i sam pisanim zahtjevom pokrenuti postupak kod HZZO-a.</p>
+<h2>Kako vam možemo pomoći</h2>
+<p>Postupak kod ozljede na radu najlakše je provesti ako je pripremljen unaprijed. Pomažemo vam složiti interni postupak s kontaktima, povezujemo vas sa stručnjakom zaštite na radu i vodimo administraciju kad se ozljeda dogodi: od prikupljanja izjava i dokumentacije do prijave HZZO-u i evidencije. Više o tome na stranici <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a>, a upit nam možete poslati preko stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<h2>Izvori</h2>
+<ul>
+<li><a href="https://www.zakon.hr/z/167/zakon-o-zastiti-na-radu">Zakon o zaštiti na radu, pročišćeni tekst NN 71/14, 118/14, 154/14, 94/18, 96/18 (zakon.hr)</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2018_10_94_1819.html">Zakon o izmjenama i dopunama Zakona o zaštiti na radu, NN 94/18</a></li>
+<li><a href="https://www.zakon.hr/z/192/Zakon-o-obveznom-zdravstvenom-osiguranju">Zakon o obveznom zdravstvenom osiguranju, pročišćeni tekst NN 80/13, 137/13, 98/19, 33/23, 105/25 (zakon.hr)</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2026_04_37_449.html">Pravilnik o kriterijima i načinu ostvarivanja prava iz obveznoga zdravstvenog osiguranja, NN 37/26</a></li>
+<li><a href="https://hzzo.hr/ozljede-na-radu-i-profesionalne-bolesti-specificna-zdravstvena-zastita/1-ozljeda-na-radu">HZZO: Ozljeda na radu</a></li>
+<li><a href="https://dirh.gov.hr/kontakti/podrucni-uredi-dezurne-inspekcije/131">Državni inspektorat: područni uredi i dežurne inspekcije</a></li>
+<li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2019_12_129_2615.html">Pravilnik o izmjenama i dopunama Pravilnika o izradi procjene rizika, NN 129/19</a></li>
+</ul>10:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Ozljeda na radu: što poslodavac mora napraviti i kako je prijaviti\",\"description\":\"Ozljeda na radu: prva pomoć, kada odmah obavijestiti inspekciju, prijava HZZO-u u roku od 8 dana na novom obrascu i ozljeda na putu do posla.\",\"datePublished\":\"2026-11-02\",\"dateModified\":\"2026-11-02\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://administrativneusluge.hr/blog/ozljeda-na-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://administrativneusluge.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Ozljeda na radu: što poslodavac mora napraviti i kako je prijaviti"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Ozljeda na radu: prva pomoć, kada odmah obavijestiti inspekciju, prijava HZZO-u u roku od 8 dana na novom obrascu i ozljeda na putu do posla."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","2. studenoga 2026."]}],null,["$","span",null,{"children":[13," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$18"}}],"$L19"]}],"$L1a"]}]}]]
+13:null
+17:[["$","title","0",{"children":"Ozljeda na radu: što poslodavac mora napraviti i kako je prijaviti"}],["$","meta","1",{"name":"description","content":"Ozljeda na radu: prva pomoć, kada odmah obavijestiti inspekciju, prijava HZZO-u u roku od 8 dana na novom obrascu i ozljeda na putu do posla."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://administrativneusluge.hr/blog/ozljeda-na-radu/"}],["$","meta","4",{"property":"og:title","content":"Ozljeda na radu: što poslodavac mora napraviti i kako je prijaviti"}],["$","meta","5",{"property":"og:description","content":"Ozljeda na radu: prva pomoć, kada odmah obavijestiti inspekciju, prijava HZZO-u u roku od 8 dana na novom obrascu i ozljeda na putu do posla."}],["$","meta","6",{"property":"og:url","content":"https://administrativneusluge.hr/blog/ozljeda-na-radu/"}],["$","meta","7",{"property":"og:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-11-02"}],["$","meta","13",{"property":"article:modified_time","content":"2026-11-02"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Ozljeda na radu: što poslodavac mora napraviti i kako je prijaviti"}],["$","meta","16",{"name":"twitter:description","content":"Ozljeda na radu: prva pomoć, kada odmah obavijestiti inspekciju, prijava HZZO-u u roku od 8 dana na novom obrascu i ozljeda na putu do posla."}],["$","meta","17",{"name":"twitter:image","content":"https://administrativneusluge.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Administrativna podrška u poslovanju"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","22",{}]]
+19:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":["Propisi, rokovi, iznosi i praksa institucija se mijenjaju. Tekst odgovara stanju na dan"," ",["$","strong",null,{"children":"2. studenoga 2026."}],", pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."]}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
+1a:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Zaštita na radu"}],["$","p",null,{"children":"Stručnjak zaštite na radu, procjena rizika, osposobljavanje radnika i priprema za inspekciju."}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]

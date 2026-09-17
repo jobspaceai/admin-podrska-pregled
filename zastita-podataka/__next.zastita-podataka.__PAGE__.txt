@@ -1,10 +1,6 @@
 1:"$Sreact.fragment"
-2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-4:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-9:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
-:HL["/admin-podrska-pregled/_next/static/chunks/2qfjcthp4ztzm.css","style"]
-3:T919,<h2>Tko obrađuje podatke</h2>
+2:I[22016,["/admin-podrska-pregled/_next/static/chunks/0f_fscwqo8l-1.js"],""]
+3:Tbf8,<h2>Tko obrađuje podatke</h2>
 <p>Voditelj obrade je Horizon 2021 d.o.o., OIB 53777831791, Bana Josipa Jelačića 3A, 35400 Nova Gradiška. Za pitanja o osobnim podacima javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
 <h2>Koje podatke prikupljamo</h2>
 <p>Kad pošaljete upit preko kontakt obrasca, primamo ime i prezime, e-mail adresu, poruku te, ako ih upišete, broj telefona i naziv tvrtke. Ne tražimo podatke o zdravlju, osobne isprave ni druge posebne kategorije podataka, pa ih u poruku nemojte upisivati.</p>
@@ -18,26 +14,34 @@
 <p>Poruka s obrasca šalje se e-mailom s poslužitelja našeg pružatelja web hostinga, koji podatke obrađuje u naše ime. Podatke ne prenosimo izvan Europskog gospodarskog prostora.</p>
 <p>[ZA PRAVNIKA: potvrditi lokaciju poslužitelja i ugovor o obradi s pružateljem hostinga.]</p>
 <h2>Kolačići i analitika</h2>
-<p>Web trenutno ne postavlja kolačiće i ne koristi alate za praćenje posjeta. Ako to uvedemo, ova stranica će se promijeniti, a za kolačiće koji nisu nužni tražit ćemo vašu privolu.</p>
+<p>Bez vaše privole web ne postavlja kolačiće. Vaš izbor pamtimo u pregledniku (localStorage), da vas ne pitamo pri svakom posjetu.</p>
+<p>Ako u banneru kliknete „Prihvaćam“, učitavamo Google Analytics 4 (Google Ireland Limited). Google tada postavlja kolačiće <code>_ga</code> i <code>_ga_&#x3C;ID></code> i prikuplja podatke o posjetu: koje stranice ste otvorili, s kojeg uređaja i preglednika te iz koje države ili grada, prema IP adresi. Podatke koristimo samo za statistiku posjeta. Oglasne signale i personalizaciju oglasa ne uključujemo.</p>
+<p>Privolu možete povući u svakom trenutku, preko poveznice „Postavke kolačića“ u podnožju stranice. Tada brišemo kolačiće Google Analyticsa i više ga ne učitavamo.</p>
+<p>[ZA PRAVNIKA: rok čuvanja podataka u Google Analyticsu (postavka u GA, zadano 2 mjeseca), prijenos podataka u SAD (EU-US Data Privacy Framework) i ugovor o obradi s Googleom.]</p>
 <p>Poslužitelj, kao i svaki drugi, bilježi tehničke zapise o posjetima: IP adresu, vrijeme i adresu stranice koju ste otvorili.</p>
 <h2>Vaša prava</h2>
 <p>Možete zatražiti pristup svojim podacima, njihov ispravak ili brisanje, ograničenje obrade te prigovoriti obradi. Ako je obrada temeljena na privoli, privolu možete povući u svakom trenutku, bez utjecaja na ranije poslane upite.</p>
-<p>Ako smatrate da su vaši podaci obrađeni protivno propisima, možete podnijeti prigovor Agenciji za zaštitu osobnih podataka (<a href="https://azop.hr">azop.hr</a>).</p>8:X
-f:X
-f:C
-0:{"buildId":"S6LFN04Pp12aKMIWFbTvc","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Zaštita osobnih podataka"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Zaštita osobnih podataka"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":["Ažurirano ","17. rujna 2026."]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap","children":[["$","p",null,{"className":"blog-module__JsT-Oq__draftNote","role":"note","children":"Nacrt. Tekst još nije pravno pregledan."}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]}]],[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/2qfjcthp4ztzm.css","precedence":"next"}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],"$La","$Lb"]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$8","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
-12:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
-13:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
-14:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-15:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-6:null
-a:["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Zaštita osobnih podataka | Horizon plus"}],["$","meta","1",{"name":"description","content":"Koje osobne podatke Horizon 2021 d.o.o. prikuplja preko weba i kontakt obrasca, u koju svrhu, koliko ih čuva i kako možete ostvariti svoja prava."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/zastita-podataka/"}],["$","meta","4",{"property":"og:title","content":"Zaštita osobnih podataka | Horizon plus"}],["$","meta","5",{"property":"og:description","content":"Koje osobne podatke Horizon 2021 d.o.o. prikuplja preko weba i kontakt obrasca, u koju svrhu, koliko ih čuva i kako možete ostvariti svoja prava."}],["$","meta","6",{"property":"og:site_name","content":"Horizon plus"}],["$","meta","7",{"property":"og:locale","content":"hr_HR"}],["$","meta","8",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Zaštita osobnih podataka | Horizon plus"}],["$","meta","15",{"name":"twitter:description","content":"Koje osobne podatke Horizon 2021 d.o.o. prikuplja preko weba i kontakt obrasca, u koju svrhu, koliko ih čuva i kako možete ostvariti svoja prava."}],["$","meta","16",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","17",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L13","21",{}]]}]}]}]
-b:["$","meta",null,{"name":"next-size-adjust","content":""}]
-d:["$","$1","c",{"children":[null,["$","$L14",null,{"parallelRouterKey":"children","template":["$","$L15",null,{}]}]]}]
-11:true
-8:300
-8:C
-10:0
-c:"$undefined"
-e:"$undefined"
-7:"$undefined"
+<p>Ako smatrate da su vaši podaci obrađeni protivno propisima, možete podnijeti prigovor Agenciji za zaštitu osobnih podataka (<a href="https://azop.hr">azop.hr</a>).</p>7:X
+c:X
+c:C
+0:{"buildId":"NY9ur6BT3ywHOmcvjwNap","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Zaštita osobnih podataka"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Zaštita osobnih podataka"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":["Ažurirano ","17. rujna 2026."]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap","children":[["$","p",null,{"className":"blog-module__JsT-Oq__draftNote","role":"note","children":"Nacrt. Tekst još nije pravno pregledan."}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]}]],["$L4"],"$L5"]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":"$L8","isPartial":"$@9","staleTime":"$7","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$7","varyParams":"$c"}],"isUpgradeableISRFallback":false,"a":"$@d","rootVaryParams":null,"needsRuntimeRequest":"$@e"}
+f:I[97367,["/admin-podrska-pregled/_next/static/chunks/0f_fscwqo8l-1.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+12:I[97367,["/admin-podrska-pregled/_next/static/chunks/0f_fscwqo8l-1.js"],"ViewportBoundary"]
+13:I[97367,["/admin-podrska-pregled/_next/static/chunks/0f_fscwqo8l-1.js"],"MetadataBoundary"]
+14:I[27201,["/admin-podrska-pregled/_next/static/chunks/0f_fscwqo8l-1.js"],"IconMark"]
+15:I[39756,["/admin-podrska-pregled/_next/static/chunks/0f_fscwqo8l-1.js"],"default"]
+16:I[37457,["/admin-podrska-pregled/_next/static/chunks/0f_fscwqo8l-1.js"],"default"]
+:HL["/admin-podrska-pregled/_next/static/chunks/2qfjcthp4ztzm.css","style"]
+4:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/2qfjcthp4ztzm.css","precedence":"next"}]
+5:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+8:["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Zaštita osobnih podataka | Horizon plus"}],["$","meta","1",{"name":"description","content":"Koje osobne podatke Horizon 2021 d.o.o. prikuplja preko weba, kontakt obrasca i Google Analyticsa, u koju svrhu i kako možete ostvariti svoja prava."}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/zastita-podataka/"}],["$","meta","4",{"property":"og:title","content":"Zaštita osobnih podataka | Horizon plus"}],["$","meta","5",{"property":"og:description","content":"Koje osobne podatke Horizon 2021 d.o.o. prikuplja preko weba, kontakt obrasca i Google Analyticsa, u koju svrhu i kako možete ostvariti svoja prava."}],["$","meta","6",{"property":"og:site_name","content":"Horizon plus"}],["$","meta","7",{"property":"og:locale","content":"hr_HR"}],["$","meta","8",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Zaštita osobnih podataka | Horizon plus"}],["$","meta","15",{"name":"twitter:description","content":"Koje osobne podatke Horizon 2021 d.o.o. prikuplja preko weba, kontakt obrasca i Google Analyticsa, u koju svrhu i kako možete ostvariti svoja prava."}],["$","meta","16",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","17",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","18",{"name":"twitter:image:width","content":"1200"}],["$","meta","19",{"name":"twitter:image:height","content":"630"}],["$","link","20",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","21",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","$1","c",{"children":[null,["$","$L15",null,{"parallelRouterKey":"children","template":["$","$L16",null,{}]}]]}]
+e:true
+11:null
+7:300
+7:C
+d:0
+9:"$undefined"
+b:"$undefined"
+6:"$undefined"

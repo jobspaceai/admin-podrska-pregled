@@ -1,7 +1,7 @@
-:HL["/admin-podrska-pregled/_next/static/chunks/1uiazgj96nc9x.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/0t13s_1-ocaxg.css","style"]
 :HL["/admin-podrska-pregled/_next/static/media/400bf8aa837fcb7e-s.p.19g-lkcx7iw64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/chunks/2qfjcthp4ztzm.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"prethodni-periodicni-pregled","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"S6LFN04Pp12aKMIWFbTvc"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"prethodni-periodicni-pregled","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"NY9ur6BT3ywHOmcvjwNap"}

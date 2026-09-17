@@ -1,2 +1,2 @@
-:HL["/admin-podrska-pregled/_next/static/chunks/1uiazgj96nc9x.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"S6LFN04Pp12aKMIWFbTvc"}
+:HL["/admin-podrska-pregled/_next/static/chunks/0t13s_1-ocaxg.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"NY9ur6BT3ywHOmcvjwNap"}

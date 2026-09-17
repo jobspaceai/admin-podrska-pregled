@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T23f1,<p>Prijava radnika na mirovinsko osiguranje podnosi se Hrvatskom zavodu za mirovinsko osiguranje (HZMO) najranije osam dana prije početka rada, a najkasnije prije samog početka rada. Odjava radnika podnosi se u roku od 24 sata od prestanka rada, odnosno prestanka radnog odnosa. Promjene tijekom osiguranja prijavljuju se također u roku od 24 sata.</p>
-<p>Za radnika u radnom odnosu ne trebate podnositi posebnu prijavu na zdravstveno osiguranje. Hrvatski zavod za zdravstveno osiguranje (HZZO) preuzima podatke o radnopravnom statusu od HZMO-a, pa je dovoljna jedna prijava u mirovinski sustav.</p>
-<h2>Tko prijavljuje i odjavljuje radnika</h2>
-<p>Prijavu, odjavu i promjene podnosi poslodavac, pravna ili fizička osoba, kao obveznik doprinosa. Obveza postoji prema Zakonu o mirovinskom osiguranju i Pravilniku o vođenju matične evidencije HZMO-a, a Zakon o radu poslodavcu nalaže da podatke o radniku i sve promjene dostavi u elektroničku bazu HZMO-a.</p>
-<p>Za točnost podataka u prijavi odgovara poslodavac kao obveznik. Prijave u njegovo ime može podnositi i ovlaštena osoba, primjerice knjigovodstveni servis.</p>
+3:T23a7,<p>Prijava radnika na mirovinsko osiguranje šalje se Hrvatskom zavodu za mirovinsko osiguranje (HZMO) najranije osam dana prije početka rada, a <strong>najkasnije prije nego što radnik počne raditi</strong>. Odjavu podnosite u roku od 24 sata od prestanka rada, odnosno prestanka radnog odnosa. I promjene tijekom osiguranja prijavljujete u roku od 24 sata.</p>
+<p>Radnika u radnom odnosu ne morate posebno prijavljivati na zdravstveno osiguranje. Hrvatski zavod za zdravstveno osiguranje (HZZO) podatke o radnopravnom statusu preuzima od HZMO-a, pa je dovoljna jedna prijava u mirovinski sustav.</p>
+<h2>Tko prijavljuje i odjavljuje radnika?</h2>
+<p>Prijavu, odjavu i promjene podnosi poslodavac (pravna ili fizička osoba) kao obveznik doprinosa. Tu obvezu propisuju Zakon o mirovinskom osiguranju i Pravilnik o vođenju matične evidencije HZMO-a. Uz to, po Zakonu o radu poslodavac podatke o radniku i sve promjene dostavlja u elektroničku bazu HZMO-a.</p>
+<p>Za točnost podataka u prijavi odgovara poslodavac. U njegovo ime prijave može podnositi i ovlaštena osoba, primjerice knjigovodstveni servis.</p>
 <h2>Prijava radnika i odjava radnika: rokovi</h2>
 <table>
 <thead>
@@ -32,24 +32,24 @@
 </tr>
 </tbody>
 </table>
-<p>Rok za prijavu nije „prvi dan rada do kraja dana". Radnik mora biti prijavljen prije nego što počne raditi, uključujući i probni rad.</p>
-<p>Ako HZMO odbije e-prijavu zbog nedostataka, novu ispravnu e-prijavu treba dostaviti u roku od 24 sata od obrade odbijene. Tada se kao datum primanja računa datum primanja odbijene prijave.</p>
-<h2>Sustavi: e-Prijava HZMO-a i e-Zdravstveno</h2>
+<p>Prijava nije u roku ako je pošaljete tijekom prvog radnog dana, nakon što je radnik već počeo raditi. Radnik mora biti prijavljen prije nego što počne raditi, i kad radnik počinje probnim radom.</p>
+<p>Ako HZMO odbije e-prijavu zbog nedostataka, novu ispravnu e-prijavu šaljete u roku od 24 sata od obrade odbijene. Kao datum primanja tada se računa datum kad je primljena odbijena prijava.</p>
+<h2>Kako se radnik prijavljuje: e-Prijava HZMO-a i e-Zdravstveno</h2>
 <h3>e-Prijava HZMO-a</h3>
-<p>Poslodavac koji obračunava i plaća doprinose za <strong>više od tri osiguranika</strong> mora prijave podnositi elektronički. Ostali mogu koristiti papirnate tiskanice ili e-Prijavu.</p>
-<p>Za e-Prijavu treba kvalificirani certifikat, jer se obrasci potpisuju naprednim elektroničkim potpisom. Poslodavac može ovlastiti drugu osobu s kvalificiranim certifikatom da prijave podnosi u njegovo ime.</p>
+<p>Poslodavac koji obračunava i plaća doprinose za <strong>više od tri osiguranika</strong> mora prijave podnositi elektronički. Ostali mogu birati između papirnatih tiskanica i e-Prijave.</p>
+<p>Za e-Prijavu vam treba kvalificirani certifikat, jer se obrasci potpisuju naprednim elektroničkim potpisom. Možete ovlastiti i drugu osobu s kvalificiranim certifikatom da prijave podnosi u vaše ime.</p>
 <p>Obrasci za radnike:</p>
 <ul>
-<li><strong>eM-1P</strong> (papirnato M-1P): prijava o početku osiguranja</li>
-<li><strong>eM-2P</strong> (M-2P): prijava o prestanku osiguranja</li>
-<li><strong>eM-3P</strong> (M-3P): prijava o promjeni tijekom osiguranja</li>
+<li>eM-1P (papirnato M-1P) za prijavu o početku osiguranja</li>
+<li>eM-2P (M-2P) za prijavu o prestanku osiguranja</li>
+<li>eM-3P (M-3P) za prijavu o promjeni tijekom osiguranja</li>
 </ul>
-<p>Poslodavac pravna osoba uz prvu prijavu radnika podnosi i prijavu o početku poslovanja obveznika doprinosa (M-11P, odnosno eM-11P).</p>
-<h3>HZZO i e-Zdravstveno</h3>
-<p>Na temelju prijave HZMO-u radnik se prijavljuje i na obvezno zdravstveno osiguranje. HZZO od HZMO-a preuzima te podatke od srpnja 2014.</p>
-<p>Izravno HZZO-u i dalje se podnose prijave za osigurane osobe koje nisu obuhvaćene tim preuzimanjem, primjerice za članove obitelji osiguranika. Poslodavci ih mogu podnositi preko aplikacije e-Zdravstveno. Prema HZZO-u, prijava, promjena i odjava u obveznom zdravstvenom osiguranju podnosi se u roku od osam dana od nastanka, promjene ili prestanka okolnosti.</p>
+<p>Ako je poslodavac pravna osoba, uz prvu prijavu radnika podnosi i prijavu o početku poslovanja obveznika doprinosa (M-11P, odnosno eM-11P).</p>
+<h3>Što ide HZZO-u i e-Zdravstveno?</h3>
+<p>Prijavom HZMO-u radnik je prijavljen i na obvezno zdravstveno osiguranje, jer HZZO te podatke od srpnja 2014. preuzima od HZMO-a.</p>
+<p>Neke prijave i dalje idu izravno HZZO-u, i to za osigurane osobe koje preuzimanje ne obuhvaća, primjerice članove obitelji osiguranika. Poslodavci ih mogu podnositi kroz aplikaciju e-Zdravstveno. Prema HZZO-u, prijavu, promjenu i odjavu u obveznom zdravstvenom osiguranju podnosite u roku od osam dana od nastanka, promjene ili prestanka okolnosti.</p>
 <h2>Obvezni podaci: što pripremiti prije prijave radnika na mirovinsko</h2>
-<p>Pravilnik o vođenju matične evidencije navodi podatke koji se o osiguraniku vode u matičnoj evidenciji. Za prijavu novog radnika pripremite barem:</p>
+<p>Pravilnik o vođenju matične evidencije navodi podatke koje HZMO o osiguraniku vodi u matičnoj evidenciji. Za prijavu novog radnika pripremite barem:</p>
 <ul>
 <li>ime i prezime, OIB, datum rođenja i spol</li>
 <li>zanimanje</li>
@@ -59,16 +59,16 @@
 <li>radno vrijeme radnika</li>
 <li>vrstu ugovora: na neodređeno ili određeno vrijeme, s punim ili nepunim radnim vremenom</li>
 </ul>
-<p>Kod odjave pripremite datum i razlog prestanka.</p>
+<p>Za odjavu pripremite datum i razlog prestanka.</p>
 <p>Podaci u prijavi moraju odgovarati ugovoru o radu. Ako u ugovoru piše nepuno radno vrijeme, a u prijavi puno, staž i doprinosi bit će iskazani pogrešno.</p>
-<h2>Obveze prema radniku</h2>
+<h2>Što morate dati radniku?</h2>
 <ul>
 <li>Primjerak ugovora o radu radniku dajete prije početka rada.</li>
 <li>Primjerak prijave na obvezno mirovinsko i zdravstveno osiguranje dostavljate mu u roku od osam dana od isteka roka za prijavu.</li>
 <li>Nakon prestanka radnog odnosa, u roku od 15 dana, vraćate mu isprave, dajete primjerak odjave i potvrdu o vrsti poslova i trajanju radnog odnosa.</li>
 </ul>
-<h2>Strani radnici</h2>
-<p>Za državljane trećih zemalja poslodavac prijavu podnosi tek kad su ispunjene pretpostavke za njihov rad u Hrvatskoj prema propisima o radu stranaca. Prije prijave provjerite da radnik ima važeću dozvolu koja mu omogućuje rad kod vas.</p>
+<h2>Kad smijete prijaviti stranog radnika?</h2>
+<p>Državljanina treće zemlje prijavljujete tek kad su ispunjene pretpostavke za njegov rad u Hrvatskoj prema propisima o radu stranaca. Prije prijave provjerite ima li radnik važeću dozvolu koja mu omogućuje rad kod vas.</p>
 <h2>Kontrolni popis</h2>
 <ul>
 <li>ugovor o radu potpisan i primjerak predan radniku</li>
@@ -80,29 +80,29 @@
 <li>odjava poslana u 24 sata od prestanka</li>
 <li>primjerak odjave, isprave i potvrda o poslovima predani radniku u 15 dana</li>
 </ul>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ol>
-<li><strong>Radnik počne raditi prije prijave.</strong> Prijava „istog dana poslije podne" za radnika koji je počeo ujutro nije u roku.</li>
-<li><strong>Radnik ne dođe na posao, a prijava ostane.</strong> Poslodavac mora to dojaviti HZMO-u najkasnije na dan početka osiguranja.</li>
-<li><strong>Kasni odjava.</strong> Rok od 24 sata vrijedi i kod sporazuma, isteka ugovora na određeno i otkaza.</li>
-<li><strong>Promjena radnog vremena nije prijavljena.</strong> Prelazak s punog na nepuno radno vrijeme promjena je tijekom osiguranja.</li>
-<li><strong>Pogrešni podaci u prijavi.</strong> Kvalifikacija ili radno vrijeme ne odgovaraju ugovoru o radu.</li>
-<li><strong>Odbijena e-prijava nije ponovljena.</strong> Nova prijava mora stići u 24 sata od obrade odbijene.</li>
-<li><strong>Radnik nije dobio primjerak prijave ili odjave.</strong> Obveza postoji prema Zakonu o radu.</li>
+<li>Radnik počne raditi prije prijave. Ako je počeo ujutro, a prijavu ste poslali popodne istog dana, niste bili u roku.</li>
+<li>Radnik ne dođe na posao, a prijava ostane. To morate dojaviti HZMO-u najkasnije na dan početka osiguranja.</li>
+<li>Odjava kasni. Rok od 24 sata vrijedi i kod sporazumnog prestanka, isteka ugovora na određeno i otkaza.</li>
+<li>Promjena radnog vremena nije prijavljena, iako je prelazak s punog na nepuno radno vrijeme promjena tijekom osiguranja.</li>
+<li>Kvalifikacija ili radno vrijeme u prijavi ne odgovaraju ugovoru o radu.</li>
+<li>Odbijenu e-prijavu ne ponovite u roku. Nova prijava mora stići u 24 sata od obrade odbijene.</li>
+<li>Radnik ne dobije primjerak prijave ili odjave, iako ga po Zakonu o radu mora dobiti.</li>
 </ol>
 <h2>Česta pitanja</h2>
 <h3>Mogu li radnika prijaviti isti dan kad počinje raditi?</h3>
 <p>Možete, ako prijavu podnesete prije nego što počne raditi. Najranije je možete podnijeti osam dana prije početka rada.</p>
 <h3>Treba li odjava radnika posebno i kod HZZO-a?</h3>
-<p>Za radnika u radnom odnosu ne treba. HZZO podatke preuzima iz prijave i odjave podnesene HZMO-u. Za članove obitelji osiguranika postupak ide preko HZZO-a.</p>
+<p>Za radnika u radnom odnosu ne treba, jer HZZO podatke preuzima iz prijave i odjave podnesene HZMO-u. Za članove obitelji osiguranika prijave idu preko HZZO-a.</p>
 <h3>Mora li mali poslodavac koristiti e-Prijavu?</h3>
 <p>Elektronička prijava obvezna je za poslodavce koji obračunavaju i plaćaju doprinose za više od tri osiguranika. Ostali mogu birati.</p>
 <h3>Tko odgovara ako knjigovodstveni servis zakasni s prijavom?</h3>
-<p>Obveznik prijave i odjave je poslodavac, a prema Pravilniku on odgovara i za točnost podataka. Rokove i odgovornosti sa servisom zato jasno uredite ugovorom.</p>
+<p>Obveznik prijave i odjave je poslodavac, a prema Pravilniku on odgovara i za točnost podataka. Zato rokove i odgovornosti sa servisom jasno uredite ugovorom.</p>
 <h3>Kako provjeriti je li prijava radnika prošla?</h3>
-<p>HZMO potvrđuje primitak e-prijave na samoj e-prijavi. Sačuvajte potvrdu i pratite je li prijava obrađena ili odbijena.</p>
+<p>HZMO primitak e-prijave potvrđuje na samoj e-prijavi. Sačuvajte potvrdu i pratite je li prijava obrađena ili odbijena.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Vodimo prijave, odjave i promjene radnika na mirovinsko i zdravstveno osiguranje, pratimo rokove i usklađujemo podatke s ugovorima o radu i evidencijama. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Preuzimamo prijave, odjave i promjene radnika na mirovinsko i zdravstveno osiguranje, pazimo na rokove i provjeravamo slažu li se podaci s ugovorima o radu i evidencijama. Javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a> ili pročitajte više na stranici <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_96_1305.html">Zakon o mirovinskom osiguranju, NN 96/25 (narodne-novine.nn.hr)</a>, članak 109.; <a href="https://www.zakon.hr/z/91/zakon-o-mirovinskom-osiguranju">pročišćeni tekst (zakon.hr)</a></li>
@@ -115,7 +115,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Prijava i odjava radnika: rokovi, sustavi i najčešće greške\",\"description\":\"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i greške koje poslodavci ponavljaju.\",\"datePublished\":\"2027-04-19\",\"dateModified\":\"2027-04-19\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/prijava-odjava-radnika/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Prijava i odjava radnika: rokovi, sustavi i najčešće greške"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i greške koje poslodavci ponavljaju."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","19. travnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Prijava i odjava radnika: rokovi, sustavi i na što pripaziti\",\"description\":\"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i na što pripaziti.\",\"datePublished\":\"2027-04-19\",\"dateModified\":\"2027-04-19\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/prijava-odjava-radnika/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Prijava i odjava radnika: rokovi, sustavi i na što pripaziti"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i na što pripaziti."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","19. travnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -123,12 +123,12 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Radni odnos i kadrovska administracija"}],["$","p",null,{"children":"Ugovori, prijave i odjave, evidencije radnog vremena i godišnjih odmora, prestanak radnog odnosa."}],["$","$L2",null,{"href":"/usluge/radni-odnos/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Prijava i odjava radnika: rokovi, sustavi i najčešće greške"}],["$","meta","1",{"name":"description","content":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i greške koje poslodavci ponavljaju."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/prijava-odjava-radnika/"}],["$","meta","4",{"property":"og:title","content":"Prijava i odjava radnika: rokovi, sustavi i najčešće greške"}],["$","meta","5",{"property":"og:description","content":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i greške koje poslodavci ponavljaju."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/prijava-odjava-radnika/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-04-19"}],["$","meta","13",{"property":"article:modified_time","content":"2027-04-19"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Prijava i odjava radnika: rokovi, sustavi i najčešće greške"}],["$","meta","16",{"name":"twitter:description","content":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i greške koje poslodavci ponavljaju."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Prijava i odjava radnika: rokovi, sustavi i na što pripaziti"}],["$","meta","1",{"name":"description","content":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i na što pripaziti."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/prijava-odjava-radnika/"}],["$","meta","4",{"property":"og:title","content":"Prijava i odjava radnika: rokovi, sustavi i na što pripaziti"}],["$","meta","5",{"property":"og:description","content":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i na što pripaziti."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/prijava-odjava-radnika/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-04-19"}],["$","meta","13",{"property":"article:modified_time","content":"2027-04-19"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Prijava i odjava radnika: rokovi, sustavi i na što pripaziti"}],["$","meta","16",{"name":"twitter:description","content":"Prijava radnika na mirovinsko osiguranje ide najkasnije prije početka rada, a odjava u 24 sata. Rokovi, e-Prijava HZMO-a, HZZO i na što pripaziti."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
 f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
 12:true

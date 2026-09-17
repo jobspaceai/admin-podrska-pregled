@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T3aad,<p>Stručnjak zaštite na radu je radnik kojeg je poslodavac odredio za obavljanje poslova zaštite na radu i koji ispunjava propisane uvjete. Ovlaštenik je radnik kojem je poslodavac dao ovlaštenja da u svom djelokrugu provodi zaštitu na radu. Povjerenik radnika za zaštitu na radu je radnik kojeg su izabrali drugi radnici da zastupa njihove interese. Sve tri uloge definira Zakon o zaštiti na radu (članak 3.).</p>
-<p>Tim ulogama pridružuje se i četvrti pojam koji se često miješa s ovlaštenikom: ovlaštena osoba. To je pravna ili fizička osoba kojoj je ministarstvo nadležno za rad izdalo ovlaštenje za poslove zaštite na radu, u praksi vanjska tvrtka.</p>
-<h2>Stručnjak zaštite na radu: što radi</h2>
+3:T3a50,<p>Stručnjak zaštite na radu je radnik kojeg je poslodavac odredio za poslove zaštite na radu i koji ispunjava propisane uvjete. Ovlaštenik je radnik kojem je poslodavac dao ovlaštenja da u svom djelokrugu provodi zaštitu na radu. Povjerenika radnika za zaštitu na radu biraju drugi radnici da zastupa njihove interese. Sve tri uloge definira Zakon o zaštiti na radu (članak 3.).</p>
+<p>Postoji i četvrti pojam, koji zvuči slično kao ovlaštenik: ovlaštena osoba. To je pravna ili fizička osoba kojoj je ministarstvo nadležno za rad izdalo ovlaštenje za poslove zaštite na radu, dakle vanjski pružatelj usluge.</p>
+<h2>Stručnjak zaštite na radu: što radi?</h2>
 <p>Stručnjak zaštite na radu obavlja poslove koje zakon nabraja u članku 21. Među njima su:</p>
 <ul>
 <li>stručna pomoć poslodavcu, ovlaštenicima, radnicima i povjerenicima</li>
@@ -12,35 +12,35 @@
 <li>osposobljavanje radnika, poslodavca, ovlaštenika i povjerenika</li>
 <li>suradnja s inspekcijom i specijalistom medicine rada</li>
 </ul>
-<p>Poslodavac stručnjaku mora osigurati potrebno vrijeme, opremu, pomoć drugih stručnih radnika i profesionalnu neovisnost. Ne smije ga staviti u nepovoljniji položaj zbog obavljanja tih poslova i snosi troškove njegovog stručnog usavršavanja (članak 22.).</p>
-<h3>Stručnjak I. i II. stupnja</h3>
+<p>Poslodavac stručnjaku mora osigurati potrebno vrijeme, opremu, pomoć drugih stručnih radnika i profesionalnu neovisnost. Zbog obavljanja tih poslova ne smije ga staviti u nepovoljniji položaj, a troškove njegova stručnog usavršavanja snosi sam (članak 22.).</p>
+<h3>Po čemu se razlikuju stručnjak I. i II. stupnja?</h3>
 <p>Pravilnik o obavljanju poslova zaštite na radu (NN 126/19, 154/22) razlikuje dva stupnja (članak 3.):</p>
 <ul>
-<li><strong>stručnjak I. stupnja:</strong> najmanje srednja stručna sprema i položen opći dio stručnog ispita, priznat status stručnjaka ili uvjerenje o specijalističkom usavršavanju iz zaštite na radu po odobrenom programu</li>
-<li><strong>stručnjak II. stupnja:</strong> najmanje završen preddiplomski studij (prvostupnik) i položen opći i posebni dio stručnog ispita ili priznat status stručnjaka</li>
+<li>Stručnjak I. stupnja ima najmanje srednju stručnu spremu i položen opći dio stručnog ispita, priznat status stručnjaka ili uvjerenje o specijalističkom usavršavanju iz zaštite na radu po odobrenom programu.</li>
+<li>Stručnjak II. stupnja ima najmanje završen preddiplomski studij (prvostupnik) i položen opći i posebni dio stručnog ispita ili priznat status stručnjaka.</li>
 </ul>
-<p>Stručnjak mora imati obrazovanje iz tehničkih, biotehničkih ili prirodnih znanosti ili iz drugog područja koje odgovara djelatnosti poslodavca te se stalno stručno usavršavati (članak 2.). Usavršavanje stručnjaka zaposlenih kod poslodavca provodi se putem internetskih alata ministarstva, najmanje jednom u pet godina (članak 36. Pravilnika o osposobljavanju i usavršavanju iz zaštite na radu te polaganju stručnog ispita, NN 142/21).</p>
+<p>Stručnjak mora imati obrazovanje iz tehničkih, biotehničkih ili prirodnih znanosti ili iz drugog područja koje odgovara djelatnosti poslodavca te se mora stalno stručno usavršavati (članak 2.). Stručnjaci zaposleni kod poslodavca usavršavaju se putem internetskih alata ministarstva, najmanje jednom u pet godina (članak 36. Pravilnika o osposobljavanju i usavršavanju iz zaštite na radu te polaganju stručnog ispita, NN 142/21).</p>
 <p>Osoba koju poslodavac odredi za poslove zaštite na radu upisuje se u Registar osposobljavanja i usavršavanja iz zaštite na radu i obavljanja poslova zaštite na radu.</p>
-<h2>Kada poslodavac mora imati vlastitog stručnjaka</h2>
-<p>Zakon o zaštiti na radu vezuje obvezu uz broj radnika (članak 20.), a pravilnik određuje stupanj i broj stručnjaka (članci 6. do 8.):</p>
+<h2>Kada poslodavac mora imati vlastitog stručnjaka?</h2>
+<p>Zakon o zaštiti na radu obvezu veže uz broj radnika (članak 20.), a pravilnik određuje stupanj i broj stručnjaka (članci 6. do 8.):</p>
 <ul>
-<li><strong>do uključivo 49 radnika:</strong> najmanje jedan stručnjak I. stupnja, ili poslove obavlja poslodavac sam ili njegov ovlaštenik ako ispunjava uvjete</li>
-<li><strong>od 50 do uključivo 249 radnika:</strong> najmanje jedan stručnjak II. stupnja zaposlen ugovorom o radu. Ako najmanje 80 % radnika obavlja isključivo poslove s malim rizicima, dovoljan je stručnjak I. stupnja</li>
-<li><strong>od 250 do uključivo 499 radnika:</strong> najmanje jedan stručnjak II. i jedan I. stupnja, a na svakih sljedećih 500 radnika još jedan stručnjak II. stupnja. Kod najmanje 80 % poslova s malim rizicima dovoljan je jedan stručnjak II. stupnja i po jedan na svakih sljedećih 2000 radnika</li>
+<li>Do uključivo 49 radnika treba najmanje jedan stručnjak I. stupnja, ili poslove obavlja poslodavac sam ili njegov ovlaštenik ako ispunjava uvjete.</li>
+<li>Od 50 do uključivo 249 radnika treba najmanje jedan stručnjak II. stupnja zaposlen ugovorom o radu. Ako najmanje 80 % radnika obavlja isključivo poslove s malim rizicima, dovoljan je stručnjak I. stupnja.</li>
+<li>Od 250 do uključivo 499 radnika treba najmanje jedan stručnjak II. i jedan I. stupnja, a na svakih sljedećih 500 radnika još jedan stručnjak II. stupnja. Ako je najmanje 80 % poslova s malim rizicima, dovoljan je jedan stručnjak II. stupnja i po jedan na svakih sljedećih 2000 radnika.</li>
 </ul>
-<p>Primjeri poslova s malim rizicima navedeni su u Prilogu II. Pravilnika o izradi procjene rizika, primjerice administrativni i uredski poslovi, računovodstvo, programiranje i savjetovanje.</p>
-<p>Više poslodavaca na istoj lokaciji, primjerice u istom poslovnom krugu, mogu ugovoriti zajedničko obavljanje tih poslova (članak 20. stavak 7. zakona i članak 9. pravilnika).</p>
-<h2>Kada poslove obavlja poslodavac sam</h2>
-<p>Poslodavac s do uključivo 49 radnika poslove zaštite na radu može obavljati sam ili preko ovlaštenika ako ispunjava jedan od uvjeta (članak 4. Pravilnika o obavljanju poslova zaštite na radu):</p>
+<p>Primjeri poslova s malim rizicima navedeni su u Prilogu II. Pravilnika o izradi procjene rizika, među ostalim administrativni i uredski poslovi, računovodstvo, programiranje i savjetovanje.</p>
+<p>Više poslodavaca na istoj lokaciji, primjerice u istom poslovnom krugu, može ugovoriti zajedničko obavljanje tih poslova (članak 20. stavak 7. zakona i članak 9. pravilnika).</p>
+<h2>Kada poslove obavlja poslodavac sam?</h2>
+<p>Poslodavac s do uključivo 49 radnika može poslove zaštite na radu obavljati sam ili preko ovlaštenika ako ispunjava jedan od ovih uvjeta (članak 4. Pravilnika o obavljanju poslova zaštite na radu):</p>
 <ol>
 <li>ispunjava uvjete za stručnjaka zaštite na radu I. stupnja</li>
 <li>potrebna znanja iz zaštite na radu stekao je tijekom školovanja</li>
 <li>položio je državni ispit za poslove građenja ili projektiranja koji obuhvaća zaštitu na radu</li>
 <li>položio je majstorski ispit u svojoj djelatnosti koji je obuhvatio zaštitu na radu</li>
 </ol>
-<p>I tada vrijede uvjeti o odgovarajućem obrazovanju i stalnom usavršavanju iz članka 2. pravilnika.</p>
-<h2>Kada smijete ugovoriti vanjskog stručnjaka</h2>
-<p>Ono što se u praksi zove „vanjski stručnjak zaštite na radu" u propisima je ugovor s ovlaštenom osobom. Zakon ga dopušta samo kad poslodavac zbog objektivnih i opravdanih razloga ne može poslove obavljati sam ili preko zaposlenog stručnjaka (članak 20. stavak 5.). Pravilnik ih nabraja (članak 5.):</p>
+<p>I u tom slučaju vrijede uvjeti o odgovarajućem obrazovanju i stalnom usavršavanju iz članka 2. pravilnika.</p>
+<h2>Kada smijete ugovoriti vanjskog stručnjaka?</h2>
+<p>„Vanjski stručnjak zaštite na radu“ u propisima znači ugovor s ovlaštenom osobom. Zakon ga dopušta samo kad poslodavac zbog objektivnih i opravdanih razloga ne može poslove obavljati sam ili preko zaposlenog stručnjaka (članak 20. stavak 5.). Te razloge nabraja pravilnik (članak 5.):</p>
 <ul>
 <li>započinjanje djelatnosti, najviše tri mjeseca od nastanka obveze primjene propisa zaštite na radu</li>
 <li>nepredvidivi razlozi zbog kojih ste privremeno ostali bez stručnjaka, primjerice otkaz ili smrt, najviše tri mjeseca</li>
@@ -48,14 +48,14 @@
 <li>dodatno sezonsko ili privremeno zapošljavanje ili korištenje ustupljenih radnika, najdulje šest mjeseci neprekidno</li>
 <li>poslodavac s do uključivo 49 radnika nema radnika koji ispunjava uvjete za obavljanje tih poslova</li>
 </ul>
-<p>Kad ugovorite ovlaštenu osobu, ona pisano određuje jednog ili više stručnjaka za rad kod vas. Taj stručnjak poslove obavlja na vašim mjestima rada i nakon obavljenih poslova pisano vas obavještava o stanju i mjerama za poboljšanje.</p>
-<p>Ovlaštena osoba mora imati rješenje ministarstva. Uvjeti su propisani Pravilnikom o ovlaštenjima za poslove zaštite na radu (NN 58/22, 9/24) i uključuju zaposlenog stručnjaka s položenim općim i posebnim dijelom ispita i najmanje dvije godine iskustva (članak 3.). Prije ugovora zatražite rješenje o ovlaštenju.</p>
-<h2>Odgovornost poslodavca uz vanjskog stručnjaka</h2>
-<p>Poslodavac je odgovoran za organiziranje i provođenje zaštite na radu neovisno o tome je li zaposlio stručnjaka ili je poslove ugovorio s ovlaštenom osobom. Prenošenje ovlaštenja ne oslobađa poslodavca odgovornosti (članak 19.).</p>
-<p>Ovlaštena osoba odgovara za štetu koju uzrokuje poslodavcu ili radniku ako poslove zaštite na radu ne obavlja u skladu sa zakonom i propisima, prema općim propisima obveznog prava (članak 26.). To je odgovornost za njezin rad, a ne preuzimanje vaših obveza. Odluke o mjerama i zabrani nesigurnog rada i dalje donosite vi i vaši ovlaštenici.</p>
+<p>Kad ugovorite ovlaštenu osobu, ona pisano određuje jednog ili više stručnjaka koji će raditi kod vas. Taj stručnjak poslove obavlja na vašim mjestima rada, a nakon obavljenih poslova pisano vas obavještava o stanju i mjerama za poboljšanje.</p>
+<p>Ovlaštena osoba mora imati rješenje ministarstva. Uvjete propisuje Pravilnik o ovlaštenjima za poslove zaštite na radu (NN 58/22, 9/24), a među njima je zaposleni stručnjak s položenim općim i posebnim dijelom ispita i najmanje dvije godine iskustva (članak 3.). Prije potpisa ugovora zatražite rješenje o ovlaštenju.</p>
+<h2>Tko odgovara kad imate vanjskog stručnjaka?</h2>
+<p>Poslodavac odgovara za organiziranje i provođenje zaštite na radu bez obzira na to je li zaposlio stručnjaka ili je poslove ugovorio s ovlaštenom osobom. Ni kad prenese ovlaštenja, poslodavac nije oslobođen odgovornosti (članak 19.).</p>
+<p>Ovlaštena osoba, prema općim propisima obveznog prava, odgovara za štetu koju uzrokuje poslodavcu ili radniku ako poslove zaštite na radu ne obavlja u skladu sa zakonom i propisima (članak 26.). Odgovara dakle za svoj rad, a vaše obveze ne preuzima. Odluke o mjerama i zabrani nesigurnog rada i dalje donosite vi i vaši ovlaštenici.</p>
 <h2>Ovlaštenik poslodavca</h2>
-<p>Ovlaštenik je vaš radnik kojem ste pisanim putem prenijeli provedbu zaštite na radu u okviru njegovog djelokruga (članak 23.). To je obično voditelj smjene, poslovođa ili šef poslovnice, i to kao ovlast uz postojeće poslove.</p>
-<p>Poslodavac mora ovlaštenika ovlastiti osobito da (članak 24.):</p>
+<p>Ovlaštenik je vaš radnik kojem ste pisano prenijeli provedbu zaštite na radu u okviru njegova djelokruga (članak 23.). Može to biti, primjerice, voditelj smjene, poslovođa ili šef poslovnice, i to kao ovlast uz postojeće poslove.</p>
+<p>Poslodavac mora ovlaštenika osobito ovlastiti da (članak 24.):</p>
 <ul>
 <li>ne dopusti rad bez nadzora radniku koji nije osposobljen za rad na siguran način</li>
 <li>ne dopusti poslove s posebnim uvjetima rada radniku koji ne ispunjava uvjete</li>
@@ -65,49 +65,49 @@
 <li>osigura radnike osposobljene za prvu pomoć, evakuaciju i spašavanje</li>
 <li>zabrani rad radniku pod utjecajem alkohola ili drugih sredstava ovisnosti</li>
 </ul>
-<p>Ovlašteniku morate osigurati uvjete za rad, uključujući samostalnost u odlučivanju i raspolaganju sredstvima, i ne smijete ga staviti u nepovoljniji položaj zbog postupanja po pravilima zaštite na radu.</p>
-<h3>Uvjeti za ovlaštenika</h3>
-<p>Zakon ne traži posebnu stručnu spremu za ovlaštenika. Traži da bude radnik, da ovlaštenje dobije pisano i da bude osposobljen i stručno se usavršava iz zaštite na radu (članak 29.). Osposobljavanje traje najmanje 7 školskih sati, a usavršavanje se provodi najmanje jednom u pet godina (članak 8. Pravilnika NN 142/21).</p>
-<p>Ovlaštenik za zaštitu na radu ima i konkretne uloge u postupcima. Sudjeluje u procjeni rizika za svoju organizacijsku jedinicu, prati praktični dio osposobljavanja radnika i potpisuje zapisnik o osposobljenosti (članak 30.). Ako ovlaštenik kod poslodavca s do 49 radnika obavlja i poslove zaštite na radu, mora ispuniti i uvjete iz članka 4. Pravilnika o obavljanju poslova zaštite na radu.</p>
+<p>Ovlašteniku morate osigurati uvjete za rad, uključujući samostalnost u odlučivanju i raspolaganju sredstvima. Zbog postupanja po pravilima zaštite na radu ne smijete ga staviti u nepovoljniji položaj.</p>
+<h3>Koje uvjete mora ispuniti ovlaštenik?</h3>
+<p>Zakon ne traži posebnu stručnu spremu za ovlaštenika. Mora biti radnik, ovlaštenje mora dobiti pisano, a iz zaštite na radu mora biti osposobljen i stručno se usavršavati (članak 29.). Osposobljavanje traje najmanje 7 školskih sati, a usavršavanje se provodi <strong>najmanje jednom u pet godina</strong> (članak 8. Pravilnika NN 142/21).</p>
+<p>Ovlaštenik za zaštitu na radu ima i konkretne zadatke u postupcima. Sudjeluje u procjeni rizika za svoju organizacijsku jedinicu, prati praktični dio osposobljavanja radnika i potpisuje zapisnik o osposobljenosti (članak 30.). Ako ovlaštenik kod poslodavca s do 49 radnika obavlja i poslove zaštite na radu, mora ispuniti i uvjete iz članka 4. Pravilnika o obavljanju poslova zaštite na radu.</p>
 <h2>Povjerenik radnika za zaštitu na radu</h2>
-<p>Povjerenika biraju radnici, a ne poslodavac. Zakon kaže da ga radnici mogu birati, pa izbor nije obvezan (članak 70.):</p>
+<p>Povjerenika biraju radnici, a ne poslodavac. Po zakonu ga radnici mogu birati, pa izbor nije obvezan (članak 70.):</p>
 <ul>
-<li>kod poslodavca s <strong>do uključivo 20 radnika</strong> izbor se provodi na skupu radnika koji saziva poslodavac, neposrednim i javnim izjašnjavanjem prisutnih</li>
-<li>kod poslodavca s <strong>više od 20 radnika</strong> izbor se provodi prema pravilima Zakona o radu o izboru radničkog vijeća</li>
+<li>kod poslodavca s do uključivo 20 radnika povjerenik se bira na skupu radnika koji saziva poslodavac, neposrednim i javnim izjašnjavanjem prisutnih</li>
+<li>kod poslodavca s više od 20 radnika izbor se provodi prema pravilima Zakona o radu o izboru radničkog vijeća</li>
 <li>ako je izabrano više povjerenika, oni biraju koordinatora</li>
 </ul>
-<p>Povjerenik ima pravo, među ostalim, tražiti mjere za smanjenje rizika, izvršiti uvid u dokumentaciju, prisustvovati inspekcijskim pregledima i pozvati inspektora kad poslodavac propušta provoditi zaštitu (članak 71.).</p>
-<p>Kad je povjerenik izabran, poslodavac ima obveze:</p>
+<p>Povjerenik ima pravo, među ostalim, tražiti mjere za smanjenje rizika, izvršiti uvid u dokumentaciju, prisustvovati inspekcijskim pregledima i pozvati inspektora kad poslodavac ne provodi zaštitu na radu (članak 71.).</p>
+<p>Kad je povjerenik izabran, poslodavac mora:</p>
 <ul>
-<li>savjetovati se s njim unaprijed o zapošljavanju stručnjaka, ugovaranju ovlaštene osobe, izradi i izmjenama procjene rizika, izboru radnika za prvu pomoć i evakuaciju te izboru zaštitne opreme (članak 33.)</li>
+<li>unaprijed se savjetovati s njim o zapošljavanju stručnjaka, ugovaranju ovlaštene osobe, izradi i izmjenama procjene rizika, izboru radnika za prvu pomoć i evakuaciju te izboru zaštitne opreme (članak 33.)</li>
 <li>pisano ga izvještavati o stanju zaštite na radu najmanje svaka tri mjeseca ako postoji radničko vijeće ili sindikalni povjerenik s njegovim ovlastima, odnosno svakih šest mjeseci ako ne postoji (članak 32.)</li>
 <li>odmah ga obavijestiti o smrtnoj ili teškoj ozljedi i pozvati ga na očevid</li>
 <li>osposobiti ga tijekom radnog vremena i o svom trošku (članak 27. stavak 4.)</li>
 <li>osigurati mu vrijeme i uvjete za rad. Povjerenik ima pravo na naknadu plaće za najmanje tri sata tjedno, osim ako kolektivni ugovor to drukčije uredi (članak 72.)</li>
 </ul>
-<p>Tijekom obnašanja dužnosti poslodavac mu ne smije bez suglasnosti radničkog vijeća ili sindikalnog povjerenika s njegovim ovlastima otkazati ugovor o radu niti ga staviti u nepovoljniji položaj.</p>
-<h2>Najčešće greške</h2>
+<p>Dok povjerenik obnaša dužnost, poslodavac mu bez suglasnosti radničkog vijeća ili sindikalnog povjerenika s njegovim ovlastima ne smije otkazati ugovor o radu niti ga staviti u nepovoljniji položaj.</p>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Ugovor s ovlaštenom osobom bez dokumentiranog razloga.</strong> Pravilnik taj model dopušta samo u nabrojanim slučajevima.</li>
-<li><strong>Miješanje ovlaštenika i ovlaštene osobe.</strong> Ovlaštenik je vaš radnik, a ovlaštena osoba vanjska tvrtka.</li>
-<li><strong>Usmeno „imenovanje" ovlaštenika.</strong> Prijenos provedbe zaštite na radu mora biti pisani i ovlaštenik mora biti osposobljen.</li>
-<li><strong>Poslodavac određuje povjerenika.</strong> Povjerenika biraju radnici na propisan način.</li>
-<li><strong>Stručnjak koji ne dolazi na mjesta rada.</strong> Stručnjak ovlaštene osobe poslove obavlja na mjestima rada poslodavca i pisano izvještava o stanju.</li>
-<li><strong>Uvjerenje da vanjski stručnjak preuzima odgovornost.</strong> Odgovornost za zaštitu na radu ostaje na poslodavcu.</li>
+<li>Ugovor s ovlaštenom osobom sklopili ste bez dokumentiranog razloga, a pravilnik taj model dopušta samo u nabrojanim slučajevima.</li>
+<li>Zamijenili ste ovlaštenika i ovlaštenu osobu. Ovlaštenik je vaš radnik, a ovlaštena osoba vanjski pružatelj usluge.</li>
+<li>Ovlaštenika ste „imenovali“ samo usmeno. Provedbu zaštite na radu morate mu prenijeti pisano, a on mora biti osposobljen.</li>
+<li>Povjerenika ste odredili sami, iako ga biraju radnici na propisan način.</li>
+<li>Stručnjak ovlaštene osobe ne dolazi na vaša mjesta rada, a trebao bi ondje obavljati poslove i pisano vas izvještavati o stanju.</li>
+<li>Mislite da je vanjski stručnjak preuzeo odgovornost, a odgovornost za zaštitu na radu ostaje na poslodavcu.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Mora li mala firma imati stručnjaka zaštite na radu?</h3>
-<p>Poslodavac s do uključivo 49 radnika može poslove obavljati sam ili preko ovlaštenika ako ispunjava uvjete iz pravilnika. Ako nema nikoga tko ih ispunjava, smije ugovoriti ovlaštenu osobu. Od 50 radnika stručnjak zaposlen ugovorom o radu je obvezan.</p>
+<p>Poslodavac s do uključivo 49 radnika može poslove obavljati sam ili preko ovlaštenika ako ispunjava uvjete iz pravilnika. Ako nema nikoga tko ih ispunjava, smije ugovoriti ovlaštenu osobu. Od 50 radnika naviše obvezan je stručnjak zaposlen ugovorom o radu.</p>
 <h3>Tko osposobljava ovlaštenika i povjerenika radnika?</h3>
-<p>Osposobljavanje i usavršavanje poslodavca, ovlaštenika i povjerenika radnika provode stručnjaci zaštite na radu I. ili II. stupnja zaposleni kod poslodavca ili stručnjaci II. stupnja zaposleni u ovlaštenoj osobi. Program traje najmanje 7 školskih sati, a zapisnik se sastavlja na obrascu ZOOP.</p>
+<p>Poslodavca, ovlaštenike i povjerenike radnika osposobljavaju i usavršavaju stručnjaci zaštite na radu I. ili II. stupnja zaposleni kod poslodavca ili stručnjaci II. stupnja zaposleni u ovlaštenoj osobi. Program traje najmanje 7 školskih sati, a zapisnik se sastavlja na obrascu ZOOP.</p>
 <h3>Tko može biti ovlaštenik za zaštitu na radu?</h3>
-<p>Radnik kojem poslodavac pisano prenese provedbu zaštite na radu u okviru njegovog djelokruga. Mora biti osposobljen iz zaštite na radu i usavršavati se najmanje jednom u pet godina.</p>
+<p>Ovlaštenik može biti radnik kojem poslodavac pisano prenese provedbu zaštite na radu u okviru njegova djelokruga. Mora biti osposobljen iz zaštite na radu i usavršavati se najmanje jednom u pet godina.</p>
 <h3>Je li izbor povjerenika radnika za zaštitu na radu obvezan?</h3>
-<p>Nije. Radnici ga mogu birati. Ako to žele, kod poslodavca s do 20 radnika poslodavac saziva skup radnika na kojem se povjerenik bira javnim izjašnjavanjem.</p>
+<p>Nije, radnici ga mogu birati. Ako to žele, kod poslodavca s do 20 radnika poslodavac saziva skup radnika na kojem se povjerenik bira javnim izjašnjavanjem.</p>
 <h3>Preuzima li ovlaštena osoba odgovornost poslodavca?</h3>
-<p>Ne. Poslodavac ostaje odgovoran za organiziranje i provođenje zaštite na radu. Ovlaštena osoba odgovara za štetu koju uzrokuje ako poslove ne obavlja u skladu s propisima.</p>
+<p>Ne preuzima. Poslodavac ostaje odgovoran za organiziranje i provođenje zaštite na radu, a ovlaštena osoba odgovara za štetu koju uzrokuje ako poslove ne obavlja u skladu s propisima.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pomažemo vam odrediti koji model organizacije zaštite na radu odgovara broju radnika i djelatnosti vaše firme, povezujemo vas sa stručnjakom zaštite na radu s dugogodišnjim iskustvom i vodimo administraciju: odluke o ovlaštenicima, osposobljavanja, izvještaje povjereniku i evidencije. Više na stranici <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a>, a za upit koristite stranicu <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Pomažemo vam odabrati model organizacije zaštite na radu koji odgovara broju radnika i djelatnosti vaše firme, povezujemo vas sa stručnjakom zaštite na radu s dugogodišnjim iskustvom i vodimo administraciju: odluke o ovlaštenicima, osposobljavanja, izvještaje povjereniku i evidencije. Za upit koristite stranicu <a href="/admin-podrska-pregled/kontakt/">kontakt</a>, a više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/167/zakon-o-zastiti-na-radu">Zakon o zaštiti na radu, pročišćeni tekst NN 71/14, 118/14, 154/14, 94/18, 96/18 (zakon.hr)</a></li>
@@ -121,7 +121,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Stručnjak zaštite na radu, ovlaštenik i povjerenik radnika: tko je tko\",\"description\":\"Stručnjak zaštite na radu, ovlaštenik poslodavca i povjerenik radnika: tko ih određuje, kada je vlastiti stručnjak obvezan i kada smijete ugovoriti vanjskog.\",\"datePublished\":\"2027-02-08\",\"dateModified\":\"2027-02-08\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/strucnjak-zastite-na-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Stručnjak zaštite na radu, ovlaštenik i povjerenik radnika: tko je tko"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Stručnjak zaštite na radu, ovlaštenik poslodavca i povjerenik radnika: tko ih određuje, kada je vlastiti stručnjak obvezan i kada smijete ugovoriti vanjskog."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","8. veljače 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Stručnjak zaštite na radu, ovlaštenik i povjerenik radnika: tko je tko\",\"description\":\"Stručnjak zaštite na radu, ovlaštenik poslodavca i povjerenik radnika: tko ih određuje, kada je vlastiti stručnjak obvezan i kada smijete ugovoriti vanjskog.\",\"datePublished\":\"2027-02-08\",\"dateModified\":\"2027-02-08\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/strucnjak-zastite-na-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Stručnjak zaštite na radu, ovlaštenik i povjerenik radnika: tko je tko"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Stručnjak zaštite na radu, ovlaštenik poslodavca i povjerenik radnika: tko ih određuje, kada je vlastiti stručnjak obvezan i kada smijete ugovoriti vanjskog."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","8. veljače 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -129,10 +129,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Zaštita na radu"}],["$","p",null,{"children":"Povezujemo vas s ovlaštenim stručnjakom zaštite na radu i organiziramo procjenu rizika i osposobljavanje."}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Stručnjak zaštite na radu, ovlaštenik i povjerenik radnika: tko je tko"}],["$","meta","1",{"name":"description","content":"Stručnjak zaštite na radu, ovlaštenik poslodavca i povjerenik radnika: tko ih određuje, kada je vlastiti stručnjak obvezan i kada smijete ugovoriti vanjskog."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/strucnjak-zastite-na-radu/"}],["$","meta","4",{"property":"og:title","content":"Stručnjak zaštite na radu, ovlaštenik i povjerenik radnika: tko je tko"}],["$","meta","5",{"property":"og:description","content":"Stručnjak zaštite na radu, ovlaštenik poslodavca i povjerenik radnika: tko ih određuje, kada je vlastiti stručnjak obvezan i kada smijete ugovoriti vanjskog."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/strucnjak-zastite-na-radu/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-02-08"}],["$","meta","13",{"property":"article:modified_time","content":"2027-02-08"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Stručnjak zaštite na radu, ovlaštenik i povjerenik radnika: tko je tko"}],["$","meta","16",{"name":"twitter:description","content":"Stručnjak zaštite na radu, ovlaštenik poslodavca i povjerenik radnika: tko ih određuje, kada je vlastiti stručnjak obvezan i kada smijete ugovoriti vanjskog."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

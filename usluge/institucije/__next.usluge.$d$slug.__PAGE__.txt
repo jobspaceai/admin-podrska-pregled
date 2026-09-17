@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
 3:I[5014,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-4:T604,<h2>Tko je nadležan za što</h2>
+4:T569,<h2>Tko je nadležan za što</h2>
 <table>
 <thead>
 <tr>
@@ -11,32 +11,32 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>MUP</strong></td>
+<td>MUP</td>
 <td>Postupci za strane radnike: dozvole za boravak i rad, boravak, prijava boravišta</td>
 </tr>
 <tr>
-<td><strong>HZZ</strong></td>
+<td>HZZ</td>
 <td>Postupci u vezi sa zapošljavanjem stranih radnika i mjere zapošljavanja</td>
 </tr>
 <tr>
-<td><strong>HZMO</strong></td>
+<td>HZMO</td>
 <td>Mirovinsko osiguranje radnika: prijave i odjave</td>
 </tr>
 <tr>
-<td><strong>HZZO</strong></td>
+<td>HZZO</td>
 <td>Zdravstveno osiguranje radnika, bolovanja i ozljede na radu</td>
 </tr>
 <tr>
-<td><strong>Porezna uprava</strong></td>
+<td>Porezna uprava</td>
 <td>Porezne obveze poslodavca i izvješća, potvrde o stanju duga</td>
 </tr>
 <tr>
-<td><strong>Državni inspektorat</strong></td>
+<td>Državni inspektorat</td>
 <td>Nadzor nad radnim odnosima i zaštitom na radu</td>
 </tr>
 </tbody>
 </table>
-<p>Pregled je pojednostavljen. Nadležnost za konkretan postupak provjeravamo za vaš slučaj.</p>
+<p>Pregled je pojednostavljen, a za konkretan postupak nadležnost može biti drukčija.</p>
 <h2>Kad nam se javiti</h2>
 <ul>
 <li>Stigao je zahtjev za nadopunu, a nije jasno što se točno traži</li>
@@ -46,14 +46,14 @@
 </ul>
 <h2>Kako radimo</h2>
 <ol>
-<li><strong>Pročitamo zahtjev</strong> i utvrdimo što se traži i do kada.</li>
-<li><strong>Prikupimo dokumente</strong> od vas i radnika.</li>
-<li><strong>Pripremimo odgovor</strong> s kratkim objašnjenjem.</li>
-<li><strong>Pratimo predmet</strong> do rješenja i javljamo vam status.</li>
+<li>Pročitamo zahtjev i utvrdimo što se traži i <strong>do kada</strong>.</li>
+<li>Prikupimo dokumente od vas i od radnika.</li>
+<li>Pripremimo odgovor s kratkim objašnjenjem.</li>
+<li>Pratimo predmet do rješenja i javljamo vam gdje je.</li>
 </ol>b:X
 10:X
 10:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Komunikacija s institucijama\",\"description\":\"Vodimo komunikaciju s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom: nadopune, pojašnjenja, dostava dokumenata i praćenje predmeta.\",\"areaServed\":{\"@type\":\"Country\",\"name\":\"Hrvatska\"},\"provider\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Zastupate li nas u postupku?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Vodimo administrativni dio komunikacije i dokumentacije. Kada je potrebno pravno zastupanje, na primjer žalba ili upravni spor, upućujemo vas na odvjetnika.\"}},{\"@type\":\"Question\",\"name\":\"Što napraviti kad stigne zahtjev za nadopunu?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Prvo utvrditi točno što se traži i do kada. Zatim prikupiti dokumente i odgovoriti u roku, uz kratko objašnjenje. Nepotpun odgovor često znači novi zahtjev i duži postupak.\"}},{\"@type\":\"Question\",\"name\":\"Kojoj instituciji se obratiti za koji dokument?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"To ovisi o dokumentu. Na ovoj stranici je kratak pregled, a za vaš slučaj provjeravamo nadležnost prije nego pošaljete zahtjev.\"}}]}"}}],["$","section",null,{"className":"usluge-module__VWO5Ja__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"usluge-module__VWO5Ja__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/usluge/","children":"Usluge"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Komunikacija s institucijama"}]]}],["$","div",null,{"className":"usluge-module__VWO5Ja__introRow","children":[["$","span",null,{"className":"icon-tile","children":["$","$L3",null,{"icon":{"name":"landmark","size":24,"node":[["path",{"d":"M10 18v-7","key":"wt116b"}],["path",{"d":"M11.119 2.205a2 2 0 0 1 1.762 0l7.84 3.846A.5.5 0 0 1 20.5 7h-17a.5.5 0 0 1-.22-.949z","key":"yxxwt6"}],["path",{"d":"M14 18v-7","key":"vav6t3"}],["path",{"d":"M18 18v-7","key":"aexdmj"}],["path",{"d":"M3 22h18","key":"8prr45"}],["path",{"d":"M6 18v-7","key":"1ivflk"}]]},"aria-hidden":"true","focusable":"false"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"usluge-module__VWO5Ja__title","children":"Komunikacija s institucijama bez čekanja u redovima"}],["$","p",null,{"className":"usluge-module__VWO5Ja__lead","children":"Kad institucija traži nadopunu, pojašnjenje ili dodatni dokument, najvažnije je brzo razumjeti što točno traži. Pomažemo utvrditi što je potrebno i vodimo postupak do kraja."}],null,["$","div",null,{"className":"usluge-module__VWO5Ja__ctas","children":[["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green","children":"Zatražite ponudu"}],["$","a",null,{"href":"#pitanja","className":"btn btn-outline","children":"Česta pitanja"}]]}]]}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap usluge-module__VWO5Ja__layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"usluge-module__VWO5Ja__block","children":["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4"}}]}],"$L5","$L6"]}],"$L7"]}]}]],["$L8"],"$L9"]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$b","varyParams":"$10"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$b","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Komunikacija s institucijama\",\"description\":\"Vodimo komunikaciju s MUP-om, HZZ-om, HZMO-om, HZZO-om i Poreznom upravom: nadopune, pojašnjenja, dostava dokumenata i praćenje predmeta.\",\"areaServed\":{\"@type\":\"Country\",\"name\":\"Hrvatska\"},\"provider\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Zastupate li nas u postupku?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Vodimo administrativni dio komunikacije i dokumentacije. Kada je potrebno pravno zastupanje, na primjer žalba ili upravni spor, upućujemo vas na odvjetnika.\"}},{\"@type\":\"Question\",\"name\":\"Što napraviti kad stigne zahtjev za nadopunu?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Prvo utvrditi točno što se traži i do kada. Zatim prikupiti dokumente i odgovoriti u roku, uz kratko objašnjenje. Nepotpun odgovor često znači novi zahtjev i duži postupak.\"}},{\"@type\":\"Question\",\"name\":\"Kojoj instituciji se obratiti za koji dokument?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"To ovisi o dokumentu. Na ovoj stranici je kratak pregled, a za vaš slučaj provjeravamo nadležnost prije nego pošaljete zahtjev.\"}}]}"}}],["$","section",null,{"className":"usluge-module__VWO5Ja__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"usluge-module__VWO5Ja__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/usluge/","children":"Usluge"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Komunikacija s institucijama"}]]}],["$","div",null,{"className":"usluge-module__VWO5Ja__introRow","children":[["$","span",null,{"className":"icon-tile","children":["$","$L3",null,{"icon":{"name":"landmark","size":24,"node":[["path",{"d":"M10 18v-7","key":"wt116b"}],["path",{"d":"M11.119 2.205a2 2 0 0 1 1.762 0l7.84 3.846A.5.5 0 0 1 20.5 7h-17a.5.5 0 0 1-.22-.949z","key":"yxxwt6"}],["path",{"d":"M14 18v-7","key":"vav6t3"}],["path",{"d":"M18 18v-7","key":"aexdmj"}],["path",{"d":"M3 22h18","key":"8prr45"}],["path",{"d":"M6 18v-7","key":"1ivflk"}]]},"aria-hidden":"true","focusable":"false"}]}],["$","div",null,{"children":[["$","h1",null,{"className":"usluge-module__VWO5Ja__title","children":"Nadopune i predmeti kod MUP-a, HZZ-a, HZMO-a i Porezne uprave"}],["$","p",null,{"className":"usluge-module__VWO5Ja__lead","children":"Kad institucija traži nadopunu, pojašnjenje ili dodatni dokument, prvo treba shvatiti što točno traži i do kada. To utvrdimo, pripremimo odgovor i pratimo predmet do rješenja."}],null,["$","div",null,{"className":"usluge-module__VWO5Ja__ctas","children":[["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green","children":"Zatražite ponudu"}],["$","a",null,{"href":"#pitanja","className":"btn btn-outline","children":"Česta pitanja"}]]}]]}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap usluge-module__VWO5Ja__layout","children":[["$","div",null,{"children":[["$","div",null,{"className":"usluge-module__VWO5Ja__block","children":["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4"}}]}],"$L5","$L6"]}],"$L7"]}]}]],["$L8"],"$L9"]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":null},{"rsc":"$Le","isPartial":"$@f","staleTime":"$b","varyParams":"$10"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$b","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
 15:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 16:"$Sreact.suspense"
 18:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]

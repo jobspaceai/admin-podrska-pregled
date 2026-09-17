@@ -1,24 +1,24 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T307c,<p>Hrvatski za strance više nije samo pitanje komunikacije na poslu. Od 4. lipnja 2027. strani radnik koji u Hrvatskoj boravi najmanje godinu dana na temelju dozvole za boravak i rad mora uz zahtjev za produljenje priložiti dokaz o položenom ispitu iz hrvatskog jezika i latiničnog pisma na razini A1.1. Tako propisuje članak 92.a Zakona o strancima, dodan izmjenama objavljenima u Narodnim novinama broj 55/2026.</p>
-<p>Trošak ispita snosi poslodavac. Poslodavac čuva i dokaz o položenom ispitu kao dio evidencije o radnicima. U praksi to znači da poslodavac treba na vrijeme utvrditi tko mora polagati, odabrati ustanovu, uklopiti tečaj u raspored rada i pratiti datume isteka dozvola.</p>
-<h2>Tko mora položiti ispit iz hrvatskog jezika</h2>
-<p>Obveza se odnosi na državljanina treće zemlje koji u Hrvatskoj boravi najmanje godinu dana na temelju:</p>
+3:T2f3a,<p>Hrvatski za strance postaje uvjet za produljenje dozvole. Od <strong>4. lipnja 2027.</strong> strani radnik koji u Hrvatskoj boravi najmanje godinu dana na temelju dozvole za boravak i rad mora uz zahtjev za produljenje priložiti dokaz da je položio ispit iz hrvatskog jezika i latiničnog pisma na razini A1.1. To propisuje članak 92.a Zakona o strancima, koji je dodan izmjenama objavljenima u Narodnim novinama broj 55/2026.</p>
+<p>Ispit plaća poslodavac, a dokaz o položenom ispitu čuva u evidenciji o radnicima. Poslodavac zato treba na vrijeme utvrditi tko mora polagati, odabrati ustanovu, uklopiti tečaj u raspored rada i pratiti kad kome istječe dozvola.</p>
+<h2>Tko mora položiti ispit iz hrvatskog jezika?</h2>
+<p>Obveza vrijedi za državljanina treće zemlje koji u Hrvatskoj boravi najmanje godinu dana na temelju:</p>
 <ul>
 <li>dozvole za boravak i rad izdane prema članku 97. Zakona o strancima, odnosno na temelju mišljenja HZZ-a, ili takve dozvole koja je produljena</li>
 <li>dozvole za boravak i rad izdane prema članku 110. točki 32. Zakona o strancima</li>
 </ul>
-<p>Zakon obvezu veže uz te vrste dozvola. Ako radnik ima dozvolu po drugoj osnovi, provjerite odnosi li se obveza na njega prije nego što ga prijavite na ispit.</p>
-<h3>Tko ne mora polagati ispit</h3>
+<p>Zakon obvezu veže uz te vrste dozvola. Ima li radnik dozvolu po drugoj osnovi, provjerite odnosi li se obveza na njega prije nego što ga prijavite na ispit.</p>
+<h3>Tko ne mora polagati ispit?</h3>
 <p>Ispit ne moraju položiti državljani trećih zemalja koji:</p>
 <ol>
 <li>su završili osnovno, srednje ili visoko obrazovanje u Republici Hrvatskoj</li>
 <li>govore jezikom iz podskupine južnoslavenskih jezika</li>
 </ol>
-<p>Odredbe o ispitu ne primjenjuju se na sezonske radnike.</p>
-<p>Zakon ne navodi popis južnoslavenskih jezika ni način na koji se ta iznimka dokazuje. Dok to ne bude jasno iz provedbenog propisa ili prakse MUP-a, za takve radnike pripremite dokaz o državljanstvu i školovanju te provjerite s policijskom upravom što očekuje.</p>
-<h2>Od kada vrijedi obveza</h2>
-<p>Izmjene Zakona o strancima stupile su na snagu 4. lipnja 2026. Odredbe o ispitu nisu sve počele vrijediti istog dana:</p>
+<p>Na sezonske radnike odredbe o ispitu se ne primjenjuju.</p>
+<p>Zakon ne navodi koji su to južnoslavenski jezici ni kako se ta iznimka dokazuje. Dok to ne razjasni provedbeni propis ili praksa MUP-a, za takve radnike pripremite dokaz o državljanstvu i školovanju i pitajte policijsku upravu što očekuje.</p>
+<h2>Od kada vrijedi obveza?</h2>
+<p>Izmjene Zakona o strancima stupile su na snagu 4. lipnja 2026. Odredbe o ispitu počinju vrijediti u dva navrata:</p>
 <table>
 <thead>
 <tr>
@@ -65,49 +65,49 @@
 </tr>
 </tbody>
 </table>
-<p>Način polaganja ispita i visinu troška propisuje ministar unutarnjih poslova pravilnikom, uz prethodnu suglasnost ministra nadležnog za obrazovanje. Prije prijave radnika provjerite je li taj pravilnik objavljen u Narodnim novinama i što propisuje o cijeni, prijavi i obliku ispita.</p>
+<p>Kako se ispit polaže i koliko košta, pravilnikom propisuje ministar unutarnjih poslova, uz prethodnu suglasnost ministra nadležnog za obrazovanje. Prije nego što prijavite radnika, provjerite je li taj pravilnik objavljen u Narodnim novinama i što kaže o cijeni, prijavi i obliku ispita.</p>
 <h2>Koja se razina traži: A1.1</h2>
-<p>Zakon traži standardizirani ispit znanja za osnovnu razinu poznavanja hrvatskog jezika i latiničnog pisma, razinu A1.1. To je početna razina. Zakon ne propisuje sadržaj ispita, broj dijelova ni bodovni prag. To je predmet provedbenog pravilnika i pravila ustanove koja provodi ispit.</p>
-<p>Za odobrenje dugotrajnog boravišta postoji zaseban ispit na višoj razini, uređen posebnim pravilnikom. Nemojte miješati ta dva ispita ni njihove cijene.</p>
-<h2>Gdje se polaže: ovlaštene ustanove</h2>
-<p>Ispit za razinu A1.1 prema zakonu mogu provoditi tri vrste ustanova:</p>
+<p>Zakon traži standardizirani ispit znanja za osnovnu razinu poznavanja hrvatskog jezika i latiničnog pisma, razinu A1.1. To je početna razina. Sadržaj ispita, broj dijelova i bodovni prag zakon ne propisuje. Njih uređuju provedbeni pravilnik i pravila ustanove koja provodi ispit.</p>
+<p>Za dugotrajno boravište polaže se zaseban ispit na višoj razini, uređen posebnim pravilnikom. Pazite da ne pomiješate ta dva ispita ni njihove cijene.</p>
+<h2>Gdje se polaže ispit?</h2>
+<p>Po zakonu ispit za razinu A1.1 smiju provoditi tri vrste ustanova:</p>
 <ol>
-<li><strong>škole stranih jezika</strong> koje imaju suglasnost ministra nadležnog za rad za izvođenje programa učenja hrvatskog jezika za strance kroz sustav vaučera</li>
-<li><strong>sveučilišta ili sastavnice sveučilišta</strong> koje izvode programe iz hrvatskog jezika i provode ispite</li>
-<li><strong>ustanove s registriranom djelatnošću obrazovanja odraslih</strong> ako imaju suglasnost ministarstva nadležnog za obrazovanje za provođenje ispita iz hrvatskog jezika i latiničnog pisma</li>
+<li>škole stranih jezika sa suglasnošću ministra nadležnog za rad za izvođenje programa učenja hrvatskog jezika za strance kroz sustav vaučera</li>
+<li>sveučilišta ili sastavnice sveučilišta koje izvode programe iz hrvatskog jezika i provode ispite</li>
+<li>ustanove s registriranom djelatnošću obrazovanja odraslih, ako imaju suglasnost ministarstva nadležnog za obrazovanje za provođenje ispita iz hrvatskog jezika i latiničnog pisma</li>
 </ol>
-<p>Prije upisa zatražite od ustanove dokaz o suglasnosti na koju se poziva. Popis pružatelja obrazovanja u sustavu vaučera objavljuje HZZ na portalu vaučera.</p>
-<h3>Kada tečaj vrijedi kao dokaz</h3>
-<p>Zakon priznaje i potvrdu o završenom tečaju. Za polaznika obrazovanja odraslih koji je završio tečaj hrvatskog jezika i latiničnog pisma najmanje na razini A1.1 dokazom se smatra potvrda o završenom tečaju. Uvjet je da je tečaj završen kod ustanove koja ima suglasnost za provođenje standardiziranog ispita za razinu A1.1.</p>
-<p>Potvrda o pohađanju tečaja kod ustanove bez takve suglasnosti nije isto. Prije upisa provjerite koji dokument radnik dobiva na kraju.</p>
-<h2>Veza s produljenjem dozvole za boravak i rad</h2>
-<p>Od 4. lipnja 2027. radnik iz stavka 1. dokaz o položenom ispitu prilaže uz zahtjev za produljenje dozvole izdane na temelju članka 97. Dokaz se prilaže i uz zahtjev za izdavanje dozvole iz članka 97. te uz zahtjev za dozvolu iz članka 110. točke 32.</p>
-<p>Ako dokaz nije priložen, MUP može rješenjem odbiti zahtjev. Nepriloženi dokaz o položenom ispitu izričito je naveden među razlozima za odbijanje u članku 93. Zakona o strancima.</p>
-<p>Zato ispit planirajte unatrag od datuma isteka dozvole. Uračunajte vrijeme za tečaj, slobodne termine ispita, izdavanje potvrde i pripremu zahtjeva.</p>
+<p>Prije upisa tražite od ustanove dokaz o suglasnosti na koju se poziva. Popis pružatelja obrazovanja u sustavu vaučera HZZ objavljuje na portalu vaučera.</p>
+<h3>Kada tečaj vrijedi kao dokaz?</h3>
+<p>Zakon priznaje i potvrdu o završenom tečaju. Polaznik obrazovanja odraslih koji je završio tečaj hrvatskog jezika i latiničnog pisma najmanje na razini A1.1 može kao dokaz priložiti potvrdu o završenom tečaju. Uvjet je da je tečaj završio kod ustanove koja ima suglasnost za provođenje standardiziranog ispita za razinu A1.1.</p>
+<p>Potvrda o pohađanju tečaja kod ustanove bez takve suglasnosti ne vrijedi jednako. Prije upisa provjerite koji dokument radnik dobiva na kraju.</p>
+<h2>Kako ispit utječe na produljenje dozvole za boravak i rad?</h2>
+<p>Od 4. lipnja 2027. radnik iz stavka 1. prilaže dokaz o položenom ispitu uz zahtjev za produljenje dozvole izdane na temelju članka 97. Isti dokaz prilaže i uz zahtjev za izdavanje dozvole iz članka 97. te uz zahtjev za dozvolu iz članka 110. točke 32.</p>
+<p>Ako dokaz nije priložen, MUP može rješenjem odbiti zahtjev. Članak 93. Zakona o strancima izričito navodi nepriloženi dokaz o položenom ispitu među razlozima za odbijanje.</p>
+<p>Ispit zato planirajte unatrag od datuma isteka dozvole. Uračunajte vrijeme za tečaj, slobodne termine ispita, izdavanje potvrde i pripremu zahtjeva.</p>
 <h2>Hrvatski za strance: što poslodavac treba organizirati</h2>
 <ol>
-<li><strong>Popis radnika.</strong> Za svakog stranog radnika upišite vrstu dozvole, datum dolaska i datum isteka dozvole.</li>
-<li><strong>Utvrđivanje obveze.</strong> Označite tko ima dozvolu iz članka 97. ili 110. točke 32., tko je sezonski radnik i tko može biti izuzet.</li>
-<li><strong>Dokazi za iznimke.</strong> Prikupite svjedodžbe iz Hrvatske i druge dokaze za radnike koji ne moraju polagati.</li>
-<li><strong>Odabir ustanove.</strong> Provjerite suglasnost ustanove i dokument koji izdaje na kraju tečaja ili ispita.</li>
-<li><strong>Raspored rada.</strong> Dogovorite termine tečaja koji se ne sudaraju sa smjenama.</li>
-<li><strong>Prijava na ispit.</strong> Prijavite radnike na vrijeme, s rezervom za ponovno polaganje.</li>
-<li><strong>Plaćanje ispita.</strong> Trošak ispita plaća poslodavac. Evidentirajte uplate.</li>
-<li><strong>Evidencija.</strong> Dokaz o položenom ispitu pohranite uz evidenciju o radnicima.</li>
-<li><strong>Zahtjev za produljenje.</strong> Priložite dokaz uz zahtjev za produljenje dozvole.</li>
+<li>Napravite popis radnika. Za svakog stranog radnika upišite vrstu dozvole, datum dolaska i datum isteka dozvole.</li>
+<li>Utvrdite tko ima obvezu. Označite tko ima dozvolu iz članka 97. ili 110. točke 32., tko je sezonski radnik i tko može biti izuzet.</li>
+<li>Prikupite dokaze za iznimke: svjedodžbe iz Hrvatske i druge dokaze za radnike koji ne moraju polagati.</li>
+<li>Odaberite ustanovu. Provjerite njezinu suglasnost i dokument koji izdaje na kraju tečaja ili ispita.</li>
+<li>Uskladite raspored rada, tako da se termini tečaja ne sudaraju sa smjenama.</li>
+<li>Prijavite radnike na ispit na vrijeme, s rezervom za ponovno polaganje.</li>
+<li>Platite ispit, jer trošak snosi poslodavac, i evidentirajte uplate.</li>
+<li>Dokaz o položenom ispitu pohranite uz evidenciju o radnicima.</li>
+<li>Uz zahtjev za produljenje dozvole priložite dokaz.</li>
 </ol>
-<h3>Tečaj hrvatskog jezika za strance i vaučeri HZZ-a</h3>
-<p>Zakon izričito propisuje da poslodavac snosi trošak ispita. Tko plaća tečaj, članak 92.a ne uređuje. To je pitanje dogovora s radnikom, a dogovor je dobro imati u pisanom obliku.</p>
-<p>HZZ ima vaučer za učenje hrvatskog kao stranog jezika. Prema stranicama HZZ-a, vaučer se može dodijeliti stranom radniku državljaninu treće zemlje s važećom dozvolom za boravak i rad. Kraći neformalni programi traju najmanje 70 sati i prilagođeni su sektorima kao što su građevinarstvo, turizam i ugostiteljstvo, prerađivačka i prehrambena industrija.</p>
-<p>Za strane radnike HZZ vaučerom financira dio troška programa, ovisno o veličini poslodavca:</p>
+<h3>Tko plaća tečaj hrvatskog jezika za strance i kako pomažu vaučeri HZZ-a?</h3>
+<p>Zakon izričito propisuje da trošak ispita snosi poslodavac. Tko plaća tečaj, članak 92.a ne uređuje. O tome se dogovarate s radnikom, a dogovor je dobro imati u pisanom obliku.</p>
+<p>HZZ ima vaučer za učenje hrvatskog kao stranog jezika. Prema stranicama HZZ-a, vaučer može dobiti strani radnik, državljanin treće zemlje s važećom dozvolom za boravak i rad. Kraći neformalni programi traju najmanje 70 sati i prilagođeni su sektorima kao što su građevinarstvo, turizam i ugostiteljstvo te prerađivačka i prehrambena industrija.</p>
+<p>Koliki dio troška programa za strane radnike HZZ financira vaučerom, ovisi o veličini poslodavca:</p>
 <ul>
 <li>70 % za radnika kod poslodavca koji zapošljava do 50 radnika</li>
 <li>50 % za radnika kod poslodavca koji zapošljava od 50 do 250 radnika</li>
 <li>30 % za radnika kod poslodavca koji zapošljava preko 250 radnika</li>
 </ul>
-<p>Uvjeti vaučera mogu se mijenjati, pa ih provjerite na portalu vaučera HZZ-a prije upisa.</p>
-<h3>Priprema uz rad u smjenama</h3>
-<p>Tečaj uz rad u smjenama traži planiranje. Dogovorite s ustanovom grupe po smjenama ili termine koji se ponavljaju. Zatražite od ustanove opis ispita i primjere zadataka. Pitanja i odgovori za polaganje hrvatskog jezika za strance koji kruže internetom nisu službeni i ne moraju odgovarati ispitu koji provodi odabrana ustanova.</p>
+<p>HZZ može promijeniti uvjete vaučera, pa ih prije upisa provjerite na portalu vaučera.</p>
+<h3>Kako uskladiti tečaj s radom u smjenama?</h3>
+<p>Kad radnici rade u smjenama, tečaj treba unaprijed isplanirati. Dogovorite s ustanovom grupe po smjenama ili termine koji se ponavljaju. Tražite od ustanove opis ispita i primjere zadataka. Pitanja i odgovori za polaganje hrvatskog jezika za strance koji kruže internetom nisu službeni i ne moraju odgovarati ispitu koji provodi odabrana ustanova.</p>
 <h2>Kontrolni popis</h2>
 <ul>
 <li>Imate popis stranih radnika s vrstom dozvole i datumom isteka.</li>
@@ -119,30 +119,30 @@
 <li>Ispit je planiran dovoljno rano prije isteka dozvole.</li>
 <li>Dokaz je pohranjen uz evidenciju o radnicima.</li>
 </ul>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Čekanje zadnjeg mjeseca prije isteka dozvole.</strong> Za tečaj, termin ispita i potvrdu treba vremena.</li>
-<li><strong>Pretpostavka da obveza vrijedi za sve strance.</strong> Obveza je vezana uz određene dozvole, a sezonski radnici i propisane iznimke su izuzeti.</li>
-<li><strong>Upis kod ustanove bez suglasnosti.</strong> Potvrda takve ustanove ne mora vrijediti kao dokaz.</li>
-<li><strong>Miješanje potvrde o pohađanju i potvrde o završenom tečaju.</strong> Zakon priznaje samo potvrdu o završenom tečaju razine A1.1 kod ustanove sa suglasnošću.</li>
-<li><strong>Prebacivanje troška ispita na radnika.</strong> Zakon propisuje da trošak ispita snosi poslodavac.</li>
-<li><strong>Dokaz se ne čuva u evidenciji.</strong> Od 4. lipnja 2027. dokaz je sastavni dio evidencije o radnicima.</li>
+<li>Ispit se ostavi za zadnji mjesec prije isteka dozvole, iako za tečaj, termin ispita i potvrdu treba vremena.</li>
+<li>Poslodavac pretpostavi da obveza vrijedi za sve strance. Vezana je uz određene dozvole, a sezonski radnici i propisane iznimke su izuzeti.</li>
+<li>Radnik se upiše kod ustanove bez suglasnosti, čija potvrda ne mora vrijediti kao dokaz.</li>
+<li>Potvrda o pohađanju zamijeni se s potvrdom o završenom tečaju. Zakon priznaje samo potvrdu o završenom tečaju razine A1.1 kod ustanove sa suglasnošću.</li>
+<li>Trošak ispita prebaci se na radnika, iako ga po zakonu snosi poslodavac.</li>
+<li>Dokaz se ne pohrani u evidenciju o radnicima, a od 4. lipnja 2027. on je njezin sastavni dio.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Koja razina hrvatskog za strance se traži za produljenje dozvole?</h3>
-<p>Razina A1.1, osnovna razina poznavanja hrvatskog jezika i latiničnog pisma. Traži se standardizirani ispit znanja za tu razinu.</p>
+<p>Razina A1.1, osnovna razina poznavanja hrvatskog jezika i latiničnog pisma. Radnik polaže standardizirani ispit znanja za tu razinu.</p>
 <h3>Tko plaća test hrvatskog jezika za strance?</h3>
 <p>Trošak ispita snosi poslodavac, prema članku 92.a stavku 3. Zakona o strancima. Trošak tečaja zakon ne uređuje.</p>
 <h3>Gdje je polaganje hrvatskog jezika za strance moguće?</h3>
-<p>Kod ovlaštenih škola stranih jezika u sustavu vaučera, sveučilišta ili sastavnica sveučilišta koje provode ispite i ustanova za obrazovanje odraslih sa suglasnošću ministarstva nadležnog za obrazovanje.</p>
+<p>Kod ovlaštenih škola stranih jezika u sustavu vaučera, na sveučilištima ili sastavnicama sveučilišta koje provode ispite i u ustanovama za obrazovanje odraslih sa suglasnošću ministarstva nadležnog za obrazovanje.</p>
 <h3>Vrijedi li tečaj hrvatskog jezika za strance umjesto ispita?</h3>
-<p>Vrijedi potvrda o završenom tečaju najmanje na razini A1.1, ako je tečaj završen kod ustanove koja ima suglasnost za provođenje standardiziranog ispita za tu razinu.</p>
+<p>Vrijedi potvrda o završenom tečaju najmanje na razini A1.1, ako je radnik tečaj završio kod ustanove koja ima suglasnost za provođenje standardiziranog ispita za tu razinu.</p>
 <h3>Mora li sezonski radnik polagati ispit?</h3>
-<p>Ne. Zakon propisuje da se odredbe o ispitu ne primjenjuju na sezonske radnike.</p>
+<p>Ne mora. Po zakonu se odredbe o ispitu ne primjenjuju na sezonske radnike.</p>
 <h3>Što ako radnik uz zahtjev za produljenje nema dokaz o ispitu?</h3>
-<p>MUP može odbiti zahtjev za dozvolu za boravak i rad. Zato ispit planirajte prije isteka dozvole, a ne uz sam zahtjev.</p>
+<p>MUP može odbiti zahtjev za dozvolu za boravak i rad. Ispit zato planirajte prije isteka dozvole, a ne uz sam zahtjev.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pomažemo utvrditi koji radnici moraju polagati ispit, pratimo datume isteka dozvola i pripremamo dokumentaciju za produljenje. Uz to provjeravamo ima li odabrana ustanova potrebnu suglasnost. Više na stranici <a href="/admin-podrska-pregled/usluge/strani-radnici/">zapošljavanje stranih radnika</a>, a za plan za vašu firmu javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Utvrdimo koji radnici moraju polagati ispit, provjerimo ima li odabrana ustanova suglasnost, pratimo kad istječu dozvole i pripremamo dokumentaciju za produljenje. Za plan za vašu firmu javite nam se preko stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>, a više o usluzi piše na stranici <a href="/admin-podrska-pregled/usluge/strani-radnici/">zapošljavanje stranih radnika</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_55_692.html">Zakon o izmjenama i dopunama Zakona o strancima, NN 55/2026 (članak 19. kojim se dodaje članak 92.a, članak 20. i članak 70.)</a></li>
@@ -153,7 +153,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Ispit iz hrvatskog jezika za strane radnike: što poslodavac treba organizirati\",\"description\":\"Hrvatski za strance postaje uvjet za produljenje dozvole od 4. lipnja 2027. Tko polaže ispit A1.1, tko ga plaća, gdje se polaže i što organizira poslodavac.\",\"datePublished\":\"2027-03-22\",\"dateModified\":\"2027-03-22\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/ispit-hrvatski-jezik-stranci/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Ispit iz hrvatskog jezika za strane radnike: što poslodavac treba organizirati"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Hrvatski za strance postaje uvjet za produljenje dozvole od 4. lipnja 2027. Tko polaže ispit A1.1, tko ga plaća, gdje se polaže i što organizira poslodavac."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","22. ožujka 2027."]}],null,["$","span",null,{"children":[8," min čitanja"]}],["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Ispit iz hrvatskog jezika za strane radnike: što poslodavac treba organizirati\",\"description\":\"Hrvatski za strance postaje uvjet za produljenje dozvole od 4. lipnja 2027. Tko polaže ispit A1.1, tko ga plaća, gdje se polaže i što organizira poslodavac.\",\"datePublished\":\"2027-03-22\",\"dateModified\":\"2027-03-22\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/ispit-hrvatski-jezik-stranci/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Ispit iz hrvatskog jezika za strane radnike: što poslodavac treba organizirati"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Hrvatski za strance postaje uvjet za produljenje dozvole od 4. lipnja 2027. Tko polaže ispit A1.1, tko ga plaća, gdje se polaže i što organizira poslodavac."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","22. ožujka 2027."]}],null,["$","span",null,{"children":[8," min čitanja"]}],["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -161,10 +161,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Dozvole i boravak stranih radnika"}],["$","p",null,{"children":"Provjera uvjeta poslodavca, dozvola za boravak i rad, produljenja i promjene poslodavca."}],["$","$L2",null,{"href":"/usluge/strani-radnici/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ispit iz hrvatskog jezika za strane radnike: što poslodavac treba organizirati"}],["$","meta","1",{"name":"description","content":"Hrvatski za strance postaje uvjet za produljenje dozvole od 4. lipnja 2027. Tko polaže ispit A1.1, tko ga plaća, gdje se polaže i što organizira poslodavac."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/ispit-hrvatski-jezik-stranci/"}],["$","meta","4",{"property":"og:title","content":"Ispit iz hrvatskog jezika za strane radnike: što poslodavac treba organizirati"}],["$","meta","5",{"property":"og:description","content":"Hrvatski za strance postaje uvjet za produljenje dozvole od 4. lipnja 2027. Tko polaže ispit A1.1, tko ga plaća, gdje se polaže i što organizira poslodavac."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/ispit-hrvatski-jezik-stranci/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-03-22"}],["$","meta","13",{"property":"article:modified_time","content":"2027-03-22"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Ispit iz hrvatskog jezika za strane radnike: što poslodavac treba organizirati"}],["$","meta","16",{"name":"twitter:description","content":"Hrvatski za strance postaje uvjet za produljenje dozvole od 4. lipnja 2027. Tko polaže ispit A1.1, tko ga plaća, gdje se polaže i što organizira poslodavac."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

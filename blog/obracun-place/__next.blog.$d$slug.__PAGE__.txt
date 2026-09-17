@@ -1,20 +1,20 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T3bf1,<p>Obračun plaće ide uvijek istim redom. Od bruto plaće oduzimaju se doprinosi za mirovinsko osiguranje i dobiva se dohodak. Dohodak se umanjuje za osobni odbitak i dobiva se porezna osnovica. Na osnovicu se obračuna porez na dohodak po stopi općine ili grada prebivališta radnika. Dohodak umanjen za porez je neto plaća. Na bruto plaću poslodavac još plaća doprinos za zdravstveno osiguranje, pa je ukupni trošak plaće veći od bruta.</p>
-<p>U nastavku je svaki korak s propisom iz kojeg proizlazi i primjer izračuna. Stope i iznosi vrijede za 2026. prema Zakonu o doprinosima i Zakonu o porezu na dohodak u verziji s izmjenama iz NN 152/24.</p>
-<h2>Bruto, neto i ukupni trošak</h2>
+3:T3aa3,<p>Obračun plaće uvijek ide istim redom. Od bruto plaće oduzmete doprinose za mirovinsko osiguranje i dobijete dohodak. Kad dohodak umanjite za osobni odbitak, ostaje porezna osnovica, a na nju obračunate porez na dohodak po stopi općine ili grada u kojem radnik ima prebivalište. Ono što od dohotka ostane nakon poreza je neto plaća. Poslodavac na bruto plaću plaća još i doprinos za zdravstveno osiguranje, pa je ukupni trošak plaće veći od bruta.</p>
+<p>Stope i iznosi niže vrijede za 2026. prema Zakonu o doprinosima i Zakonu o porezu na dohodak u verziji s izmjenama iz NN 152/24.</p>
+<h2>Što je bruto, neto i ukupni trošak plaće?</h2>
 <p>Zakon o radu razlikuje tri pojma:</p>
 <ul>
-<li><strong>Bruto plaća</strong> sastoji se od iznosa za isplatu radniku i javnih davanja iz plaće.</li>
-<li><strong>Neto plaća</strong> je iznos koji radnik dobiva na račun.</li>
-<li><strong>Ukupni trošak plaće</strong> je bruto plaća uvećana za javna davanja na plaću.</li>
+<li>Bruto plaća je iznos za isplatu radniku zajedno s javnim davanjima iz plaće.</li>
+<li>Neto plaća je iznos koji radnik dobije na račun.</li>
+<li>Ukupni trošak plaće je bruto plaća uvećana za javna davanja na plaću.</li>
 </ul>
-<p>Plaću čine osnovna ili ugovorena plaća, dodaci (prekovremeni, noćni, nedjeljni rad i slično) i ostali primici koji se smatraju plaćom. Regres, božićnica, jubilarna nagrada i naknade troškova po Zakonu o radu nisu plaća, nego primici na temelju radnog odnosa. Porezno se tretiraju posebno: do propisanih iznosa neoporezivi su, a iznad njih oporezuju se kao plaća.</p>
+<p>Plaću čine osnovna ili ugovorena plaća, dodaci (prekovremeni, noćni, nedjeljni rad i slično) i ostali primici koji se smatraju plaćom. Regres, božićnica, jubilarna nagrada i naknade troškova po Zakonu o radu nisu plaća, nego primici na temelju radnog odnosa. I porezno se tretiraju posebno. Do propisanih iznosa su neoporezivi, a iznos iznad toga oporezuje se kao plaća.</p>
 <h2>Korak 1: bruto plaća i osnovica za doprinose</h2>
-<p>Mjesečna osnovica za doprinose je bruto plaća za taj mjesec prema ugovoru o radu, pravilniku o radu, kolektivnom ugovoru ili posebnom propisu. Osnovica ne može biti manja od iznosa koji je poslodavac dužan isplatiti, a za puno radno vrijeme ni manja od najniže mjesečne osnovice. Najniža mjesečna osnovica je umnožak prosječne plaće i koeficijenta 0,38.</p>
-<p>Za podatke o satima računovodstvu treba evidencija radnog vremena: redovni sati, prekovremeni, noćni rad, rad nedjeljom i blagdanom, bolovanje, godišnji odmor i ostale odsutnosti.</p>
+<p>Mjesečna osnovica za doprinose je bruto plaća za taj mjesec prema ugovoru o radu, pravilniku o radu, kolektivnom ugovoru ili posebnom propisu. Ne smije biti manja od iznosa koji ste dužni isplatiti, a za puno radno vrijeme ni od najniže mjesečne osnovice. Najnižu mjesečnu osnovicu dobijete kad prosječnu plaću pomnožite koeficijentom 0,38.</p>
+<p>Podatke o satima računovodstvo uzima iz evidencije radnog vremena: redovni sati, prekovremeni, noćni rad, rad nedjeljom i blagdanom, bolovanje, godišnji odmor i ostale odsutnosti.</p>
 <h2>Korak 2: doprinosi iz plaće</h2>
-<p>Doprinosi iz plaće obustavljaju se radniku. Za radnika koji je osiguranik oba mirovinska stupa to su:</p>
+<p>Doprinose iz plaće obustavljate radniku. Za osiguranika oba mirovinska stupa to su:</p>
 <table>
 <thead>
 <tr>
@@ -37,18 +37,18 @@
 </tbody>
 </table>
 <p>Za osiguranika samo I. stupa doprinos za mirovinsko osiguranje iznosi 20 %.</p>
-<h3>Umanjenje osnovice za I. stup</h3>
+<h3>Kada se umanjuje osnovica za I. stup?</h3>
 <p>Zakon o doprinosima (članak 21.a, dodan izmjenama iz NN 114/23) propisuje umanjenje osnovice za doprinos za I. stup radnicima s nižim plaćama:</p>
 <ul>
 <li>bruto plaća do 700,00 eura: osnovica se umanjuje za 300,00 eura</li>
 <li>bruto plaća od 700,01 do 1.300,00 eura: umanjenje je 0,5 × (1.300,00 − bruto plaća)</li>
 <li>iznad 1.300,00 eura: nema umanjenja</li>
 </ul>
-<p>Umanjenje vrijedi bez obzira na broj dana u osiguranju i na to radi li radnik puno ili nepuno radno vrijeme. Doprinos za II. stup i dalje se računa od punog bruto iznosa. Ako radnik radi kod više poslodavaca, umanjenje se dijeli razmjerno plaćama, na temelju izjave radnika ili podataka Porezne uprave.</p>
+<p>Umanjenje vrijedi bez obzira na broj dana u osiguranju i na to radi li radnik puno ili nepuno radno vrijeme. Doprinos za II. stup i dalje računate od punog bruto iznosa. Kad radnik radi kod više poslodavaca, umanjenje se dijeli razmjerno plaćama, prema izjavi radnika ili podacima Porezne uprave.</p>
 <h2>Korak 3: dohodak</h2>
-<p>Dohodak je bruto plaća umanjena za doprinose iz plaće. Doprinosi za mirovinsko osiguranje zakonom se smatraju izdatkom koji se oduzima od primitka.</p>
+<p>Dohodak je bruto plaća umanjena za doprinose iz plaće. Po zakonu su doprinosi za mirovinsko osiguranje izdatak koji se oduzima od primitka.</p>
 <h2>Korak 4: osobni odbitak i porezna kartica</h2>
-<p>Osnovni osobni odbitak u 2026. iznosi 600,00 eura mjesečno. Rezident ga može uvećati:</p>
+<p>Osnovni osobni odbitak u 2026. iznosi 600,00 eura mjesečno. Rezidentu se uvećava ovako:</p>
 <table>
 <thead>
 <tr>
@@ -96,13 +96,13 @@
 </tbody>
 </table>
 <p>Za peto i daljnje dijete koeficijenti rastu, prema tablici u članku 14. Zakona o porezu na dohodak.</p>
-<h3>Porezna kartica</h3>
-<p>Osobni odbitak i pripadnost općini ili gradu priznaju se isključivo na temelju porezne kartice. Poslodavac je dobiva elektronički od Porezne uprave, na svoj zahtjev i uz suglasnost radnika. Radnik svaku promjenu koja utječe na odbitak, na primjer rođenje djeteta ili preseljenje, prijavljuje Poreznoj upravi u roku od 30 dana, putem poslodavca ili sustava e-Građani. Poslodavac promjenu primjenjuje pri sljedećim isplatama.</p>
-<h3>Porezna rezidentnost</h3>
-<p>Rezident je osoba koja u Hrvatskoj ima prebivalište ili uobičajeno boravište. Prema Općem poreznom zakonu uobičajeno boravište ima osoba koja u Hrvatskoj boravi stalno ili vremenski povezano najmanje 183 dana u jednoj ili dvije kalendarske godine. Nerezidentu se u mjesečnom obračunu priznaje samo osnovni osobni odbitak. Porezna rezidentnost posebno je važna kod stranih radnika, jer se ne utvrđuje prema državljanstvu.</p>
+<h3>Kako dobiti poreznu karticu radnika?</h3>
+<p>Osobni odbitak i pripadnost općini ili gradu priznajete <strong>isključivo na temelju porezne kartice</strong>. Karticu dobijete elektronički od Porezne uprave, na svoj zahtjev i uz suglasnost radnika. Svaku promjenu koja utječe na odbitak, na primjer rođenje djeteta ili preseljenje, radnik prijavljuje Poreznoj upravi u roku od 30 dana, preko poslodavca ili sustava e-Građani. Promjenu primjenjujete kod sljedećih isplata.</p>
+<h3>Tko je porezni rezident?</h3>
+<p>Rezident je osoba koja u Hrvatskoj ima prebivalište ili uobičajeno boravište. Prema Općem poreznom zakonu uobičajeno boravište ima osoba koja u Hrvatskoj boravi stalno ili vremenski povezano najmanje 183 dana u jednoj ili dvije kalendarske godine. Nerezidentu u mjesečnom obračunu priznajete samo osnovni osobni odbitak. Kod stranih radnika rezidentnost zato posebno provjerite, jer ne ovisi o državljanstvu.</p>
 <h2>Korak 5: porezna osnovica i porez</h2>
-<p>Porezna osnovica je dohodak umanjen za osobni odbitak. Ako je odbitak veći od dohotka, osnovica je nula i porez se ne plaća.</p>
-<p>Porez se obračunava po stopama koje svojom odlukom određuje općina ili grad prebivališta radnika:</p>
+<p>Porezna osnovica je dohodak umanjen za osobni odbitak. Kad je odbitak veći od dohotka, osnovica je nula i porez se ne plaća.</p>
+<p>Porez obračunavate po stopama koje svojom odlukom određuje općina ili grad u kojem radnik ima prebivalište:</p>
 <ul>
 <li>niža stopa na mjesečnu osnovicu do 5.000,00 eura</li>
 <li>viša stopa na dio osnovice iznad 5.000,00 eura</li>
@@ -139,14 +139,14 @@
 </tr>
 </tbody>
 </table>
-<p>Ako općina ili grad ne donese odluku, primjenjuju se stope od 20 % i 30 %. Stope za svaku jedinicu objavljuje Porezna uprava.</p>
-<p>Obračunani porez umanjuje se za 50 % radnicima koji imaju prebivalište i borave na području jedinica razvrstanih u I. skupinu po stupnju razvijenosti te na području Grada Vukovara.</p>
+<p>Ako općina ili grad ne donese odluku, vrijede stope od 20 % i 30 %. Porezna uprava objavljuje stope za svaku jedinicu.</p>
+<p>Radnicima koji imaju prebivalište i borave na području jedinica razvrstanih u I. skupinu po stupnju razvijenosti te na području Grada Vukovara obračunani porez umanjujete za 50 %.</p>
 <h2>Korak 6: neto plaća</h2>
-<p>Neto plaća je dohodak umanjen za porez. Ako radnik ima obustave, one se iskazuju u obračunu i umanjuju iznos za isplatu. Neoporezivi primici, poput naknade za prijevoz, isplaćuju se uz neto plaću i ne ulaze u poreznu osnovicu.</p>
+<p>Neto plaća je dohodak umanjen za porez. Obustave radnika iskazujete u obračunu i one umanjuju iznos za isplatu. Neoporezive primitke, poput naknade za prijevoz, isplaćujete uz neto plaću i ne ulaze u poreznu osnovicu.</p>
 <h2>Korak 7: doprinos na plaću i ukupni trošak</h2>
-<p>Na bruto plaću poslodavac obračunava doprinos za zdravstveno osiguranje po stopi od 16,5 %. On se ne odbija radniku. Za osobu koja se prvi put zapošljava Zakon o doprinosima propisuje iznimku: do godinu dana obračunavaju se samo doprinosi iz plaće.</p>
+<p>Na bruto plaću obračunavate doprinos za zdravstveno osiguranje po stopi od 16,5 %, i to se radniku ne odbija. Za osobu koja se prvi put zapošljava Zakon o doprinosima propisuje iznimku. Do godinu dana za nju se obračunavaju samo doprinosi iz plaće.</p>
 <h2>Primjer obračuna plaće za 2026.</h2>
-<p>Pretpostavke: puno radno vrijeme, jedan poslodavac, radnik je rezident i osiguranik I. i II. stupa, bez uzdržavanih članova. Za primjer je uzeta niža stopa poreza od 20 %, stopa koju zakon određuje kad jedinica lokalne samouprave ne donese odluku. U stvarnom obračunu primjenjuje se stopa prebivališta radnika.</p>
+<p>Pretpostavke: puno radno vrijeme, jedan poslodavac, radnik je rezident i osiguranik I. i II. stupa, bez uzdržavanih članova. Uzeli smo nižu stopu poreza od 20 %, koju zakon određuje kad jedinica lokalne samouprave ne donese odluku. U stvarnom obračunu primjenjujete stopu prebivališta radnika.</p>
 <table>
 <thead>
 <tr>
@@ -200,10 +200,10 @@
 <td>73,50</td>
 </tr>
 <tr>
-<td><strong>Neto plaća</strong></td>
+<td>Neto plaća</td>
 <td>dohodak − porez</td>
-<td><strong>1.080,00</strong></td>
-<td><strong>894,00</strong></td>
+<td>1.080,00</td>
+<td>894,00</td>
 </tr>
 <tr>
 <td>Zdravstveno osiguranje (16,5 %)</td>
@@ -212,16 +212,16 @@
 <td>198,00</td>
 </tr>
 <tr>
-<td><strong>Ukupni trošak</strong></td>
+<td>Ukupni trošak</td>
 <td>bruto + zdravstveno</td>
-<td><strong>1.747,50</strong></td>
-<td><strong>1.398,00</strong></td>
+<td>1.747,50</td>
+<td>1.398,00</td>
 </tr>
 </tbody>
 </table>
 <p>Kad bi radnik s bruto plaćom od 1.500,00 eura imao jedno uzdržavano dijete, osobni odbitak bio bi 900,00 eura, porezna osnovica 300,00 eura, porez 60,00 eura, a neto plaća 1.140,00 eura.</p>
-<h2>Obračun plaće kalkulator: zašto rezultat odstupa</h2>
-<p>Bruto neto kalkulator dobar je za okvirnu procjenu. Razlika u odnosu na stvarni obračun najčešće dolazi od ovih podataka:</p>
+<h2>Zašto kalkulator za obračun plaće pokazuje drugi iznos?</h2>
+<p>Bruto neto kalkulator dobar je za okvirnu procjenu. Od stvarnog obračuna rezultat može odstupati zbog ovih podataka:</p>
 <ul>
 <li>porezna stopa prebivališta radnika, a ne sjedišta poslodavca</li>
 <li>osobni odbitak s porezne kartice</li>
@@ -230,14 +230,14 @@
 <li>umanjenje poreza od 50 % za područja I. skupine razvijenosti i Vukovar</li>
 <li>oporezivi dio primitaka iznad neoporezivih iznosa</li>
 </ul>
-<p>Umanjenje poreza za mlade do 25 i od 26 do 30 godina ne primjenjuje se u mjesečnom obračunu. Zakon ga propisuje za godišnji porez na dohodak.</p>
-<h2>Obračunska lista, rokovi i čuvanje</h2>
+<p>Umanjenje poreza za mlade do 25 i od 26 do 30 godina ne primjenjujete u mjesečnom obračunu. Zakon ga propisuje za godišnji porez na dohodak.</p>
+<h2>Do kada isplatiti plaću i dostaviti obračun?</h2>
 <ul>
-<li><strong>Isplata:</strong> plaća se isplaćuje najkasnije 15. dana tekućeg mjeseca za prethodni mjesec.</li>
-<li><strong>Obračun radniku:</strong> poslodavac ga dostavlja najkasnije 15 dana od dana isplate. Sadržaj propisuje Pravilnik o sadržaju obračuna plaće, naknade plaće, otpremnine i naknade za neiskorišteni godišnji odmor (NN 68/23), a obuhvaća i sate rada, osnovicu, doprinose, dohodak, osobni odbitak, poreznu osnovicu, stope i iznos za isplatu.</li>
-<li><strong>Neisplaćena plaća:</strong> do kraja mjeseca u kojem je isplata dospjela radniku se dostavlja obračun, koji je ovršna isprava.</li>
-<li><strong>JOPPD:</strong> podnosi se na dan isplate ili najkasnije sljedeći radni dan.</li>
-<li><strong>Čuvanje:</strong> isplatne liste čuvaju se najmanje šest godina, a analitička evidencija o plaćama za koje se plaćaju obvezni doprinosi trajno.</li>
+<li>Plaću za prethodni mjesec isplaćujete najkasnije 15. dana tekućeg mjeseca.</li>
+<li>Obračun radniku dostavljate najkasnije 15 dana od dana isplate. Sadržaj propisuje Pravilnik o sadržaju obračuna plaće, naknade plaće, otpremnine i naknade za neiskorišteni godišnji odmor (NN 68/23), a obuhvaća i sate rada, osnovicu, doprinose, dohodak, osobni odbitak, poreznu osnovicu, stope i iznos za isplatu.</li>
+<li>Ako plaću ne isplatite, radniku do kraja mjeseca u kojem je isplata dospjela dostavljate obračun, a on je ovršna isprava.</li>
+<li>JOPPD podnosite na dan isplate ili najkasnije sljedeći radni dan.</li>
+<li>Isplatne liste čuvate najmanje šest godina, a analitičku evidenciju o plaćama za koje se plaćaju obvezni doprinosi trajno.</li>
 </ul>
 <h3>Kontrolni popis prije svakog obračuna</h3>
 <ol>
@@ -248,28 +248,28 @@
 <li>Neoporezivi primici imaju dokumentaciju.</li>
 <li>Datum isplate je poznat i usklađen s rokom za JOPPD.</li>
 </ol>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ol>
-<li><strong>Porez po stopi sjedišta firme.</strong> Stopa se određuje prema prebivalištu ili uobičajenom boravištu radnika.</li>
-<li><strong>Odbitak "po sjećanju".</strong> Uvećani odbitak priznaje se samo prema poreznoj kartici.</li>
-<li><strong>Umanjenje primijenjeno i na II. stup.</strong> Umanjuje se samo osnovica za I. stup.</li>
-<li><strong>Nerezident s uvećanim odbitkom.</strong> U mjesečnom obračunu nerezident ima samo osnovni odbitak.</li>
-<li><strong>Neoporezivi primitak iznad limita isplaćen kao neoporeziv.</strong> Iznos iznad propisanog oporezuje se kao plaća.</li>
-<li><strong>Kasna obračunska lista.</strong> Rok je 15 dana od isplate.</li>
+<li>Porez obračunate po stopi sjedišta firme, a stopa se određuje prema prebivalištu ili uobičajenom boravištu radnika.</li>
+<li>Odbitak priznate „po sjećanju“. Uvećani odbitak priznaje se samo prema poreznoj kartici.</li>
+<li>Umanjenje osnovice primijenite i na II. stup, a umanjuje se samo osnovica za I. stup.</li>
+<li>Nerezidentu priznate uvećani odbitak, iako u mjesečnom obračunu ima pravo samo na osnovni.</li>
+<li>Primitak iznad propisanog iznosa isplatite kao neoporeziv, a razlika se oporezuje kao plaća.</li>
+<li>Obračun radniku dostavite nakon roka, a rok je 15 dana od isplate.</li>
 </ol>
 <h2>Česta pitanja</h2>
 <h3>Koliki je osnovni osobni odbitak u 2026.?</h3>
 <p>600,00 eura mjesečno, prema članku 14. Zakona o porezu na dohodak. Uvećanja za djecu i uzdržavane članove računaju se koeficijentima na taj iznos.</p>
 <h3>Što je porezna kartica i tko je izdaje?</h3>
-<p>To je skup podataka o osobnom odbitku i prebivalištu radnika koji Porezna uprava elektronički dostavlja poslodavcu. Bez nje poslodavac ne može priznati uvećani odbitak.</p>
+<p>To su podaci o osobnom odbitku i prebivalištu radnika koje Porezna uprava elektronički dostavlja poslodavcu. Bez porezne kartice ne smijete priznati uvećani odbitak.</p>
 <h3>Kako se utvrđuje porezna rezidentnost stranog radnika?</h3>
-<p>Prema tome ima li u Hrvatskoj prebivalište ili uobičajeno boravište. Uobičajeno boravište je boravak od najmanje 183 dana u jednoj ili dvije kalendarske godine. Državljanstvo nije presudno.</p>
+<p>Prema tome ima li u Hrvatskoj prebivalište ili uobičajeno boravište. Uobičajeno boravište ima osoba koja ovdje boravi najmanje 183 dana u jednoj ili dvije kalendarske godine. Državljanstvo pritom nije presudno.</p>
 <h3>Zašto bruto neto kalkulator pokazuje drugačiji neto od obračunske liste?</h3>
-<p>Kalkulator obično ne zna stopu prebivališta, podatke s porezne kartice ni je li radnik u II. stupu. Svaka od tih stavki mijenja neto.</p>
+<p>Ako u kalkulator niste unijeli stopu prebivališta, podatke s porezne kartice i podatak je li radnik u II. stupu, neto će se razlikovati. Svaka od tih stavki mijenja neto.</p>
 <h3>Plaća li se porez ako je dohodak manji od osobnog odbitka?</h3>
 <p>Ne. Porezna osnovica tada je nula. Doprinosi se i dalje obračunavaju.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Obračun plaće radi vaše računovodstvo, ne mi. Mi pripremamo i usklađujemo podatke koji ulaze u obračun: evidenciju radnog vremena, odsutnosti, promjene ugovora, dokumentaciju za neoporezive primitke i podatke o stranim radnicima. Ako računovodstvo nemate, povezat ćemo vas s onim koje radi s vašom vrstom poslovanja. Više na stranici <a href="/admin-podrska-pregled/usluge/place-i-racunovodstvo/">plaće i računovodstvo</a> ili putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Obračun plaće radi vaše računovodstvo, a ne mi. Mi pripremimo i uskladimo podatke koji ulaze u obračun: evidenciju radnog vremena, odsutnosti, promjene ugovora, dokumentaciju za neoporezive primitke i podatke o stranim radnicima. Ako nemate računovodstvo, povezat ćemo vas s onim koje radi s vašom vrstom poslovanja. Javite nam se preko stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a> ili pročitajte više o usluzi <a href="/admin-podrska-pregled/usluge/place-i-racunovodstvo/">plaće i računovodstvo</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/365/Zakon-o-doprinosima">Zakon o doprinosima, NN 84/08, 152/08, 94/09, 18/11, 22/12, 144/12, 148/13, 41/14, 143/14, 115/16, 106/18, 33/23, 114/23, 152/24 (zakon.hr)</a>, članci 13., 14., 17., 19. do 21.a i 200.</li>
@@ -284,7 +284,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Obračun plaće: od bruta do neta korak po korak\",\"description\":\"Obračun plaće u 2026. korak po korak: doprinosi iz plaće, osobni odbitak, porez po stopi prebivališta, neto i ukupni trošak poslodavca, s provjerenim primjerom.\",\"datePublished\":\"2026-11-16\",\"dateModified\":\"2026-11-16\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/obracun-place/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Obračun plaće: od bruta do neta korak po korak"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Obračun plaće u 2026. korak po korak: doprinosi iz plaće, osobni odbitak, porez po stopi prebivališta, neto i ukupni trošak poslodavca, s provjerenim primjerom."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","16. studenoga 2026."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Obračun plaće: od bruta do neta korak po korak\",\"description\":\"Obračun plaće u 2026. korak po korak: doprinosi iz plaće, osobni odbitak, porez po stopi prebivališta, neto i ukupni trošak poslodavca, s provjerenim primjerom.\",\"datePublished\":\"2026-11-16\",\"dateModified\":\"2026-11-16\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/obracun-place/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Obračun plaće: od bruta do neta korak po korak"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Obračun plaće u 2026. korak po korak: doprinosi iz plaće, osobni odbitak, porez po stopi prebivališta, neto i ukupni trošak poslodavca, s provjerenim primjerom."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","16. studenoga 2026."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -292,10 +292,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Plaće i računovodstvo"}],["$","p",null,{"children":"Povezujemo vas s računovodstvom koje poznaje vaše poslovanje i pripremamo podatke za obračun."}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Obračun plaće: od bruta do neta korak po korak"}],["$","meta","1",{"name":"description","content":"Obračun plaće u 2026. korak po korak: doprinosi iz plaće, osobni odbitak, porez po stopi prebivališta, neto i ukupni trošak poslodavca, s provjerenim primjerom."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/obracun-place/"}],["$","meta","4",{"property":"og:title","content":"Obračun plaće: od bruta do neta korak po korak"}],["$","meta","5",{"property":"og:description","content":"Obračun plaće u 2026. korak po korak: doprinosi iz plaće, osobni odbitak, porez po stopi prebivališta, neto i ukupni trošak poslodavca, s provjerenim primjerom."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/obracun-place/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-11-16"}],["$","meta","13",{"property":"article:modified_time","content":"2026-11-16"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Obračun plaće: od bruta do neta korak po korak"}],["$","meta","16",{"name":"twitter:description","content":"Obračun plaće u 2026. korak po korak: doprinosi iz plaće, osobni odbitak, porez po stopi prebivališta, neto i ukupni trošak poslodavca, s provjerenim primjerom."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

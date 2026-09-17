@@ -1,45 +1,44 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T3417,<p>Pravilnik o radu mora donijeti i objaviti poslodavac koji zapošljava najmanje 20 radnika. Njime uređuje plaće, organizaciju rada, postupak i mjere za zaštitu dostojanstva radnika, mjere zaštite od diskriminacije i druga pitanja važna za radnike, ako ta pitanja nisu uređena kolektivnim ugovorom.</p>
-<p>Pravilnik ne stupa na snagu samim potpisom. Ako kod poslodavca djeluje radničko vijeće, poslodavac se s njim prethodno mora savjetovati. Pravilnik mora imati naznačen dan stupanja na snagu, a na snagu ne može stupiti prije isteka osam dana od objave.</p>
-<p>U nastavku je sve što trebate znati prije nego što pravilnik izradite, izmijenite ili ga pokažete inspektoru rada.</p>
-<h2>Što je pravilnik o radu</h2>
-<p>Pravilnik o radu je opći akt poslodavca. Uređuje pitanja koja vrijede za sve radnike ili za pojedine skupine radnika, tako da ih ne morate posebno ugovarati u svakom ugovoru o radu.</p>
+3:T31e7,<p>Pravilnik o radu mora donijeti i objaviti poslodavac koji zapošljava najmanje 20 radnika. U njemu uređuje plaće, organizaciju rada, postupak i mjere za zaštitu dostojanstva radnika, mjere zaštite od diskriminacije i druga pitanja važna za radnike, ako ta pitanja nisu uređena kolektivnim ugovorom.</p>
+<p>Potpis nije dovoljan da pravilnik stupi na snagu. Ako kod vas djeluje radničko vijeće, s njim se najprije morate savjetovati. U pravilniku mora pisati dan stupanja na snagu, a taj dan ne smije biti prije isteka osam dana od objave.</p>
+<h2>Što je pravilnik o radu?</h2>
+<p>Pravilnik o radu je opći akt poslodavca. Uređuje pitanja koja vrijede za sve radnike ili za pojedine skupine radnika, pa ih ne morate posebno ugovarati u svakom ugovoru o radu.</p>
 <p>Poslodavac može donijeti jedan pravilnik za sve radnike ili posebne pravilnike za pojedina poduzeća, dijelove poduzeća ili skupine radnika.</p>
-<p>Pravilnik nije isto što i kolektivni ugovor. Kolektivni ugovor sklapaju poslodavac ili udruga poslodavaca i sindikat. Pravilnik donosi poslodavac sam, uz sudjelovanje radničkog vijeća kad ono postoji. Obveza iz članka 26. Zakona o radu odnosi se na pitanja koja nisu uređena kolektivnim ugovorom.</p>
-<h2>Kada poslodavac mora imati pravilnik o radu</h2>
-<p>Prag je jasan: <strong>najmanje 20 radnika</strong>. Poslodavac s 20 ili više radnika dužan je donijeti i objaviti pravilnik o radu.</p>
-<p>Na isti prag vežu se i neke druge obveze iz Zakona o radu, pa ih je praktično uskladiti istodobno:</p>
+<p>Pravilnik i kolektivni ugovor dva su različita akta. Kolektivni ugovor sklapaju poslodavac ili udruga poslodavaca i sindikat. Pravilnik poslodavac donosi sam, uz sudjelovanje radničkog vijeća kad ono postoji. Obveza iz članka 26. Zakona o radu odnosi se na pitanja koja kolektivni ugovor nije uredio.</p>
+<h2>Kada poslodavac mora imati pravilnik o radu?</h2>
+<p>Kad zapošljava <strong>najmanje 20 radnika</strong>. Poslodavac s 20 ili više radnika mora donijeti i objaviti pravilnik o radu.</p>
+<p>Uz isti prag Zakon o radu veže i neke druge obveze, pa ih je praktično urediti u isto vrijeme:</p>
 <ul>
 <li>imenovanje osobe koja uz poslodavca prima i rješava pritužbe vezane uz zaštitu dostojanstva radnika (kod više od 75 radnika dvije osobe različitog spola)</li>
 <li>imenovanje osobe koja uživa povjerenje radnika i nadzire obradu osobnih podataka radnika</li>
-<li>utvrđivanje osnova i mjerila za isplatu plaće pravilnikom o radu, ako nisu uređeni kolektivnim ugovorom</li>
+<li>utvrđivanje osnova i mjerila za isplatu plaće pravilnikom o radu, ako ih ne uređuje kolektivni ugovor</li>
 <li>pravo radnika na sudjelovanje u odlučivanju i na izbor radničkog vijeća</li>
 </ul>
-<p>Kada broj radnika dosegne 20, nemojte čekati nadzor. Pravilnik se ne može donijeti preko noći, jer savjetovanje s radničkim vijećem i rok od osam dana od objave traju.</p>
-<h3>Što ako imate manje od 20 radnika</h3>
-<p>Zakon vas ne obvezuje na pravilnik o radu. Pitanja koja bi inače uredio pravilnik tada uređujete ugovorom o radu. Primjerice, poslodavac koji nije obvezan donijeti pravilnik mora osnove i mjerila za isplatu plaće ugovoriti ugovorom o radu.</p>
-<p>Zakon manjim poslodavcima ne zabranjuje donošenje pravilnika. Pravilnik može olakšati vođenje, jer se u ugovoru o radu za pojedine podatke smije uputiti na pravilnik.</p>
-<h2>Što pravilnik o radu mora sadržavati</h2>
+<p>Kad dosegnete 20 radnika, ne čekajte nadzor. Pravilnik ne možete donijeti preko noći, jer savjetovanje s radničkim vijećem i rok od osam dana od objave traju.</p>
+<h3>Što ako imate manje od 20 radnika?</h3>
+<p>Tada vas zakon ne obvezuje na pravilnik o radu, a pitanja koja bi on uredio rješavate ugovorom o radu. Poslodavac koji ne mora donijeti pravilnik mora, na primjer, osnove i mjerila za isplatu plaće ugovoriti ugovorom o radu.</p>
+<p>Manjim poslodavcima zakon ne zabranjuje da donesu pravilnik. S pravilnikom vam može biti lakše, jer u ugovoru o radu za pojedine podatke smijete uputiti na njega.</p>
+<h2>Što pravilnik o radu mora sadržavati?</h2>
 <p>Zakon o radu izričito navodi četiri skupine pitanja:</p>
 <ol>
-<li><strong>plaće</strong>, uključujući osnove i mjerila za isplatu plaće</li>
-<li><strong>organizaciju rada</strong></li>
-<li><strong>postupak i mjere za zaštitu dostojanstva radnika</strong> od uznemiravanja i spolnog uznemiravanja</li>
-<li><strong>mjere zaštite od diskriminacije</strong></li>
+<li>plaće, uključujući osnove i mjerila za isplatu plaće</li>
+<li>organizaciju rada</li>
+<li>postupak i mjere za zaštitu dostojanstva radnika od uznemiravanja i spolnog uznemiravanja</li>
+<li>mjere zaštite od diskriminacije</li>
 </ol>
-<p>Uz to, pravilnik uređuje „druga pitanja važna za radnike" zaposlene kod tog poslodavca. Zakon o radu na više mjesta upućuje na pravilnik kao akt u kojem se neko pitanje može ili mora urediti.</p>
-<h3>Pitanja koja pravilnik mora urediti ako se primjenjuju</h3>
+<p>Pravilnik uz to uređuje „druga pitanja važna za radnike“ zaposlene kod tog poslodavca. Zakon o radu na više mjesta upućuje na pravilnik kao akt u kojem se neko pitanje može ili mora urediti.</p>
+<h3>Što pravilnik mora urediti ako se to kod vas primjenjuje?</h3>
 <ul>
-<li><strong>Osobni podaci radnika:</strong> ako ih je potrebno prikupljati, obrađivati, koristiti ili dostavljati trećima radi prava i obveza iz radnog odnosa, poslodavac pravilnikom mora unaprijed odrediti koje će podatke u tu svrhu obrađivati.</li>
-<li><strong>Plaća:</strong> osnove i mjerila za isplatu plaće, ako nisu uređeni kolektivnim ugovorom. Osnove i mjerila ne mogu biti poslovna tajna.</li>
-<li><strong>Pripravnici:</strong> način osposobljavanja pripravnika mora biti propisan pravilnikom o radu ili određen ugovorom o radu.</li>
+<li>Osobni podaci radnika. Ako ih morate prikupljati, obrađivati, koristiti ili dostavljati trećima radi prava i obveza iz radnog odnosa, pravilnikom unaprijed određujete koje ćete podatke u tu svrhu obrađivati.</li>
+<li>Plaća. Pravilnik sadrži osnove i mjerila za isplatu plaće ako ih ne uređuje kolektivni ugovor. Osnove i mjerila ne smiju biti poslovna tajna.</li>
+<li>Pripravnici. Način njihova osposobljavanja mora biti propisan pravilnikom o radu ili određen ugovorom o radu.</li>
 </ul>
-<h3>Pitanja koja se pravilnikom mogu urediti</h3>
-<p>Zakon dopušta da se pravilnikom, uz kolektivni ugovor ili ugovor o radu, urede i:</p>
+<h3>Što se pravilnikom smije urediti?</h3>
+<p>Po zakonu se pravilnikom, uz kolektivni ugovor ili ugovor o radu, mogu urediti i:</p>
 <ul>
 <li>raspored radnog vremena</li>
-<li>trajanje godišnjeg odmora duže od zakonskog minimuma i raspored korištenja godišnjeg odmora</li>
+<li>godišnji odmor dulji od zakonskog minimuma i raspored korištenja godišnjeg odmora</li>
 <li>plaćeni dopust, ako se uređuje drukčije od zakonskih sedam radnih dana</li>
 <li>povećana plaća za otežane uvjete rada, prekovremeni i noćni rad te rad nedjeljom i blagdanom</li>
 <li>naknade plaće za razdoblja u kojima radnik opravdano ne radi</li>
@@ -48,38 +47,38 @@
 <li>način dostave odluka o otkazu i drugih pismena radnicima</li>
 <li>postupak mirnog rješavanja sporova</li>
 </ul>
-<p>Ako je neko pravo različito uređeno ugovorom o radu, pravilnikom, kolektivnim ugovorom ili zakonom, primjenjuje se za radnika najpovoljnije pravo, osim ako zakonom nije drukčije određeno.</p>
-<h2>Pravilnik o radu primjer: zašto predložak nije dovoljan</h2>
-<p>Mnogi poslodavci krenu od gotovog primjera pravilnika o radu. Kao popis tema to je korisno. Problem nastaje kad pravilnik ostane nepromijenjen predložak:</p>
+<p>Kad je neko pravo različito uređeno ugovorom o radu, pravilnikom, kolektivnim ugovorom ili zakonom, primjenjuje se pravo najpovoljnije za radnika, osim ako zakon određuje drukčije.</p>
+<h2>Smijete li koristiti gotov primjer pravilnika o radu?</h2>
+<p>Gotov primjer pravilnika o radu koristan je kao popis tema. Problem nastaje kad pravilnik ostane nepromijenjen predložak, jer tada:</p>
 <ul>
 <li>opisuje radno vrijeme i organizaciju koju nemate</li>
 <li>osnove i mjerila plaće ne odgovaraju onome što stvarno isplaćujete</li>
 <li>navodi prava veća od zakonskih koja niste namjeravali dati, a radnici ih mogu tražiti</li>
 <li>sadrži odredbe starijih verzija Zakona o radu</li>
 </ul>
-<p>Pravilnik je akt koji obvezuje vas. Ono što u njemu piše radnici mogu tražiti, a inspektor provjeravati. Zato svaku odredbu uskladite sa stvarnim radom i s ugovorima o radu.</p>
-<h2>Postupak donošenja i objave pravilnika o radu</h2>
+<p>Pravilnik obvezuje vas. Ono što u njemu piše radnici mogu tražiti, a inspektor provjeravati. Zato svaku odredbu uskladite sa stvarnim radom i s ugovorima o radu.</p>
+<h2>Kako donijeti i objaviti pravilnik o radu?</h2>
 <h3>1. Izradite nacrt</h3>
-<p>Pripremite nacrt koji pokriva obvezne teme i vaša stvarna pravila. Provjerite je li neko pitanje već uređeno kolektivnim ugovorom koji se na vas primjenjuje.</p>
+<p>U nacrt stavite obvezne teme i pravila kojih se stvarno držite. Provjerite je li neko pitanje već uređeno kolektivnim ugovorom koji vas obvezuje.</p>
 <h3>2. Savjetujte se s radničkim vijećem</h3>
-<p>Donošenje pravilnika o radu zakon navodi kao važnu odluku o kojoj se poslodavac mora savjetovati s radničkim vijećem. Poslodavac mora radničkom vijeću dostaviti nacrt i podatke važne za odluku, potpuno i pravodobno.</p>
-<p>Ako sporazumom s radničkim vijećem nije drukčije određeno, radničko vijeće ima <strong>osam dana</strong> za očitovanje. Ako se ne očituje, smatra se da nema primjedbi. Na zahtjev radničkog vijeća poslodavac prije konačnog očitovanja mora omogućiti sastanak radi dodatnih odgovora i obrazloženja.</p>
-<p>Odluka donesena protivno odredbama o obvezi savjetovanja ništetna je. Ako kod poslodavca nije utemeljeno radničko vijeće, njegova prava i obveze u pravilu preuzima sindikalni povjerenik.</p>
-<p>Posebno pripazite na odredbe o osobnim podacima radnika. Odluku o prikupljanju, obrađivanju, korištenju i dostavljanju trećima podataka o radniku, kao i imenovanje osobe koja nadzire obradu tih podataka, poslodavac prema članku 151. Zakona o radu može donijeti samo uz prethodnu suglasnost radničkog vijeća.</p>
+<p>Zakon donošenje pravilnika o radu navodi među važnim odlukama o kojima se poslodavac mora savjetovati s radničkim vijećem. Radničkom vijeću morate potpuno i pravodobno dostaviti nacrt i podatke važne za odluku.</p>
+<p>Ako sporazumom s radničkim vijećem nije drukčije određeno, vijeće se <strong>u roku od osam dana</strong> očituje. Ako se ne očituje, smatra se da nema primjedbi. Na zahtjev radničkog vijeća prije konačnog očitovanja morate omogućiti sastanak na kojem ćete dodatno odgovoriti i obrazložiti odluku.</p>
+<p>Odluka donesena protivno odredbama o obvezi savjetovanja je ništetna. Ako kod poslodavca nije utemeljeno radničko vijeće, njegova prava i obveze u pravilu preuzima sindikalni povjerenik.</p>
+<p>Posebno pripazite na odredbe o osobnim podacima radnika. Po članku 151. Zakona o radu odluku o prikupljanju, obrađivanju, korištenju i dostavljanju trećima podataka o radniku, kao i imenovanje osobe koja nadzire obradu tih podataka, poslodavac smije donijeti samo uz prethodnu suglasnost radničkog vijeća.</p>
 <h3>3. Odredite dan stupanja na snagu</h3>
-<p>U pravilniku mora biti naznačen dan stupanja na snagu. Pravilnik ne može stupiti na snagu prije isteka osam dana od dana objave.</p>
+<p>U pravilniku mora pisati dan stupanja na snagu. Pravilnik ne smije stupiti na snagu prije isteka osam dana od dana objave.</p>
 <h3>4. Objavite pravilnik</h3>
 <p>Način objave propisuje Pravilnik o načinu objave pravilnika o radu:</p>
 <ul>
 <li>pravilnik mora biti dostupan radnicima na uvid i izložen na vidljivom mjestu u prostorijama u kojima redovito borave tijekom radnog dana</li>
-<li>može se učiniti dostupnim i objavom na internim mrežnim stranicama, a na zahtjev radnika i dostavom elektroničkom poštom</li>
+<li>dostupnim ga možete učiniti i objavom na internim mrežnim stranicama, a na zahtjev radnika i slanjem elektroničkom poštom</li>
 <li>posebni pravilnici moraju biti dostupni radnicima na koje se odnose, na vidljivom mjestu u prostorijama u kojima ti radnici borave</li>
-<li>na zahtjev i o trošku radnika poslodavac mora omogućiti izradu preslike</li>
-<li>ako iz opravdanih razloga objava na propisani način nije moguća, poslodavac odmah po donošenju pisanom obavijesti na vidljivom mjestu ili preko voditelja skupine obavještava radnike i određuje osobu kod koje pravilnik mogu dobiti na uvid</li>
+<li>na zahtjev i o trošku radnika morate omogućiti izradu preslike</li>
+<li>ako iz opravdanih razloga pravilnik ne možete objaviti na propisani način, odmah po donošenju pisanom obavijesti na vidljivom mjestu ili preko voditelja skupine obavještavate radnike i određujete osobu kod koje pravilnik mogu dobiti na uvid</li>
 </ul>
-<p>Sačuvajte dokaz o danu objave. Od tog dana računate rok od osam dana.</p>
-<h3>5. Primjenjujte i ažurirajte</h3>
-<p>Pravilnik se mijenja i dopunjuje na isti način na koji se donosi, dakle ponovno uz savjetovanje s radničkim vijećem i objavu. Kad se promijeni Zakon o radu, provjerite treba li uskladiti i pravilnik. Uz izmjene Zakona o radu koje su stupile na snagu 1. siječnja 2023. poslodavci su, primjerice, imali zakonsku obvezu uskladiti pravilnike u roku od šest mjeseci.</p>
+<p>Sačuvajte dokaz o danu objave, jer od tog dana računate rok od osam dana.</p>
+<h3>5. Primjenjujte i ažurirajte pravilnik</h3>
+<p>Pravilnik mijenjate i dopunjujete istim postupkom kojim ga donosite, dakle opet uz savjetovanje s radničkim vijećem i objavu. Kad se promijeni Zakon o radu, provjerite treba li uskladiti i pravilnik. Uz izmjene Zakona o radu koje su stupile na snagu 1. siječnja 2023., primjerice, poslodavci su po zakonu morali uskladiti pravilnike u roku od šest mjeseci.</p>
 <p>Radničko vijeće može od nadležnog suda tražiti da nezakoniti pravilnik ili pojedine njegove odredbe oglasi ništetnima.</p>
 <h2>Kontrolni popis za pravilnik o radu</h2>
 <ul>
@@ -92,33 +91,33 @@
 <li>određeni osobni podaci radnika koji se obrađuju</li>
 <li>imenovane osobe za zaštitu dostojanstva i za nadzor obrade osobnih podataka</li>
 <li>provedeno savjetovanje s radničkim vijećem i, gdje treba, pribavljena suglasnost</li>
-<li>naznačen dan stupanja na snagu, najranije osmi dan nakon objave</li>
+<li>upisan dan stupanja na snagu, najranije osmi dan nakon objave</li>
 <li>pravilnik objavljen na propisani način i sačuvan dokaz o objavi</li>
 <li>ugovori o radu usklađeni s pravilnikom</li>
 </ul>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ol>
-<li><strong>Pravilnika nema, a poslodavac ima 20 ili više radnika.</strong> Inspektor rada može u nadzoru narediti da se pravilnik donese i objavi ili da se njime urede obvezna pitanja.</li>
-<li><strong>Preskočeno savjetovanje s radničkim vijećem.</strong> Odluka donesena protivno obvezi savjetovanja ništetna je.</li>
-<li><strong>Pravilnik stupa na snagu na dan donošenja.</strong> Zakon traži najmanje osam dana od objave.</li>
-<li><strong>Pravilnik je potpisan, ali nije objavljen.</strong> Radnici ga ne mogu vidjeti, a poslodavac ne može dokazati kada je objavljen.</li>
-<li><strong>Nepromijenjeni predložak.</strong> Odredbe ne odgovaraju stvarnoj organizaciji rada i plaćama.</li>
-<li><strong>Nedostaju obvezna pitanja.</strong> Najčešće zaštita dostojanstva, osnove i mjerila plaće ili odredbe o osobnim podacima.</li>
-<li><strong>Pravilnik nije usklađen s izmjenama zakona.</strong> Stari tekst ostaje na oglasnoj ploči godinama.</li>
+<li>Poslodavac ima 20 ili više radnika, a pravilnika nema. Inspektor rada može u nadzoru narediti da se pravilnik donese i objavi ili da se njime urede obvezna pitanja.</li>
+<li>Savjetovanje s radničkim vijećem se preskoči, a odluka donesena protivno obvezi savjetovanja je ništetna.</li>
+<li>U pravilnik se upiše da stupa na snagu na dan donošenja, iako zakon traži najmanje osam dana od objave.</li>
+<li>Pravilnik se potpiše, ali ne objavi. Radnici ga ne mogu vidjeti, a poslodavac ne može dokazati kada je objavljen.</li>
+<li>Predložak ostane nepromijenjen, pa odredbe ne odgovaraju stvarnoj organizaciji rada i plaćama.</li>
+<li>Nedostaju obvezna pitanja, primjerice zaštita dostojanstva, osnove i mjerila plaće ili odredbe o osobnim podacima.</li>
+<li>Pravilnik se ne uskladi s izmjenama zakona i stari tekst godinama ostaje na oglasnoj ploči.</li>
 </ol>
 <h2>Česta pitanja</h2>
 <h3>Računaju li se u 20 radnika i radnici na određeno vrijeme i s nepunim radnim vremenom?</h3>
-<p>Zakon govori o poslodavcu koji „zapošljava najmanje dvadeset radnika" i u tom članku ne razlikuje vrste ugovora. Ako ste blizu praga, stanje procijenite s pravnim stručnjakom i radije ranije pripremite pravilnik.</p>
+<p>Zakon govori o poslodavcu koji „zapošljava najmanje dvadeset radnika“ i u tom članku ne razlikuje vrste ugovora. Ako ste blizu praga, procijenite stanje s pravnim stručnjakom i radije ranije pripremite pravilnik.</p>
 <h3>Mora li pravilnik o radu imati poslodavac koji ima kolektivni ugovor?</h3>
-<p>Obveza se odnosi na pitanja koja nisu uređena kolektivnim ugovorom. Ako kolektivni ugovor ne uređuje sva pitanja iz članka 26. Zakona o radu, preostala treba urediti pravilnikom.</p>
+<p>Obveza se odnosi na pitanja koja kolektivni ugovor nije uredio. Ako kolektivni ugovor ne uređuje sva pitanja iz članka 26. Zakona o radu, ostala uredite pravilnikom.</p>
 <h3>Treba li radnik potpisati pravilnik o radu?</h3>
-<p>Zakon ne traži potpis radnika na pravilniku. Traži da pravilnik bude objavljen i dostupan radnicima. Prije stupanja na rad poslodavac mora omogućiti radniku da se upozna s propisima u vezi s radnim odnosima.</p>
+<p>Ne treba, zakon potpis radnika ne traži. Traži da pravilnik bude objavljen i dostupan radnicima. Prije nego što radnik počne raditi, poslodavac mu mora omogućiti da se upozna s propisima u vezi s radnim odnosima.</p>
 <h3>Što ako nemamo radničko vijeće?</h3>
-<p>Ako radničko vijeće nije utemeljeno, njegova prava i obveze u pravilu preuzima sindikalni povjerenik. Ako nema ni radničkog vijeća ni sindikalnog povjerenika, provjerite sa stručnjakom kako dokumentirati postupak donošenja.</p>
+<p>Ako radničko vijeće nije utemeljeno, njegova prava i obveze u pravilu preuzima sindikalni povjerenik. Ako nemate ni jedno ni drugo, sa stručnjakom provjerite kako dokumentirati postupak donošenja.</p>
 <h3>Koje su obveze poslodavca prema pravilniku nakon donošenja?</h3>
-<p>Poslodavac mora pravilnik učiniti dostupnim radnicima, primjenjivati ga i mijenjati istim postupkom kojim ga je donio. Ako je neko pravo u ugovoru o radu povoljnije za radnika, primjenjuje se povoljnije pravo.</p>
+<p>Poslodavac mora pravilnik učiniti dostupnim radnicima, primjenjivati ga i mijenjati istim postupkom kojim ga je donio. Ako ugovor o radu radniku daje povoljnije pravo, primjenjuje se to pravo.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pomažemo pripremiti nacrt pravilnika prema vašoj stvarnoj organizaciji rada, dopis radničkom vijeću, objavu i usklađivanje ugovora o radu s pravilnikom. Pravno mišljenje o pojedinim odredbama i sporovima prepuštamo odvjetniku. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Pripremamo nacrt pravilnika prema vašoj stvarnoj organizaciji rada, dopis radničkom vijeću i objavu te usklađujemo ugovore o radu s pravilnikom. Pravno mišljenje o pojedinim odredbama i sporove prepuštamo odvjetniku. Javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a> ili pročitajte više na stranici <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23, pročišćeni tekst (zakon.hr)</a>, članci 8., 9., 15., 26., 27., 29., 56., 77., 85., 86., 90.b, 94., 95., 126., 132., 133., 134., 140., 150., 151., 153. i 226.; prijelazna odredba članka 65. Zakona o izmjenama i dopunama Zakona o radu, NN 151/22</li>
@@ -127,7 +126,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži\",\"description\":\"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe.\",\"datePublished\":\"2027-01-11\",\"dateModified\":\"2027-01-11\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/pravilnik-o-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","11. siječnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži\",\"description\":\"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te na što pripaziti.\",\"datePublished\":\"2027-01-11\",\"dateModified\":\"2027-01-11\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/pravilnik-o-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te na što pripaziti."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","11. siječnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -135,12 +134,12 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Radni odnos i kadrovska administracija"}],["$","p",null,{"children":"Ugovori, prijave i odjave, evidencije radnog vremena i godišnjih odmora, prestanak radnog odnosa."}],["$","$L2",null,{"href":"/usluge/radni-odnos/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","1",{"name":"description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/pravilnik-o-radu/"}],["$","meta","4",{"property":"og:title","content":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","5",{"property":"og:description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/pravilnik-o-radu/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-01-11"}],["$","meta","13",{"property":"article:modified_time","content":"2027-01-11"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","16",{"name":"twitter:description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te gdje poslodavci najčešće griješe."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","1",{"name":"description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te na što pripaziti."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/pravilnik-o-radu/"}],["$","meta","4",{"property":"og:title","content":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","5",{"property":"og:description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te na što pripaziti."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/pravilnik-o-radu/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-01-11"}],["$","meta","13",{"property":"article:modified_time","content":"2027-01-11"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Pravilnik o radu: kada ga poslodavac mora imati i što sadrži"}],["$","meta","16",{"name":"twitter:description","content":"Pravilnik o radu mora donijeti poslodavac s najmanje 20 radnika. Što pravilnik mora urediti, kako se donosi i objavljuje te na što pripaziti."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
 f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
 12:true

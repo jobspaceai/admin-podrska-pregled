@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T2616,<p>Kod zaštite na radu cijena nije jedinstvena. Ovisi o broju radnika, djelatnosti i rizicima, broju lokacija, stanju postojeće dokumentacije i o tome što točno ponuda obuhvaća. Dvije ponude s istim iznosom mogu pokrivati vrlo različit posao: jedna samo izradu dokumenata, druga i osposobljavanje radnika, obilaske i podršku kod ozljede.</p>
-<p>Zato u ovom tekstu ne navodimo iznose. Objašnjavamo što zakon traži da bude pokriveno, o čemu ovisi cijena i što provjeriti prije nego što potpišete ugovor.</p>
-<h2>Što zaštita na radu mora obuhvatiti</h2>
+3:T2584,<p>Jedinstvena cijena za zaštitu na radu ne postoji. Kod zaštite na radu cijena ovisi o broju radnika, djelatnosti i rizicima, broju lokacija, stanju postojeće dokumentacije i o tome što ponuda obuhvaća. Iza istog iznosa u dvije ponude može stajati vrlo različit posao. Jedna pokriva samo izradu dokumenata, a druga i osposobljavanje radnika, obilaske i podršku kod ozljede.</p>
+<p>Zato iznose ne navodimo. Niže je popis onoga što zakon traži da bude pokriveno, o čemu ovisi cijena i što provjeriti prije potpisa ugovora.</p>
+<h2>Što zaštita na radu mora obuhvatiti?</h2>
 <p>Zakon o zaštiti na radu nabraja poslove zaštite na radu (članak 21.). Među njima su:</p>
 <ul>
 <li>stručna pomoć poslodavcu, ovlaštenicima, radnicima i povjerenicima radnika</li>
@@ -13,37 +13,37 @@
 <li>osposobljavanje radnika, poslodavca i ovlaštenika za rad na siguran način</li>
 <li>suradnja kod nabave radne opreme, osobne zaštitne opreme i opasnih kemikalija</li>
 </ul>
-<p>Poslodavac poslove zaštite na radu utvrđuje i obavlja u skladu s procjenom rizika, stanjem zaštite na radu i brojem radnika (članak 20.). Ponuda koja pokriva samo jedan dokument ne pokriva sve obveze.</p>
-<h2>Tko smije obavljati poslove zaštite na radu</h2>
-<p>Način organizacije utječe na trošak, a propisan je zakonom i Pravilnikom o obavljanju poslova zaštite na radu (NN 126/19, 154/22):</p>
+<p>Poslodavac poslove zaštite na radu utvrđuje i obavlja u skladu s procjenom rizika, stanjem zaštite na radu i brojem radnika (članak 20.). Ako ponuda pokriva samo jedan dokument, ostale obveze ostaju nepokrivene.</p>
+<h2>Tko smije obavljati poslove zaštite na radu?</h2>
+<p>Način organizacije utječe na trošak, a propisuju ga zakon i Pravilnik o obavljanju poslova zaštite na radu (NN 126/19, 154/22):</p>
 <ul>
-<li><strong>Do 49 radnika:</strong> poslodavac ih može obavljati sam ili preko ovlaštenika ako ispunjava propisane uvjete, ili ugovorom o radu zaposliti stručnjaka zaštite na radu.</li>
-<li><strong>Od 50 do 249 radnika:</strong> poslodavac mora ugovorom o radu zaposliti stručnjaka zaštite na radu, u pravilu II. stupnja. Stručnjak I. stupnja dovoljan je ako najmanje 80 posto radnika obavlja isključivo poslove s malim rizicima.</li>
-<li><strong>250 i više radnika:</strong> potrebno je najmanje dva stručnjaka, a broj raste s brojem radnika.</li>
+<li>do 49 radnika: poslodavac poslove može obavljati sam ili preko ovlaštenika ako ispunjava propisane uvjete, ili ugovorom o radu zaposliti stručnjaka zaštite na radu</li>
+<li>od 50 do 249 radnika: poslodavac mora ugovorom o radu zaposliti stručnjaka zaštite na radu, u pravilu II. stupnja. Stručnjak I. stupnja dovoljan je ako najmanje 80 posto radnika obavlja isključivo poslove s malim rizicima.</li>
+<li>250 i više radnika: potrebna su najmanje dva stručnjaka, a njihov broj raste s brojem radnika</li>
 </ul>
 <h3>Vanjski stručnjak zaštite na radu: cijena i uvjeti</h3>
-<p>Ugovor s ovlaštenom osobom, odnosno vanjskom tvrtkom ili stručnjakom s ovlaštenjem ministarstva, zakon dopušta samo kad poslodavac zbog objektivnih i opravdanih razloga ne može poslove obaviti sam ili preko zaposlenog stručnjaka (članak 20.). Pravilnik te razloge nabraja (članak 5.), a među njima su:</p>
+<p>Ovlaštena osoba je vanjska tvrtka ili stručnjak s ovlaštenjem ministarstva. Ugovor s njom zakon dopušta samo kad poslodavac zbog objektivnih i opravdanih razloga ne može poslove obaviti sam ili preko zaposlenog stručnjaka (članak 20.). Pravilnik te razloge nabraja (članak 5.), a među njima su:</p>
 <ul>
 <li>početak obavljanja djelatnosti, najdulje tri mjeseca</li>
 <li>poslodavac privremeno ostane bez stručnjaka zbog nepredvidivih razloga, najdulje tri mjeseca</li>
 <li>sezonsko ili privremeno dodatno zapošljavanje koje ne traje dulje od šest mjeseci</li>
 <li>poslodavac s do 49 radnika nema radnika koji ispunjava uvjete za obavljanje tih poslova</li>
 </ul>
-<p>Ovlaštena osoba mora pisano odrediti stručnjaka zaštite na radu za vašu firmu, a on poslove obavlja na vašim mjestima rada i pisano vas obavještava o stanju i mjerama. Popis ovlaštenih osoba objavljuje ministarstvo nadležno za rad. Poslodavac ostaje odgovoran za zaštitu na radu i kad je poslove ugovorio s ovlaštenom osobom (članak 19.).</p>
+<p>Ovlaštena osoba mora pisano odrediti stručnjaka zaštite na radu za vašu firmu. On poslove obavlja na vašim mjestima rada i pisano vas obavještava o stanju i mjerama. Popis ovlaštenih osoba objavljuje ministarstvo nadležno za rad. I kad ste poslove ugovorili s ovlaštenom osobom, <strong>za zaštitu na radu odgovarate vi</strong> (članak 19.).</p>
 <h2>Zaštita na radu: o čemu ovisi cijena</h2>
 <ul>
-<li><strong>Broj radnika:</strong> utječe na način organizacije, broj osposobljavanja i opseg evidencija.</li>
-<li><strong>Djelatnost i razina rizika:</strong> uredski poslovi i rad na gradilištu ne traže isti opseg procjene, uputa i nadzora.</li>
-<li><strong>Broj lokacija i radilišta:</strong> svako mjesto rada treba obuhvatiti procjenom i obilascima.</li>
-<li><strong>Stanje dokumentacije:</strong> izrada procjene od početka zahtjevnija je od ažuriranja postojeće, a sređivanje nakon dugo zanemarenog sustava zahtjevnije je od redovnog održavanja.</li>
-<li><strong>Dinamika zapošljavanja:</strong> svaki novi ili premješteni radnik mora biti osposobljen prije samostalnog rada.</li>
-<li><strong>Jezik:</strong> za stranog radnika pisani materijali, upute i zapisnik o osposobljavanju moraju biti i na jeziku koji razumije.</li>
-<li><strong>Opseg dolazaka i podrške:</strong> koliko je obilazaka uključeno i je li uključena pomoć kod ozljede ili inspekcijskog nadzora.</li>
+<li>Broj radnika: o njemu ovise način organizacije, broj osposobljavanja i opseg evidencija.</li>
+<li>Djelatnost i razina rizika: uredski poslovi i rad na gradilištu ne traže isti opseg procjene, uputa i nadzora.</li>
+<li>Broj lokacija i radilišta: svako mjesto rada treba obuhvatiti procjenom i obilascima.</li>
+<li>Stanje dokumentacije: procjena izrađena od početka traži više rada nego ažuriranje postojeće, a sređivanje dugo zanemarenog sustava više nego redovno održavanje.</li>
+<li>Dinamika zapošljavanja: svaki novi ili premješteni radnik mora biti osposobljen prije samostalnog rada.</li>
+<li>Jezik: za stranog radnika pisani materijali, upute i zapisnik o osposobljavanju moraju biti i na jeziku koji razumije.</li>
+<li>Opseg dolazaka i podrške: koliko je obilazaka uključeno i dobivate li pomoć kod ozljede ili inspekcijskog nadzora.</li>
 </ul>
 <h3>Procjena rizika: cijena</h3>
-<p>Procjenu rizika za vlastite potrebe može izraditi poslodavac, a mogu je izrađivati i osobe ovlaštene za izradu procjene rizika (Pravilnik o izradi procjene rizika, članak 3.). Trošak ovisi o broju poslova i mjesta rada koje treba obuhvatiti. Procjena mora imati propisane dijelove: prikupljanje podataka, analizu rizika, plan mjera s rokovima i odgovornim osobama te obvezne priloge, poput popisa radne opreme, osobne zaštitne opreme, potrebnih ispitivanja i poslova s posebnim uvjetima rada. U postupku moraju sudjelovati radnici ili njihov povjerenik.</p>
-<h2>Stavke koje u ponudi posebno provjerite</h2>
-<p>Sljedeće obveze proizlaze iz propisa, ali ne moraju biti dio iste usluge. Pitajte jesu li uključene ili se naplaćuju posebno:</p>
+<p>Procjenu rizika za vlastite potrebe može izraditi poslodavac, a mogu je izrađivati i osobe ovlaštene za izradu procjene rizika (Pravilnik o izradi procjene rizika, članak 3.). Trošak ovisi o tome koliko poslova i mjesta rada treba obuhvatiti. Procjena mora imati propisane dijelove: prikupljanje podataka, analizu rizika, plan mjera s rokovima i odgovornim osobama te obvezne priloge. Među prilozima su popis radne opreme, osobne zaštitne opreme, potrebnih ispitivanja i poslova s posebnim uvjetima rada. U postupku moraju sudjelovati radnici ili njihov povjerenik.</p>
+<h2>Koje stavke u ponudi posebno provjeriti?</h2>
+<p>Ove obveze proizlaze iz propisa, ali ne moraju biti dio iste usluge. Pitajte jesu li uključene ili se naplaćuju posebno:</p>
 <ol>
 <li>ispitivanja radne opreme i radnog okoliša, o kojima isprave izdaju ovlaštene osobe</li>
 <li>osobna zaštitna oprema, koju poslodavac kupuje o svom trošku</li>
@@ -53,30 +53,30 @@
 <li>prevođenje materijala i uputa za strane radnike</li>
 <li>usavršavanje poslodavca ili ovlaštenika, koje se provodi najmanje jednom u pet godina</li>
 </ol>
-<h2>Što ne smije platiti radnik</h2>
-<p>Troškove zaštite na radu snosi poslodavac i oni ne smiju teretiti radnika (članak 17.). Osposobljavanje radnika, ovlaštenika i povjerenika poslodavac provodi tijekom radnog vremena o svom trošku (članak 27.). Prethodni i periodični pregledi za poslove s posebnim uvjetima rada ne smiju biti na trošak radnika (članak 64.).</p>
-<h2>Najčešće greške</h2>
+<h2>Što ne smije platiti radnik?</h2>
+<p>Troškove zaštite na radu snosi poslodavac i oni <strong>ne smiju teretiti radnika</strong> (članak 17.). Osposobljavanje radnika, ovlaštenika i povjerenika poslodavac provodi tijekom radnog vremena i o svom trošku (članak 27.). Prethodni i periodični pregledi za poslove s posebnim uvjetima rada ne smiju ići na trošak radnika (članak 64.).</p>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Uspoređuju se samo iznosi</strong>, bez provjere što ponuda obuhvaća.</li>
-<li><strong>Ugovor s ovlaštenom osobom sklapa se bez provjere</strong> postoji li zakonom dopušten razlog i ima li ta osoba ovlaštenje.</li>
-<li><strong>Kupi se procjena rizika izrađena prema predlošku</strong> koja ne opisuje stvarne poslove.</li>
-<li><strong>Osposobljavanje se ne planira za nove radnike</strong>, pa oni počnu raditi prije nego što su osposobljeni.</li>
-<li><strong>Troškovi opreme ili osposobljavanja prebacuju se na radnika.</strong></li>
-<li><strong>Poslodavac misli da je plaćanjem usluge prenio odgovornost.</strong></li>
+<li>Usporedili ste samo iznose, a niste provjerili što ponuda obuhvaća.</li>
+<li>Ugovor s ovlaštenom osobom sklopili ste bez provjere postoji li zakonom dopušten razlog i ima li ta osoba ovlaštenje.</li>
+<li>Kupili ste procjenu rizika izrađenu prema predlošku, koja ne opisuje vaše stvarne poslove.</li>
+<li>Za nove radnike niste planirali osposobljavanje, pa su počeli raditi prije nego što su osposobljeni.</li>
+<li>Troškove opreme ili osposobljavanja prebacili ste na radnika.</li>
+<li>Računali ste da ste plaćanjem usluge prenijeli odgovornost. Ona prema članku 19. ostaje na poslodavcu.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Koliko košta vanjski stručnjak zaštite na radu?</h3>
-<p>Cijenu određuje pružatelj usluge, a iznos ovisi o broju radnika, rizicima i opsegu usluge. Prije toga provjerite smijete li uopće ugovoriti ovlaštenu osobu i ima li ona ovlaštenje za poslove koje nudi.</p>
+<p>Cijenu određuje pružatelj usluge, a iznos ovisi o broju radnika, rizicima i opsegu usluge. Prije nego što tražite ponudu, provjerite smijete li uopće ugovoriti ovlaštenu osobu i ima li ona ovlaštenje za poslove koje nudi.</p>
 <h3>Može li mala firma zaštitu na radu voditi sama?</h3>
-<p>Poslodavac s do 49 radnika može poslove obavljati sam ili preko ovlaštenika ako ispunjava uvjete iz Pravilnika o obavljanju poslova zaštite na radu. Osobe koje obavljaju te poslove moraju ispunjavati i obveze stalnog stručnog usavršavanja i upisati se u registar ministarstva.</p>
+<p>Poslodavac s do 49 radnika može poslove obavljati sam ili preko ovlaštenika ako ispunjava uvjete iz Pravilnika o obavljanju poslova zaštite na radu. Osobe koje obavljaju te poslove moraju se i stalno stručno usavršavati i biti upisane u registar ministarstva.</p>
 <h3>Plaća li radnik osposobljavanje za rad na siguran način?</h3>
-<p>Ne. Poslodavac ga provodi tijekom radnog vremena i o svom trošku.</p>
+<p>Ne plaća. Poslodavac ga provodi tijekom radnog vremena i o svom trošku.</p>
 <h3>Je li jeftinija ponuda lošija?</h3>
-<p>Ne nužno. Važno je pokriva li ponuda poslove koje zakon traži za vašu firmu, koliko je dolazaka uključeno i tko potpisuje dokumente.</p>
+<p>Ne mora biti. Provjerite pokriva li poslove koje zakon traži za vašu firmu, koliko je dolazaka uključeno i tko potpisuje dokumente.</p>
 <h3>Preuzima li vanjska tvrtka odgovornost za zaštitu na radu?</h3>
-<p>Ne. Odgovornost ostaje na poslodavcu, neovisno o tome je li zaposlio stručnjaka ili ugovorio ovlaštenu osobu.</p>
+<p>Ne preuzima. Odgovornost ostaje na poslodavcu, bez obzira na to je li zaposlio stručnjaka ili ugovorio ovlaštenu osobu.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Zajedno sa stručnjakom zaštite na radu s kojim surađujemo pregledamo vašu postojeću dokumentaciju, utvrdimo koji je način organizacije za vas dopušten i što stvarno nedostaje, pa dobijete jasan opseg posla prije dogovora o cijeni. Više pročitajte na stranici <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Sa stručnjakom zaštite na radu s kojim surađujemo pregledamo vašu postojeću dokumentaciju i utvrdimo koji je način organizacije za vas dopušten i što stvarno nedostaje. Tako opseg posla znate prije dogovora o cijeni. Javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a> ili pročitajte više na stranici <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/167/Zakon-o-za%C5%A1titi-na-radu">Zakon o zaštiti na radu, NN 71/14, 118/14, 154/14, 94/18, 96/18, pročišćeni tekst (zakon.hr)</a></li>
@@ -89,7 +89,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Koliko košta zaštita na radu i što ulazi u cijenu\",\"description\":\"Zaštita na radu cijena ovisi o broju radnika, rizicima, stanju dokumentacije i opsegu usluge. Što zakon traži da bude pokriveno i kako usporediti ponude.\",\"datePublished\":\"2027-07-05\",\"dateModified\":\"2027-07-05\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/zastita-na-radu-cijena/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Koliko košta zaštita na radu i što ulazi u cijenu"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Zaštita na radu cijena ovisi o broju radnika, rizicima, stanju dokumentacije i opsegu usluge. Što zakon traži da bude pokriveno i kako usporediti ponude."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","5. srpnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Koliko košta zaštita na radu i što ulazi u cijenu\",\"description\":\"Zaštita na radu cijena ovisi o broju radnika, rizicima, stanju dokumentacije i opsegu usluge. Što zakon traži da bude pokriveno i kako usporediti ponude.\",\"datePublished\":\"2027-07-05\",\"dateModified\":\"2027-07-05\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/zastita-na-radu-cijena/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Koliko košta zaštita na radu i što ulazi u cijenu"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Zaštita na radu cijena ovisi o broju radnika, rizicima, stanju dokumentacije i opsegu usluge. Što zakon traži da bude pokriveno i kako usporediti ponude."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","5. srpnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -97,10 +97,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Zaštita na radu"}],["$","p",null,{"children":"Povezujemo vas s ovlaštenim stručnjakom zaštite na radu i organiziramo procjenu rizika i osposobljavanje."}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Koliko košta zaštita na radu i što ulazi u cijenu"}],["$","meta","1",{"name":"description","content":"Zaštita na radu cijena ovisi o broju radnika, rizicima, stanju dokumentacije i opsegu usluge. Što zakon traži da bude pokriveno i kako usporediti ponude."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/zastita-na-radu-cijena/"}],["$","meta","4",{"property":"og:title","content":"Koliko košta zaštita na radu i što ulazi u cijenu"}],["$","meta","5",{"property":"og:description","content":"Zaštita na radu cijena ovisi o broju radnika, rizicima, stanju dokumentacije i opsegu usluge. Što zakon traži da bude pokriveno i kako usporediti ponude."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/zastita-na-radu-cijena/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-07-05"}],["$","meta","13",{"property":"article:modified_time","content":"2027-07-05"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Koliko košta zaštita na radu i što ulazi u cijenu"}],["$","meta","16",{"name":"twitter:description","content":"Zaštita na radu cijena ovisi o broju radnika, rizicima, stanju dokumentacije i opsegu usluge. Što zakon traži da bude pokriveno i kako usporediti ponude."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

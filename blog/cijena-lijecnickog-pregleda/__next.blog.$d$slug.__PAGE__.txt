@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T271f,<p>Jedinstvena cijena liječničkog pregleda medicine rada ne postoji. Svaka ustanova i ordinacija ima svoj cjenik, a cijena ovisi o vrsti pregleda. Javne ustanove objavljuju cjenike: primjerice, u cjeniku Zavoda za javno zdravstvo Bjelovarsko-bilogorske županije od 13. srpnja 2026. prethodni ili periodični pregled za poslove s posebnim uvjetima rada stoji 60 eura.</p>
-<p>Pregled plaća poslodavac, a ne radnik. Za radnike na poslovima s posebnim uvjetima rada HZZO poslodavcu vraća trošak prethodnog pregleda, a periodični pregled obavljen u roku plaća izravno.</p>
-<h2>Tko plaća liječnički pregled</h2>
-<p>Propisi su jasni, trošak ne smije snositi radnik:</p>
+3:T2609,<p>Liječnički pregled medicine rada nema jedinstvenu cijenu. Svaka ustanova i ordinacija ima svoj cjenik, a cijena ovisi o vrsti pregleda. Javne ustanove cjenike objavljuju. Tako u cjeniku Zavoda za javno zdravstvo Bjelovarsko-bilogorske županije od 13. srpnja 2026. prethodni ili periodični pregled za poslove s posebnim uvjetima rada stoji 60 eura.</p>
+<p>Pregled plaća poslodavac, a ne radnik. Ako radnik radi na poslovima s posebnim uvjetima rada, HZZO vam vraća trošak prethodnog pregleda, a periodični pregled obavljen u roku plaća izravno.</p>
+<h2>Tko plaća liječnički pregled?</h2>
+<p>Po propisima trošak pregleda ne smije snositi radnik:</p>
 <ul>
 <li>prethodni i periodični pregledi i pribavljanje uvjerenja ne smiju biti na trošak radnika (Zakon o zaštiti na radu, članak 64. stavak 2.)</li>
 <li>troškove provođenja zaštite na radu snosi poslodavac (Zakon o zaštiti na radu, članak 17. stavak 6.)</li>
@@ -13,7 +13,7 @@
 <li>trošak sanitarnog pregleda za rad s hranom, kozmetikom, djecom i u higijenskoj njezi snosi poslodavac (Zakon o zaštiti pučanstva od zaraznih bolesti, članak 35.)</li>
 </ul>
 <h2>Liječnički pregled medicina rada: cijena u javnim cjenicima</h2>
-<p>Cijene iz cjenika koje su javne zdravstvene ustanove objavile na svojim stranicama. Prije naručivanja provjerite važeći cjenik.</p>
+<p>Dvije javne zdravstvene ustanove objavile su na svojim stranicama ove cijene. Prije nego što naručite radnika, provjerite koji cjenik trenutačno vrijedi.</p>
 <table>
 <thead>
 <tr>
@@ -45,21 +45,21 @@
 </tr>
 </tbody>
 </table>
-<p>Zavod u Bjelovaru u cjeniku navodi da se cijene odnose na usluge koje nisu ugovorene s HZZO-om.</p>
-<h3>Koliko HZZO plaća ugovornim ordinacijama</h3>
-<p>HZZO u Odluci o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite objavljuje cijene koje plaća ugovornim ordinacijama medicine rada. U Tablici 1. te odluke, u tekstu izmijenjenom u Narodnim novinama 116/2025, cijene su iskazane za 2025. godinu. Za većinu vrsta pregleda radnika izloženih štetnostima, kao i za preglede radnika koji upravljaju cestovnim prijevoznim sredstvima, cijena je 41,82 eura, a za pregled radnika koji rade s računalom dulje od polovine radnog vremena 13,82 eura.</p>
-<p>To nije cijena koju plaćate kao poslodavac, nego iznos koji HZZO plaća ordinaciji. Važan je zbog povrata troškova prethodnog pregleda.</p>
-<h2>O čemu ovisi cijena</h2>
+<p>Zavod u Bjelovaru u cjeniku napominje da cijene vrijede za usluge koje nisu ugovorene s HZZO-om.</p>
+<h3>Koliko HZZO plaća ugovornim ordinacijama?</h3>
+<p>Cijene koje plaća ugovornim ordinacijama medicine rada HZZO objavljuje u Odluci o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite. U Tablici 1. te odluke, u tekstu izmijenjenom u Narodnim novinama 116/2025, cijene su iskazane za 2025. godinu. Za većinu vrsta pregleda radnika izloženih štetnostima, kao i za preglede radnika koji upravljaju cestovnim prijevoznim sredstvima, cijena je 41,82 eura, a za pregled radnika koji rade s računalom dulje od polovine radnog vremena 13,82 eura.</p>
+<p>Taj iznos ordinaciji plaća HZZO, a ne vi. Trebate ga znati zbog povrata troškova prethodnog pregleda.</p>
+<h2>O čemu ovisi cijena pregleda?</h2>
 <ul>
-<li><strong>Vrsta posla i štetnosti.</strong> Pregled za poslove s posebnim uvjetima rada u oba cjenika skuplji je od običnog pregleda.</li>
-<li><strong>Posebni propisi.</strong> Pregled vozača profesionalaca uključuje propisane pretrage i pregled psihologa, pa ima zasebnu cijenu.</li>
-<li><strong>Dodatne pretrage.</strong> Laboratorijske i druge pretrage mogu se naplaćivati zasebno. Bjelovarski cjenik, primjerice, zasebno navodi vađenje krvi i testiranje urina.</li>
-<li><strong>Vrsta pregleda.</strong> Kontrolni i izvanredni pregledi imaju drukčiji tretman i drugu cijenu.</li>
+<li>Vrsta posla i štetnosti: pregled za poslove s posebnim uvjetima rada u oba je cjenika skuplji od običnog pregleda.</li>
+<li>Posebni propisi: pregled vozača profesionalaca uključuje propisane pretrage i pregled psihologa, pa ima zasebnu cijenu.</li>
+<li>Dodatne pretrage: ordinacija laboratorijske i druge pretrage može naplatiti zasebno. Bjelovarski cjenik, na primjer, posebno navodi vađenje krvi i testiranje urina.</li>
+<li>Vrsta pregleda: kontrolni i izvanredni pregledi imaju drukčiji tretman i drugu cijenu.</li>
 </ul>
-<h2>Povrat troškova preko HZZO-a</h2>
-<h3>Prethodni pregled</h3>
-<p>Prethodni pregled za radna mjesta s posebnim uvjetima rada plaća poslodavac, a HZZO mu vraća iznos utvrđen odlukom u roku od 45 dana od primitka zahtjeva, uz odgovarajuću dokumentaciju (Odluka HZZO-a, članak 18.). Cijena prethodnog pregleda koja ide na teret HZZO-a ne može biti veća od iznosa utvrđenog za periodični pregled. Zato vam povrat ne mora pokriti cijeli račun.</p>
-<p>HZZO u obavijesti poslodavcima navodi da se povrat ostvaruje pod uvjetom da ste pregledanog radnika i zaposlili. Uz zahtjev prilažete:</p>
+<h2>Kako dobiti povrat troškova od HZZO-a?</h2>
+<h3>Povrat za prethodni pregled</h3>
+<p>Prethodni pregled za radna mjesta s posebnim uvjetima rada plaćate vi, a HZZO vam uz odgovarajuću dokumentaciju vraća iznos utvrđen odlukom, i to <strong>u roku od 45 dana od primitka zahtjeva</strong> (Odluka HZZO-a, članak 18.). HZZO za prethodni pregled ne priznaje više od iznosa utvrđenog za periodični pregled. Zato vam povrat ne mora pokriti cijeli račun.</p>
+<p>U obavijesti poslodavcima HZZO navodi da povrat dobivate samo ako ste pregledanog radnika i zaposlili. Uz zahtjev prilažete:</p>
 <ul>
 <li>popis radnika na koje se zahtjev odnosi</li>
 <li>uputnicu RA-1 u kojoj su navedeni poslovi (članak i točka Pravilnika o poslovima s posebnim uvjetima rada ili drugog propisa) i vrsta pregleda</li>
@@ -68,14 +68,14 @@
 <li>novi ugovor o radu ili aneks ako radnik mijenja radno mjesto ili uvjete rada</li>
 <li>dokaz o vlasništvu IBAN-a ako povrat tražite prvi put</li>
 </ul>
-<h3>Periodični, kontrolni i izvanredni pregled</h3>
+<h3>Tko plaća periodični, kontrolni i izvanredni pregled?</h3>
 <ul>
-<li><strong>Periodični pregled</strong> obavljen u propisanom roku ili najviše 30 dana prije isteka roka ide na teret HZZO-a.</li>
-<li><strong>Kontrolni pregled</strong> ide na teret HZZO-a do četvrtine cijene periodičnog pregleda.</li>
-<li><strong>Izvanredni pregled</strong>, na koji uputite radnika izvan propisanih rokova, ne ide na teret HZZO-a.</li>
+<li>Periodični pregled obavljen u propisanom roku ili najviše 30 dana prije isteka roka plaća HZZO.</li>
+<li>Kontrolni pregled HZZO plaća do četvrtine cijene periodičnog pregleda.</li>
+<li>Izvanredni pregled, na koji radnika uputite izvan propisanih rokova, HZZO ne plaća.</li>
 </ul>
-<p>HZZO u obavijesti navodi da radnik koji zbog opravdanog razloga (na primjer bolovanja ili rodiljnog dopusta) nije mogao obaviti periodični pregled u roku, pregled obavlja nakon prestanka tih okolnosti, a prije povratka na poslove s posebnim uvjetima rada, i tada trošak također snosi HZZO.</p>
-<h2>Kontrolni popis za povrat troškova</h2>
+<p>Može se dogoditi da radnik zbog opravdanog razloga, na primjer bolovanja ili rodiljnog dopusta, periodični pregled ne obavi u roku. Prema obavijesti HZZO-a, tada ga obavlja kad te okolnosti prestanu, a prije povratka na poslove s posebnim uvjetima rada. I taj pregled plaća HZZO.</p>
+<h2>Što provjeriti prije zahtjeva za povrat?</h2>
 <ul>
 <li>Radnik je upućen uputnicom RA-1 s označenim prethodnim pregledom i točkom pravilnika.</li>
 <li>Pregled je obavio specijalist medicine rada kojeg ste izabrali.</li>
@@ -83,25 +83,25 @@
 <li>Radnik je zaposlen.</li>
 <li>Zahtjev ste poslali na HZZO-ovoj tiskanici sa svim prilozima.</li>
 </ul>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Trošak pregleda prebacuje se na radnika</strong>, izravno ili odbitkom od plaće.</li>
-<li><strong>Na uputnici nije označen prethodni pregled</strong> ni točka pravilnika, pa zahtjev za povrat nije potpun.</li>
-<li><strong>Očekuje se povrat cijelog računa</strong>, a HZZO vraća iznos utvrđen odlukom.</li>
-<li><strong>Periodični pregled obavi se prekasno</strong> ili prerano, izvan roka koji priznaje HZZO.</li>
-<li><strong>Pregled vozača ili pregled vida za rad s računalom poistovjećuje se s pregledom za posebne uvjete rada</strong>, iako su to različiti pregledi s različitim cijenama.</li>
+<li>Trošak pregleda ne prebacujte na radnika, ni izravno ni odbitkom od plaće.</li>
+<li>Na uputnici označite prethodni pregled i točku pravilnika. Bez toga zahtjev za povrat nije potpun.</li>
+<li>Ne računajte na povrat cijelog računa. HZZO vraća iznos utvrđen odlukom.</li>
+<li>Periodični pregled zakažite u roku koji HZZO priznaje, ni prekasno ni prerano.</li>
+<li>Pregled vozača i pregled vida za rad s računalom razlikuju se od pregleda za posebne uvjete rada i imaju drugu cijenu.</li>
 </ul>
 <h2>Česta pitanja</h2>
-<h3>Koliko je liječnički pregled za posao cijena ako radnik nije na posebnim uvjetima rada?</h3>
-<p>U dva javna cjenika koja smo pregledali prethodni obični pregled opće radne sposobnosti stoji 40 eura. Cijenu provjerite u cjeniku ordinacije kod koje naručujete radnika, a trošak snosite vi.</p>
+<h3>Koliko košta liječnički pregled za posao ako radnik ne radi na poslovima s posebnim uvjetima rada?</h3>
+<p>U oba javna cjenika koja smo pregledali prethodni obični pregled opće radne sposobnosti stoji 40 eura. Cijenu provjerite u cjeniku ordinacije kod koje naručujete radnika. Trošak snosite vi.</p>
 <h3>Smije li poslodavac trošak pregleda odbiti radniku od plaće?</h3>
 <p>Ne. Prethodni i periodični pregledi ne smiju biti na trošak radnika, a trošak pregleda na koji poslodavac uputi radnika snosi poslodavac.</p>
 <h3>Vraća li HZZO novac ako kandidat nakon pregleda nije zaposlen?</h3>
-<p>Prema obavijesti HZZO-a poslodavcima, povrat troškova prethodnog pregleda ostvaruje se pod uvjetom da je poslodavac pregledanog radnika zaposlio.</p>
+<p>Ne vraća. Prema obavijesti HZZO-a poslodavcima, povrat troškova prethodnog pregleda dobivate samo ako ste pregledanog radnika zaposlili.</p>
 <h3>Vraća li HZZO trošak sanitarnog pregleda?</h3>
 <p>Ne. Trošak sanitarnog pregleda za rad s hranom i drugih pregleda iz članka 26. stavka 1. točaka 1. do 5. Zakona o zaštiti pučanstva od zaraznih bolesti snosi poslodavac. Iznos je propisan odlukom ministra zdravstva.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pripremamo uputnice tako da budu ispravne i za pregled i za povrat troškova, organiziramo preglede i pomažemo s dokumentacijom za zahtjev prema HZZO-u. Više pročitajte na stranici <a href="/admin-podrska-pregled/usluge/medicina-rada/">medicina rada i liječnički pregledi</a>, a za ponudu nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Organiziramo preglede, pripremamo uputnice koje vrijede i za pregled i za povrat troškova te pomažemo sa zahtjevom prema HZZO-u. Za ponudu nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>, a o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/medicina-rada/">medicina rada i liječnički pregledi</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/167/zakon-o-zastiti-na-radu">Zakon o zaštiti na radu, NN 71/14, 118/14, 154/14, 94/18, 96/18 (zakon.hr)</a></li>
@@ -117,7 +117,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Koliko košta liječnički pregled medicine rada i tko ga plaća\",\"description\":\"Liječnički pregled medicina rada: cijena prema javnim cjenicima, tko plaća pregled i kada HZZO poslodavcu vraća trošak prethodnog pregleda.\",\"datePublished\":\"2027-02-22\",\"dateModified\":\"2027-02-22\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/cijena-lijecnickog-pregleda/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Koliko košta liječnički pregled medicine rada i tko ga plaća"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Liječnički pregled medicina rada: cijena prema javnim cjenicima, tko plaća pregled i kada HZZO poslodavcu vraća trošak prethodnog pregleda."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","22. veljače 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Koliko košta liječnički pregled medicine rada i tko ga plaća\",\"description\":\"Liječnički pregled medicina rada: cijena prema javnim cjenicima, tko plaća pregled i kada HZZO poslodavcu vraća trošak prethodnog pregleda.\",\"datePublished\":\"2027-02-22\",\"dateModified\":\"2027-02-22\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/cijena-lijecnickog-pregleda/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Koliko košta liječnički pregled medicine rada i tko ga plaća"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Liječnički pregled medicina rada: cijena prema javnim cjenicima, tko plaća pregled i kada HZZO poslodavcu vraća trošak prethodnog pregleda."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","22. veljače 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -125,10 +125,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Medicina rada i liječnički pregledi"}],["$","p",null,{"children":"Preglede obavlja medicina rada, a mi organiziramo termine, uputnice i pratimo rokove za sve radnike."}],["$","$L2",null,{"href":"/usluge/medicina-rada/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Koliko košta liječnički pregled medicine rada i tko ga plaća"}],["$","meta","1",{"name":"description","content":"Liječnički pregled medicina rada: cijena prema javnim cjenicima, tko plaća pregled i kada HZZO poslodavcu vraća trošak prethodnog pregleda."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/cijena-lijecnickog-pregleda/"}],["$","meta","4",{"property":"og:title","content":"Koliko košta liječnički pregled medicine rada i tko ga plaća"}],["$","meta","5",{"property":"og:description","content":"Liječnički pregled medicina rada: cijena prema javnim cjenicima, tko plaća pregled i kada HZZO poslodavcu vraća trošak prethodnog pregleda."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/cijena-lijecnickog-pregleda/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-02-22"}],["$","meta","13",{"property":"article:modified_time","content":"2027-02-22"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Koliko košta liječnički pregled medicine rada i tko ga plaća"}],["$","meta","16",{"name":"twitter:description","content":"Liječnički pregled medicina rada: cijena prema javnim cjenicima, tko plaća pregled i kada HZZO poslodavcu vraća trošak prethodnog pregleda."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

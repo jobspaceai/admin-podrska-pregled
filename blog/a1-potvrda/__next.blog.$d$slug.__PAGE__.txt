@@ -1,25 +1,25 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T3821,<p>A1 obrazac, službeno prenosivi dokument A1, dokaz je o tome koje se zakonodavstvo socijalne sigurnosti primjenjuje na radnika koji radi u drugoj državi članici EU-a. Kad radnika šaljete na posao u Njemačku ili Austriju, A1 potvrda pokazuje da se doprinosi i dalje plaćaju u Hrvatskoj. U Hrvatskoj je izdaje Hrvatski zavod za mirovinsko osiguranje (HZMO), a ne HZZO.</p>
-<p>A1 potvrda nije radna dozvola. Ne daje pravo na boravak ni na rad, ne zamjenjuje prijavu upućenog radnika u državi u koju radnik ide i ne određuje plaću koju mu morate isplatiti. To su zasebne obveze, koje treba riješiti prije odlaska.</p>
-<h2>Što je A1 obrazac i čemu služi</h2>
-<p>Koordinaciju sustava socijalne sigurnosti u EU-u uređuju Uredba (EZ) br. 883/2004 i provedbena Uredba (EZ) br. 987/2009. Njihova je svrha da se na osobu primjenjuje zakonodavstvo samo jedne države članice. Opće je pravilo da se primjenjuje zakonodavstvo države u kojoj osoba radi.</p>
-<p>Od tog pravila postoje iznimke. Najčešća je upućivanje, odnosno izaslanje radnika: poslodavac privremeno šalje radnika u drugu državu članicu, a radnik ostaje osiguran u matičnoj državi. A1 potvrda vrijedi na cijelom području EU-a kao dokaz da se doprinosi plaćaju u državi koja ju je izdala i da ne postoji obveza plaćanja doprinosa u drugim državama u kojima se radi.</p>
-<p>Ustanove drugih država članica prihvaćaju dokumente koje je izdala ustanova države članice sve dok ih ta država ne ukine ili proglasi nevažećima. Tako propisuje članak 5. Uredbe 987/2009.</p>
-<h3>Kada se A1 izdaje</h3>
-<p>Prema HZMO-u, A1 potvrda izdaje se u točno određenim situacijama:</p>
+3:T37a1,<p>A1 obrazac, službeno prenosivi dokument A1, dokazuje koje se zakonodavstvo socijalne sigurnosti primjenjuje na radnika dok radi u drugoj državi članici EU-a. Ako radnika pošaljete na posao u Njemačku ili Austriju, A1 potvrdom pokazujete da se doprinosi i dalje plaćaju u Hrvatskoj. Kod nas je izdaje Hrvatski zavod za mirovinsko osiguranje (HZMO), a ne HZZO.</p>
+<p>S A1 potvrdom radnik još nema radnu dozvolu. Ona mu ne daje pravo na boravak ni na rad, ne zamjenjuje prijavu upućenog radnika u državi u koju ide i ne određuje plaću koju mu morate isplatiti. Sve to rješavate zasebno, prije odlaska.</p>
+<h2>Čemu služi A1 obrazac?</h2>
+<p>Koordinaciju sustava socijalne sigurnosti u EU-u uređuju Uredba (EZ) br. 883/2004 i provedbena Uredba (EZ) br. 987/2009. Po njima se na osobu primjenjuje zakonodavstvo samo jedne države članice, i to u pravilu one u kojoj osoba radi.</p>
+<p>Od tog pravila postoje iznimke. Jedna je upućivanje, odnosno izaslanje radnika: poslodavac privremeno šalje radnika u drugu državu članicu, a radnik ostaje osiguran u matičnoj državi. A1 potvrda vrijedi na cijelom području EU-a. Njome se dokazuje da se doprinosi plaćaju u državi koja ju je izdala i da u drugim državama u kojima osoba radi nema obveze plaćanja doprinosa.</p>
+<p>Ustanove drugih država članica prihvaćaju dokument koji je izdala ustanova druge države članice sve dok ga ta država ne ukine ili ne proglasi nevažećim. Tako propisuje članak 5. Uredbe 987/2009.</p>
+<h3>Kada HZMO izdaje A1?</h3>
+<p>HZMO navodi da se A1 potvrda izdaje samo u točno određenim situacijama:</p>
 <ul>
 <li>upućene zaposlene i samozaposlene osobe</li>
 <li>zaposlene i samozaposlene osobe koje rade u dvije ili više država članica</li>
 <li>osobe kojima je odobreno odstupanje na temelju članka 16. Uredbe 883/2004</li>
 <li>državni službenici, pomorci kad se ne primjenjuje pravilo zastave broda, članovi letačke i kabinske posade te ugovorno osoblje EU-a</li>
 </ul>
-<p>Pravila vrijede u odnosima među državama članicama EU-a, državama Europskog gospodarskog prostora (Island, Lihtenštajn, Norveška) i Švicarskom.</p>
-<h2>Tko izdaje A1 potvrdu u Hrvatskoj: HZMO, ne HZZO</h2>
-<p>Za izdavanje A1 potvrde u Hrvatskoj nadležan je HZMO. Za upućene zaposlene osobe nadležne su sve područne službe i uredi HZMO-a prema sjedištu poslodavca. Za sve druge situacije A1 se izdaje centralizirano, u Područnoj službi u Zagrebu.</p>
-<p>Zahtjev se može podnijeti i elektronički, putem e-usluge u sustavu HZMO Lana.</p>
-<p>Zabuna s HZZO-om ima povijesni razlog. Prema vodiču HZMO-a, izaslanja započeta prema dvostranim ugovorima s Austrijom, Mađarskom, Nizozemskom, Njemačkom i Slovenijom prije ulaska Hrvatske u EU vodio je HZZO. Za sva izaslanja na koja se primjenjuje Uredba 883/2004 nadležan je HZMO.</p>
-<h2>Uvjeti za izaslanje zaposlenih osoba</h2>
+<p>Pravila vrijede među državama članicama EU-a, državama Europskog gospodarskog prostora (Island, Lihtenštajn, Norveška) i Švicarskom.</p>
+<h2>Tko izdaje A1 potvrdu u Hrvatskoj?</h2>
+<p>A1 potvrdu u Hrvatskoj izdaje HZMO. Za upućene zaposlene osobe zahtjev rješavaju sve područne službe i uredi HZMO-a, prema sjedištu poslodavca. U svim drugim situacijama A1 izdaje Područna služba u Zagrebu, centralizirano.</p>
+<p>Zahtjev možete podnijeti i elektronički, kroz e-uslugu u sustavu HZMO Lana.</p>
+<p>Zabuna s HZZO-om ima povijesni razlog. Prema vodiču HZMO-a, izaslanja koja su prije ulaska Hrvatske u EU započela prema dvostranim ugovorima s Austrijom, Mađarskom, Nizozemskom, Njemačkom i Slovenijom vodio je HZZO. Za sva izaslanja na koja se primjenjuje Uredba 883/2004 nadležan je HZMO.</p>
+<h2>Koje uvjete mora ispuniti izaslanje radnika?</h2>
 <p>Prema članku 12. Uredbe 883/2004 i vodiču HZMO-a, na upućenog radnika i dalje se primjenjuje hrvatsko zakonodavstvo ako su ispunjeni ovi uvjeti:</p>
 <ol>
 <li>izaslanje ne traje dulje od 24 mjeseca</li>
@@ -28,91 +28,91 @@
 <li>poslodavac redovito obavlja svoju djelatnost u Hrvatskoj</li>
 <li>za vrijeme izaslanja postoji neposredna veza između radnika i poslodavca</li>
 </ol>
-<p>Uvjet od mjesec dana ne znači da je radnik morao mjesec dana raditi kod istog poslodavca. HZMO navodi da je dovoljno da je bio obuhvaćen hrvatskim sustavom, na primjer kao nezaposlena osoba obuhvaćena sustavom davanja za nezaposlenost ili zdravstvenim osiguranjem.</p>
-<h3>Obavlja li poslodavac redovito djelatnost u Hrvatskoj</h3>
-<p>Poslodavac koji u Hrvatskoj obavlja samo administrativne poslove i poslove unutarnjeg upravljanja ne ispunjava taj uvjet. HZMO procjenjuje više kriterija, među njima:</p>
+<p>Za uvjet od mjesec dana radnik nije morao raditi kod istog poslodavca. HZMO navodi da je dovoljno da je bio obuhvaćen hrvatskim sustavom, na primjer kao nezaposlena osoba u sustavu davanja za nezaposlenost ili kao osiguranik zdravstvenog osiguranja.</p>
+<h3>Obavlja li poslodavac redovito djelatnost u Hrvatskoj?</h3>
+<p>Poslodavac koji u Hrvatskoj obavlja samo administrativne poslove i poslove unutarnjeg upravljanja taj uvjet ne ispunjava. HZMO gleda više kriterija, među njima:</p>
 <ul>
 <li>mjesto registriranog sjedišta i glavne uprave</li>
 <li>broj administrativnog osoblja u Hrvatskoj i u državi rada</li>
 <li>gdje je sklopljen ugovor o radu i koje se pravo primjenjuje na ugovore s klijentima i radnicima</li>
-<li>ostvareni promet: prema vodiču HZMO-a, uvjet se smatra ispunjenim ako poslodavac ostvaruje 25 % prometa u matičnoj državi</li>
-<li>razdoblje u kojem poslodavac posluje u Hrvatskoj</li>
+<li>ostvareni promet: prema vodiču HZMO-a, uvjet je ispunjen ako poslodavac ostvaruje 25 % prometa u matičnoj državi</li>
+<li>koliko dugo poslodavac posluje u Hrvatskoj</li>
 </ul>
-<h3>Kada pravila o izaslanju ne vrijede</h3>
-<p>HZMO navodi slučajeve koji isključuju izaslanje, među njima:</p>
+<h3>Kada pravila o izaslanju ne vrijede?</h3>
+<p>HZMO navodi slučajeve u kojima izaslanja nema, među njima:</p>
 <ul>
 <li>radnika se u državi rada stavi na raspolaganje drugom poslodavcu</li>
 <li>poslodavac iz jedne države angažira radnika na tržištu rada druge države s namjerom da ga pošalje na rad upravo u tu drugu državu</li>
 <li>radnik je izaslan da zamijeni drugog izaslanog radnika</li>
 <li>radnik je sklopio ugovor o radu s poslodavcem kod kojega je izaslan</li>
 </ul>
-<h2>Koliko dugo vrijedi A1 potvrda i može li se produžiti</h2>
-<p>Kod izaslanja A1 se ne izdaje za razdoblje dulje od 24 mjeseca. Ako posao traje dulje, može se podnijeti zahtjev za odstupanje prema članku 16. Uredbe 883/2004. Uz pristanak nadležne ustanove države rada razdoblje se može produžiti, prema HZMO-u najdulje do pet godina, uključujući prvo razdoblje izaslanja. Zahtjev se podnosi unaprijed, prije isteka postojećeg izaslanja.</p>
-<p>Još nekoliko pravila iz vodiča HZMO-a:</p>
+<h2>Koliko dugo vrijedi A1 potvrda i može li se produžiti?</h2>
+<p>Kod izaslanja HZMO ne izdaje A1 za razdoblje dulje od 24 mjeseca. Ako posao traje dulje, možete podnijeti zahtjev za odstupanje prema članku 16. Uredbe 883/2004. Uz pristanak nadležne ustanove države rada razdoblje se tada može produžiti, prema HZMO-u najdulje do pet godina, uključujući prvo razdoblje izaslanja. Taj zahtjev podnosite unaprijed, prije nego što postojeće izaslanje istekne.</p>
+<p>Vodič HZMO-a propisuje još nekoliko pravila:</p>
 <ul>
 <li>nakon završetka izaslanja novo izaslanje za istu osobu može se odobriti nakon dva mjeseca</li>
-<li>kratki prekidi do dva mjeseca (godišnji odmor, bolovanje, usavršavanje) ne prekidaju izaslanje i ne produžuju ga</li>
+<li>kratki prekidi do dva mjeseca (godišnji odmor, bolovanje, usavršavanje) ne prekidaju izaslanje, ali ga ni ne produžuju</li>
 <li>izaslanje kraće od 24 mjeseca može se produžiti najviše do 24 mjeseca</li>
 </ul>
-<p>Tijekom izaslanja poslodavac obavještava HZMO o promjenama, posebno ako izaslanje završi prije roka, ako prekid traje dulje od dva mjeseca ili ako se radnik rasporedi drugom poslodavcu u državi rada. Ako izaslanje nije započelo ili je završilo ranije, izdanu potvrdu treba vratiti radi poništavanja.</p>
-<h2>Kako podnijeti zahtjev za A1 potvrdu</h2>
-<p>Poslodavac obavještava nadležnu ustanovu o izaslanju, kad god je to moguće unaprijed. Tako propisuje članak 15. Uredbe 987/2009.</p>
+<p>Dok izaslanje traje, o promjenama obavještavate HZMO. To posebno vrijedi ako izaslanje završi prije roka, ako prekid traje dulje od dva mjeseca ili ako radnika rasporedite drugom poslodavcu u državi rada. Ako izaslanje nije ni počelo ili je završilo ranije, izdanu potvrdu vraćate HZMO-u da je poništi.</p>
+<h2>Kako podnijeti zahtjev za A1 potvrdu?</h2>
+<p>O izaslanju obavještavate nadležnu ustanovu, kad god je moguće unaprijed. Tako propisuje članak 15. Uredbe 987/2009.</p>
 <p>Za upućene zaposlene osobe HZMO traži:</p>
 <ul>
-<li>zahtjev za izdavanje potvrde A1, posebno za svakog radnika, popunjen i ovjeren od poslodavca</li>
+<li>zahtjev za izdavanje potvrde A1, posebno za svakog radnika, koji poslodavac popuni i ovjeri</li>
 <li>upitnik za poslodavce s podacima o poslovanju, prometu i ugovorima</li>
 <li>ugovor o radu ili dodatak ugovoru o radu koji obuhvaća rad u drugoj državi članici</li>
 <li>ugovor o poslu u državi članici za koju se traži izaslanje</li>
 <li>financijsko izvješće, odnosno ispis iz registra FINA-e</li>
 </ul>
-<h2>Što A1 potvrda ne rješava</h2>
-<h3>Pravo na rad i boravak</h3>
-<p>A1 se bavi samo socijalnom sigurnošću. Pitanje smije li radnik raditi u drugoj državi uređuju propisi te države. Za radnike iz trećih zemalja to treba posebno provjeriti.</p>
-<h3>Prijava upućenih radnika u državi primateljici</h3>
-<p>Prema portalu Your Europe, poslodavac šalje obavijest nadležnim tijelima države primateljice prije početka upućivanja, a najkasnije kad upućivanje počne. Svaka država ima nacionalnu mrežnu stranicu o upućivanju s uputama. A1 potvrda tu obavijest ne zamjenjuje.</p>
-<h3>Plaća i uvjeti rada</h3>
-<p>Upućenim radnicima jamče se uvjeti rada države primateljice, među ostalim najdulje radno vrijeme, najkraći odmor, plaćeni godišnji odmor i naknada za rad. Ako upućivanje traje dulje od 12 mjeseci, odnosno 18 mjeseci uz obrazloženu obavijest, radniku treba osigurati sve obvezne uvjete rada države primateljice, uz iznimke koje propisuje ta država.</p>
-<h3>Ugovor o radu</h3>
-<p>Prema članku 18. Zakona o radu, ako rad u inozemstvu traje dulje od četiri uzastopna tjedna, ugovor o radu ili pisana potvrda prije odlaska mora sadržavati dodatne podatke: državu i trajanje rada, radno vrijeme, valutu plaće, druga primanja, poveznicu na nacionalnu stranicu o upućivanju i uvjete povratka. Za kraće upućivanje radnik prije početka dobiva pisanu informaciju s tim podacima.</p>
+<h2>Što A1 potvrda ne rješava?</h2>
+<h3>Smije li radnik raditi u drugoj državi?</h3>
+<p>A1 se tiče samo socijalne sigurnosti. Smije li radnik raditi u drugoj državi, određuju propisi te države. Za radnike iz trećih zemalja to morate posebno provjeriti.</p>
+<h3>Prijavite upućivanje u državi primateljici</h3>
+<p>Prema portalu Your Europe, poslodavac šalje obavijest nadležnim tijelima države primateljice prije početka upućivanja, a <strong>najkasnije kad upućivanje počne</strong>. Svaka država ima nacionalnu mrežnu stranicu o upućivanju s uputama. A1 potvrda tu obavijest ne zamjenjuje.</p>
+<h3>Koju plaću i uvjete rada morate osigurati?</h3>
+<p>Upućeni radnik ima pravo na uvjete rada države primateljice, među ostalim na njezino najdulje radno vrijeme, najkraći odmor, plaćeni godišnji odmor i naknadu za rad. Kad upućivanje traje dulje od 12 mjeseci, odnosno 18 mjeseci uz obrazloženu obavijest, radniku morate osigurati sve obvezne uvjete rada države primateljice, uz iznimke koje ta država propisuje.</p>
+<h3>Što mora pisati u ugovoru o radu?</h3>
+<p>Prema članku 18. Zakona o radu, kad rad u inozemstvu traje dulje od četiri uzastopna tjedna, ugovor o radu ili pisana potvrda prije odlaska mora sadržavati dodatne podatke. To su država i trajanje rada, radno vrijeme, valuta plaće, druga primanja, poveznica na nacionalnu stranicu o upućivanju i uvjeti povratka. Kod kraćeg upućivanja radniku prije početka date pisanu informaciju s tim podacima.</p>
 <h2>A1 potvrda za državljane trećih zemalja zaposlene u Hrvatskoj</h2>
-<p>Uredba (EU) br. 1231/2010 proširuje primjenu uredbi 883/2004 i 987/2009 na državljane trećih zemalja koji zakonito borave u državi članici i nalaze se u prekograničnoj situaciji. Vodič HZMO-a tu uredbu navodi među propisima koji se primjenjuju na izaslanje. Prema Europskoj komisiji, Uredba 1231/2010 ne primjenjuje se na Dansku. Za upućivanje radnika iz treće zemlje u Norvešku, Island, Lihtenštajn ili Švicarsku posebno provjerite koja pravila vrijede.</p>
-<p>Radnik iz treće zemlje zaposlen kod vas može, dakle, dobiti A1 potvrdu ako ispunjava uvjete za izaslanje. No hrvatska dozvola za boravak i rad odnosi se na rad u Hrvatskoj, kod poslodavca i na poslovima za koje je izdana. Pravo na rad u državi primateljici provjerava se po njezinim propisima.</p>
-<p>Primjer: prema austrijskoj službenoj platformi za upućivanje, za državljane trećih zemalja upućene iz države EU-a potrebna je potvrda austrijske službe za zapošljavanje (AMS), EU-Entsendebestätigung. Poslodavac u prijavi navodi podatke o dozvoli za rad i boravak izdanoj u državi iz koje upućuje.</p>
-<h2>Kontrolni popis prije odlaska radnika</h2>
+<p>Uredba (EU) br. 1231/2010 proširuje primjenu uredbi 883/2004 i 987/2009 na državljane trećih zemalja koji zakonito borave u državi članici i nalaze se u prekograničnoj situaciji. Vodič HZMO-a tu uredbu navodi među propisima koji se primjenjuju na izaslanje. Prema Europskoj komisiji, Uredba 1231/2010 ne primjenjuje se na Dansku. Ako radnika iz treće zemlje upućujete u Norvešku, Island, Lihtenštajn ili Švicarsku, posebno provjerite koja pravila vrijede.</p>
+<p>Radnik iz treće zemlje kojeg ste zaposlili može, dakle, dobiti A1 potvrdu ako ispunjava uvjete za izaslanje. Međutim, hrvatska dozvola za boravak i rad vrijedi za rad u Hrvatskoj, kod poslodavca i na poslovima za koje je izdana. Pravo na rad u državi primateljici provjeravate po njezinim propisima.</p>
+<p>Primjer je Austrija. Prema austrijskoj službenoj platformi za upućivanje, za državljanina treće zemlje upućenog iz države EU-a treba potvrda austrijske službe za zapošljavanje (AMS), EU-Entsendebestätigung. U prijavi poslodavac navodi podatke o dozvoli za rad i boravak koju je radnik dobio u državi iz koje ga upućuje.</p>
+<h2>Što provjeriti prije odlaska radnika?</h2>
 <ul>
-<li>Utvrđeno je radi li se o izaslanju, radu u više država ili kratkom službenom putu.</li>
-<li>Radnik je bio obuhvaćen hrvatskim sustavom najmanje mjesec dana prije izaslanja.</li>
-<li>Firma redovito posluje u Hrvatskoj, a ne samo administrativno.</li>
+<li>Utvrdili ste radi li se o izaslanju, radu u više država ili kratkom službenom putu.</li>
+<li>Radnik je najmanje mjesec dana prije izaslanja bio obuhvaćen hrvatskim sustavom.</li>
+<li>Firma u Hrvatskoj redovito posluje, a ne samo administrativno.</li>
 <li>Ugovor o radu ili dodatak sadrži podatke o radu u inozemstvu.</li>
-<li>Zahtjev i upitnik predani su HZMO-u prije odlaska.</li>
-<li>Poslana je obavijest o upućivanju u državi primateljici.</li>
-<li>Za radnika iz treće zemlje provjereno je pravo na rad u državi primateljici.</li>
+<li>Zahtjev i upitnik predali ste HZMO-u prije odlaska.</li>
+<li>Obavijest o upućivanju poslana je državi primateljici.</li>
+<li>Za radnika iz treće zemlje provjerili ste pravo na rad u državi primateljici.</li>
 <li>Plaća je usklađena s pravilima države primateljice.</li>
 <li>Datum isteka A1 potvrde upisan je u kalendar.</li>
 </ul>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>A1 potvrda smatra se radnom dozvolom.</strong> A1 dokazuje samo koje se socijalno osiguranje primjenjuje.</li>
-<li><strong>Zahtjev se šalje HZZO-u.</strong> Za A1 potvrdu nadležan je HZMO.</li>
-<li><strong>Izostaje prijava u državi primateljici.</strong> A1 ne zamjenjuje obavijest o upućivanju.</li>
-<li><strong>Radnik se zaposli i odmah šalje van.</strong> Bez mjesec dana u hrvatskom sustavu uvjet za izaslanje nije ispunjen.</li>
-<li><strong>Firma u Hrvatskoj ima samo ured.</strong> Ako poslodavac ovdje obavlja samo administrativne poslove, izaslanje nije moguće.</li>
-<li><strong>Ne prati se trajanje.</strong> Nakon 24 mjeseca bez odobrenog odstupanja pravila o izaslanju prestaju vrijediti.</li>
-<li><strong>Hrvatska dozvola smatra se dovoljnom za rad u cijeloj EU.</strong> Za radnike iz trećih zemalja država primateljica ima svoja pravila.</li>
+<li>Ne smatrajte A1 potvrdu radnom dozvolom. Ona dokazuje samo koje se socijalno osiguranje primjenjuje.</li>
+<li>Zahtjev ne šaljite HZZO-u. Za A1 potvrdu nadležan je HZMO.</li>
+<li>Uz A1 i dalje morate poslati obavijest o upućivanju državi primateljici.</li>
+<li>Radnika kojeg ste tek zaposlili ne možete odmah izaslati ako prije toga nije bio barem mjesec dana u hrvatskom sustavu.</li>
+<li>Ako u Hrvatskoj obavljate samo administrativne poslove, uvjet za izaslanje nije ispunjen.</li>
+<li>Pratite trajanje. Nakon 24 mjeseca bez odobrenog odstupanja pravila o izaslanju više ne vrijede.</li>
+<li>Hrvatska dozvola ne vrijedi za rad u cijeloj EU. Za radnike iz trećih zemalja država primateljica ima svoja pravila.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Tko izdaje A1 potvrdu u Hrvatskoj?</h3>
-<p>HZMO. Za upućene zaposlene osobe nadležne su područne službe i uredi HZMO-a prema sjedištu poslodavca. Zahtjev se može podnijeti i putem sustava HZMO Lana.</p>
+<p>HZMO. Za upućene zaposlene osobe nadležne su područne službe i uredi HZMO-a prema sjedištu poslodavca. Zahtjev možete podnijeti i kroz sustav HZMO Lana.</p>
 <h3>Koliko dugo vrijedi A1 obrazac?</h3>
 <p>Kod izaslanja najdulje 24 mjeseca. Dulje razdoblje moguće je samo uz odstupanje prema članku 16. Uredbe 883/2004 i pristanak države rada, prema HZMO-u najdulje do pet godina ukupno.</p>
 <h3>Treba li A1 potvrda za kratki poslovni put?</h3>
-<p>Prema portalu Your Europe, radnici koji putuju na sastanke, sajmove, konferencije ili obuke nisu upućeni radnici u smislu pravila o upućivanju. Za socijalno osiguranje ipak treba, kad god je moguće unaprijed, obavijestiti nadležnu ustanovu i zatražiti A1 potvrdu.</p>
+<p>Prema portalu Your Europe, radnik koji putuje na sastanak, sajam, konferenciju ili obuku nije upućeni radnik u smislu pravila o upućivanju. Zbog socijalnog osiguranja ipak trebate, kad god je moguće unaprijed, obavijestiti nadležnu ustanovu i zatražiti A1 potvrdu.</p>
 <h3>Moraju li upućeni radnici imati A1 potvrdu i prijavu u državi primateljici?</h3>
-<p>U pravilu da. A1 potvrdu izdaje HZMO, a obavijest o upućivanju šalje se tijelima države primateljice prema njezinim pravilima.</p>
+<p>U pravilu da. A1 potvrdu izdaje HZMO, a obavijest o upućivanju šaljete tijelima države primateljice prema njezinim pravilima.</p>
 <h3>Može li se izaslanje radnika iz treće zemlje odobriti na temelju hrvatske dozvole?</h3>
-<p>A1 se može izdati ako radnik zakonito boravi u Hrvatskoj i ispunjava uvjete za izaslanje. Pravo na rad u državi primateljici provjerava se posebno, po njezinim propisima.</p>
+<p>A1 se može izdati ako radnik zakonito boravi u Hrvatskoj i ispunjava uvjete za izaslanje. Pravo na rad u državi primateljici provjerava se zasebno, po njezinim propisima.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pripremamo dokumentaciju za A1 potvrdu, provjeravamo uvjete za izaslanje i obveze prijave u državi u koju radnici idu. Kod radnika iz trećih zemalja provjeravamo što hrvatska dozvola pokriva, a što ne. Više na stranici <a href="/admin-podrska-pregled/usluge/a1-izaslanje/">A1 potvrda i izaslanje radnika</a>, a za konkretan projekt javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Pripremamo dokumentaciju za A1 potvrdu, provjeravamo uvjete za izaslanje i obveze prijave u državi u koju radnici idu, a kod radnika iz trećih zemalja i to što hrvatska dozvola pokriva. Za konkretan projekt javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>, a o usluzi više piše na stranici <a href="/admin-podrska-pregled/usluge/a1-izaslanje/">A1 potvrda i izaslanje radnika</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.mirovinsko.hr/hr/izdavanje-potvrda-a1-mjerodavno-zakonodavstvo-eu/384">HZMO: Izdavanje potvrda A1 (mjerodavno zakonodavstvo/EU)</a></li>
@@ -127,7 +127,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje\",\"description\":\"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava.\",\"datePublished\":\"2027-05-17\",\"dateModified\":\"2027-05-17\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/a1-potvrda/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","17. svibnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje\",\"description\":\"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava.\",\"datePublished\":\"2027-05-17\",\"dateModified\":\"2027-05-17\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/a1-potvrda/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","17. svibnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -135,10 +135,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"A1 i izaslanje radnika"}],["$","p",null,{"children":"A1 potvrde i prijave za rad vaših radnika u drugim državama EU."}],["$","$L2",null,{"href":"/usluge/a1-izaslanje/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","meta","1",{"name":"description","content":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/a1-potvrda/"}],["$","meta","4",{"property":"og:title","content":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","meta","5",{"property":"og:description","content":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/a1-potvrda/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-05-17"}],["$","meta","13",{"property":"article:modified_time","content":"2027-05-17"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"A1 potvrda nije radna dozvola: čemu služi i tko je izdaje"}],["$","meta","16",{"name":"twitter:description","content":"A1 obrazac potvrđuje koje se socijalno osiguranje primjenjuje na radnika u drugoj državi EU. U Hrvatskoj ga izdaje HZMO. Uvjeti, trajanje i što A1 ne rješava."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

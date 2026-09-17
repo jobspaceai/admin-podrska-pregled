@@ -1,49 +1,49 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T26ae,<p>Kad trebate smjestiti deset ili više radnika, birate između dva puta: sami vodite stanove ili posao prepuštate nekome tko nudi smještaj kao uslugu. Agencija za smještaj radnika može vam uštedjeti vrijeme, ali ne preuzima obveze koje propisi vežu uz poslodavca. Za radnike iz trećih zemalja izjavu o primjerenom smještaju ne potpisuje agencija, a uvjeti smještaja vežu se uz poslodavca.</p>
-<p>Odluka zato nije samo pitanje cijene. Ovisi o broju radnika, broju lokacija, koliko se često radnici mijenjaju i imate li u firmi osobu koja će voditi ugovore, primopredaje i prijave boravišta.</p>
-<h2>Tko sve nudi smještaj za radnike</h2>
-<p>Pod nazivom „agencija" nude se različite stvari. Pravni odnos ovisi o tome s kim sklapate ugovor:</p>
+3:T268e,<p>Kad trebate smjestiti deset ili više radnika, stanove možete voditi sami ili posao prepustiti nekome tko nudi smještaj kao uslugu. Agencija za smještaj radnika može vam uštedjeti vrijeme, ali obveze koje propisi vežu uz poslodavca i dalje su vaše. Za radnike iz trećih zemalja izjavu o primjerenom smještaju ne potpisuje agencija, a uvjeti smještaja vežu se uz poslodavca.</p>
+<p>Osim cijene, na odluku utječu broj radnika i lokacija, koliko se često radnici mijenjaju te imate li u firmi osobu koja će voditi ugovore, primopredaje i prijave boravišta.</p>
+<h2>Tko sve nudi smještaj za radnike?</h2>
+<p>Pod nazivom „agencija“ nude se različite usluge, a pravni odnos ovisi o tome s kim sklapate ugovor:</p>
 <ul>
-<li><strong>Posrednik u prometu nekretnina.</strong> Pronalazi stan i dovodi vas do vlasnika, a ugovor o najmu sklapate s vlasnikom. Posrednici se upisuju u javni Registar posrednika koji vodi Hrvatska gospodarska komora, a ugovor o posredovanju sklapa se u pisanom obliku.</li>
-<li><strong>Firma koja iznajmljuje vlastite ili unajmljene stanove.</strong> Ugovor sklapate s njom. Ako ona stan drži u najmu i daje ga vama, provjerite ima li suglasnost vlasnika za podnajam.</li>
-<li><strong>Ugostitelj</strong> (hostel, apartmani, sobe). Pravilnik o boravku državljana trećih zemalja dopušta smještaj u ugostiteljsko-turističkoj građevini namijenjenoj za smještaj, ako se time ne ugrožava osnovna djelatnost.</li>
-<li><strong>Pružatelj „smještaja s upravljanjem".</strong> Uz najam nudi čišćenje, održavanje ili zamjenu stanara, što treba posebno ugovoriti.</li>
+<li>Posrednik u prometu nekretnina pronalazi stan i dovodi vas do vlasnika, a ugovor o najmu sklapate s vlasnikom. Posrednici se upisuju u javni Registar posrednika koji vodi Hrvatska gospodarska komora, a ugovor o posredovanju sklapa se u pisanom obliku.</li>
+<li>Firma koja iznajmljuje vlastite ili unajmljene stanove sama je vaša ugovorna strana. Ako stan drži u najmu i daje ga vama, provjerite ima li suglasnost vlasnika za podnajam.</li>
+<li>Ugostitelj nudi hostel, apartmane ili sobe. Pravilnik o boravku državljana trećih zemalja dopušta smještaj u ugostiteljsko-turističkoj građevini namijenjenoj za smještaj ako se time ne ugrožava osnovna djelatnost.</li>
+<li>Pružatelj „smještaja s upravljanjem“ uz najam nudi čišćenje, održavanje ili zamjenu stanara, a to treba posebno ugovoriti.</li>
 </ul>
-<p>Prije razgovora o cijeni utvrdite u koju skupinu spada ponuditelj. O tome ovisi tko je najmodavac i na koga glasi račun.</p>
+<p>Prije nego što razgovarate o cijeni, utvrdite u koju skupinu spada ponuditelj. Od toga ovisi tko je najmodavac i na koga glasi račun.</p>
 <h2>Što agencija za smještaj radnika ne preuzima umjesto vas</h2>
-<p>Pravilnik o boravku državljana trećih zemalja (NN 43/2026) uvjete primjerenog smještaja veže uz slučaj kad smještaj <strong>osigurava poslodavac ili je posrednik u osiguravanju smještaja</strong>. Pravilnik ne predviđa da se te obveze ugovorom prenose na treću osobu. U praksi to znači:</p>
+<p>Pravilnik o boravku državljana trećih zemalja (NN 43/2026) uvjete primjerenog smještaja veže uz slučaj kad smještaj <strong>osigurava poslodavac ili je posrednik u osiguravanju smještaja</strong>. Pravilnik ne predviđa da se te obveze ugovorom prenose na treću osobu. Za vas to znači sljedeće:</p>
 <ul>
-<li><strong>Obrazac 17a potpisuje podnositelj zahtjeva</strong> za dozvolu, a ne agencija. Njime se izjavljuje da smještaj odgovara uvjetima pravilnika.</li>
-<li><strong>Najamnina koju naplaćujete radniku</strong> ne smije biti veća od 30 % neto plaće i ne smije se automatski ustegnuti iz plaće. Ako agencija naplaćuje firmi, a firma dio troška naplaćuje radnicima, ta pravila vrijede za vaš odnos s radnikom.</li>
-<li><strong>Radniku morate dostaviti ugovor o najmu ili jednakovrijedan dokument</strong> s uvjetima i iznosom najamnine. Ako je smještaj besplatan, izdajete dokument s uvjetima smještaja.</li>
-<li><strong>Promjenu primjerenosti smještaja javljate policiji</strong> u roku od 15 dana, a za sezonske radnike u roku od osam dana.</li>
-<li><strong>Primjeren smještaj osiguravate za vrijeme važenja ugovora o radu.</strong> Ako agencija raskine ugovor ili zatvori objekt, problem ostaje vama.</li>
+<li>Obrazac 17a potpisuje podnositelj zahtjeva za dozvolu, a ne agencija. Tim obrascem izjavljujete da smještaj odgovara uvjetima pravilnika.</li>
+<li>Najamnina koju naplaćujete radniku ne smije biti veća od 30 % neto plaće i ne smijete je automatski ustegnuti iz plaće. Ako agencija naplaćuje firmi, a firma dio troška naplaćuje radnicima, ta pravila vrijede za vaš odnos s radnikom.</li>
+<li>Radniku morate dostaviti ugovor o najmu ili jednakovrijedan dokument s uvjetima i iznosom najamnine. Ako je smještaj besplatan, izdajete dokument s uvjetima smještaja.</li>
+<li>Promjenu primjerenosti smještaja javljate policiji u roku od 15 dana, a za sezonske radnike u roku od osam dana.</li>
+<li>Primjeren smještaj osiguravate za cijelo vrijeme važenja ugovora o radu. Ako agencija raskine ugovor ili zatvori objekt, ta obveza ostaje vama.</li>
 </ul>
-<h2>Sami ili preko agencije: kriteriji za odluku</h2>
-<h3>Kad je vlastita organizacija realna</h3>
+<h2>Sami ili preko agencije: kako odlučiti?</h2>
+<h3>Kad sami možete organizirati smještaj</h3>
 <ul>
 <li>radnici su na jednoj lokaciji i ostaju dulje vrijeme</li>
 <li>imate osobu koja može obilaziti stanove, voditi primopredaje i pratiti rokove</li>
 <li>želite izravan ugovor s vlasnikom i kontrolu nad adresom</li>
 </ul>
-<h3>Kad agencija ima smisla</h3>
+<h3>Kad se isplati agencija</h3>
 <ul>
 <li>radnici rade na više gradilišta ili lokacija koje se mijenjaju</li>
-<li>radnici se često mijenjaju, pa trebate nekoga tko brzo organizira zamjenu stanara</li>
-<li>trebate veći broj kreveta u kratkom roku</li>
+<li>radnici se često izmjenjuju, pa vam treba netko tko brzo organizira zamjenu stanara</li>
+<li>u kratkom roku trebate veći broj kreveta</li>
 </ul>
-<h3>Ograničenja koja vrijede u oba slučaja</h3>
-<p>Za radnike iz trećih zemalja broj ljudi po stanu je ograničen. U stanu smije boraviti najviše osam osoba, uz najmanje 14 m² za prvu osobu i 6 m² za svaku sljedeću. U kući s jednom ili dvije stambene jedinice najviše 10 radnika na 150 m². Za 25 radnika zato vam trebaju najmanje četiri stana, bez obzira tko ih pronađe. Ako u zgradi s četiri ili više stanova u isti stan dolazi više od četiri punoljetna radnika koji nisu u bliskom srodstvu, treba i pisana suglasnost suvlasnika zgrade.</p>
-<h2>Smještaj za sezonske radnike</h2>
+<h3>Koja ograničenja vrijede u oba slučaja?</h3>
+<p>Za radnike iz trećih zemalja broj ljudi po stanu je ograničen. U stanu smije boraviti najviše osam osoba, uz najmanje 14 m² za prvu osobu i 6 m² za svaku sljedeću. U kući s jednom ili dvije stambene jedinice smije biti najviše 10 radnika na 150 m². Za 25 radnika zato vam trebaju najmanje četiri stana, tko god ih pronašao. Ako u zgradi s četiri ili više stanova u isti stan dolazi više od četiri punoljetna radnika koji nisu u bliskom srodstvu, treba vam i pisana suglasnost suvlasnika zgrade.</p>
+<h2>Gdje smjestiti sezonske radnike?</h2>
 <p>Za sezonske radnike pravilnik posebno uređuje dvije mogućnosti:</p>
 <ul>
-<li><strong>Ugostiteljsko-turistička građevina.</strong> Poslodavac o broju radnika, adresi i trajanju smještaja prethodno obavještava jedinicu lokalne samouprave i policijsku upravu ili postaju.</li>
-<li><strong>Kamp u zoni ugostiteljsko-turističke namjene</strong> u kojoj radnici rade tijekom sezone, ako sezonski radnici zauzimaju najviše 3 % ležaja ukupnog kapaciteta kampa.</li>
+<li>Smještaj u ugostiteljsko-turističkoj građevini. O broju radnika, adresi i trajanju smještaja poslodavac prethodno obavještava jedinicu lokalne samouprave i policijsku upravu ili postaju.</li>
+<li>Smještaj u kampu u zoni ugostiteljsko-turističke namjene u kojoj radnici rade tijekom sezone, ako sezonski radnici zauzimaju najviše 3 % ležaja ukupnog kapaciteta kampa.</li>
 </ul>
 <p>Ako sezonski radnik sam osigura smještaj, i dalje prilaže ovjereni ugovor o najmu ili izjavu vlasnika s kojim je u rodbinskom odnosu, s podacima o površini.</p>
 <h2>Smještaj za radnike: cijena i što ulazi u ponudu</h2>
-<p>Cijene ovise o gradu, sezoni, vrsti objekta i uslugama koje su uključene, pa ih ne navodimo. Ponude usporedite tek kad su svedene na isto:</p>
+<p>Cijene ovise o gradu, sezoni, vrsti objekta i uključenim uslugama, pa ih ne navodimo. Ponude usporedite tek kad ih svedete na iste stavke:</p>
 <ul>
 <li>cijena po krevetu, po sobi ili po cijelom stanu</li>
 <li>jesu li u cijenu uključene režije, internet, čišćenje i posteljina</li>
@@ -52,37 +52,37 @@
 <li>trošak zamjene stanara ili praznog kreveta</li>
 <li>iskazuje li se PDV</li>
 </ul>
-<p>Kod poreznog tretmana pazite na račun. Trošak smještaja koji firma plati bezgotovinski, na temelju vjerodostojne dokumentacije, radniku je neoporeziv do visine stvarnog izdatka. Stavke koje se uobičajeno ne pripisuju smještaju, poput garaže, interneta i posebno naplaćenih režija, ne ulaze u taj iznos. Zato tražite da račun najamninu i ostale usluge iskaže odvojeno.</p>
+<p>Za porezni tretman važan je račun. Trošak smještaja koji firma plati bezgotovinski, na temelju vjerodostojne dokumentacije, radniku je neoporeziv do visine stvarnog izdatka. Stavke koje se uobičajeno ne pripisuju smještaju, poput garaže, interneta i posebno naplaćenih režija, ne ulaze u taj iznos. Zato tražite da se na računu najamnina i ostale usluge iskažu odvojeno.</p>
 <h2>Kontrolni popis prije potpisa s agencijom</h2>
 <ul>
 <li>Utvrdite je li ponuditelj posrednik, najmodavac ili ugostitelj</li>
 <li>Za posrednika provjerite upis u Registar posrednika pri HGK</li>
 <li>Tražite podatke o vlasniku i suglasnost vlasnika ako ponuditelj stan drži u najmu</li>
 <li>Za svaki stan tražite stvarnu površinu i broj osoba koje već borave na adresi</li>
-<li>Provjerite hoće li ugovor biti ovjeren kod javnog bilježnika ili Porezne uprave, s iznosom najamnine i površinom</li>
-<li>Dogovorite rok u kojem agencija javlja promjene na adresi, kako biste vi stigli obavijestiti policiju</li>
-<li>Tražite da račun najamninu i dodatne usluge iskaže odvojeno</li>
-<li>Upišite što se događa ako agencija izgubi stan tijekom trajanja ugovora</li>
+<li>Provjerite hoće li ugovor biti ovjeren kod javnog bilježnika ili u Poreznoj upravi, s iznosom najamnine i površinom</li>
+<li>Dogovorite rok u kojem vam agencija javlja promjene na adresi, kako biste stigli obavijestiti policiju</li>
+<li>Tražite da se na računu najamnina i dodatne usluge iskažu odvojeno</li>
+<li>Upišite u ugovor što se događa ako agencija izgubi stan dok ugovor traje</li>
 </ul>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Uvjerenje da je agencija preuzela odgovornost.</strong> Obrazac 17a i obveze iz pravilnika ostaju na poslodavcu.</li>
-<li><strong>Ugovor s agencijom bez podataka o stanovima.</strong> Bez površine, adrese i broja stanara ne možete provjeriti ni potpisati izjavu o primjerenom smještaju.</li>
-<li><strong>Najam po krevetu bez podatka o ukupnom broju ljudi u stanu.</strong> Ograničenje od osam osoba i kvadratura gledaju sve stanare.</li>
-<li><strong>Jedan račun bez razdvajanja stavki.</strong> Otežava neoporezivi tretman troška smještaja.</li>
-<li><strong>Nema dogovora o obavještavanju.</strong> Kad agencija premjesti radnike bez vašeg znanja, propuštate rok za obavijest policiji.</li>
+<li>Pretpostavili ste da je agencija preuzela odgovornost, a Obrazac 17a i obveze iz pravilnika ostaju na poslodavcu.</li>
+<li>U ugovoru s agencijom nema podataka o stanovima. Bez površine, adrese i broja stanara ne možete provjeriti smještaj ni potpisati izjavu o primjerenom smještaju.</li>
+<li>Unajmili ste krevete, a ne znate koliko ukupno ljudi živi u stanu. Ograničenje od osam osoba i kvadratura odnose se na sve stanare.</li>
+<li>Agencija izdaje jedan račun bez razdvojenih stavki, pa je teže primijeniti neoporezivi tretman troška smještaja.</li>
+<li>Niste dogovorili obavještavanje. Kad agencija premjesti radnike bez vašeg znanja, propustit ćete rok za obavijest policiji.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Treba li agencija za smještaj radnika posebnu dozvolu?</h3>
-<p>Ovisi o tome što radi. Posrednik u prometu nekretnina upisuje se u Registar posrednika pri HGK. Pitajte ponuditelja na temelju čega pruža uslugu i provjerite to u javnim registrima.</p>
+<p>Ovisi o tome čime se bavi. Posrednik u prometu nekretnina upisuje se u Registar posrednika pri HGK. Pitajte ponuditelja na temelju čega pruža uslugu i provjerite to u javnim registrima.</p>
 <h3>Može li agencija umjesto nas potpisati Obrazac 17a?</h3>
-<p>Ne. Obrazac potpisuje podnositelj zahtjeva za dozvolu za boravak i rad. Agencija može pripremiti podatke.</p>
+<p>Ne može. Obrazac potpisuje podnositelj zahtjeva za dozvolu za boravak i rad, a agencija može pripremiti podatke.</p>
 <h3>Koliko košta smještaj za radnike?</h3>
 <p>Pouzdanu cijenu ne možemo navesti jer ovisi o lokaciji, sezoni i sadržaju usluge. Ponude usporedite po istim stavkama.</p>
 <h3>Smiju li sezonski radnici biti u hostelu ili kampu?</h3>
-<p>Pravilnik dopušta smještaj u ugostiteljsko-turističkoj građevini i, za sezonske radnike, u kampu do 3 % ležaja kapaciteta, uz uvjete iz pravilnika. Prije toga provjerite s policijskom upravom koji dokaz o smještaju prihvaća za takav objekt.</p>
+<p>Pravilnik dopušta smještaj u ugostiteljsko-turističkoj građevini, a za sezonske radnike i u kampu do 3 % ležaja kapaciteta, uz uvjete iz pravilnika. Prije toga provjerite s policijskom upravom koji dokaz o smještaju prihvaća za takav objekt.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Kad birate između vlastite organizacije i agencije, pregledamo ponude i dokumente za svaki stan: površinu, broj osoba, ugovor i podatke potrebne za Obrazac 17a. Nakon useljenja pratimo prijave boravišta i promjene adresa. Smještaj ne tražimo i ne posredujemo u najmu nekretnina. Više na stranici <a href="/admin-podrska-pregled/usluge/smjestaj-radnika/">smještaj za radnike</a>, a za konkretnu ponudu javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Kad birate između vlastite organizacije i agencije, pomažemo vam odabrati smještaj i za svaki stan pregledamo ponudu i dokumente: površinu, broj osoba, ugovor i podatke za Obrazac 17a. Nakon useljenja pratimo prijave boravišta i promjene adresa. Nismo agencija za nekretnine, pa smještaj ne tražimo umjesto vas i ne posredujemo u najmu. Za konkretnu ponudu javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>, a više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/smjestaj-radnika/">smještaj za radnike</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/full/2026_04_43_511.html">Pravilnik o izmjenama i dopunama Pravilnika o boravku državljana trećih zemalja u Republici Hrvatskoj, NN 43/2026</a></li>
@@ -94,7 +94,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Smještaj za veći broj radnika: sami ili preko agencije\",\"description\":\"Agencija za smještaj radnika ili vlastita organizacija: kako odlučiti, što agencija ne preuzima umjesto poslodavca i koje dokumente tražiti za veći broj radnika.\",\"datePublished\":\"2027-07-19\",\"dateModified\":\"2027-07-19\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/smjestaj-za-vise-radnika/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Smještaj za veći broj radnika: sami ili preko agencije"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Agencija za smještaj radnika ili vlastita organizacija: kako odlučiti, što agencija ne preuzima umjesto poslodavca i koje dokumente tražiti za veći broj radnika."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","19. srpnja 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Smještaj za veći broj radnika: sami ili preko agencije\",\"description\":\"Agencija za smještaj radnika ili vlastita organizacija: kako odlučiti, što agencija ne preuzima umjesto poslodavca i koje dokumente tražiti za veći broj radnika.\",\"datePublished\":\"2027-07-19\",\"dateModified\":\"2027-07-19\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/smjestaj-za-vise-radnika/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Smještaj za veći broj radnika: sami ili preko agencije"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Agencija za smještaj radnika ili vlastita organizacija: kako odlučiti, što agencija ne preuzima umjesto poslodavca i koje dokumente tražiti za veći broj radnika."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","19. srpnja 2027."]}],null,["$","span",null,{"children":[7," min čitanja"]}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -102,10 +102,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Smještaj radnika"}],["$","p",null,{"children":"Provjera uvjeta smještaja, ugovor o najmu i prijava boravišta radnika."}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Smještaj za veći broj radnika: sami ili preko agencije"}],["$","meta","1",{"name":"description","content":"Agencija za smještaj radnika ili vlastita organizacija: kako odlučiti, što agencija ne preuzima umjesto poslodavca i koje dokumente tražiti za veći broj radnika."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/smjestaj-za-vise-radnika/"}],["$","meta","4",{"property":"og:title","content":"Smještaj za veći broj radnika: sami ili preko agencije"}],["$","meta","5",{"property":"og:description","content":"Agencija za smještaj radnika ili vlastita organizacija: kako odlučiti, što agencija ne preuzima umjesto poslodavca i koje dokumente tražiti za veći broj radnika."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/smjestaj-za-vise-radnika/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-07-19"}],["$","meta","13",{"property":"article:modified_time","content":"2027-07-19"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Smještaj za veći broj radnika: sami ili preko agencije"}],["$","meta","16",{"name":"twitter:description","content":"Agencija za smještaj radnika ili vlastita organizacija: kako odlučiti, što agencija ne preuzima umjesto poslodavca i koje dokumente tražiti za veći broj radnika."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

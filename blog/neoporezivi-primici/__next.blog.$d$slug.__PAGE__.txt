@@ -1,17 +1,17 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T3914,<p>Neoporezivi primici su naknade, potpore i nagrade koje poslodavac smije isplatiti radniku uz plaću, a na koje se do propisanog iznosa ne plaćaju porez na dohodak ni doprinosi. Popis i iznose propisuje Pravilnik o porezu na dohodak, u članku 7. Najčešće su to prigodne nagrade (božićnica, regres), naknada za prijevoz na posao, dnevnice, prehrana, smještaj radnika, dar djetetu te jubilarne nagrade i otpremnine.</p>
-<p>Za svaki primitak vrijede iznos, uvjeti i dokumentacija. Ako isplata prijeđe propisani iznos, razlika se oporezuje kao plaća. Ako uvjeti nisu ispunjeni, cijeli iznos može postati oporeziv. Neoporezivi primitak prijavljuje se u JOPPD obrascu.</p>
+3:T3857,<p>Neoporezivi primici su naknade, potpore i nagrade koje poslodavac smije isplatiti radniku uz plaću, a na koje se do propisanog iznosa ne plaćaju porez na dohodak ni doprinosi. Popis i iznose propisuje Pravilnik o porezu na dohodak u članku 7. Među njima su prigodne nagrade (božićnica, regres), naknada za prijevoz na posao, dnevnice, prehrana, smještaj radnika, dar djetetu te jubilarne nagrade i otpremnine.</p>
+<p>Za svaki primitak propisani su iznos, uvjeti i dokumentacija. Kad isplata prijeđe propisani iznos, razliku oporezujete kao plaću. Ako uvjeti nisu ispunjeni, oporeziv može postati cijeli iznos. I neoporezivi primitak prijavljujete u JOPPD obrascu.</p>
 <p>Iznosi u ovom tekstu provjereni su prema pročišćenom tekstu Pravilnika s izmjenama do NN 157/25 i Zakonu o porezu na dohodak s izmjenama do NN 152/24. Prije isplate provjerite jesu li iznosi mijenjani za 2027.</p>
-<h2>Kako neoporezivi primici funkcioniraju</h2>
-<p>Zakon o porezu na dohodak propisuje da se porez ne plaća na naknade, potpore i nagrade koje poslodavac isplaćuje radnicima do propisanih iznosa. Primici iznad tih iznosa smatraju se plaćom. Zakon o doprinosima isto tako u osnovicu za doprinose uključuje naknade, potpore, nagrade, dnevnice i otpremnine isplaćene iznad neoporezivih iznosa.</p>
-<p>Dva pravila vrijedi zapamtiti:</p>
+<h2>Kada se na primitak ne plaća porez?</h2>
+<p>Prema Zakonu o porezu na dohodak na naknade, potpore i nagrade koje poslodavac isplaćuje radnicima do propisanih iznosa ne plaća se porez. Sve iznad tih iznosa smatra se plaćom. Zakon o doprinosima zato u osnovicu za doprinose uključuje naknade, potpore, nagrade, dnevnice i otpremnine isplaćene iznad neoporezivih iznosa.</p>
+<p>Uz to vrijede još dva pravila:</p>
 <ul>
-<li><strong>Neoporezivo ne znači obvezno.</strong> Pravilnik određuje koliko se smije isplatiti bez poreza. Obveza isplate proizlazi iz kolektivnog ugovora, pravilnika o radu, akta poslodavca ili ugovora o radu.</li>
-<li><strong>Svi primici koji nisu na popisu su oporezivi.</strong> Pravilnik izričito kaže da se svi drugi primici koji nisu navedeni smatraju oporezivim primicima od nesamostalnog rada u ukupnom iznosu.</li>
+<li>Pravilnik određuje samo koliko smijete isplatiti bez poreza. Obvezu isplate možete imati tek na temelju kolektivnog ugovora, pravilnika o radu, akta poslodavca ili ugovora o radu.</li>
+<li>Primitak koji nije na popisu oporeziv je u cijelom iznosu. Pravilnik izričito kaže da se svi primici koji nisu navedeni smatraju oporezivim primicima od nesamostalnog rada u ukupnom iznosu.</li>
 </ul>
-<p>Dio iznosa izračunava se koeficijentom na osnovni osobni odbitak, koji iznosi 600,00 eura. Ako se osobni odbitak promijeni, mijenjaju se i ti iznosi.</p>
-<h2>Popis neoporezivih primitaka i iznosi</h2>
+<p>Dio iznosa računa se kao koeficijent pomnožen s osnovnim osobnim odbitkom, a on iznosi 600,00 eura. Kad se promijeni osobni odbitak, mijenjaju se i ti iznosi.</p>
+<h2>Koliko iznose neoporezivi primici?</h2>
 <h3>Nagrade i darovi</h3>
 <table>
 <thead>
@@ -186,32 +186,32 @@
 </tr>
 </tbody>
 </table>
-<p>Za inozemne dnevnice primjenjuju se iznosi iz propisa o službenim putovanjima za korisnike državnog proračuna. Ako je na putovanju osiguran obrok, dnevnica se umanjuje za 30 %, a za dva obroka za 60 %.</p>
-<h2>Naknada za prijevoz na posao</h2>
-<p>Naknada troškova prijevoza na posao i s posla neoporeziva je u visini stvarnih izdataka prema cijeni mjesečne ili pojedinačne karte mjesnog ili međumjesnog javnog prijevoza, odnosno do visine te cijene. Ako radnik s međumjesne stanice mora koristiti i mjesni prijevoz, zbrajaju se oba troška.</p>
-<p>Ako na određenom području nema organiziranog javnog prijevoza, naknada se utvrđuje prema cijeni prijevoza na približno jednakoj udaljenosti na kojoj je prijevoz organiziran.</p>
-<p>Naknada se ne može neoporezivo isplatiti za mjesec u kojem radnik nije radio cijeli mjesec, primjerice jer je cijeli mjesec bio na bolovanju ili plaćenom ili neplaćenom dopustu, ili je cijeli mjesec radio na izdvojenom mjestu rada.</p>
-<p>Za izračun trebaju podaci o relaciji i cijeni karte te evidencija dana rada i odsutnosti.</p>
-<h2>Prehrana radnika</h2>
-<p>Poslodavac može birati jedan od dva načina, ali ih u istom mjesecu ne smije kombinirati:</p>
+<p>Za inozemne dnevnice vrijede iznosi iz propisa o službenim putovanjima za korisnike državnog proračuna. Ako je na putovanju osiguran jedan obrok, dnevnicu umanjujete za 30 %, a za dva obroka za 60 %.</p>
+<h2>Kako obračunati naknadu za prijevoz na posao</h2>
+<p>Naknada troškova prijevoza na posao i s posla neoporeziva je u visini stvarnih izdataka prema cijeni mjesečne ili pojedinačne karte mjesnog ili međumjesnog javnog prijevoza, odnosno do visine te cijene. Ako radnik s međumjesne stanice mora nastaviti mjesnim prijevozom, zbrajate oba troška.</p>
+<p>Gdje nema organiziranog javnog prijevoza, naknadu utvrđujete prema cijeni prijevoza na približno jednakoj udaljenosti na kojoj prijevoz postoji.</p>
+<p>Za mjesec u kojem radnik nije radio nijedan dan naknadu ne možete isplatiti neoporezivo. To vrijedi ako je cijeli mjesec bio na bolovanju ili plaćenom ili neplaćenom dopustu, ili je cijeli mjesec radio na izdvojenom mjestu rada.</p>
+<p>Za izračun vam trebaju relacija, cijena karte i evidencija dana rada i odsutnosti.</p>
+<h2>Kako neoporezivo platiti prehranu radnika</h2>
+<p>Možete birati jedan od dva načina, ali ih <strong>u istom mjesecu ne smijete kombinirati</strong>:</p>
 <ul>
-<li><strong>Paušalna novčana naknada:</strong> do 100,00 eura mjesečno, odnosno do 1.200,00 eura godišnje.</li>
-<li><strong>Plaćanje troškova prehrane na temelju dokumentacije:</strong> do 150,00 eura mjesečno, odnosno do 1.800,00 eura godišnje. Računi moraju glasiti na poslodavca i biti plaćeni bezgotovinski, a iz dokumentacije mora biti vidljivo da se radi o kontinuiranoj usluzi za radnike tijekom radnih dana. Prehrana se može osigurati u ugostiteljskim objektima ili kupnjom u trgovinama.</li>
+<li>Paušalna novčana naknada: do 100,00 eura mjesečno, odnosno do 1.200,00 eura godišnje.</li>
+<li>Plaćanje troškova prehrane na temelju dokumentacije: do 150,00 eura mjesečno, odnosno do 1.800,00 eura godišnje. Računi moraju glasiti na poslodavca i biti plaćeni bezgotovinski, a iz dokumentacije se mora vidjeti da je riječ o kontinuiranoj usluzi za radnike tijekom radnih dana. Prehranu možete osigurati u ugostiteljskim objektima ili kupnjom u trgovinama.</li>
 </ul>
-<p>Ako se naknade isplaćuju za više mjeseci iste godine, mogu se isplatiti kumulativno za broj tih mjeseci. Voda te topli i hladni bezalkoholni napitci koje poslodavac osigurava za vrijeme radnog vremena ne smatraju se oporezivim primitkom.</p>
-<h2>Smještaj radnika</h2>
-<p>Troškovi smještaja radnika za vrijeme radnog odnosa neoporezivi su u visini stvarnih izdataka, uz uvjet da su plaćeni bezgotovinski i da postoji vjerodostojna dokumentacija. Neoporezivi primitak priznaje se za mjesec u kojem je usluga smještaja obavljena.</p>
-<p>Moguća su tri načina:</p>
+<p>Naknade za više mjeseci iste godine smijete isplatiti odjednom, kumulativno za broj tih mjeseci. Voda te topli i hladni bezalkoholni napitci koje radnicima osiguravate tijekom radnog vremena nisu oporezivi primitak.</p>
+<h2>Kako neoporezivo platiti smještaj radnika</h2>
+<p>Troškovi smještaja radnika za vrijeme radnog odnosa neoporezivi su u visini stvarnih izdataka, ali samo ako su <strong>plaćeni bezgotovinski</strong> i ako imate vjerodostojnu dokumentaciju. Neoporezivi primitak priznaje se za mjesec u kojem je radnik bio smješten.</p>
+<p>Smještaj možete platiti na tri načina:</p>
 <ol>
-<li><strong>Poslodavac plaća smještaj</strong> najmodavcu ili pružatelju usluge.</li>
-<li><strong>Radnik sam sklopi ugovor o najmu</strong>, poslodavcu dostavi kopiju ugovora ili računa, a poslodavac trošak uplati na račun radnika i zadrži kopiju dokumentacije. Radnik mora obavijestiti poslodavca kad više nema troška smještaja.</li>
-<li><strong>Smještaj se organizira kod samog poslodavca</strong>, uz vjerodostojnu dokumentaciju kao dokaz.</li>
+<li>Vi plaćate smještaj najmodavcu ili pružatelju usluge.</li>
+<li>Radnik sam sklopi ugovor o najmu i dostavi vam kopiju ugovora ili računa. Vi trošak uplatite na račun radnika i zadržite kopiju dokumentacije. Radnik vas mora obavijestiti kad više nema troška smještaja.</li>
+<li>Smještaj organizirate kod sebe, uz vjerodostojnu dokumentaciju kao dokaz.</li>
 </ol>
-<p>Troškom smještaja smatra se iznos s ugovora ili računa za prostor za stanovanje radnika. U njemu ne smiju biti stavke koje se uobičajeno ne pripisuju smještaju, kao što su garaža, posebno plaćeni telefon i internet te posebno obračunata struja, voda ili grijanje. Neoporezivim se smatra onaj dio troška smještaja koji se na temelju vjerodostojne dokumentacije može pripisati radniku, što je važno kad više radnika dijeli isti smještaj.</p>
-<h2>Radnik s više poslodavaca</h2>
-<p>Za nagrade za radne rezultate, prigodne nagrade, naknade za odmor, prehranu, premije dopunskog i dodatnog osiguranja i naknadu za rad od kuće radnik koji u istoj godini radi ili je radio kod više poslodavaca mora prije isplate dati pisanu izjavu je li te primitke već primio i u kojem iznosu. Neoporezivo se može isplatiti samo razlika do propisanog iznosa. Slično pravilo vrijedi za smještaj kod istodobnog rada kod više poslodavaca.</p>
-<h2>Što ne ulazi u dohodak radnika</h2>
-<p>Zakon o porezu na dohodak posebno navodi što se uopće ne smatra primitkom od nesamostalnog rada, pa nije riječ ni o neoporezivom primitku s limitom:</p>
+<p>Trošak smještaja je iznos s ugovora ili računa za prostor u kojem radnik stanuje. U njemu ne smiju biti stavke koje se uobičajeno ne pripisuju smještaju, kao što su garaža, posebno plaćeni telefon i internet te posebno obračunata struja, voda ili grijanje. Neoporeziv je samo onaj dio troška koji se na temelju vjerodostojne dokumentacije može pripisati radniku. Na to pazite kad više radnika dijeli isti smještaj.</p>
+<h2>Što ako radnik radi kod više poslodavaca?</h2>
+<p>Za nagrade za radne rezultate, prigodne nagrade, naknade za odmor, prehranu, premije dopunskog i dodatnog osiguranja i naknadu za rad od kuće radnik koji u istoj godini radi ili je radio kod više poslodavaca mora prije isplate dati pisanu izjavu je li te primitke već primio i u kojem iznosu. Neoporezivo mu smijete isplatiti samo razliku do propisanog iznosa. Slično pravilo vrijedi za smještaj kad radnik istodobno radi kod više poslodavaca.</p>
+<h2>Što uopće ne ulazi u dohodak radnika?</h2>
+<p>Zakon o porezu na dohodak posebno navodi što nije primitak od nesamostalnog rada. Za te stavke zato nema ni limita kao kod neoporezivih primitaka:</p>
 <ul>
 <li>uređenje i opremanje radnih prostora i prostora za odmor i prehranu</li>
 <li>posebna radna odjeća prema propisima o zaštiti na radu i pravilima poslodavca</li>
@@ -231,19 +231,19 @@
 <li>za radnike s više poslodavaca: pisana izjava o već primljenim iznosima</li>
 </ul>
 <h2>Neoporezivi primici u JOPPD obrascu</h2>
-<p>Neoporezivi primici iskazuju se na stranici B JOPPD obrasca, s oznakom iz Priloga 4. Većina se može prijaviti zbirno, najkasnije do 15. u mjesecu za prethodni mjesec, ili pojedinačno na dan isplate. Zbirno izvješćivanje do 15. ne vrijedi za nagrade za radne rezultate, prigodne nagrade, naknade za odmor, paušalnu prehranu, skrb djece i premije dopunskog i dodatnog osiguranja. Neoporezivi primici iz prosinca prijavljuju se do 15. siječnja, s oznakom 31. prosinca prethodne godine.</p>
-<h2>Najčešće greške</h2>
+<p>Neoporezive primitke iskazujete na stranici B JOPPD obrasca, s oznakom iz Priloga 4. Možete ih prijaviti zbirno, <strong>najkasnije do 15. u mjesecu</strong> za prethodni mjesec, ili pojedinačno na dan isplate. Zbirno izvješćivanje do 15. ne vrijedi za nagrade za radne rezultate, prigodne nagrade, naknade za odmor, paušalnu prehranu, skrb djece i premije dopunskog i dodatnog osiguranja. Neoporezive primitke iz prosinca prijavljujete do 15. siječnja, s oznakom 31. prosinca prethodne godine.</p>
+<h2>Na što pripaziti</h2>
 <ol>
-<li><strong>Isplata bez temelja u aktu poslodavca.</strong> Primitak mora imati osnovu u kolektivnom ugovoru, pravilniku o radu, odluci ili ugovoru o radu.</li>
-<li><strong>Prehrana u novcu i po računima u istom mjesecu.</strong> Ta dva načina se na razini mjeseca isključuju.</li>
-<li><strong>Smještaj plaćen gotovinom.</strong> Neoporezivo se priznaju samo bezgotovinski podmireni izdaci.</li>
-<li><strong>Prijevoz isplaćen za mjesec cijelog bolovanja.</strong> Za takav mjesec naknada ne može biti neoporeziva.</li>
-<li><strong>Nema izjave radnika s više poslodavaca.</strong> Bez nje nije moguće provjeriti je li limit već iskorišten.</li>
-<li><strong>Primitak nije prijavljen u JOPPD.</strong> Neoporezivo ne znači neprijavljeno.</li>
+<li>Primitak isplaćujete bez temelja u kolektivnom ugovoru, pravilniku o radu, odluci ili ugovoru o radu.</li>
+<li>U istom mjesecu isplatite paušal za prehranu i platite prehranu po računima, a ta se dva načina isključuju.</li>
+<li>Smještaj platite gotovinom. Neoporezivo se priznaju samo izdaci plaćeni bezgotovinski.</li>
+<li>Naknadu za prijevoz isplatite neoporezivo za mjesec u kojem je radnik cijeli mjesec bio na bolovanju.</li>
+<li>Od radnika koji radi i kod drugih poslodavaca ne uzmete pisanu izjavu, pa ne znate je li limit već iskoristio.</li>
+<li>Neoporezivi primitak ne prijavite u JOPPD, iako se i on prijavljuje.</li>
 </ol>
 <h2>Česta pitanja</h2>
 <h3>Koliko se neoporezivo može isplatiti za božićnicu i regres?</h3>
-<p>Prigodne nagrade, u koje spadaju božićnica i regres, neoporezive su ukupno do 700,00 eura godišnje. Iznos iznad toga oporezuje se kao plaća.</p>
+<p>Prigodne nagrade, a među njih spadaju božićnica i regres, neoporezive su ukupno do 700,00 eura godišnje. Iznos iznad toga oporezujete kao plaću.</p>
 <h3>Kolika je neoporeziva naknada za prijevoz na posao?</h3>
 <p>U visini stvarnih izdataka prema cijeni mjesečne ili pojedinačne karte javnog prijevoza, odnosno do visine te cijene. Pravilnik ne propisuje fiksni iznos.</p>
 <h3>Može li se smještaj stranih radnika platiti neoporezivo?</h3>
@@ -251,9 +251,9 @@
 <h3>Plaćaju li se doprinosi na neoporezive primitke?</h3>
 <p>Do propisanog iznosa ne. Iznos iznad neoporezivog uključuje se u osnovicu za doprinose.</p>
 <h3>Vrijede li ovi iznosi i u 2027.?</h3>
-<p>Iznosi su provjereni prema propisima važećima u rujnu 2026. Zakon o porezu na dohodak i Pravilnik mogu se mijenjati, pa prije isplate provjerite važeći tekst Pravilnika o porezu na dohodak.</p>
+<p>Iznose smo provjerili prema propisima važećima u rujnu 2026. Zakon o porezu na dohodak i Pravilnik mogu se promijeniti, pa prije isplate provjerite važeći tekst Pravilnika o porezu na dohodak.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Obračun i isplatu radi vaše računovodstvo. Mi pripremamo dokumentaciju za neoporezive primitke, osobito za smještaj i prijevoz radnika, i pazimo da ugovori, evidencije i računi odgovaraju onome što računovodstvo iskazuje u obračunu. Više na stranici <a href="/admin-podrska-pregled/usluge/place-i-racunovodstvo/">plaće i računovodstvo</a> ili putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Obračun i isplatu radi vaše računovodstvo. Mi pripremimo dokumentaciju za neoporezive primitke, posebno za smještaj i prijevoz radnika, i pazimo da ugovori, evidencije i računi odgovaraju onome što računovodstvo iskazuje u obračunu. Više o tome pišemo na stranici <a href="/admin-podrska-pregled/usluge/place-i-racunovodstvo/">plaće i računovodstvo</a>, a javiti nam se možete preko stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/c/podzakonski-propis/60043/pravilnik-o-porezu-na-dohodak-%E2%80%93-procisceni-tekst">Pravilnik o porezu na dohodak, NN 10/17, 128/17, 106/18, 1/19, 80/19, 1/20, 74/20, 1/21, 102/22, 112/22, 156/22, 1/23, 56/23, 143/23, 16/25, 157/25, pročišćeni tekst (zakon.hr)</a>, članci 7. i 79.</li>
@@ -264,7 +264,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Neoporezivi primici: što poslodavac smije isplatiti radniku uz plaću\",\"description\":\"Neoporezivi primici uz plaću: prigodne nagrade, prijevoz na posao, prehrana, smještaj, dnevnice i potpore. Propisani iznosi, uvjeti i dokumentacija za isplatu.\",\"datePublished\":\"2027-03-29\",\"dateModified\":\"2027-03-29\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/neoporezivi-primici/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Neoporezivi primici: što poslodavac smije isplatiti radniku uz plaću"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Neoporezivi primici uz plaću: prigodne nagrade, prijevoz na posao, prehrana, smještaj, dnevnice i potpore. Propisani iznosi, uvjeti i dokumentacija za isplatu."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","29. ožujka 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Neoporezivi primici: što poslodavac smije isplatiti radniku uz plaću\",\"description\":\"Neoporezivi primici uz plaću: prigodne nagrade, prijevoz na posao, prehrana, smještaj, dnevnice i potpore. Propisani iznosi, uvjeti i dokumentacija za isplatu.\",\"datePublished\":\"2027-03-29\",\"dateModified\":\"2027-03-29\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/neoporezivi-primici/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Neoporezivi primici: što poslodavac smije isplatiti radniku uz plaću"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Neoporezivi primici uz plaću: prigodne nagrade, prijevoz na posao, prehrana, smještaj, dnevnice i potpore. Propisani iznosi, uvjeti i dokumentacija za isplatu."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","29. ožujka 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -272,10 +272,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Plaće i računovodstvo"}],["$","p",null,{"children":"Povezujemo vas s računovodstvom koje poznaje vaše poslovanje i pripremamo podatke za obračun."}],["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Neoporezivi primici: što poslodavac smije isplatiti radniku uz plaću"}],["$","meta","1",{"name":"description","content":"Neoporezivi primici uz plaću: prigodne nagrade, prijevoz na posao, prehrana, smještaj, dnevnice i potpore. Propisani iznosi, uvjeti i dokumentacija za isplatu."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/neoporezivi-primici/"}],["$","meta","4",{"property":"og:title","content":"Neoporezivi primici: što poslodavac smije isplatiti radniku uz plaću"}],["$","meta","5",{"property":"og:description","content":"Neoporezivi primici uz plaću: prigodne nagrade, prijevoz na posao, prehrana, smještaj, dnevnice i potpore. Propisani iznosi, uvjeti i dokumentacija za isplatu."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/neoporezivi-primici/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-03-29"}],["$","meta","13",{"property":"article:modified_time","content":"2027-03-29"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Neoporezivi primici: što poslodavac smije isplatiti radniku uz plaću"}],["$","meta","16",{"name":"twitter:description","content":"Neoporezivi primici uz plaću: prigodne nagrade, prijevoz na posao, prehrana, smještaj, dnevnice i potpore. Propisani iznosi, uvjeti i dokumentacija za isplatu."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

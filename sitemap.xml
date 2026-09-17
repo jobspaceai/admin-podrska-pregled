@@ -61,6 +61,11 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://horizonplus.hr/zastita-podataka/</loc>
+<changefreq>yearly</changefreq>
+<priority>0.2</priority>
+</url>
+<url>
 <loc>https://horizonplus.hr/blog/nova-firma-prvi-radnik/</loc>
 <lastmod>2027-08-23</lastmod>
 <changefreq>yearly</changefreq>

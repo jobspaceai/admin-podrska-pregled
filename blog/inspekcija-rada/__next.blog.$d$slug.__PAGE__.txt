@@ -1,10 +1,9 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T3c68,<p>Inspekcija rada dio je Državnog inspektorata i nadzire provodi li poslodavac Zakon o radu i druge propise o radnim odnosima, prijavama na osiguranje, radu stranaca i zaštiti na radu. U nadzoru inspektor pregledava prostor, razgovara s radnicima i traži dokumentaciju: ugovore o radu, prijave na mirovinsko i zdravstveno osiguranje, evidenciju o radnicima i radnom vremenu, obračune plaće i raspored godišnjih odmora.</p>
-<p>Najbolja priprema nije mapa složena dan prije nadzora, nego dokumentacija koja se vodi redovito i koju možete predočiti čim je inspektor zatraži. Inspektor dolazak ne mora najaviti.</p>
-<p>U nastavku je pregled ovlasti inspektora, razlike prema nadzoru zaštite na radu, dokumenata koje je dobro imati spremne i tijeka nadzora.</p>
-<h2>Tko provodi inspekciju rada</h2>
-<p>Prema Zakonu o radu inspekcijski nadzor nad provedbom tog zakona i drugih propisa o odnosima između poslodavaca i radnika obavlja tijelo državne uprave nadležno za inspekciju rada. Prema Zakonu o Državnom inspektoratu te poslove obavlja <strong>inspekcija rada</strong> unutar Državnog inspektorata.</p>
+3:T3855,<p>Inspekcija rada dio je Državnog inspektorata i nadzire provodi li poslodavac Zakon o radu i druge propise o radnim odnosima, prijavama na osiguranje, radu stranaca i zaštiti na radu. U nadzoru inspektor pregledava prostor, razgovara s radnicima i traži dokumentaciju: ugovore o radu, prijave na mirovinsko i zdravstveno osiguranje, evidenciju o radnicima i radnom vremenu, obračune plaće i raspored godišnjih odmora.</p>
+<p>Za nadzor se pripremate tako da dokumentaciju vodite redovito i možete je pokazati čim je inspektor zatraži. Naime, inspektor dolazak ne mora najaviti.</p>
+<h2>Tko provodi inspekciju rada?</h2>
+<p>Prema Zakonu o radu, provedbu tog zakona i drugih propisa o odnosima poslodavaca i radnika nadzire tijelo državne uprave nadležno za inspekciju rada. Po Zakonu o Državnom inspektoratu to je inspekcija rada unutar Državnog inspektorata.</p>
 <p>Inspekcija rada nadzire provedbu propisa kojima se uređuju:</p>
 <ul>
 <li>radni odnosi i zaštita na radu</li>
@@ -14,46 +13,44 @@
 <li>djelatnosti u vezi sa zapošljavanjem</li>
 <li>prednost pri zapošljavanju branitelja, osoba s invaliditetom i drugih zakonom određenih skupina.</li>
 </ul>
-<p>Nadzor se provodi po službenoj dužnosti. Predstavka s podacima o podnositelju može biti povod za nadzor. Zakon o radu izričito predviđa da nadzor od inspektora rada mogu zatražiti radnik, radničko vijeće, sindikat i sam poslodavac.</p>
-<h2>Inspekcija rada i inspekcija zaštite na radu</h2>
-<p>Obje vrste nadzora obavlja ista inspekcija rada, ali se odnose na različite propise i različitu dokumentaciju.</p>
+<p>Inspekcija nadzor provodi po službenoj dužnosti, a povod može biti i predstavka s podacima o podnositelju. Zakon o radu izričito predviđa da nadzor od inspektora rada mogu zatražiti radnik, radničko vijeće, sindikat i sam poslodavac.</p>
+<h2>Po čemu se inspekcija rada razlikuje od inspekcije zaštite na radu?</h2>
+<p>Obje vrste nadzora obavlja ista inspekcija rada, ali prema različitim propisima i uz različitu dokumentaciju.</p>
 <ul>
-<li><strong>Nadzor radnih odnosa</strong> odnosi se na Zakon o radu, Zakon o suzbijanju neprijavljenoga rada, Zakon o strancima, propise o obveznim osiguranjima, minimalnoj plaći i drugo. Tu se gledaju ugovori, prijave, evidencije, plaće, odmori i otkazi.</li>
-<li><strong>Nadzor zaštite na radu</strong> odnosi se na Zakon o zaštiti na radu i propise donesene na temelju njega. Tu se gledaju uvjeti rada i dokumentacija iz zaštite na radu. Inspekcija rada provodi i nadzore povodom ozljeda osoba u prostorijama i na prostorima poslodavca.</li>
+<li>U nadzoru radnih odnosa inspektor primjenjuje Zakon o radu, Zakon o suzbijanju neprijavljenoga rada, Zakon o strancima, propise o obveznim osiguranjima, minimalnoj plaći i drugo. Gleda ugovore, prijave, evidencije, plaće, odmore i otkaze.</li>
+<li>U nadzoru zaštite na radu primjenjuje Zakon o zaštiti na radu i propise donesene na temelju njega. Gleda uvjete rada i dokumentaciju iz zaštite na radu. Inspekcija rada provodi i nadzore povodom ozljeda osoba u prostorijama i na prostorima poslodavca.</li>
 </ul>
-<p>Kod ozljede na radu postoji posebna obveza: smatra se da poslodavac nije omogućio nadzor ako inspektora rada nije obavijestio o ozljedi u skladu s propisima zaštite na radu ili nije sačuvao prostor i okolnosti u stanju u kakvom su bili u trenutku događaja, osim nužnih promjena radi sprječavanja rizika i spašavanja ozlijeđenog.</p>
-<p>Ovaj članak bavi se nadzorom radnih odnosa. Dokumentacija iz zaštite na radu zasebna je tema.</p>
-<h2>Što smije inspektor rada</h2>
-<p>Ovlasti inspektora propisuje Zakon o Državnom inspektoratu:</p>
+<p>Kod ozljede na radu imate posebnu obvezu. Smatra se da niste omogućili nadzor ako inspektora rada niste obavijestili o ozljedi u skladu s propisima zaštite na radu ili niste sačuvali prostor i okolnosti u stanju u kakvom su bili u trenutku događaja, osim nužnih promjena radi sprječavanja rizika i spašavanja ozlijeđenog.</p>
+<p>Ovdje je riječ o nadzoru radnih odnosa, a ne zaštite na radu. Dokumentacija iz zaštite na radu zasebna je tema.</p>
+<h2>Što smije inspektor rada?</h2>
+<p>Ovlasti inspektora propisuje Zakon o Državnom inspektoratu. Inspektor u nadzoru samostalno vodi postupak, donosi upravne akte i poduzima mjere, a službeno svojstvo dokazuje službenom iskaznicom i značkom. O početku nadzora može vas obavijestiti, osim ako smatra da bi to nadzor učinilo manje učinkovitim.</p>
+<p>U nadzoru inspektor smije:</p>
 <ul>
-<li><strong>Samostalnost.</strong> Inspektor u nadzoru samostalno vodi postupak, donosi upravne akte i poduzima mjere.</li>
-<li><strong>Identifikacija.</strong> Službeno svojstvo dokazuje službenom iskaznicom i značkom.</li>
-<li><strong>Nenajavljeni nadzor.</strong> Inspektor može obavijestiti poslodavca o početku nadzora, osim ako smatra da bi to umanjilo učinkovitost nadzora.</li>
-<li><strong>Pregled i snimanje.</strong> Smije pregledati, fotografirati ili snimiti poslovne i druge prostore u kojima se obavlja rad, osobe, sredstva rada, poslovne knjige, evidencije, računalne programe, ugovore, isprave i drugu dokumentaciju.</li>
-<li><strong>Identitet osoba.</strong> Smije zatražiti osobnu iskaznicu ili putovnicu od osoba zatečenih na mjestu nadzora.</li>
-<li><strong>Izjave.</strong> Smije uzimati izjave od predstavnika poslodavca i osoba zatečenih u nadzoru.</li>
-<li><strong>Dostava podataka.</strong> Na pisano traženje poslodavac mora u roku koji odredi inspektor dostaviti točne i potpune podatke i materijale.</li>
+<li>pregledati, fotografirati ili snimiti poslovne i druge prostore u kojima se radi, osobe, sredstva rada, poslovne knjige, evidencije, računalne programe, ugovore, isprave i drugu dokumentaciju</li>
+<li>od osoba zatečenih na mjestu nadzora zatražiti osobnu iskaznicu ili putovnicu</li>
+<li>uzimati izjave od predstavnika poslodavca i osoba zatečenih u nadzoru</li>
+<li>pisano zatražiti podatke i materijale, koje mu <strong>u roku koji odredi</strong> morate dostaviti točne i potpune.</li>
 </ul>
-<p>Poslodavac mora inspektoru omogućiti nadzor i neometan rad. Smatra se da nadzor nije omogućen i ako se ne odazovete pozivu za saslušanje ili ako u roku iz zapisnika ili poziva ne osigurate uvid u traženu poslovnu dokumentaciju.</p>
-<p>Zakon o radu posebno propisuje da je poslodavac dužan inspektoru rada na zahtjev dostaviti podatke o radnicima i radnom vremenu.</p>
-<h2>Što provjerava inspekcija rada</h2>
-<p>Zakon ne propisuje jedinstven popis točaka nadzora. Popis ispod slijedi obveze iz Zakona o radu i srodnih propisa za koje Zakon o radu predviđa mjere inspektora ili prekršaje.</p>
+<p>Inspektoru morate omogućiti nadzor i neometan rad. Smatra se da nadzor niste omogućili i ako se ne odazovete pozivu za saslušanje ili ako u roku iz zapisnika ili poziva ne osigurate uvid u traženu poslovnu dokumentaciju.</p>
+<p>Zakon o radu uz to posebno propisuje da inspektoru rada na zahtjev morate dostaviti podatke o radnicima i radnom vremenu.</p>
+<h2>Što provjerava inspekcija rada?</h2>
+<p>Zakon ne propisuje jedinstven popis točaka nadzora. Popis niže slijedi obveze iz Zakona o radu i srodnih propisa za koje Zakon o radu predviđa mjere inspektora ili prekršaje.</p>
 <ul>
-<li><strong>Ugovori o radu.</strong> Postoji li pisani ugovor ili potvrda prije početka rada, sadrži li propisane podatke, jesu li ugovori na određeno sklopljeni u skladu sa zakonom.</li>
-<li><strong>Prijave na osiguranje.</strong> Je li radnik prijavljen i jesu li promjene dostavljene u propisanom roku.</li>
-<li><strong>Neprijavljeni rad.</strong> Rad bez prijave na mirovinsko osiguranje prije početka rada, bez pisanog ugovora ili potvrde, ili na temelju drugih ugovora koji prikrivaju radni odnos.</li>
-<li><strong>Evidencija o radnicima i radnom vremenu.</strong> Vodi li se na propisani način i može li se predočiti.</li>
-<li><strong>Radno vrijeme.</strong> Raspored, obavijest radniku o rasporedu ili promjeni najmanje tjedan dana unaprijed (osim kod prijeke potrebe), prekovremeni rad, odmori.</li>
-<li><strong>Godišnji odmor.</strong> Raspored korištenja utvrđen najkasnije do 30. lipnja i obavijest radniku najmanje 15 dana prije korištenja.</li>
-<li><strong>Plaće.</strong> Dostava obračuna u roku od 15 dana od isplate, a kod neisplate posebni obračuni do kraja mjeseca.</li>
-<li><strong>Pravilnik o radu i dostupnost propisa.</strong> Poslodavac s najmanje 20 radnika mora imati pravilnik o radu, ako pitanja nisu uređena kolektivnim ugovorom. Propisi o zaštiti na radu, kolektivni ugovor i pravilnik o radu moraju biti dostupni radnicima.</li>
-<li><strong>Zaštita dostojanstva.</strong> Poslodavac s najmanje 20 radnika imenuje osobu za pritužbe i o tome u osam dana obavještava radnike.</li>
-<li><strong>Rad stranaca.</strong> Dozvola za boravak i rad ili potvrda o prijavi rada, kad je radnik državljanin treće zemlje obvezan imati.</li>
-<li><strong>Prestanak radnog odnosa.</strong> Vraćanje isprava, primjerak odjave i potvrda o poslovima i trajanju radnog odnosa u roku od 15 dana.</li>
+<li>Ugovori o radu: postoji li pisani ugovor ili potvrda prije početka rada, sadrži li propisane podatke i jesu li ugovori na određeno sklopljeni u skladu sa zakonom.</li>
+<li>Prijave na osiguranje: je li radnik prijavljen i jesu li promjene dostavljene u propisanom roku.</li>
+<li>Neprijavljeni rad: radi li netko bez prijave na mirovinsko osiguranje prije početka rada, bez pisanog ugovora ili potvrde, ili na temelju drugih ugovora koji prikrivaju radni odnos.</li>
+<li>Evidencija o radnicima i radnom vremenu: vodi li se na propisani način i možete li je predočiti.</li>
+<li>Radno vrijeme: raspored, obavijest radniku o rasporedu ili promjeni najmanje tjedan dana unaprijed (osim kod prijeke potrebe), prekovremeni rad i odmori.</li>
+<li>Godišnji odmor: je li raspored korištenja utvrđen najkasnije do 30. lipnja i je li radnik obaviješten najmanje 15 dana prije korištenja.</li>
+<li>Plaće: jeste li obračun dostavili u roku od 15 dana od isplate, a kod neisplate posebne obračune do kraja mjeseca.</li>
+<li>Pravilnik o radu i dostupnost propisa: poslodavac s najmanje 20 radnika mora imati pravilnik o radu, ako pitanja nisu uređena kolektivnim ugovorom. Propisi o zaštiti na radu, kolektivni ugovor i pravilnik o radu moraju biti dostupni radnicima.</li>
+<li>Zaštita dostojanstva: poslodavac s najmanje 20 radnika imenuje osobu za pritužbe i o tome u osam dana obavještava radnike.</li>
+<li>Rad stranaca: ima li radnik iz treće zemlje dozvolu za boravak i rad ili potvrdu o prijavi rada kad je mora imati.</li>
+<li>Prestanak radnog odnosa: jeste li u roku od 15 dana vratili isprave i radniku dali primjerak odjave i potvrdu o poslovima i trajanju radnog odnosa.</li>
 </ul>
-<h2>Dokumentacija za inspekciju rada</h2>
-<p>Propisi koje smo pregledali ne sadrže jedinstven popis dokumenata koji moraju fizički stajati na svakom mjestu rada. Takvu obvezu Pravilnik o evidenciji o radnicima izričito propisuje za strane poslodavce koji upućuju radnike u Hrvatsku: evidenciju radnog vremena čuvaju na mjestu rada ili drugom jasno određenom i dostupnom mjestu u Hrvatskoj.</p>
-<p>Za domaćeg poslodavca važno je da dokumentaciju može predočiti. Pravilnik o sadržaju i načinu vođenja evidencije o radnicima zaposlenim kod poslodavca propisuje da poslodavac ovlaštenim osobama mora osigurati uvid u pisani pregled podataka za svakog radnika te u isprave i akte vezane uz radni odnos. Mora im omogućiti i preuzimanje dokumenta u papirnatom ili elektroničkom obliku te evidentirati datum i svrhu preuzimanja i tko je dokument preuzeo.</p>
+<h2>Koju dokumentaciju pripremiti za inspekciju rada?</h2>
+<p>Propisi koje smo pregledali ne sadrže jedinstven popis dokumenata koji moraju fizički stajati na svakom mjestu rada. Takvu obvezu Pravilnik o evidenciji o radnicima izričito propisuje za strane poslodavce koji upućuju radnike u Hrvatsku. Oni evidenciju radnog vremena čuvaju na mjestu rada ili na drugom jasno određenom i dostupnom mjestu u Hrvatskoj.</p>
+<p>Domaći poslodavac dokumentaciju mora moći predočiti. Po Pravilniku o sadržaju i načinu vođenja evidencije o radnicima zaposlenim kod poslodavca ovlaštenim osobama morate osigurati uvid u pisani pregled podataka za svakog radnika te u isprave i akte vezane uz radni odnos. Morate im omogućiti i preuzimanje dokumenta u papirnatom ili elektroničkom obliku te zabilježiti datum i svrhu preuzimanja i tko je dokument preuzeo.</p>
 <h3>Kontrolni popis dokumenata</h3>
 <p>Za svakog radnika:</p>
 <ul>
@@ -64,7 +61,7 @@
 <li>dozvola za boravak i rad ili potvrda o prijavi rada za državljane trećih zemalja</li>
 <li>odluke o otkazu, sporazumi, pisane izjave i suglasnosti radnika.</li>
 </ul>
-<p>Za cijelu tvrtku:</p>
+<p>Za cijelu firmu:</p>
 <ul>
 <li>evidencija radnog vremena za tekuće i prethodna obračunska razdoblja</li>
 <li>rasporedi radnog vremena i odluke o njihovim promjenama</li>
@@ -75,50 +72,50 @@
 <li>evidencija o studentima, učenicima i drugim osobama koje rade bez ugovora o radu</li>
 <li>ugovori s agencijom za privremeno zapošljavanje i uputnice, ako koristite ustupljene radnike.</li>
 </ul>
-<h2>Kako izgleda nadzor</h2>
+<h2>Kako teče nadzor?</h2>
 <ol>
-<li><strong>Dolazak.</strong> Inspektor se predstavlja iskaznicom i značkom. Nadzor ne mora biti najavljen.</li>
-<li><strong>Pregled.</strong> Obilazak prostora, utvrđivanje identiteta zatečenih osoba i razgovori s radnicima.</li>
-<li><strong>Traženje dokumentacije.</strong> Dio dokumenata inspektor pregledava odmah, a za ostalo određuje rok.</li>
-<li><strong>Zapisnik.</strong> O nadzoru se sastavlja zapisnik, a jedan primjerak uručuje se ili dostavlja poslodavcu ili osobi zatečenoj u nadzoru.</li>
-<li><strong>Mjere.</strong> Ako utvrdi nepravilnosti, inspektor rada može usmenim rješenjem u zapisniku narediti da ih otklonite u ostavljenom roku, npr. da utvrdite raspored godišnjih odmora ili dostavite obračun plaće. U određenim slučajevima izriče zabrane. Žalba protiv takvog rješenja ne odgađa njegovo izvršenje.</li>
-<li><strong>Prekršaji.</strong> Zakon o radu propisuje lakše, teže i najteže prekršaje poslodavca, a Zakon o suzbijanju neprijavljenoga rada posebne mjere kod utvrđenog neprijavljenog rada, koje uključuju i zabranu obavljanja djelatnosti kod ponavljanja.</li>
+<li>Inspektor dolazi, bez obveze da se najavi, i predstavlja se iskaznicom i značkom.</li>
+<li>Obilazi prostor, utvrđuje identitet zatečenih osoba i razgovara s radnicima.</li>
+<li>Traži dokumentaciju. Dio pregledava odmah, a za ostalo određuje rok.</li>
+<li>O nadzoru sastavlja zapisnik, a jedan primjerak uručuje ili dostavlja poslodavcu ili osobi zatečenoj u nadzoru.</li>
+<li>Ako utvrdi nepravilnosti, može vam usmenim rješenjem u zapisniku narediti da ih otklonite u ostavljenom roku, na primjer da utvrdite raspored godišnjih odmora ili dostavite obračun plaće. U određenim slučajevima izriče zabrane. Žalba protiv takvog rješenja ne odgađa njegovo izvršenje.</li>
+<li>Za prekršaje vrijede posebna pravila. Zakon o radu propisuje lakše, teže i najteže prekršaje poslodavca, a Zakon o suzbijanju neprijavljenoga rada posebne mjere kad se utvrdi neprijavljeni rad. Kod ponavljanja te mjere uključuju i zabranu obavljanja djelatnosti.</li>
 </ol>
 <p>Inspektor mora čuvati identitet podnositelja predstavke, osim kad podnositelj sudjeluje u postupku radi zaštite svojih prava, a to po prirodi stvari nije moguće ili je posebnim zakonom tako propisano.</p>
-<h2>Kako se pripremiti za inspekciju rada</h2>
+<h2>Kako se pripremiti za inspekciju rada?</h2>
 <ol>
-<li><strong>Unutarnja provjera jednom godišnje.</strong> Usporedite popis radnika u evidenciji s prijavama na osiguranje i obračunom plaće.</li>
-<li><strong>Ugovori.</strong> Provjerite obvezni sadržaj, rokove ugovora na određeno i jesu li sve promjene unesene aneksima.</li>
-<li><strong>Evidencija radnog vremena.</strong> Mora se voditi tijekom mjeseca i odgovarati stvarnom stanju. Podaci se upisuju najkasnije sedmog dana od dana na koji se odnose.</li>
-<li><strong>Godišnji odmori.</strong> Do 30. lipnja utvrdite raspored i čuvajte obavijesti radnicima.</li>
-<li><strong>Studenti i ostali bez ugovora o radu.</strong> Za njih se vodi posebna evidencija i evidencija trajanja rada.</li>
-<li><strong>Strani radnici.</strong> Pratite rokove važenja dozvola i obveze obavještavanja policije.</li>
-<li><strong>Odgovorna osoba.</strong> Odredite tko prima inspektora, tko ima pristup dokumentaciji i tko potpisuje zapisnik.</li>
-<li><strong>Nakon nadzora.</strong> Upišite rokove iz zapisnika i dostavite dokaze o otklanjanju nedostataka.</li>
+<li>Jednom godišnje usporedite popis radnika u evidenciji s prijavama na osiguranje i obračunom plaće.</li>
+<li>U ugovorima provjerite obvezni sadržaj, rokove ugovora na određeno i jesu li sve promjene unesene aneksima.</li>
+<li>Evidenciju radnog vremena vodite tijekom mjeseca, prema stvarnom stanju. Podatke upisujete <strong>najkasnije sedmog dana</strong> od dana na koji se odnose.</li>
+<li>Do 30. lipnja utvrdite raspored godišnjih odmora i čuvajte obavijesti radnicima.</li>
+<li>Za studente i ostale koji rade bez ugovora o radu vodite posebnu evidenciju i evidenciju trajanja rada.</li>
+<li>Za strane radnike pratite rokove važenja dozvola i obveze obavještavanja policije.</li>
+<li>Odredite tko prima inspektora, tko ima pristup dokumentaciji i tko potpisuje zapisnik.</li>
+<li>Nakon nadzora upišite rokove iz zapisnika i dostavite dokaze da ste nedostatke otklonili.</li>
 </ol>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Radnik počne raditi prije prijave ili prije potpisa ugovora.</strong> To je upravo pojavni oblik neprijavljenog rada iz Zakona o suzbijanju neprijavljenoga rada.</li>
-<li><strong>Evidencija radnog vremena popunjava se na kraju mjeseca ili prema planu</strong>, a ne prema stvarnom stanju.</li>
-<li><strong>Dokumentacija postoji, ali nije dostupna</strong> u roku koji odredi inspektor. Zakon to smatra onemogućavanjem nadzora.</li>
-<li><strong>Ugovori na određeno bez objektivnog razloga</strong> ili s prekoračenim brojem uzastopnih ugovora.</li>
-<li><strong>Nema rasporeda godišnjih odmora</strong> ni dokaza da su radnici obaviješteni.</li>
-<li><strong>Studenti i osobe na stručnom osposobljavanju nisu u evidenciji</strong>, jer „nisu zaposleni".</li>
-<li><strong>Nitko u tvrtki ne zna tko je zadužen</strong> za komunikaciju s inspektorom.</li>
+<li>Radnik ne smije početi raditi prije prijave na osiguranje ni prije nego što dobije pisani ugovor ili potvrdu. Zakon o suzbijanju neprijavljenoga rada to smatra neprijavljenim radom.</li>
+<li>Evidenciju radnog vremena ne popunjavajte tek na kraju mjeseca ni prema planu. Upisujte stvarno stanje.</li>
+<li>Dokumentaciju dostavite ili dajte na uvid u roku koji odredi inspektor. Inače se smatra da ste onemogućili nadzor.</li>
+<li>Ugovore na određeno sklapajte u skladu sa zakonom i pratite njihove rokove.</li>
+<li>Utvrdite raspored godišnjih odmora i čuvajte dokaz da ste radnike obavijestili.</li>
+<li>Studente i osobe na stručnom osposobljavanju upišite u evidenciju, iako nisu u radnom odnosu.</li>
+<li>Odredite tko u firmi komunicira s inspektorom.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Što provjerava inspekcija rada kod malog poslodavca?</h3>
 <p>Iste temeljne obveze kao kod velikog: ugovore o radu, prijave na osiguranje, evidenciju o radnicima i radnom vremenu, plaće i godišnje odmore. Neke obveze ovise o broju radnika, primjerice pravilnik o radu i imenovanje osobe za zaštitu dostojanstva kod poslodavca s najmanje 20 radnika.</p>
 <h3>Mora li inspekcija rada najaviti dolazak?</h3>
-<p>Ne mora. Zakon o Državnom inspektoratu predviđa da inspektor može obavijestiti poslodavca o početku nadzora, osim ako smatra da bi to umanjilo učinkovitost nadzora.</p>
+<p>Ne mora. Po Zakonu o Državnom inspektoratu inspektor vas može obavijestiti o početku nadzora, osim ako smatra da bi to nadzor učinilo manje učinkovitim.</p>
 <h3>Koja je dokumentacija za inspekciju rada najvažnija?</h3>
-<p>Ugovori o radu i njihove izmjene, prijave na mirovinsko i zdravstveno osiguranje, evidencija o radnicima i radnom vremenu, obračuni plaće i raspored godišnjih odmora. Za strane radnike i dozvole za boravak i rad, a za studente i učenike posebna evidencija.</p>
+<p>Ugovori o radu i njihove izmjene, prijave na mirovinsko i zdravstveno osiguranje, evidencija o radnicima i radnom vremenu, obračuni plaće i raspored godišnjih odmora. Za strane radnike trebaju vam i dozvole za boravak i rad, a za studente i učenike posebna evidencija.</p>
 <h3>Što ako tražene dokumentacije nema u poslovnici?</h3>
-<p>Inspektor može odrediti rok za uvid ili dostavu. Ako u tom roku ne osigurate uvid u traženu dokumentaciju, smatra se da niste omogućili nadzor. Zato unaprijed odredite tko i kako dostavlja dokumente.</p>
+<p>Inspektor može odrediti rok za uvid ili dostavu. Ako mu u tom roku ne osigurate uvid u traženu dokumentaciju, smatra se da niste omogućili nadzor. Zato unaprijed odredite tko dostavlja dokumente i kako.</p>
 <h3>Tko može prijaviti poslodavca inspekciji rada?</h3>
-<p>Radnik, radničko vijeće, sindikat ili sam poslodavac mogu zatražiti nadzor. Predstavku može podnijeti i druga osoba. Prema gov.hr predaje se poštom, elektroničkom poštom, obrascem na stranici Državnog inspektorata ili osobno u područnom uredu.</p>
+<p>Nadzor mogu zatražiti radnik, radničko vijeće, sindikat ili sam poslodavac, a predstavku može podnijeti i druga osoba. Prema gov.hr predstavka se šalje poštom, elektroničkom poštom ili obrascem na stranici Državnog inspektorata, a može se predati i osobno u područnom uredu.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Prije nadzora pregledamo vašu kadrovsku dokumentaciju, usporedimo evidencije, ugovore i prijave te pripremimo popis onoga što nedostaje ili treba ispraviti. Možemo i preuzeti redovito vođenje te dokumentacije. Ne zastupamo poslodavce u inspekcijskim ni sudskim postupcima. Pogledajte uslugu <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a> ili nam se javite putem <a href="/admin-podrska-pregled/kontakt/">kontakta</a>.</p>
+<p>Prije nadzora pregledamo vašu kadrovsku dokumentaciju, usporedimo evidencije, ugovore i prijave i popišemo što nedostaje ili treba ispraviti, a možemo i preuzeti redovito vođenje te dokumentacije. U inspekcijskim i sudskim postupcima poslodavce ne zastupamo. Javite nam se putem <a href="/admin-podrska-pregled/kontakt/">kontakta</a> ili pogledajte uslugu <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/298/zakon-o-drzavnom-inspektoratu">Zakon o Državnom inspektoratu, NN 115/18, 117/21, 67/23, 155/23 (pročišćeni tekst, zakon.hr)</a>, članci 24., 53., 54., 57. do 59., 61. do 64. i 67.</li>
@@ -130,7 +127,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Inspekcija rada: što provjerava kod poslodavca i kako se pripremiti\",\"description\":\"Inspekcija rada provjerava ugovore o radu, prijave na osiguranje, evidenciju radnog vremena i plaće. Što smije inspektor i koju dokumentaciju pripremiti.\",\"datePublished\":\"2026-11-30\",\"dateModified\":\"2026-11-30\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/inspekcija-rada/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Inspekcija rada: što provjerava kod poslodavca i kako se pripremiti"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Inspekcija rada provjerava ugovore o radu, prijave na osiguranje, evidenciju radnog vremena i plaće. Što smije inspektor i koju dokumentaciju pripremiti."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","30. studenoga 2026."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Inspekcija rada: što provjerava kod poslodavca i kako se pripremiti\",\"description\":\"Inspekcija rada provjerava ugovore o radu, prijave na osiguranje, evidenciju radnog vremena i plaće. Što smije inspektor i koju dokumentaciju pripremiti.\",\"datePublished\":\"2026-11-30\",\"dateModified\":\"2026-11-30\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/inspekcija-rada/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Inspekcija rada: što provjerava kod poslodavca i kako se pripremiti"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Inspekcija rada provjerava ugovore o radu, prijave na osiguranje, evidenciju radnog vremena i plaće. Što smije inspektor i koju dokumentaciju pripremiti."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","30. studenoga 2026."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -138,10 +135,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Radni odnos i kadrovska administracija"}],["$","p",null,{"children":"Ugovori, prijave i odjave, evidencije radnog vremena i godišnjih odmora, prestanak radnog odnosa."}],["$","$L2",null,{"href":"/usluge/radni-odnos/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Inspekcija rada: što provjerava kod poslodavca i kako se pripremiti"}],["$","meta","1",{"name":"description","content":"Inspekcija rada provjerava ugovore o radu, prijave na osiguranje, evidenciju radnog vremena i plaće. Što smije inspektor i koju dokumentaciju pripremiti."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/inspekcija-rada/"}],["$","meta","4",{"property":"og:title","content":"Inspekcija rada: što provjerava kod poslodavca i kako se pripremiti"}],["$","meta","5",{"property":"og:description","content":"Inspekcija rada provjerava ugovore o radu, prijave na osiguranje, evidenciju radnog vremena i plaće. Što smije inspektor i koju dokumentaciju pripremiti."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/inspekcija-rada/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-11-30"}],["$","meta","13",{"property":"article:modified_time","content":"2026-11-30"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Inspekcija rada: što provjerava kod poslodavca i kako se pripremiti"}],["$","meta","16",{"name":"twitter:description","content":"Inspekcija rada provjerava ugovore o radu, prijave na osiguranje, evidenciju radnog vremena i plaće. Što smije inspektor i koju dokumentaciju pripremiti."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

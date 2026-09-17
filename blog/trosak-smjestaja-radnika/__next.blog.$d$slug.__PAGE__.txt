@@ -1,43 +1,43 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T25b0,<p>Trošak smještaja radnika otvara tri pitanja: tko ga plaća, smije li se dio naplatiti radniku kroz plaću i kako se porezno tretira. Kod PDV-a na smještaj radnika odgovor ovisi o vrsti smještaja. Najam stambenih prostorija oslobođen je PDV-a, a usluge smještaja u hotelima i objektima slične namjene oporezuju se sniženom stopom od 13 %, ako ih pruža obveznik PDV-a.</p>
-<p>Za porez na dohodak važnije je kako platite nego koliko. Trošak smještaja koji poslodavac plati bezgotovinski, na temelju vjerodostojne dokumentacije, radniku je neoporeziv do visine stvarnog izdatka. Za odbitak od plaće Zakon o radu traži suglasnost radnika, a za radnike iz trećih zemalja najamnina se ne smije automatski ustegnuti.</p>
-<h2>Tko plaća smještaj radnika</h2>
-<p>U praksi postoje tri modela:</p>
+3:T25d8,<p>Kad radniku osiguravate smještaj, trebate riješiti tko ga plaća, smijete li dio naplatiti radniku kroz plaću i kako ga porezno tretirate. Hoćete li platiti PDV na smještaj radnika, ovisi o vrsti smještaja. Najam stambenih prostorija oslobođen je PDV-a. Usluge smještaja u hotelima i objektima slične namjene oporezuju se sniženom stopom od 13 %, ako ih pruža obveznik PDV-a.</p>
+<p>Za porez na dohodak važnije je kako platite nego koliko. Ako smještaj platite bezgotovinski i imate vjerodostojnu dokumentaciju, trošak je za radnika neoporeziv do visine stvarnog izdatka. Za odbitak od plaće trebate suglasnost radnika prema Zakonu o radu. Radnicima iz trećih zemalja najamninu ne smijete automatski ustegnuti.</p>
+<h2>Tko plaća smještaj radnika?</h2>
+<p>Trošak možete podijeliti na tri načina:</p>
 <ol>
-<li><strong>Poslodavac plaća cijeli trošak.</strong> Firma sklapa ugovor ili prima račun i plaća najmodavcu.</li>
-<li><strong>Radnik plaća sam.</strong> Radnik je najmoprimac, a poslodavac mu trošak može nadoknaditi.</li>
-<li><strong>Trošak se dijeli.</strong> Firma plaća smještaj, a radnik joj vraća dio.</li>
+<li>Poslodavac plaća cijeli trošak. Firma sklapa ugovor ili prima račun i plaća najmodavcu.</li>
+<li>Radnik plaća sam. Radnik je najmoprimac, a poslodavac mu trošak može nadoknaditi.</li>
+<li>Trošak se dijeli. Firma plaća smještaj, a radnik joj vraća dio.</li>
 </ol>
-<p>Za radnike iz trećih zemalja, kad smještaj osigurava poslodavac ili posreduje u njemu, Pravilnik o boravku državljana trećih zemalja (NN 43/2026) postavlja granice:</p>
+<p>Ako radniku iz treće zemlje smještaj osiguravate vi ili u njemu posredujete, morate poštovati granice iz Pravilnika o boravku državljana trećih zemalja (NN 43/2026):</p>
 <ul>
 <li>najamnina mora biti primjerena plaći i ne smije biti veća od 30 % neto plaće</li>
 <li>radnik mora dobiti ugovor o najmu ili jednakovrijedan dokument s iznosom najamnine</li>
 <li>ako je smještaj besplatan, poslodavac radniku izdaje dokument s uvjetima smještaja</li>
 </ul>
-<p>Primjer izračuna: ako neto plaća radnika iznosi 1.000 eura, najamnina koju mu naplaćujete ne smije biti veća od 300 eura mjesečno.</p>
-<h2>Odbitak od plaće za smještaj</h2>
+<p>Primjer izračuna: radniku s neto plaćom od 1.000 eura smijete naplatiti najviše 300 eura najamnine mjesečno.</p>
+<h2>Smijete li smještaj odbiti od plaće?</h2>
 <h3>Što kaže Zakon o radu</h3>
 <p>Članak 96. Zakona o radu propisuje dvije stvari:</p>
 <ul>
 <li>poslodavac ne smije bez suglasnosti radnika svoje potraživanje naplatiti uskratom isplate plaće ili njezina dijela</li>
 <li>radnik tu suglasnost ne može dati prije nastanka potraživanja</li>
 </ul>
-<p>Suglasnost upisana u ugovor o radu pri zapošljavanju daje se prije nego što potraživanje za najamninu nastane, pa je upitno ispunjava li taj uvjet.</p>
+<p>Suglasnost koju radnik potpiše u ugovoru o radu pri zapošljavanju daje prije nego što potraživanje za najamninu nastane. Zato je upitno ispunjava li ona taj uvjet.</p>
 <h3>Dodatno pravilo za radnike iz trećih zemalja</h3>
-<p>Pravilnik o boravku izričito propisuje da se najamnina <strong>ne smije automatski ustegnuti iz plaće</strong>. Sigurnije je da radnik najamninu plaća uplatom, a ne kroz obračun plaće.</p>
-<h3>Kako to riješiti u praksi</h3>
+<p>Pravilnik o boravku izričito propisuje da se najamnina <strong>ne smije automatski ustegnuti iz plaće</strong>. Sigurnije je da radnik najamninu plaća zasebnom uplatom, izvan obračuna plaće.</p>
+<h3>Kako naplatiti najamninu bez odbitka od plaće</h3>
 <ul>
 <li>plaću isplatite u punom iznosu na račun radnika</li>
-<li>najamninu radnik plaća zasebnom uplatom, prema ugovoru ili ispravi s iznosom</li>
+<li>radnik najamninu plaća zasebnom uplatom, prema ugovoru ili ispravi s iznosom</li>
 <li>za svaku uplatu vodite evidenciju</li>
 </ul>
-<h2>Neoporezivi smještaj: uvjeti iz Pravilnika o porezu na dohodak</h2>
-<p>Neoporezivi smještaj nema propisani fiksni iznos. Pravilnik o porezu na dohodak priznaje troškove smještaja radnika do visine stvarnih izdataka, uz ove uvjete:</p>
+<h2>Kada je smještaj neoporeziv prema Pravilniku o porezu na dohodak?</h2>
+<p>Za neoporezivi smještaj nije propisan fiksni iznos. Pravilnik o porezu na dohodak priznaje troškove smještaja radnika do visine stvarnih izdataka, ako su ispunjeni ovi uvjeti:</p>
 <ul>
 <li>trošak je nastao za vrijeme radnog odnosa kod poslodavca</li>
 <li>postoji vjerodostojna dokumentacija (ugovor ili račun)</li>
-<li>plaćen je bezgotovinski</li>
+<li>trošak je plaćen bezgotovinski</li>
 <li>neoporezivi primitak priznaje se za mjesec u kojem je usluga smještaja obavljena</li>
 </ul>
 <h3>Kad radnik sam sklopi ugovor</h3>
@@ -47,24 +47,24 @@
 <li>poslodavac trošak uplati na račun radnika</li>
 <li>poslodavac kopiju dokumentacije zadrži u svojoj poslovnoj dokumentaciji</li>
 </ul>
-<p>Radnik mora obavijestiti poslodavca kad više nema izdataka za smještaj.</p>
+<p>Radnik vas mora obavijestiti kad više nema izdataka za smještaj.</p>
 <h3>Što se ne priznaje kao trošak smještaja</h3>
 <ul>
 <li>stavke koje se uobičajeno ne pripisuju smještaju, primjerice garaža, telefon, internet i posebno naplaćena struja, voda i grijanje</li>
 <li>dio troška koji se ne može pripisati pojedinom radniku, kad više radnika dijeli stan</li>
 <li>iznos koji je radniku za isto razdoblje već isplatio drugi poslodavac</li>
 </ul>
-<p>Ako smještaj organizirate u vlastitom prostoru, morate osigurati vjerodostojnu dokumentaciju kao dokaz.</p>
-<h3>Ako uvjeti nisu ispunjeni</h3>
-<p>Zakon o porezu na dohodak primicima u naravi smatra, među ostalim, korištenje zgrada i druge pogodnosti koje poslodavac daje radniku. Smještaj koji ne ispunjava uvjete za neoporezivi primitak može se tretirati kao oporezivi primitak. Kad radnik dio troška vraća poslodavcu, porezni tretman razlike provjerite s računovodstvom.</p>
-<h2>PDV na smještaj radnika</h2>
+<p>Ako smještaj organizirate u vlastitom prostoru, kao dokaz morate osigurati vjerodostojnu dokumentaciju.</p>
+<h3>Što ako uvjeti nisu ispunjeni?</h3>
+<p>Zakon o porezu na dohodak primicima u naravi smatra, među ostalim, korištenje zgrada i druge pogodnosti koje poslodavac daje radniku. Smještaj koji ne ispunjava uvjete za neoporezivi primitak može se zato tretirati kao oporezivi primitak. Kad radnik dio troška vraća poslodavcu, porezni tretman razlike provjerite s računovodstvom.</p>
+<h2>Kada se plaća PDV na smještaj radnika?</h2>
 <p>Zakon o porezu na dodanu vrijednost razlikuje dvije situacije:</p>
 <ul>
-<li><strong>Najam stambenih prostorija</strong> oslobođen je PDV-a. Pravilnik o PDV-u pojašnjava da se to odnosi na najam u svrhu stanovanja, a stanovanje definira kao trajni boravak. Režije uključene u najamninu dijele tretman najma, dok je najam parkirnog mjesta oporeziv.</li>
-<li><strong>Usluge smještaja u hotelima ili objektima slične namjene</strong>, uključujući kampove, oporezuju se sniženom stopom od 13 %.</li>
+<li>Najam stambenih prostorija oslobođen je PDV-a. Pravilnik o PDV-u pojašnjava da se to odnosi na najam u svrhu stanovanja, a stanovanje definira kao trajni boravak. Režije uključene u najamninu dijele tretman najma, dok je najam parkirnog mjesta oporeziv.</li>
+<li>Usluge smještaja u hotelima ili objektima slične namjene, uključujući kampove, oporezuju se sniženom stopom od 13 %.</li>
 </ul>
-<p>Pravilnik o PDV-u navodi i da iznajmljivanje prostora radi povremenog boravka, bez namjere trajnog življenja, u poslovne svrhe nije oslobođeno PDV-a. Zato je važno je li riječ o dugoročnom najmu stana ili kratkotrajnom smještaju na terenu.</p>
-<p>PDV se na računu pojavljuje samo ako je najmodavac ili pružatelj usluge obveznik PDV-a. Pravo na odbitak pretporeza za smještaj radnika provjerite s računovodstvom za svoj slučaj.</p>
+<p>Prema Pravilniku o PDV-u, iznajmljivanje prostora u poslovne svrhe radi povremenog boravka, bez namjere trajnog življenja, nije oslobođeno PDV-a. Zato morate znati radi li se o dugoročnom najmu stana ili o kratkotrajnom smještaju na terenu.</p>
+<p>PDV se na računu pojavljuje samo ako je najmodavac ili pružatelj usluge obveznik PDV-a. Imate li pravo na odbitak pretporeza za smještaj radnika, provjerite s računovodstvom za svoj slučaj.</p>
 <h2>Kontrolni popis prije prvog obračuna</h2>
 <ul>
 <li>Odlučite tko plaća smještaj i zapišite to u ugovor ili zasebnu ispravu</li>
@@ -73,26 +73,26 @@
 <li>Plaćajte bezgotovinski</li>
 <li>Tražite da najamnina i režije budu iskazane odvojeno</li>
 <li>Kod stana za više radnika utvrdite udio troška po radniku</li>
-<li>Provjerite s računovodstvom PDV na računu i pravo na pretporez</li>
+<li>S računovodstvom provjerite PDV na računu i pravo na pretporez</li>
 </ul>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Automatski odbitak najamnine u obračunu plaće.</strong> Za radnike iz trećih zemalja pravilnik to zabranjuje, a Zakon o radu traži suglasnost nakon nastanka potraživanja.</li>
-<li><strong>Gotovinsko plaćanje smještaja.</strong> Neoporezivi tretman traži bezgotovinsko plaćanje.</li>
-<li><strong>Režije i internet u iznosu troška smještaja.</strong> Te stavke ne ulaze u neoporezivi iznos.</li>
-<li><strong>Pretpostavka da je svaki smještaj bez PDV-a.</strong> Hotelski i sličan smještaj oporezuje se stopom od 13 %.</li>
+<li>Najamninu ste automatski odbili u obračunu plaće. Za radnike iz trećih zemalja pravilnik to zabranjuje, a Zakon o radu traži suglasnost danu nakon nastanka potraživanja.</li>
+<li>Smještaj ste platili gotovinom. Za neoporezivi tretman plaćanje mora biti bezgotovinsko.</li>
+<li>U trošak smještaja ste uračunali režije i internet. Te stavke ne ulaze u neoporezivi iznos.</li>
+<li>Pretpostavili ste da je svaki smještaj bez PDV-a. Hotelski i sličan smještaj oporezuje se stopom od 13 %.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Smije li poslodavac odbiti smještaj od plaće?</h3>
-<p>Samo uz suglasnost radnika danu nakon nastanka potraživanja. Za radnike iz trećih zemalja najamnina se ne smije automatski ustegnuti iz plaće i ne smije biti veća od 30 % neto plaće.</p>
+<p>Samo uz suglasnost radnika danu nakon nastanka potraživanja. Radnicima iz trećih zemalja najamninu ne smijete automatski ustegnuti iz plaće, a ona ne smije biti veća od 30 % neto plaće.</p>
 <h3>Koliki je neoporezivi iznos za smještaj?</h3>
-<p>Nema fiksnog iznosa. Neoporeziv je stvarni trošak smještaja plaćen bezgotovinski na temelju vjerodostojne dokumentacije.</p>
+<p>Fiksnog iznosa nema. Neoporeziv je stvarni trošak smještaja plaćen bezgotovinski na temelju vjerodostojne dokumentacije.</p>
 <h3>Plaća li se PDV na najam stana za radnike?</h3>
-<p>Najam stambenih prostorija u svrhu stanovanja oslobođen je PDV-a. Kod kratkotrajnog smještaja u poslovne svrhe ili hotelskog smještaja PDV se obračunava ako je pružatelj obveznik PDV-a.</p>
+<p>Najam stambenih prostorija u svrhu stanovanja oslobođen je PDV-a. Kod hotelskog smještaja i kratkotrajnog smještaja u poslovne svrhe PDV se obračunava ako je pružatelj obveznik PDV-a.</p>
 <h3>Mora li poslodavac platiti smještaj radniku?</h3>
-<p>Propisi koje smo pregledali ne propisuju opću obvezu da poslodavac plati smještaj. Obveza može proizaći iz ugovora o radu, kolektivnog ugovora ili pravilnika o radu. Ako poslodavac smještaj osigurava radniku iz treće zemlje, mora poštovati uvjete Pravilnika o boravku.</p>
+<p>U propisima koje smo pregledali nema opće obveze da poslodavac plati smještaj. Obveza može proizaći iz ugovora o radu, kolektivnog ugovora ili pravilnika o radu. Ako smještaj osiguravate radniku iz treće zemlje, morate poštovati uvjete Pravilnika o boravku.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Prije prvog obračuna pomažemo odlučiti tko plaća smještaj i kako to dokumentirati: ugovor, račun, izjavu o uvjetima smještaja i evidenciju uplata. Zajedno s vašim računovodstvom provjeravamo uvjete za neoporezivi tretman i pravila o odbitku od plaće. U najmu nekretnina ne posredujemo. Više na stranici <a href="/admin-podrska-pregled/usluge/smjestaj-radnika/">smještaj za radnike</a>, a za konkretan slučaj javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Pomažemo vam odabrati i provjeriti smještaj te prije prvog obračuna dogovoriti tko ga plaća i kako to dokumentirati: ugovorom, računom, izjavom o uvjetima smještaja i evidencijom uplata. Uvjete za neoporezivi tretman i pravila o odbitku od plaće provjeravamo zajedno s vašim računovodstvom. Nismo agencija za nekretnine i ne posredujemo u najmu. Za konkretan slučaj javite nam se putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>, a više o usluzi piše na stranici <a href="/admin-podrska-pregled/usluge/smjestaj-radnika/">smještaj za radnike</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, pročišćeni tekst (NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23), zakon.hr</a></li>
@@ -106,7 +106,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Trošak smještaja radnika: tko plaća, odbitak od plaće i porez\",\"description\":\"PDV na smještaj radnika, neoporezivi smještaj i odbitak od plaće: tko plaća trošak, kada je smještaj neoporeziv i smije li se najamnina ustegnuti iz plaće.\",\"datePublished\":\"2027-08-02\",\"dateModified\":\"2027-08-02\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/trosak-smjestaja-radnika/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Trošak smještaja radnika: tko plaća, odbitak od plaće i porez"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"PDV na smještaj radnika, neoporezivi smještaj i odbitak od plaće: tko plaća trošak, kada je smještaj neoporeziv i smije li se najamnina ustegnuti iz plaće."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","2. kolovoza 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Trošak smještaja radnika: tko plaća, odbitak od plaće i porez\",\"description\":\"PDV na smještaj radnika, neoporezivi smještaj i odbitak od plaće: tko plaća trošak, kada je smještaj neoporeziv i smije li se najamnina ustegnuti iz plaće.\",\"datePublished\":\"2027-08-02\",\"dateModified\":\"2027-08-02\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/trosak-smjestaja-radnika/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Trošak smještaja radnika: tko plaća, odbitak od plaće i porez"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"PDV na smještaj radnika, neoporezivi smještaj i odbitak od plaće: tko plaća trošak, kada je smještaj neoporeziv i smije li se najamnina ustegnuti iz plaće."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","2. kolovoza 2027."]}],null,["$","span",null,{"children":[6," min čitanja"]}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -114,10 +114,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Smještaj radnika"}],["$","p",null,{"children":"Provjera uvjeta smještaja, ugovor o najmu i prijava boravišta radnika."}],["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Trošak smještaja radnika: tko plaća, odbitak od plaće i porez"}],["$","meta","1",{"name":"description","content":"PDV na smještaj radnika, neoporezivi smještaj i odbitak od plaće: tko plaća trošak, kada je smještaj neoporeziv i smije li se najamnina ustegnuti iz plaće."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/trosak-smjestaja-radnika/"}],["$","meta","4",{"property":"og:title","content":"Trošak smještaja radnika: tko plaća, odbitak od plaće i porez"}],["$","meta","5",{"property":"og:description","content":"PDV na smještaj radnika, neoporezivi smještaj i odbitak od plaće: tko plaća trošak, kada je smještaj neoporeziv i smije li se najamnina ustegnuti iz plaće."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/trosak-smjestaja-radnika/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-08-02"}],["$","meta","13",{"property":"article:modified_time","content":"2027-08-02"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Trošak smještaja radnika: tko plaća, odbitak od plaće i porez"}],["$","meta","16",{"name":"twitter:description","content":"PDV na smještaj radnika, neoporezivi smještaj i odbitak od plaće: tko plaća trošak, kada je smještaj neoporeziv i smije li se najamnina ustegnuti iz plaće."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

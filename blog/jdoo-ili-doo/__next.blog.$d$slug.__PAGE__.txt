@@ -1,11 +1,11 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T35ca,<p>Dvojba j.d.o.o. ili d.o.o. u praksi se svodi na jedno pitanje: koliko novca možete uložiti na početku i koliko vam brzo treba društvo bez ograničenja. Oba oblika su društvo s ograničenom odgovornošću i u oba slučaju članovi u pravilu ne odgovaraju za obveze društva. Razlika je u pravilima koja vrijede dok je temeljni kapital ispod 2.500 eura.</p>
-<p>J.d.o.o. (jednostavno društvo s ograničenom odgovornošću) možete osnovati s temeljnim kapitalom od 1 eura, ali uz ograničenja: najviše pet članova, samo jedan član uprave, uplata isključivo u novcu i obveza izdvajanja četvrtine dobiti u zakonske rezerve. D.o.o. traži najmanje 2.500 eura temeljnog kapitala, a zauzvrat nema tih ograničenja.</p>
-<p>Ako planirate brzo rasti, ući u posao s više partnera ili imati dva direktora, d.o.o. je u pravilu jednostavniji izbor od početka. Ako tek testirate ideju i nemate kapital, j.d.o.o. je legitiman početak, uz svijest o tome što vas čeka kad firma naraste.</p>
-<h2>Što je društvo s ograničenom odgovornošću</h2>
-<p>Zakon o trgovačkim društvima (ZTD) društvo s ograničenom odgovornošću opisuje kao društvo u koje jedna ili više osoba uplaćuju poslovne udjele u unaprijed dogovoreni temeljni kapital. Društvo odgovara za svoje obveze cijelom svojom imovinom, a članovi ne odgovaraju za obveze društva, osim kada to zakon određuje.</p>
-<p>J.d.o.o. nije poseban pravni oblik. To je d.o.o. osnovan na pojednostavnjeni način, na koji se primjenjuju sva pravila o d.o.o.-u, uz nekoliko posebnih odredbi iz članka 390.a ZTD-a. Zato se pitanje „razlika doo i jdoo" zapravo svodi na te posebne odredbe.</p>
+3:T3584,<p>Kad birate j.d.o.o. ili d.o.o., pitajte se koliko novca možete uložiti na početku i koliko brzo vam treba društvo bez ograničenja. Oba oblika su društvo s ograničenom odgovornošću i u oba članovi u pravilu ne odgovaraju za obveze društva. Razlikuju se po pravilima koja vrijede dok je temeljni kapital ispod 2.500 eura.</p>
+<p>J.d.o.o. (jednostavno društvo s ograničenom odgovornošću) možete osnovati s temeljnim kapitalom od 1 eura. Zauzvrat prihvaćate ograničenja: najviše pet članova, samo jedan član uprave, uplatu isključivo u novcu i obvezu da četvrtinu dobiti izdvajate u zakonske rezerve. Za d.o.o. trebate najmanje 2.500 eura temeljnog kapitala, a tih ograničenja nema.</p>
+<p>Planirate li brzo rasti, ući u posao s više partnera ili imati dva direktora, d.o.o. je u pravilu jednostavniji izbor od početka. Ako tek testirate ideju i nemate kapital, j.d.o.o. je legitiman početak, samo trebate znati što vas čeka kad firma naraste.</p>
+<h2>Što je društvo s ograničenom odgovornošću?</h2>
+<p>Po Zakonu o trgovačkim društvima (ZTD) društvo s ograničenom odgovornošću je društvo u koje jedna ili više osoba uplaćuju poslovne udjele u unaprijed dogovoreni temeljni kapital. Društvo za svoje obveze odgovara cijelom svojom imovinom, a članovi za obveze društva ne odgovaraju, osim kad to zakon određuje.</p>
+<p>J.d.o.o. nije poseban pravni oblik. To je d.o.o. osnovan na pojednostavnjeni način. Na njega se primjenjuju sva pravila o d.o.o.-u, uz nekoliko posebnih odredbi iz članka 390.a ZTD-a. Pitanje „razlika doo i jdoo“ zato se svodi na te posebne odredbe.</p>
 <h2>J.d.o.o. ili d.o.o.: pregled razlika</h2>
 <table>
 <thead>
@@ -58,97 +58,97 @@
 </tr>
 <tr>
 <td>Oznaka u tvrtki</td>
-<td>„j.d.o.o."</td>
-<td>„d.o.o."</td>
+<td>„j.d.o.o.“</td>
+<td>„d.o.o.“</td>
 </tr>
 </tbody>
 </table>
-<p>Odgovornost članova, porezni položaj društva i obveze prema radnicima ne ovise o tome je li riječ o j.d.o.o. ili d.o.o. Na oba oblika primjenjuju se ista pravila o poslovanju, računovodstvu i zapošljavanju.</p>
-<h2>Temeljni kapital i uplata</h2>
+<p>Odgovornost članova, porezni položaj društva i obveze prema radnicima jednaki su za j.d.o.o. i d.o.o. Za oba oblika vrijede ista pravila o poslovanju, računovodstvu i zapošljavanju.</p>
+<h2>Koliko temeljnog kapitala trebate i kako ga uplaćujete?</h2>
 <h3>J.d.o.o.</h3>
-<p>Najniži temeljni kapital je 1 euro, a najniži nominalni iznos poslovnog udjela također 1 euro. Kapital i udjeli moraju glasiti na pune iznose eura. Udjeli se uplaćuju samo u novcu, a prijava za upis u sudski registar podnosi se tek kad su svi udjeli potpuno uplaćeni.</p>
-<p>Kapital od 1 eura je zakonski minimum, ne preporuka. Novac na računu društva služi poslovanju: prvim troškovima, najmu, opremi. Ako uplatite simbolični iznos, prve troškove društva morat ćete pokriti na drugi način, na primjer pozajmicom osnivača, koju treba uredno ugovoriti i knjižiti.</p>
+<p>Najniži temeljni kapital je 1 euro, a najniži nominalni iznos poslovnog udjela također 1 euro. Kapital i udjeli moraju glasiti na pune eure. Udjele uplaćujete samo u novcu, a prijavu za upis u sudski registar podnosite tek kad su svi udjeli potpuno uplaćeni.</p>
+<p>Kapital od 1 eura je zakonski minimum, a ne preporuka. Novcem na računu društva plaćate prve troškove, najam i opremu. Ako uplatite simboličan iznos, prve troškove društva morat ćete pokriti drukčije, na primjer pozajmicom osnivača, koju treba uredno ugovoriti i proknjižiti.</p>
 <h3>D.o.o.</h3>
-<p>Najniži temeljni kapital je 2.500 eura, a nominalni iznos poslovnog udjela ne može biti manji od 10 eura i mora biti višekratnik broja deset. Prije upisa u sudski registar svaki osnivač mora uplatiti najmanje četvrtinu udjela koji uplaćuje u novcu, a ukupne novčane uplate ne smiju biti manje od četvrtine temeljnog kapitala. Kod d.o.o.-a s jednim osnivačem zakon traži i primjereno osiguranje za dio koji nije uplaćen.</p>
-<p>D.o.o. dopušta i uplatu udjela unosom stvari i prava, na primjer opreme. Takav unos mora se u cijelosti provesti prije upisa u registar, a zakon propisuje dodatne provjere vrijednosti.</p>
-<h2>Članovi, uprava i osnivanje</h2>
-<p>J.d.o.o. može imati najviše pet članova i jednog člana uprave. Za osnivanje se koriste obrasci zapisnika koji su prilozi ZTD-u i od njih se ne može odstupati. Popunjeni zapisnik ujedno je popis članova, popis osoba ovlaštenih voditi poslove i izjava direktora da prihvaća imenovanje.</p>
-<p>D.o.o. se osniva društvenim ugovorom (više osnivača) ili izjavom o osnivanju (jedan osnivač), u obliku javnobilježničkog akta ili privatne isprave koju potvrdi javni bilježnik. Takav akt možete prilagoditi: urediti prijenos udjela, dodatne uplate, način odlučivanja ili ovlasti više direktora.</p>
-<p>Oba oblika možete osnovati i na daljinu, putem internetske stranice sudskog registra, bez sudjelovanja javnog bilježnika, na propisanim obrascima. Prema portalu gov.hr, elektroničko osnivanje d.o.o.-a i j.d.o.o.-a putem e-Sudskog registra dostupno je hrvatskim državljanima i državljanima EU/EGP-a, a sustav START hrvatskim državljanima s aktivnim prebivalištem ili boravištem u Hrvatskoj.</p>
-<h3>Kad obrazac postane tijesan</h3>
-<p>Obrazac za j.d.o.o. dobro radi kod jednog osnivača. Kod dvoje ili više partnera problem nastaje jer se u osnivačkom aktu ne mogu dogovoriti posebna pravila, na primjer što se događa s udjelom kad jedan partner izlazi ili tko odlučuje o većim ulaganjima. Ta se pitanja kod d.o.o.-a rješavaju društvenim ugovorom, a kod j.d.o.o.-a ostaju zakonska pravila i eventualni odvojeni ugovori među članovima.</p>
+<p>Najniži temeljni kapital je 2.500 eura. Nominalni iznos poslovnog udjela ne smije biti manji od 10 eura i mora biti višekratnik broja deset. Prije upisa u sudski registar svaki osnivač mora uplatiti najmanje četvrtinu udjela koji uplaćuje u novcu, a ukupne novčane uplate ne smiju biti manje od četvrtine temeljnog kapitala. Ako d.o.o. ima jednog osnivača, zakon traži i primjereno osiguranje za dio koji nije uplaćen.</p>
+<p>Kod d.o.o.-a udjel možete uplatiti i unosom stvari i prava, na primjer opreme. Takav unos morate u cijelosti provesti prije upisa u registar, a zakon propisuje dodatne provjere vrijednosti.</p>
+<h2>Koliko članova i direktora smije imati društvo i kako se osniva?</h2>
+<p>J.d.o.o. može imati najviše pet članova i jednog člana uprave. Osniva se na obrascima zapisnika koji su prilozi ZTD-u, i od njih ne smijete odstupati. Popunjeni zapisnik je ujedno popis članova, popis osoba ovlaštenih voditi poslove i izjava direktora da prihvaća imenovanje.</p>
+<p>D.o.o. osnivate društvenim ugovorom (više osnivača) ili izjavom o osnivanju (jedan osnivač), u obliku javnobilježničkog akta ili privatne isprave koju potvrdi javni bilježnik. Taj akt možete prilagoditi i u njemu urediti prijenos udjela, dodatne uplate, način odlučivanja ili ovlasti više direktora.</p>
+<p>Oba oblika možete osnovati i na daljinu, preko internetske stranice sudskog registra, bez javnog bilježnika, na propisanim obrascima. Prema portalu gov.hr, elektroničko osnivanje d.o.o.-a i j.d.o.o.-a preko e-Sudskog registra dostupno je hrvatskim državljanima i državljanima EU/EGP-a, a sustav START hrvatskim državljanima s aktivnim prebivalištem ili boravištem u Hrvatskoj.</p>
+<h3>Kad vam obrazac za j.d.o.o. postane tijesan?</h3>
+<p>Obrazac za j.d.o.o. dobro radi kad je osnivač jedan. Kad ih je dvoje ili više, u osnivački akt ne možete upisati posebna pravila, na primjer što se događa s udjelom kad jedan partner izlazi ili tko odlučuje o većim ulaganjima. Kod d.o.o.-a to uređujete društvenim ugovorom. Kod j.d.o.o.-a vrijede zakonska pravila, a ostalo možete urediti odvojenim ugovorima među članovima.</p>
 <h2>Zakonske rezerve j.d.o.o.-a</h2>
-<p>J.d.o.o. mora unositi u zakonske rezerve četvrtinu dobiti iskazane u godišnjim financijskim izvješćima, umanjene za gubitak iz prethodne godine. Te rezerve smiju se upotrijebiti samo:</p>
+<p>J.d.o.o. mora u zakonske rezerve unositi četvrtinu dobiti iskazane u godišnjim financijskim izvješćima, umanjene za gubitak iz prethodne godine. Te rezerve smije upotrijebiti samo:</p>
 <ul>
 <li>za povećanje temeljnog kapitala pretvaranjem rezervi u temeljni kapital,</li>
 <li>za pokriće gubitka tekuće godine koji nije pokriven dobiti prethodne godine,</li>
 <li>za pokriće gubitka prethodne godine koji nije pokriven dobiti tekuće godine.</li>
 </ul>
-<p>Praktično to znači da četvrtinu dobiti ne možete isplatiti članovima kao dobit dok je društvo j.d.o.o. Ako prijeti nesposobnost za plaćanje, j.d.o.o. mora odmah sazvati skupštinu društva.</p>
-<h2>Prijelaz iz j.d.o.o. u d.o.o.</h2>
-<p>Prijelaz ne znači osnivanje nove firme. Kad j.d.o.o. poveća temeljni kapital na najmanje 2.500 eura, na njega se prestaju primjenjivati posebna pravila o kapitalu, udjelima, zakonskim rezervama i sazivanju skupštine. Na kapital i udjele tada se primjenjuju pravila za d.o.o., a društvo smije zadržati oznaku „j.d.o.o." u tvrtki.</p>
-<p>Kapital možete povećati uplatom novca ili pretvaranjem zakonskih rezervi u temeljni kapital, što zakon izričito dopušta. Povećanje kapitala mijenja osnivački akt i upisuje se u sudski registar, pa računajte na postupak kod javnog bilježnika i registarskog suda.</p>
-<h2>Odgovornost članova</h2>
-<p>Članovi d.o.o.-a i j.d.o.o.-a ne odgovaraju za obveze društva, osim kada je to određeno ZTD-om. To je glavni razlog zašto poduzetnici biraju društvo umjesto obrta. Ograničena odgovornost ipak nije apsolutna:</p>
+<p>Dakle, dok je društvo j.d.o.o., četvrtinu dobiti ne možete isplatiti članovima. Ako društvu prijeti nesposobnost za plaćanje, j.d.o.o. mora odmah sazvati skupštinu.</p>
+<h2>Kako j.d.o.o. prelazi u d.o.o.?</h2>
+<p>Za prijelaz ne osnivate novu firmu. Kad j.d.o.o. poveća temeljni kapital na najmanje 2.500 eura, na njega se više ne primjenjuju posebna pravila o kapitalu, udjelima, zakonskim rezervama i sazivanju skupštine. Za kapital i udjele tada vrijede pravila za d.o.o., a društvo smije zadržati oznaku „j.d.o.o.“ u tvrtki.</p>
+<p>Kapital možete povećati uplatom novca ili pretvaranjem zakonskih rezervi u temeljni kapital, što zakon izričito dopušta. Povećanjem kapitala mijenja se osnivački akt, a promjena se upisuje u sudski registar. Računajte zato na postupak kod javnog bilježnika i registarskog suda.</p>
+<h2>Za što odgovaraju članovi društva?</h2>
+<p>Članovi d.o.o.-a i j.d.o.o.-a ne odgovaraju za obveze društva, osim kad to određuje ZTD. To je jedan od razloga zašto poduzetnici biraju društvo umjesto obrta. Ograničena odgovornost ipak ima granice:</p>
 <ul>
-<li>Tko zloupotrebljava okolnost da kao član ne odgovara za obveze društva, ne može se pozvati na to da po zakonu ne odgovara (članak 10. ZTD-a).</li>
+<li>Tko zloupotrebljava to što kao član ne odgovara za obveze društva, ne može se pozvati na to da po zakonu ne odgovara (članak 10. ZTD-a).</li>
 <li>Ako su u osnivanju dani pogrešni podaci, članovi i članovi uprave solidarno odgovaraju društvu za neuplaćene iznose i štetu (članak 397. ZTD-a).</li>
 <li>Ako neki član ne uplati udio, a društvo taj iznos ne može nadoknaditi prodajom udjela, ostali članovi moraju razliku uplatiti razmjerno svojim udjelima (članak 385. ZTD-a).</li>
-<li>Direktor odgovara po pravilima o dužnoj pozornosti članova uprave. To je odvojeno od položaja člana društva.</li>
+<li>Direktor odgovara po pravilima o dužnoj pozornosti članova uprave, odvojeno od svog položaja člana društva.</li>
 </ul>
-<p>Banka ili dobavljač mogu tražiti da osnivač osobno jamči za obveze društva. Ako potpišete takvo jamstvo, odgovarate na temelju tog ugovora, bez obzira na oblik društva.</p>
-<h2>Kada odabrati j.d.o.o., a kada d.o.o.</h2>
-<p>J.d.o.o. ima smisla kada:</p>
+<p>Banka ili dobavljač mogu tražiti da osnivač osobno jamči za obveze društva. Ako potpišete takvo jamstvo, odgovarate po tom ugovoru, bez obzira na oblik društva.</p>
+<h2>Kada odabrati j.d.o.o., a kada d.o.o.?</h2>
+<p>J.d.o.o. je bolji izbor kada:</p>
 <ul>
 <li>ste jedini osnivač ili imate jednog partnera s kojim ne trebate posebna pravila,</li>
-<li>nemate 2.500 eura za temeljni kapital ili ne želite taj novac vezati odmah,</li>
-<li>testirate djelatnost i očekujete skromnu dobit u prvim godinama,</li>
+<li>nemate 2.500 eura za temeljni kapital ili taj novac ne želite odmah vezati,</li>
+<li>testirate djelatnost i u prvim godinama očekujete skromnu dobit,</li>
 <li>društvo vodi jedna osoba.</li>
 </ul>
-<p>D.o.o. ima smisla kada:</p>
+<p>D.o.o. je bolji izbor kada:</p>
 <ul>
 <li>ulazite u posao s više partnera i trebate društveni ugovor s posebnim pravilima,</li>
 <li>društvo trebaju voditi dva ili više direktora,</li>
-<li>unosite opremu ili prava umjesto novca,</li>
+<li>umjesto novca unosite opremu ili prava,</li>
 <li>očekujete dobit koju želite isplaćivati bez izdvajanja četvrtine u rezerve,</li>
-<li>nudite se većim naručiteljima ili se javljate na natječaje pa vam veći upisani kapital pomaže u prvom dojmu.</li>
+<li>nudite usluge većim naručiteljima ili se javljate na natječaje, pa vam veći upisani kapital pomaže u prvom dojmu.</li>
 </ul>
-<p>Posljednja stavka nije zakonski uvjet, nego poslovna procjena. Konkretni natječaji i banke imaju svoje kriterije i njih treba provjeriti zasebno.</p>
+<p>Zadnja stavka nije zakonski uvjet, nego poslovna procjena. Natječaji i banke imaju vlastite kriterije, pa ih provjerite za svaki slučaj posebno.</p>
 <h2>Kontrolni popis prije odluke</h2>
 <ol>
 <li>Zapišite koliko osnivača ulazi u društvo i planira li netko ući kasnije.</li>
-<li>Odredite tko će biti direktor i treba li više osoba s ovlasti zastupanja.</li>
+<li>Odredite tko će biti direktor i treba li ovlast zastupanja dati većem broju osoba.</li>
 <li>Procijenite koliko novca treba za prvih šest mjeseci poslovanja, odvojeno od temeljnog kapitala.</li>
-<li>Provjerite hoćete li unositi opremu ili prava umjesto novca.</li>
-<li>Procijenite očekivanu dobit i trebate li je isplaćivati.</li>
-<li>Odlučite trebate li posebna pravila o izlasku partnera i prijenosu udjela.</li>
-<li>Odaberite način osnivanja: kod javnog bilježnika ili na daljinu putem sudskog registra.</li>
-<li>Dogovorite knjigovodstvo prije upisa u registar, ne nakon prvog računa.</li>
+<li>Provjerite hoćete li umjesto novca unositi opremu ili prava.</li>
+<li>Procijenite očekivanu dobit i hoćete li je isplaćivati.</li>
+<li>Odlučite trebaju li vam posebna pravila o izlasku partnera i prijenosu udjela.</li>
+<li>Odaberite način osnivanja: kod javnog bilježnika ili na daljinu preko sudskog registra.</li>
+<li>Dogovorite knjigovodstvo prije upisa u registar, a ne nakon prvog računa.</li>
 </ol>
-<h2>Najčešće greške</h2>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Odluka samo prema kapitalu.</strong> Kapital od 1 eura izgleda povoljno, ali ograničenja j.d.o.o.-a mogu značiti dodatne troškove i postupak već prve godine.</li>
-<li><strong>Izjednačavanje temeljnog kapitala s novcem za poslovanje.</strong> Temeljni kapital nije trošak osnivanja ni rezerva za prve plaće. Poslovanje treba vlastiti plan financiranja.</li>
-<li><strong>Dva partnera bez dogovora.</strong> Kod j.d.o.o.-a osnivački akt je obrazac, pa pravila o izlasku partnera ostaju neuređena ako ih ne riješite drugačije.</li>
-<li><strong>Zanemarivanje zakonskih rezervi.</strong> Članovi računaju na isplatu cijele dobiti, a četvrtina mora ostati u društvu.</li>
-<li><strong>Pogrešno shvaćanje ograničene odgovornosti.</strong> Osobna jamstva, zloupotreba i pogrešni podaci u osnivanju mogu dovesti do osobne odgovornosti.</li>
-<li><strong>Planiranje drugog direktora u j.d.o.o.-u.</strong> Zakon dopušta jednog člana uprave kod pojednostavnjenog osnivanja.</li>
+<li>Oblik se bira samo prema kapitalu. Kapital od 1 eura izgleda povoljno, ali zbog ograničenja j.d.o.o.-a već prve godine mogu uslijediti dodatni troškovi i postupak.</li>
+<li>Temeljni kapital se izjednači s novcem za poslovanje. On nije trošak osnivanja ni rezerva za prve plaće, a za poslovanje vam treba zaseban plan financiranja.</li>
+<li>Dva partnera osnuju j.d.o.o. bez dogovora. Osnivački akt je obrazac, pa pravila o izlasku partnera ostaju neuređena ako ih ne riješite drukčije.</li>
+<li>Članovi računaju na isplatu cijele dobiti, a četvrtina mora ostati u društvu kao zakonska rezerva.</li>
+<li>Ograničena odgovornost shvati se kao potpuna zaštita, iako osobna jamstva, zloupotreba i pogrešni podaci u osnivanju mogu dovesti do osobne odgovornosti.</li>
+<li>U j.d.o.o.-u se planira drugi direktor, a zakon kod pojednostavnjenog osnivanja dopušta samo jednog člana uprave.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Koja je razlika doo i jdoo u odgovornosti?</h3>
 <p>Nema razlike. Članovi oba oblika ne odgovaraju za obveze društva, osim u slučajevima koje određuje ZTD, na primjer kod zloupotrebe ili pogrešnih podataka u osnivanju.</p>
 <h3>Koliki je temeljni kapital za osnivanje j.d.o.o.?</h3>
-<p>Najmanje 1 euro, uplaćen u cijelosti u novcu prije podnošenja prijave za upis u sudski registar. Za d.o.o. minimum je 2.500 eura.</p>
+<p>Najmanje 1 euro, koji morate u cijelosti uplatiti u novcu prije nego što podnesete prijavu za upis u sudski registar. Za d.o.o. minimum je 2.500 eura.</p>
 <h3>Može li j.d.o.o. zapošljavati radnike?</h3>
-<p>Da. ZTD ne ograničava broj radnika j.d.o.o.-a. Obveze poslodavca jednake su kao kod d.o.o.-a.</p>
+<p>Može. ZTD ne ograničava broj radnika u j.d.o.o.-u, a obveze poslodavca jednake su kao kod d.o.o.-a.</p>
 <h3>Mora li j.d.o.o. prijeći u d.o.o. nakon nekog roka?</h3>
-<p>ZTD ne propisuje takav rok. Posebna pravila prestaju vrijediti kad društvo poveća temeljni kapital na najmanje 2.500 eura.</p>
+<p>Ne mora, ZTD takav rok ne propisuje. Posebna pravila prestaju vrijediti kad društvo poveća temeljni kapital na najmanje 2.500 eura.</p>
 <h3>Može li osnivanje j.d.o.o. biti online?</h3>
-<p>Može. ZTD dopušta osnivanje na daljinu putem internetske stranice sudskog registra, bez javnog bilježnika, na propisanim obrascima. Tko može koristiti koji sustav, provjerite na gov.hr.</p>
+<p>Može. ZTD dopušta osnivanje na daljinu preko internetske stranice sudskog registra, bez javnog bilježnika, na propisanim obrascima. Tko smije koristiti koji sustav, provjerite na gov.hr.</p>
 <h3>Je li društvo s ograničenom odgovornošću bolje od obrta?</h3>
-<p>Ovisi o poslu, riziku i planovima. Taj izbor traži usporedbu odgovornosti, poreza i troškova vođenja poslovanja i ne može se odgovoriti samo kroz temeljni kapital.</p>
+<p>Ovisi o poslu, riziku i planovima. Za taj izbor trebate usporediti odgovornost, poreze i troškove vođenja poslovanja, a sam temeljni kapital nije dovoljan za odluku.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pomažemo vam odabrati oblik prema stvarnom planu: broju partnera, novcu na početku i trenutku kad želite zaposliti prve radnike. Pripremamo korake osnivanja i organiziramo ono što slijedi nakon upisa u registar. Više o tome pročitajte na stranici <a href="/admin-podrska-pregled/usluge/osnivanje-firme/">osnivanje firme</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Oblik biramo s vama prema stvarnom planu, odnosno broju partnera, novcu na početku i trenutku kad želite zaposliti prve radnike, a zatim pripremamo korake osnivanja i organiziramo sve što slijedi nakon upisa u registar. Javite nam se preko stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a> ili pročitajte više na stranici <a href="/admin-podrska-pregled/usluge/osnivanje-firme/">osnivanje firme</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/546/zakon-o-trgova%C4%8Dkim-dru%C5%A1tvima">Zakon o trgovačkim društvima, pročišćeni tekst, NN 111/93, 34/99, 121/99, 52/00, 118/03, 107/07, 146/08, 137/09, 125/11, 152/11, 111/12, 68/13, 110/15, 40/19, 34/22, 114/22, 18/23, 130/23, 136/24 (zakon.hr)</a>, članci 9., 10., 13., 385. do 397. i 390.a</li>
@@ -159,7 +159,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"J.d.o.o. ili d.o.o.: razlike i kada što odabrati\",\"description\":\"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada koji oblik ima smisla za vašu firmu.\",\"datePublished\":\"2027-05-03\",\"dateModified\":\"2027-05-03\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/jdoo-ili-doo/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada koji oblik ima smisla za vašu firmu."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","3. svibnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"J.d.o.o. ili d.o.o.: razlike i kada što odabrati\",\"description\":\"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada je koji oblik bolji izbor za vašu firmu.\",\"datePublished\":\"2027-05-03\",\"dateModified\":\"2027-05-03\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/jdoo-ili-doo/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada je koji oblik bolji izbor za vašu firmu."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","3. svibnja 2027."]}],null,["$","span",null,{"children":[9," min čitanja"]}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -167,12 +167,12 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Osnivanje firme"}],["$","p",null,{"children":"Obrt, j.d.o.o. ili d.o.o.: odabir oblika, dokumentacija, prve prijave i plan razvoja firme."}],["$","$L2",null,{"href":"/usluge/osnivanje-firme/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
-a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","meta","1",{"name":"description","content":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada koji oblik ima smisla za vašu firmu."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/jdoo-ili-doo/"}],["$","meta","4",{"property":"og:title","content":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","meta","5",{"property":"og:description","content":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada koji oblik ima smisla za vašu firmu."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/jdoo-ili-doo/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-05-03"}],["$","meta","13",{"property":"article:modified_time","content":"2027-05-03"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","meta","16",{"name":"twitter:description","content":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada koji oblik ima smisla za vašu firmu."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","meta","1",{"name":"description","content":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada je koji oblik bolji izbor za vašu firmu."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/jdoo-ili-doo/"}],["$","meta","4",{"property":"og:title","content":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","meta","5",{"property":"og:description","content":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada je koji oblik bolji izbor za vašu firmu."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/jdoo-ili-doo/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-05-03"}],["$","meta","13",{"property":"article:modified_time","content":"2027-05-03"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"J.d.o.o. ili d.o.o.: razlike i kada što odabrati"}],["$","meta","16",{"name":"twitter:description","content":"J.d.o.o. ili d.o.o.: razlike u temeljnom kapitalu, broju članova, upravi i rezervama te kada je koji oblik bolji izbor za vašu firmu."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
 f:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
 12:true

@@ -9,19 +9,19 @@ e:I[68027,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"defau
 :HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 c:X
-0:{"P":null,"c":["","blog","izvanredni-otkaz",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","izvanredni-otkaz","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/1uiazgj96nc9x.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Horizon plus, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Horizon plus"}],["$","span",null,{"children":"vaš partner za strane radnike"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/",{"href":"/","children":"Početna"}],["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/#za-poslodavce",{"href":"/#za-poslodavce","children":"Za poslodavce"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite pomoć"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/",{"href":"/","children":"Početna"}],["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/#za-poslodavce",{"href":"/#za-poslodavce","children":"Za poslodavce"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Horizon plus"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Cjelovita podrška za strane radnike i poslodavce: dokumentacija, dozvole, boravak, izaslanje, radni odnos, smještaj i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"bDOdC88ukLMUNWinZ58s0"}
+0:{"P":null,"c":["","blog","izvanredni-otkaz",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","izvanredni-otkaz","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/1uiazgj96nc9x.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"hr","className":"figtree_f71c4936-module__H73MRq__variable caveat_e0f89fc-module__3Lkixa__variable","children":["$","body",null,{"children":[["$","div",null,{"className":"PreviewBanner-module__FPfG6a__banner","role":"note","children":[["$","strong",null,{"children":"Pregled za provjeru."}]," Web nije objavljen. Tekstovi, kontakt podaci i fotografije nisu konačni, a članci još nisu pravno pregledani."]}],["$","header",null,{"className":"SiteHeader-module__azVQWW__header","children":["$","div",null,{"className":"wrap SiteHeader-module__azVQWW__row","children":[["$","$L2",null,{"href":"/","className":"SiteHeader-module__azVQWW__logo","aria-label":"Horizon plus, početna","children":[["$","span",null,{"className":"SiteHeader-module__azVQWW__mark","children":["$","$L3",null,{"ref":"$undefined","icon":{"name":"users","size":24,"node":[["path",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2","key":"1yyitq"}],["path",{"d":"M16 3.128a4 4 0 0 1 0 7.744","key":"16gr8j"}],["path",{"d":"M22 21v-2a4 4 0 0 0-3-3.87","key":"kshegd"}],["circle",{"cx":"9","cy":"7","r":"4","key":"nufk8"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]}],["$","span",null,{"className":"SiteHeader-module__azVQWW__logoText","children":[["$","b",null,{"children":"Horizon plus"}],["$","span",null,{"children":"vaš partner za strane radnike"}]]}]]}],["$","nav",null,{"className":"SiteHeader-module__azVQWW__nav","aria-label":"Glavna navigacija","children":[["$","$L2","/",{"href":"/","children":"Početna"}],["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/#za-poslodavce",{"href":"/#za-poslodavce","children":"Za poslodavce"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}],["$","$L2",null,{"href":"/kontakt/","className":"btn btn-green SiteHeader-module__azVQWW__cta","children":[["$","span",null,{"children":"Zatražite pomoć"}],["$","$L3",null,{"ref":"$undefined","icon":{"name":"message-circle","size":24,"node":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]]},"className":"$undefined","aria-hidden":"true","focusable":"false"}]]}],["$","details",null,{"className":"SiteHeader-module__azVQWW__mobile","children":[["$","summary",null,{"aria-label":"Otvori izbornik","children":["$","span",null,{"aria-hidden":"true","className":"SiteHeader-module__azVQWW__burger"}]}],["$","nav",null,{"aria-label":"Mobilna navigacija","className":"SiteHeader-module__azVQWW__mobileNav","children":[["$","$L2","/",{"href":"/","children":"Početna"}],["$","$L2","/usluge/",{"href":"/usluge/","children":"Usluge"}],["$","$L2","/#za-poslodavce",{"href":"/#za-poslodavce","children":"Za poslodavce"}],["$","$L2","/blog/",{"href":"/blog/","children":"Novosti"}],["$","$L2","/kontakt/",{"href":"/kontakt/","children":"Kontakt"}]]}]]}]]}]}],["$","main",null,{"id":"sadrzaj","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap section-head","children":[["$","h1",null,{"style":{"fontSize":36,"fontWeight":800},"children":"Stranica nije pronađena"}],["$","p",null,{"children":"Adresa je možda promijenjena. Pogledajte naše usluge ili se vratite na početnu."}],["$","p",null,{"style":{"marginTop":24,"display":"flex","gap":12,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/","className":"btn btn-green","children":"Početna"}],["$","$L2",null,{"href":"/usluge/","className":"btn btn-outline","children":"Usluge"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"SiteFooter-module__VFKzxG__footer","children":[["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__grid","children":[["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__brand","children":"Horizon plus"}],["$","p",null,{"className":"SiteFooter-module__VFKzxG__about","children":"Cjelovita podrška za strane radnike i poslodavce: dokumentacija, dozvole, boravak, izaslanje, radni odnos, smještaj i komunikacija s institucijama."}]]}],"$L6","$L7"]}],"$L8"]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$c"]},null,false,"$c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"9bInIJ0pq5bk1oe2wu4uX"}
 11:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
 14:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"MetadataBoundary"]
 6:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Usluge"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li","zastita-na-radu",{"children":["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]}],["$","li","medicina-rada",{"children":["$","$L2",null,{"href":"/usluge/medicina-rada/","children":"Medicina rada i liječnički pregledi"}]}],["$","li","radni-odnos",{"children":["$","$L2",null,{"href":"/usluge/radni-odnos/","children":"Radni odnos i kadrovska administracija"}]}],["$","li","place-i-racunovodstvo",{"children":["$","$L2",null,{"href":"/usluge/place-i-racunovodstvo/","children":"Plaće i računovodstvo"}]}],["$","li","osnivanje-firme",{"children":["$","$L2",null,{"href":"/usluge/osnivanje-firme/","children":"Osnivanje firme"}]}],["$","li","smjestaj-radnika",{"children":["$","$L2",null,{"href":"/usluge/smjestaj-radnika/","children":"Smještaj radnika"}]}],["$","li","institucije",{"children":["$","$L2",null,{"href":"/usluge/institucije/","children":"Komunikacija s institucijama"}]}],["$","li","strani-radnici",{"children":["$","$L2",null,{"href":"/usluge/strani-radnici/","children":"Dozvole i boravak stranih radnika"}]}],["$","li","a1-izaslanje",{"children":["$","$L2",null,{"href":"/usluge/a1-izaslanje/","children":"A1 i izaslanje radnika"}]}]]}]]}]
-7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}]]}]]}]
-8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o."]}]}]
+7:["$","div",null,{"children":[["$","p",null,{"className":"SiteFooter-module__VFKzxG__heading","children":"Informacije"}],["$","ul",null,{"className":"SiteFooter-module__VFKzxG__list","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/kontakt/","children":"Kontakt"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/zastita-podataka/","children":"Zaštita osobnih podataka"}]}]]}]]}]
+8:["$","div",null,{"className":"wrap SiteFooter-module__VFKzxG__bottom","children":["$","span",null,{"children":["© ",2026," ","Horizon 2021 d.o.o. · OIB 53777831791 · Bana Josipa Jelačića 3A, 35400 Nova Gradiška"]}]}]
 9:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
+b:["$","$1","c",{"children":["$L10",[["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}]
 d:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":"$L17"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 f:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/1uiazgj96nc9x.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 c:C
@@ -29,12 +29,12 @@ c:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 13:null
 17:[["$","title","0",{"children":"Izvanredni otkaz: kada je dopušten i koje korake poslodavac ne smije preskočiti"}],["$","meta","1",{"name":"description","content":"Izvanredni otkaz dopušten je samo uz osobito tešku povredu i u roku od 15 dana. Koje korake poslodavac mora provesti: obrana, radničko vijeće, pisano obrazloženje."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/izvanredni-otkaz/"}],["$","meta","4",{"property":"og:title","content":"Izvanredni otkaz: kada je dopušten i koje korake poslodavac ne smije preskočiti"}],["$","meta","5",{"property":"og:description","content":"Izvanredni otkaz dopušten je samo uz osobito tešku povredu i u roku od 15 dana. Koje korake poslodavac mora provesti: obrana, radničko vijeće, pisano obrazloženje."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/izvanredni-otkaz/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-12-28"}],["$","meta","13",{"property":"article:modified_time","content":"2026-12-28"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Izvanredni otkaz: kada je dopušten i koje korake poslodavac ne smije preskočiti"}],["$","meta","16",{"name":"twitter:description","content":"Izvanredni otkaz dopušten je samo uz osobito tešku povredu i u roku od 15 dana. Koje korake poslodavac mora provesti: obrana, radničko vijeće, pisano obrazloženje."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]
-19:T3acb,<p>Izvanredni otkaz dopušten je samo kad zbog osobito teške povrede obveze iz radnog odnosa ili neke druge osobito važne činjenice nastavak radnog odnosa nije moguć. Poslodavac ga mora dati u roku od 15 dana od dana kad je saznao za tu činjenicu, u pisanom obliku i s pisanim obrazloženjem. Prije toga radniku mora omogućiti da iznese obranu, a ako kod njega djeluje radničko vijeće, mora se s njim savjetovati.</p>
-<p>Kod izvanrednog otkaza nema otkaznog roka i radni odnos prestaje odmah. Zato je to najteža mjera koju poslodavac ima. Ako radnik ospori otkaz na sudu, poslodavac mora dokazati da je razlog postojao. Svaki preskočeni korak može otkaz učiniti nedopuštenim, čak i kad je povreda stvarno bila teška.</p>
-<h2>Što je izvanredni otkaz ugovora o radu</h2>
-<p>Zakon o radu u članku 116. uređuje izvanredni otkaz ugovora o radu. Mogu ga dati i poslodavac i radnik. Odnosi se na ugovore sklopljene na neodređeno i na određeno vrijeme.</p>
-<p>Za razliku od redovitog otkaza, kod izvanrednog se ne poštuje propisani ni ugovoreni otkazni rok. Stranka koja izvanredno otkaže ugovor može od stranke koja je kriva za otkaz tražiti i naknadu štete.</p>
-<p>Najčešće se miješa s redovitim otkazom uvjetovanim skrivljenim ponašanjem radnika. Razlike su ove:</p>
+19:T390e,<p>Izvanredni otkaz smijete dati samo kad zbog osobito teške povrede obveze iz radnog odnosa ili neke druge osobito važne činjenice nastavak radnog odnosa nije moguć. Otkaz morate dati <strong>u roku od 15 dana</strong> od dana kad ste saznali za tu činjenicu, pisano i s pisanim obrazloženjem. Prije toga radniku morate omogućiti da iznese obranu, a ako kod vas djeluje radničko vijeće, morate se savjetovati i s njim.</p>
+<p>Kod izvanrednog otkaza nema otkaznog roka, pa radni odnos prestaje odmah. Zato je to najteža mjera koju poslodavac ima. Ako radnik ospori otkaz na sudu, vi morate dokazati da je razlog postojao. Preskočite li ijedan korak, otkaz može biti nedopušten čak i kad je povreda stvarno bila teška.</p>
+<h2>Što je izvanredni otkaz ugovora o radu?</h2>
+<p>Izvanredni otkaz ugovora o radu uređuje članak 116. Zakona o radu. Mogu ga dati i poslodavac i radnik, a vrijedi za ugovore sklopljene na neodređeno i na određeno vrijeme.</p>
+<p>Kod redovitog otkaza poštuje se propisani ili ugovoreni otkazni rok, a kod izvanrednog ne. Stranka koja izvanredno otkaže ugovor može od stranke koja je kriva za otkaz tražiti i naknadu štete.</p>
+<p>Od redovitog otkaza uvjetovanog skrivljenim ponašanjem radnika izvanredni otkaz razlikuje se ovako:</p>
 <table>
 <thead>
 <tr>
@@ -71,79 +71,79 @@ c:C
 </tr>
 </tbody>
 </table>
-<p>Ako povreda nije dovoljno teška za izvanredni otkaz, redoviti otkaz uz pisano upozorenje može biti primjereniji put.</p>
-<h2>Kada je izvanredni otkaz dopušten</h2>
-<p>Zakon ne sadrži popis ponašanja koja opravdavaju izvanredni otkaz. Postavlja dva uvjeta koja moraju biti ispunjena istodobno:</p>
+<p>Ako povreda nije dovoljno teška za izvanredni otkaz, možda je bolje dati redoviti otkaz uz pisano upozorenje.</p>
+<h2>Kada je izvanredni otkaz dopušten?</h2>
+<p>Zakon ne nabraja ponašanja koja opravdavaju izvanredni otkaz. Traži da istodobno budu ispunjena dva uvjeta:</p>
 <ol>
 <li>postoji osobito teška povreda obveze iz radnog odnosa ili neka druga osobito važna činjenica</li>
 <li>uz uvažavanje svih okolnosti i interesa obiju ugovornih stranaka nastavak radnog odnosa nije moguć</li>
 </ol>
-<p>Drugi uvjet se često zanemaruje. Nije dovoljno da se nešto ozbiljno dogodilo. Treba procijeniti i okolnosti: kako je do povrede došlo, kakav je bio dosadašnji rad radnika i bi li blaža mjera bila dovoljna. Hoće li konkretno ponašanje biti dovoljno za izvanredni otkaz, u sporu ocjenjuje sud.</p>
-<p>Prije odluke odgovorite si na nekoliko pitanja:</p>
+<p>Drugi uvjet lako je previdjeti. Da se dogodilo nešto ozbiljno, nije dovoljno. Morate procijeniti i okolnosti: kako je do povrede došlo, kako je radnik dosad radio i bi li bila dovoljna blaža mjera. Je li konkretno ponašanje dovoljno za izvanredni otkaz, u sporu ocjenjuje sud.</p>
+<p>Prije odluke odgovorite si na ova pitanja:</p>
 <ul>
 <li>Možete li povredu dokazati dokumentima, zapisima ili iskazima svjedoka?</li>
-<li>Je li riječ o jednom ozbiljnom događaju ili o ponavljanju manjih propusta, za koje je redoviti otkaz uz upozorenje primjereniji?</li>
-<li>Biste li nastavak suradnje do isteka otkaznog roka zaista mogli opravdati kao nemoguć?</li>
+<li>Radi li se o jednom ozbiljnom događaju ili o ponavljanju manjih propusta, za koje je primjereniji redoviti otkaz uz upozorenje?</li>
+<li>Možete li zaista opravdati da suradnja nije moguća ni do isteka otkaznog roka?</li>
 </ul>
-<h3>Razlozi koji nisu opravdani</h3>
+<h3>Koji razlozi nisu opravdani?</h3>
 <p>Članak 117. Zakona o radu izričito navodi da opravdani razlog za otkaz nisu:</p>
 <ul>
 <li>privremena nenazočnost na radu zbog bolesti ili ozljede</li>
 <li>podnošenje žalbe ili tužbe, sudjelovanje u postupku protiv poslodavca zbog povrede propisa ili obraćanje nadležnim tijelima</li>
 <li>obraćanje zbog opravdane sumnje na korupciju ili prijava te sumnje u dobroj vjeri</li>
 </ul>
-<h3>Radnici kod kojih vrijede posebna pravila</h3>
+<h3>Za koje radnike vrijede posebna pravila?</h3>
 <p>Za neke radnike otkaz traži dodatne uvjete ili je zabranjen:</p>
 <ul>
-<li><strong>Trudnice i radnici koji koriste rodiljni, roditeljski, posvojiteljski ili očinski dopust</strong> i druga prava iz članka 34. Zakona o radu: za to vrijeme i 15 dana nakon prestanka tih okolnosti poslodavac ne smije otkazati ugovor o radu. Takav otkaz je pod uvjetima iz zakona ništetan.</li>
-<li><strong>Radnici iz članka 151.</strong>: član radničkog vijeća, kandidat za člana tri mjeseca nakon izbora, radnik sa smanjenom radnom sposobnošću zbog ozljede na radu ili profesionalne bolesti, radnik osoba s invaliditetom, radnik s navršenih 60 godina (osim radnika s 65 godina života i 15 godina mirovinskog staža) i predstavnik radnika u organu poslodavca. Za otkaz njima potrebna je prethodna suglasnost radničkog vijeća.</li>
-<li><strong>Sindikalni povjerenik</strong>: za vrijeme dužnosti i šest mjeseci nakon nje otkaz nije moguć bez suglasnosti sindikata.</li>
+<li>Trudnici i radniku koji koristi rodiljni, roditeljski, posvojiteljski ili očinski dopust i druga prava iz članka 34. Zakona o radu ne smijete otkazati ugovor o radu za to vrijeme i 15 dana nakon što te okolnosti prestanu. Takav otkaz je pod uvjetima iz zakona ništetan.</li>
+<li>Za otkaz radnicima iz članka 151. treba vam prethodna suglasnost radničkog vijeća. To su član radničkog vijeća, kandidat za člana tri mjeseca nakon izbora, radnik sa smanjenom radnom sposobnošću zbog ozljede na radu ili profesionalne bolesti, radnik osoba s invaliditetom, radnik s navršenih 60 godina (osim radnika s 65 godina života i 15 godina mirovinskog staža) i predstavnik radnika u organu poslodavca.</li>
+<li>Sindikalnom povjereniku za vrijeme dužnosti i šest mjeseci nakon nje ne možete otkazati bez suglasnosti sindikata.</li>
 </ul>
-<p>Status radnika provjerite prije pokretanja postupka.</p>
+<p>Status radnika provjerite prije nego što pokrenete postupak.</p>
 <h2>Rok za izvanredni otkaz: 15 dana od saznanja</h2>
-<p>Ugovor o radu može se izvanredno otkazati samo u roku od petnaest dana od dana saznanja za činjenicu na kojoj se otkaz temelji. Nakon isteka roka izvanredni otkaz više nije moguć, bez obzira na težinu povrede.</p>
-<p>Zakon ne propisuje da rok staje dok prikupljate dokaze, dok radnik priprema obranu ili dok se radničko vijeće očituje. Zato cijeli postupak planirajte unutar tih 15 dana:</p>
+<p>Ugovor o radu možete izvanredno otkazati samo u roku od petnaest dana od dana kad ste saznali za činjenicu na kojoj se otkaz temelji. Kad rok istekne, izvanredni otkaz više nije moguć, koliko god povreda bila teška.</p>
+<p>Zakon ne kaže da rok staje dok prikupljate dokaze, dok radnik priprema obranu ili dok se radničko vijeće očituje. Cijeli postupak zato planirajte unutar tih 15 dana:</p>
 <ul>
-<li>zabilježite datum i način na koji ste saznali za povredu</li>
+<li>zapišite datum i način na koji ste saznali za povredu</li>
 <li>odmah odredite tko vodi postupak u ime poslodavca</li>
 <li>radniku ostavite realan, ali kratak rok za obranu</li>
 <li>radničko vijeće uključite čim su činjenice jasne, jer ono za izvanredni otkaz ima pet dana za očitovanje</li>
 </ul>
-<h2>Koraci koje poslodavac ne smije preskočiti</h2>
+<h2>Koje korake poslodavac ne smije preskočiti?</h2>
 <h3>1. Utvrdite činjenice i sačuvajte dokaze</h3>
-<p>Opišite što se dogodilo, kada, gdje i tko je svjedočio. Sačuvajte dokumente, zapise iz sustava i pisane izjave. U sporu je teret dokazivanja opravdanog razloga za otkaz na poslodavcu, pa bez dokaza i najteža povreda ostaje samo tvrdnja.</p>
+<p>Zapišite što se dogodilo, kada, gdje i tko je svjedočio. Sačuvajte dokumente, zapise iz sustava i pisane izjave. U sporu vi dokazujete da je razlog za otkaz bio opravdan, pa bez dokaza i najteža povreda ostaje samo tvrdnja.</p>
 <h3>2. Omogućite radniku obranu</h3>
-<p>Prije redovitog ili izvanrednog otkazivanja uvjetovanog ponašanjem radnika poslodavac mora radniku omogućiti da iznese svoju obranu. Iznimka postoji samo kad okolnosti opravdavaju da se to od poslodavca ne očekuje.</p>
-<p>U praksi to znači pisani poziv s opisom povrede, rokom i načinom davanja obrane (usmeno uz zapisnik ili pisano). Zapisnik ili pisanu obranu sačuvajte uz ostalu dokumentaciju.</p>
+<p>Prije redovitog ili izvanrednog otkaza uvjetovanog ponašanjem radnika morate radniku omogućiti da iznese obranu. Iznimka postoji samo kad okolnosti opravdavaju da se to od poslodavca ne očekuje.</p>
+<p>Radniku pošaljite pisani poziv u kojem opišete povredu i navedete rok i način davanja obrane (usmeno uz zapisnik ili pisano). Zapisnik ili pisanu obranu sačuvajte uz ostalu dokumentaciju.</p>
 <h3>3. Savjetujte se s radničkim vijećem</h3>
-<p>Odluka o otkazu spada u odluke važne za položaj radnika. Prije njezina donošenja poslodavac se mora savjetovati s radničkim vijećem i dostaviti mu podatke važne za odluku. Ako sporazumom nije drukčije određeno, radničko vijeće ima <strong>pet dana</strong> za očitovanje o namjeravanom izvanrednom otkazu. Ako se u tom roku ne očituje, smatra se da nema primjedbi.</p>
-<p>Odluka donesena protivno odredbama o obvezi savjetovanja ništetna je. Ako kod poslodavca nije utemeljeno radničko vijeće, njegova prava i obveze preuzima sindikalni povjerenik.</p>
-<p>Posebno pravilo vrijedi ako se radničko vijeće protivi izvanrednom otkazu, a radnik tužbom ospori otkaz i traži da ga poslodavac zadrži na radu. Tada ga poslodavac mora vratiti na rad u roku od osam dana od dostave obavijesti i dokaza o tužbi. Zakon poslodavcu daje mogućnost da radnika privremeno udalji s posla uz isplatu polovice prosječne plaće iz prethodna tri mjeseca, ili da od suda traži oslobođenje od te obveze ako je protivljenje očito neutemeljeno.</p>
-<p>Za radnike iz članka 151. ne radi se o savjetovanju nego o prethodnoj suglasnosti. Radničko vijeće se o njoj izjašnjava u roku od osam dana, a uskratu poslodavac može pokušati nadomjestiti sudskom ili arbitražnom odlukom.</p>
+<p>Odluka o otkazu spada u odluke važne za položaj radnika. Prije nego što je donesete, morate se savjetovati s radničkim vijećem i dostaviti mu podatke važne za odluku. Ako sporazumom nije drukčije određeno, radničko vijeće se o namjeravanom izvanrednom otkazu očituje <strong>u roku od pet dana</strong>. Ako se u tom roku ne očituje, smatra se da nema primjedbi.</p>
+<p>Odluka donesena bez propisanog savjetovanja ništetna je. Ako kod poslodavca nije utemeljeno radničko vijeće, njegova prava i obveze preuzima sindikalni povjerenik.</p>
+<p>Posebno pravilo vrijedi kad se radničko vijeće protivi izvanrednom otkazu, a radnik tužbom ospori otkaz i traži da ga poslodavac zadrži na radu. Tada ga morate vratiti na rad u roku od osam dana od dostave obavijesti i dokaza o tužbi. Zakon vam pritom dopušta da radnika privremeno udaljite s posla uz isplatu polovice prosječne plaće iz prethodna tri mjeseca ili da od suda tražite oslobođenje od te obveze ako je protivljenje očito neutemeljeno.</p>
+<p>Za radnike iz članka 151. ne radi se o savjetovanju, nego o prethodnoj suglasnosti. Radničko vijeće se o njoj izjašnjava u roku od osam dana, a ako je uskrati, možete je pokušati nadomjestiti sudskom ili arbitražnom odlukom.</p>
 <h3>4. Napišite odluku o otkazu s obrazloženjem</h3>
-<p>Otkaz mora biti u pisanom obliku, a poslodavac ga mora pisano obrazložiti. Obrazloženje otkaza nemojte svesti na opću frazu poput „teža povreda radne obveze". Iz njega treba biti jasno:</p>
+<p>Otkaz mora biti pisan, a razlog morate pisano obrazložiti. Opća fraza poput „teža povreda radne obveze“ nije dovoljna. Iz obrazloženja treba biti jasno:</p>
 <ul>
 <li>koje je konkretno ponašanje ili činjenica razlog otkaza</li>
-<li>kada se to dogodilo i kada je poslodavac za to saznao</li>
+<li>kada se to dogodilo i kada ste za to saznali</li>
 <li>na kojim se dokazima odluka temelji</li>
 <li>da je radniku omogućena obrana i što je u njoj naveo</li>
-<li>da je provedeno savjetovanje s radničkim vijećem, ako ono postoji</li>
+<li>da ste se savjetovali s radničkim vijećem, ako ono postoji</li>
 <li>datum prestanka ugovora o radu</li>
 </ul>
 <p>Odluku potpisuje osoba ovlaštena za zastupanje poslodavca ili osoba koju je ona za to pisano opunomoćila.</p>
 <h3>5. Dostavite otkaz radniku</h3>
-<p>Otkaz se mora dostaviti osobi kojoj se otkazuje. Način dostave može biti uređen kolektivnim ugovorom, sporazumom s radničkim vijećem ili pravilnikom o radu. Ako nije, na dostavu se na odgovarajući način primjenjuju pravila parničnog postupka. Sačuvajte dokaz o dostavi: potpis radnika na primjerku ili povratnicu.</p>
-<h3>6. Zatvorite administraciju prestanka</h3>
+<p>Otkaz morate dostaviti osobi kojoj otkazujete. Način dostave može biti uređen kolektivnim ugovorom, sporazumom s radničkim vijećem ili pravilnikom o radu. Ako nije, na dostavu se na odgovarajući način primjenjuju pravila parničnog postupka. Sačuvajte dokaz o dostavi, na primjer potpis radnika na primjerku ili povratnicu.</p>
+<h3>6. Obavite administraciju prestanka radnog odnosa</h3>
 <ul>
 <li>Odjavite radnika s mirovinskog osiguranja u roku od 24 sata od prestanka radnog odnosa.</li>
 <li>Isplatite naknadu za neiskorišteni godišnji odmor, razmjerno broju neiskorištenih dana.</li>
 <li>Radniku dostavite obračun isplaćenih iznosa najkasnije 15 dana od isplate.</li>
-<li>U roku od 15 dana od prestanka radnog odnosa vratite radniku isprave, dajte mu primjerak odjave s mirovinskog i zdravstvenog osiguranja i potvrdu o vrsti poslova i trajanju radnog odnosa.</li>
+<li>U roku od 15 dana od prestanka radnog odnosa vratite radniku isprave te mu dajte primjerak odjave s mirovinskog i zdravstvenog osiguranja i potvrdu o vrsti poslova i trajanju radnog odnosa.</li>
 </ul>
-<p>U potvrdi o poslovima ne smijete navesti ništa što bi radniku otežalo zapošljavanje, pa ni razlog otkaza.</p>
+<p>U potvrdu o poslovima ne smijete upisati ništa što bi radniku otežalo zapošljavanje, pa ni razlog otkaza.</p>
 <h2>Kontrolni popis prije izvanrednog otkaza</h2>
 <ul>
-<li>zabilježen datum saznanja i izračunat zadnji dan roka od 15 dana</li>
+<li>zapisan datum saznanja i izračunat zadnji dan roka od 15 dana</li>
 <li>provjereno je li radnik u zaštićenoj skupini (trudnoća, dopusti, članak 151., sindikalni povjerenik)</li>
 <li>prikupljeni i pohranjeni dokazi</li>
 <li>radnik pozvan na obranu, obrana zapisana</li>
@@ -153,34 +153,34 @@ c:C
 <li>odjava s osiguranja u 24 sata</li>
 <li>obračun, naknada za godišnji odmor, isprave i potvrda o poslovima</li>
 </ul>
-<h2>Što ako radnik ospori izvanredni otkaz</h2>
+<h2>Što ako radnik ospori izvanredni otkaz?</h2>
 <p>Radnik koji smatra da mu je otkazom povrijeđeno pravo može u roku od 15 dana od dostave odluke od poslodavca zahtijevati zaštitu prava. Ako poslodavac tom zahtjevu ne udovolji u daljnjih 15 dana, radnik se u novom roku od 15 dana može obratiti sudu.</p>
-<p>Ako sud utvrdi da otkaz nije dopušten, naložit će vraćanje radnika na posao. Ako radniku nastavak rada nije prihvatljiv, sud može na njegov zahtjev odrediti prestanak radnog odnosa i dosuditi naknadu štete od najmanje tri do najviše osam njegovih mjesečnih plaća. Zato je uredno proveden postupak jednako važan kao i sam razlog.</p>
-<h2>Najčešće greške</h2>
+<p>Ako sud utvrdi da otkaz nije dopušten, naložit će da radnika vratite na posao. Ako radniku nastavak rada nije prihvatljiv, sud mu na zahtjev može odrediti prestanak radnog odnosa i dosuditi naknadu štete od najmanje tri do najviše osam njegovih mjesečnih plaća. Zato postupak morate provesti jednako pažljivo kao što procjenjujete sam razlog.</p>
+<h2>Na što pripaziti</h2>
 <ol>
-<li><strong>Propušten rok od 15 dana.</strong> Interni razgovori i čekanje „da se situacija smiri" pojedu rok, a nakon njega izvanredni otkaz više nije moguć.</li>
-<li><strong>Radniku nije omogućena obrana.</strong> Otkaz se daje odmah nakon incidenta, bez poziva na izjašnjenje.</li>
-<li><strong>Preskočeno radničko vijeće.</strong> Odluka donesena bez propisanog savjetovanja ništetna je.</li>
-<li><strong>Obrazloženje bez činjenica.</strong> Opis „teža povreda radne obveze" ne govori što se dogodilo ni na čemu se odluka temelji.</li>
-<li><strong>Nije provjeren status radnika.</strong> Otkaz trudnici ili radniku kojem treba suglasnost radničkog vijeća donosi se kao da je riječ o bilo kojem drugom radniku.</li>
-<li><strong>Blaža povreda tretirana kao osobito teška.</strong> Za ponavljanje manjih propusta redoviti otkaz uz pisano upozorenje često je prikladniji.</li>
-<li><strong>Kasni odjava i završni obračun.</strong> Otkaz je uredan, ali odjava, naknada za godišnji odmor i potvrde kasne.</li>
+<li>Rok od 15 dana istekne dok traju interni razgovori i čeka se „da se situacija smiri“, a nakon njega izvanredni otkaz više nije moguć.</li>
+<li>Otkaz se daje odmah nakon incidenta, a radnik nije pozvan da se izjasni.</li>
+<li>Poslodavac se ne savjetuje s radničkim vijećem, pa je odluka ništetna.</li>
+<li>U obrazloženju piše samo „teža povreda radne obveze“, bez opisa što se dogodilo i na čemu se odluka temelji.</li>
+<li>Nitko ne provjeri status radnika, pa se otkaz trudnici ili radniku kojem treba suglasnost radničkog vijeća daje kao bilo kojem drugom radniku.</li>
+<li>Blaža povreda tretira se kao osobito teška, iako za ponavljanje manjih propusta može biti prikladniji redoviti otkaz uz pisano upozorenje.</li>
+<li>Otkaz je uredan, ali odjava, naknada za godišnji odmor i potvrde kasne.</li>
 </ol>
 <h2>Česta pitanja</h2>
 <h3>Treba li radnika prije izvanrednog otkaza pisano upozoriti?</h3>
-<p>Zakon pisano upozorenje traži prije redovitog otkaza uvjetovanog ponašanjem radnika. Kod izvanrednog otkaza to ne traži, ali radniku u pravilu morate omogućiti obranu.</p>
+<p>Zakon pisano upozorenje traži prije redovitog otkaza uvjetovanog ponašanjem radnika. Kod izvanrednog otkaza ga ne traži, ali radniku u pravilu morate omogućiti obranu.</p>
 <h3>Ima li radnik kod izvanrednog otkaza pravo na otpremninu?</h3>
-<p>Zakonsku otpremninu ne ostvaruje radnik kojem se ugovor o radu otkazuje zbog razloga uvjetovanih njegovim ponašanjem. Provjerite ipak kolektivni ugovor, pravilnik o radu i ugovor o radu, ako se primjenjuju.</p>
+<p>Zakonsku otpremninu ne dobiva radnik kojem se ugovor o radu otkazuje zbog razloga uvjetovanih njegovim ponašanjem. Ipak provjerite kolektivni ugovor, pravilnik o radu i ugovor o radu, ako se primjenjuju.</p>
 <h3>Pripada li radniku naknada za neiskorišteni godišnji odmor?</h3>
-<p>Da. Pri prestanku ugovora o radu poslodavac mora isplatiti naknadu za neiskorišteni godišnji odmor, bez obzira na način prestanka.</p>
+<p>Pripada. Kad ugovor o radu prestane, morate isplatiti naknadu za neiskorišteni godišnji odmor, bez obzira na to kako je prestao.</p>
 <h3>Ima li radnik nakon izvanrednog otkaza pravo na novčanu naknadu HZZ-a?</h3>
-<p>Prema Zakonu o tržištu rada pravo na novčanu naknadu nema osoba kojoj je radni odnos prestao izvanrednim otkazom zbog teške povrede radne obveze. Konačno o pravu odlučuje Hrvatski zavod za zapošljavanje.</p>
+<p>Po Zakonu o tržištu rada pravo na novčanu naknadu nema osoba kojoj je radni odnos prestao izvanrednim otkazom zbog teške povrede radne obveze. Konačnu odluku o pravu donosi Hrvatski zavod za zapošljavanje.</p>
 <h3>Može li i radnik dati izvanredni otkaz?</h3>
-<p>Može, pod istim uvjetima iz članka 116. Tada je na radniku teret dokazivanja opravdanog razloga. Ako je izvanredni otkaz radnika uzrokovan ponašanjem poslodavca, radnik ne gubi pravo na novčanu naknadu HZZ-a samo zato što je sam otkazao.</p>
+<p>Može, pod istim uvjetima iz članka 116. Tada radnik mora dokazati opravdani razlog. Ako je radnik izvanredno otkazao zbog ponašanja poslodavca, ne gubi pravo na novčanu naknadu HZZ-a samo zato što je sam otkazao.</p>
 <h3>Može li se izvanredno otkazati ugovor o radu na određeno vrijeme?</h3>
 <p>Može. Zakon izvanredni otkaz izričito dopušta za ugovore sklopljene na neodređeno i na određeno vrijeme.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pomažemo da postupak bude uredno dokumentiran i proveden na vrijeme: od izračuna roka i poziva na obranu do dopisa radničkom vijeću, odjave s osiguranja i završnih potvrda. Ne dajemo pravno mišljenje o tome je li određena povreda dovoljna za izvanredni otkaz, pa vas za procjenu i eventualni spor upućujemo na odvjetnika. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Pomažemo vam uredno i na vrijeme provesti postupak, od izračuna roka i poziva na obranu do dopisa radničkom vijeću, odjave s osiguranja i završnih potvrda. Pravno mišljenje o tome je li povreda dovoljna za izvanredni otkaz ne dajemo, pa vas za tu procjenu i eventualni spor upućujemo odvjetniku. Javite nam se preko stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a> ili pročitajte više o usluzi <a href="/admin-podrska-pregled/usluge/radni-odnos/">radni odnos i kadrovska administracija</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/307/zakon-o-radu">Zakon o radu, NN 93/14, 127/17, 98/19, 151/22, 46/23, 64/23, pročišćeni tekst (zakon.hr)</a>, članci 34., 82., 93., 115., 116., 117., 119., 120., 122., 124., 125., 126., 130., 132., 133., 135., 150., 151., 153. i 188.</li>

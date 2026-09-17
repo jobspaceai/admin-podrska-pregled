@@ -1,114 +1,114 @@
 1:"$Sreact.fragment"
 2:I[22016,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],""]
-3:T3912,<p>Inspekciju zaštite na radu u Hrvatskoj provodi inspekcija rada Državnog inspektorata. Inspektor provjerava dvije stvari: ima li poslodavac propisanu dokumentaciju i odgovara li ta dokumentacija onome što se stvarno događa na mjestu rada. Uredna procjena rizika u ladici ne pomaže ako radnik na stroju nije osposobljen ili ne koristi propisanu zaštitnu opremu.</p>
-<p>Najbolja priprema nije slaganje papira dan prije nadzora, nego redovita provjera nekoliko stvari: procjene rizika, organizacije poslova zaštite na radu, osposobljenosti radnika, uputa za rad, ispitivanja opreme i evidencija. U nastavku su pravila koja vrijede prema Zakonu o zaštiti na radu i Zakonu o Državnom inspektoratu.</p>
-<h2>Tko provodi inspekciju zaštite na radu</h2>
-<p>Prema Zakonu o zaštiti na radu, inspekcijski nadzor nad tim zakonom i propisima donesenima na temelju njega obavlja tijelo državne uprave nadležno za inspekciju rada (članak 90.). Zakon o Državnom inspektoratu to tijelo određuje: inspekcijske poslove u području rada i zaštite na radu obavlja inspekcija rada u Državnom inspektoratu (članak 24.).</p>
-<p>Inspekcija rada provodi i nadzore povodom ozljeda osoba u prostorijama i na prostorima poslodavca te nadzire rad osoba ovlaštenih za poslove zaštite na radu. Za pojedine djelatnosti posebni propisi mogu predvidjeti drugu inspekciju. Primjerice, zaštitu na radu pri rudarskim radovima nadzire rudarska inspekcija.</p>
-<h3>Kako nadzor počinje</h3>
-<p>Neki nadzori imaju jasan povod koji propisuje zakon:</p>
+3:T3655,<p>Inspekciju zaštite na radu u Hrvatskoj provodi inspekcija rada Državnog inspektorata. Inspektor gleda ima li poslodavac propisanu dokumentaciju i slaže li se ona s onim što se stvarno događa na mjestu rada. Uredna procjena rizika u ladici vam neće pomoći ako radnik na stroju nije osposobljen ili ne nosi propisanu zaštitnu opremu.</p>
+<p>Za nadzor se pripremate tako da dokumentaciju vodite redovito i možete je pokazati čim je inspektor zatraži. Redovito provjeravajte procjenu rizika, organizaciju poslova zaštite na radu, osposobljenost radnika, upute za rad, ispitivanja opreme i evidencije. Sve niže navedeno temelji se na Zakonu o zaštiti na radu i Zakonu o Državnom inspektoratu.</p>
+<h2>Inspekcija zaštite na radu: tko je provodi?</h2>
+<p>Po Zakonu o zaštiti na radu inspekcijski nadzor nad tim zakonom i propisima donesenima na temelju njega obavlja tijelo državne uprave nadležno za inspekciju rada (članak 90.). Koje je to tijelo, određuje Zakon o Državnom inspektoratu: poslove u području rada i zaštite na radu obavlja inspekcija rada u Državnom inspektoratu (članak 24.).</p>
+<p>Inspekcija rada provodi i nadzore nakon ozljeda osoba u prostorijama i na prostorima poslodavca te nadzire rad osoba ovlaštenih za poslove zaštite na radu. Za pojedine djelatnosti posebni propisi mogu predvidjeti drugu inspekciju. Zaštitu na radu pri rudarskim radovima, primjerice, nadzire rudarska inspekcija.</p>
+<h3>Kada inspektor mora doći?</h3>
+<p>Za neke nadzore zakon propisuje povod:</p>
 <ul>
-<li><strong>Smrtna ili teška ozljeda na radu:</strong> inspektor rada dužan je obaviti nadzor odmah nakon što primi obavijest o događaju (članak 93. Zakona o zaštiti na radu).</li>
-<li><strong>Utvrđena profesionalna bolest:</strong> inspektor je dužan obaviti nadzor kod poslodavca.</li>
-<li><strong>Radnik odbije raditi zbog izravnog rizika za život i zdravlje:</strong> inspektor u roku od 48 sati utvrđuje činjenično stanje (članak 69.).</li>
-<li><strong>Poziv povjerenika radnika za zaštitu na radu:</strong> povjerenik ima pravo pozvati inspektora kad ocijeni da poslodavac ne provodi potrebnu zaštitu (članak 71.).</li>
+<li>Nakon smrtne ili teške ozljede na radu inspektor rada mora obaviti nadzor odmah kad primi obavijest o događaju (članak 93. Zakona o zaštiti na radu).</li>
+<li>Kad je utvrđena profesionalna bolest, inspektor mora obaviti nadzor kod poslodavca.</li>
+<li>Ako radnik odbije raditi zbog izravnog rizika za život i zdravlje, inspektor u roku od 48 sati utvrđuje činjenično stanje (članak 69.).</li>
+<li>Povjerenik radnika za zaštitu na radu smije pozvati inspektora kad ocijeni da poslodavac ne provodi potrebnu zaštitu (članak 71.).</li>
 </ul>
-<p>Nadzor ne mora biti najavljen. Zakon o Državnom inspektoratu kaže da inspektor može obavijestiti poslodavca o početku nadzora, osim ako smatra da bi to umanjilo učinkovitost nadzora (članak 59.).</p>
-<h2>Što inspektor provjerava</h2>
-<h3>Dokumentacija</h3>
-<p>Ovo je popis dokumentacije koju propisi traže i koju inspektor može zatražiti. Ne treba je svaka firma u cijelosti. Odbor za zaštitu na radu, primjerice, obvezan je tek od 50 radnika.</p>
+<p>Nadzor ne mora biti najavljen. Po Zakonu o Državnom inspektoratu inspektor može obavijestiti poslodavca da nadzor počinje, osim ako procijeni da bi to umanjilo učinkovitost nadzora (članak 59.).</p>
+<h2>Što inspektor provjerava?</h2>
+<h3>Koju dokumentaciju trebate imati?</h3>
+<p>Propisi traže dokumentaciju s popisa niže, a inspektor je može zatražiti. Ne treba je svaka firma u cijelosti. Odbor za zaštitu na radu, na primjer, obvezan je tek od 50 radnika.</p>
 <ul>
-<li><strong>Procjena rizika</strong> u pisanom ili elektroničkom obliku, koja odgovara postojećim rizicima i dostupna je radniku na mjestu rada (članak 18.), s obveznim prilozima prema Pravilniku o izradi procjene rizika</li>
-<li><strong>Dokaz o organizaciji poslova zaštite na radu:</strong> tko ih obavlja, poslodavac sam, stručnjak zaštite na radu zaposlen ugovorom o radu ili ovlaštena osoba (članak 20.)</li>
-<li><strong>Pisano ovlaštenje ovlaštenika</strong>, ako je poslodavac provedbu zaštite na radu prenio na ovlaštenika (članak 23.)</li>
-<li><strong>Zapisnici o osposobljavanju radnika za rad na siguran način</strong> za svakog radnika i dokaz o osposobljenosti poslodavca ili ovlaštenika</li>
-<li><strong>Pisane upute za rad na siguran način</strong> za mjesto rada i poslove (članci 32. i 62.)</li>
-<li><strong>Pisani dokazi da radnici ispunjavaju uvjete za poslove s posebnim uvjetima rada</strong>, ako takve poslove obavljaju</li>
-<li><strong>Zapisnici o ispitivanju radne opreme, instalacija i radnog okoliša</strong> (članak 62.)</li>
-<li><strong>Plan evakuacije i spašavanja</strong>, odluka o radnicima koji provode mjere i dokaz o praktičnoj vježbi, koja se provodi najmanje jednom u dvije godine (članak 55.)</li>
-<li><strong>Pisane odluke o imenovanju radnika za pružanje prve pomoći</strong> (članak 56.)</li>
-<li><strong>Evidencije o ozljedama na radu, profesionalnim bolestima i nezgodama</strong> (članak 61.)</li>
-<li><strong>Dokumenti o unutarnjem nadzoru</strong> nad primjenom pravila zaštite na radu (članak 21.)</li>
-<li><strong>Pisani postupak provjere je li radnik pod utjecajem alkohola</strong> ili drugih sredstava ovisnosti (članak 58.)</li>
-<li><strong>Zapisnici sjednica odbora za zaštitu na radu</strong>, ako je odbor obvezan (članak 34.)</li>
+<li>procjena rizika u pisanom ili elektroničkom obliku, koja odgovara postojećim rizicima i radniku je dostupna na mjestu rada (članak 18.), s obveznim prilozima prema Pravilniku o izradi procjene rizika</li>
+<li>dokaz o tome tko obavlja poslove zaštite na radu: poslodavac sam, stručnjak zaštite na radu zaposlen ugovorom o radu ili ovlaštena osoba (članak 20.)</li>
+<li>pisano ovlaštenje ovlašteniku, ako ste provedbu zaštite na radu prenijeli na njega (članak 23.)</li>
+<li>zapisnici o osposobljavanju za rad na siguran način za svakog radnika i dokaz o osposobljenosti poslodavca ili ovlaštenika</li>
+<li>pisane upute za rad na siguran način za mjesto rada i poslove (članci 32. i 62.)</li>
+<li>pisani dokazi da radnici ispunjavaju uvjete za poslove s posebnim uvjetima rada, ako takve poslove obavljaju</li>
+<li>zapisnici o ispitivanju radne opreme, instalacija i radnog okoliša (članak 62.)</li>
+<li>plan evakuacije i spašavanja, odluka o radnicima koji provode mjere i dokaz o praktičnoj vježbi, koju morate provesti najmanje jednom u dvije godine (članak 55.)</li>
+<li>pisane odluke o imenovanju radnika za pružanje prve pomoći (članak 56.)</li>
+<li>evidencije o ozljedama na radu, profesionalnim bolestima i nezgodama (članak 61.)</li>
+<li>dokumenti o unutarnjem nadzoru nad primjenom pravila zaštite na radu (članak 21.)</li>
+<li>pisani postupak za provjeru je li radnik pod utjecajem alkohola ili drugih sredstava ovisnosti (članak 58.)</li>
+<li>zapisnici sjednica odbora za zaštitu na radu, ako je odbor obvezan (članak 34.)</li>
 </ul>
-<h3>Stanje na mjestu rada</h3>
-<p>Inspektor smije pregledati i fotografirati prostorije, radilišta, opremu i dokumentaciju te uzimati izjave od osoba zatečenih u nadzoru (članak 61. Zakona o Državnom inspektoratu). Zato gleda i praksu:</p>
+<h3>Što inspektor gleda na mjestu rada?</h3>
+<p>Inspektor smije pregledati i fotografirati prostorije, radilišta, opremu i dokumentaciju te uzeti izjave od osoba koje zatekne u nadzoru (članak 61. Zakona o Državnom inspektoratu). Zato provjerava i kako se radi:</p>
 <ul>
 <li>rade li samostalno samo osposobljeni radnici, a neosposobljeni pod nadzorom osposobljenog radnika i najdulje 60 dana (članak 28.)</li>
-<li>koriste li radnici propisanu osobnu zaštitnu opremu</li>
+<li>nose li radnici propisanu osobnu zaštitnu opremu</li>
 <li>je li radna oprema ispravna i jesu li zaštite na strojevima na mjestu</li>
 <li>jesu li sigurnosni znakovi i upute istaknuti na vidljivom mjestu</li>
 <li>jesu li sredstva i oprema za prvu pomoć dostupni i označeni</li>
-<li>imaju li pristup mjestima s posebnim uvjetima rada samo radnici koji su dobili pisane upute i zaštitnu opremu (članak 32.)</li>
+<li>ulaze li na mjesta s posebnim uvjetima rada samo radnici koji su dobili pisane upute i zaštitnu opremu (članak 32.)</li>
 </ul>
-<h2>Koje mjere inspektor može izreći</h2>
-<p>Zakon o zaštiti na radu daje inspektoru ovlast da usmenim rješenjem, dok se nedostatak ne otkloni:</p>
+<h2>Koje mjere inspektor može izreći?</h2>
+<p>Po Zakonu o zaštiti na radu inspektor usmenim rješenjem, dok se nedostatak ne otkloni, može:</p>
 <ul>
-<li><strong>zabrani uporabu</strong> sredstava rada, osobne zaštitne opreme, prostorija ili uređaja koji su neispravni ili za koje poslodavac ne može predočiti propisanu dokumentaciju</li>
-<li><strong>zabrani obavljanje radnih postupaka</strong> protivno propisima, uključujući rad bez propisane osobne zaštitne opreme</li>
-<li><strong>naredi udaljenje s mjesta rada</strong> radnika za kojeg poslodavac ne može predočiti dokaze o osposobljenosti ili drugim propisanim uvjetima (članak 91.)</li>
+<li>zabraniti uporabu sredstava rada, osobne zaštitne opreme, prostorija ili uređaja koji su neispravni ili za koje ne možete predočiti propisanu dokumentaciju</li>
+<li>zabraniti radne postupke protivne propisima, uključujući rad bez propisane osobne zaštitne opreme</li>
+<li>narediti da se s mjesta rada udalji radnik za kojeg ne možete predočiti dokaze o osposobljenosti ili drugim propisanim uvjetima (članak 91.)</li>
 </ul>
-<p>Inspektor usmenim rješenjem može i narediti izradu procjene rizika, provjeru osposobljenosti radnika, ispitivanje sredstava rada i radnog okoliša, postavljanje sigurnosnih znakova, organiziranje prve pomoći i da propisanu dokumentaciju učinite dostupnom na mjestu rada (članak 92.).</p>
+<p>Usmenim rješenjem inspektor može narediti i da izradite procjenu rizika, provjerite osposobljenost radnika, ispitate sredstva rada i radni okoliš, postavite sigurnosne znakove, organizirate prvu pomoć i propisanu dokumentaciju učinite dostupnom na mjestu rada (članak 92.).</p>
 <p>Rješenje o zabrani izvršava se pečaćenjem ili na drugi pogodan način, a žalba ne odgađa izvršenje. O nadzoru inspektor sastavlja zapisnik, a jedan primjerak dobiva nadzirana osoba (članak 67. Zakona o Državnom inspektoratu).</p>
-<h2>Zaštita na radu: kazne</h2>
-<p>Zakon o zaštiti na radu u prekršajnim odredbama (članci 94. do 100.) propisuje novčane kazne posebno za poslodavca pravnu osobu, a posebno za poslodavca fizičku osobu i odgovornu osobu u pravnoj osobi. Za većinu prekršaja ponavljanje se kažnjava dvostrukim iznosom, a za dio prekršaja kazna se može izreći na mjestu.</p>
-<p>Prekršaji su, među ostalim, propisani ako poslodavac:</p>
+<h2>Koje kazne propisuje Zakon o zaštiti na radu?</h2>
+<p>Prekršajne odredbe zakona (članci 94. do 100.) propisuju novčane kazne posebno za poslodavca pravnu osobu, a posebno za poslodavca fizičku osobu i odgovornu osobu u pravnoj osobi. Za većinu prekršaja ponavljanje se kažnjava dvostrukim iznosom, a za dio prekršaja kaznu je moguće izreći na mjestu.</p>
+<p>Među ostalim, poslodavac čini prekršaj ako:</p>
 <ul>
-<li>nema procjenu rizika, ako ona nije dostupna radniku ili ako u njezinoj izradi nisu sudjelovali radnici ili njihovi predstavnici</li>
+<li>nema procjenu rizika, ako ona radniku nije dostupna ili ako u njezinoj izradi nisu sudjelovali radnici ili njihovi predstavnici</li>
 <li>ne obavlja poslove zaštite na radu na način propisan člankom 20.</li>
-<li>odmah ne obavijesti inspekciju o smrtnoj ozljedi ili ozljedi zbog koje je radnik zadržan na bolničkom liječenju</li>
+<li>ne obavijesti odmah inspekciju o smrtnoj ozljedi ili ozljedi zbog koje je radnik zadržan na bolničkom liječenju</li>
 <li>dopusti da troškovi zaštite na radu terete radnika</li>
 <li>ne izvrši izvršno rješenje inspektora</li>
 <li>nema plan evakuacije i spašavanja ili ne provodi propisane vježbe</li>
 </ul>
-<p>Iznose ovdje ne navodimo. U pročišćenom tekstu zakona iznosi su i dalje iskazani u kunama, pa točan iznos u eurima treba provjeriti sa stručnjakom.</p>
-<h2>Ozljeda na radu i nadzor</h2>
-<p>Nakon smrtne ili teške ozljede inspektor je dužan odmah obaviti nadzor, pa postupak treba znati unaprijed:</p>
+<p>Iznose ne navodimo. U pročišćenom tekstu zakona i dalje su iskazani u kunama, pa točan iznos u eurima provjerite sa stručnjakom.</p>
+<h2>Što napraviti nakon ozljede na radu?</h2>
+<p>Nakon smrtne ili teške ozljede inspektor mora odmah obaviti nadzor. Zato postupak trebate znati unaprijed:</p>
 <ol>
 <li>Pružite prvu pomoć, isključite izvor opasnosti i pozovite hitnu pomoć.</li>
-<li>Odmah obavijestite inspekciju o smrtnoj ozljedi ili ozljedi zbog koje je pružena hitna medicinska pomoć i ozlijeđeni je zadržan na liječenju u bolnici ili dnevnoj bolnici. Obveza je ispunjena ako ste bez odgađanja nazvali mjesno nadležni ured na broj objavljen na stranicama inspekcije ili broj 112 (članak 65.).</li>
-<li>Sačuvajte mjesto događaja. Ako poslodavac ne obavijesti inspektora ili ne sačuva prostor i sredstva u stanju u kakvom su bili u trenutku ozljede, smatra se da nije omogućio nadzor. Iznimka su promjene nužne za spašavanje i sprječavanje daljnjih rizika (članak 63. Zakona o Državnom inspektoratu).</li>
-<li>Kod smrtne ili teške ozljede na očevid pozovite povjerenika radnika za zaštitu na radu (članak 32.).</li>
+<li>Odmah obavijestite inspekciju o smrtnoj ozljedi ili ozljedi zbog koje je pružena hitna medicinska pomoć, a ozlijeđeni je zadržan na liječenju u bolnici ili dnevnoj bolnici. Obvezu ste ispunili ako ste bez odgađanja nazvali mjesno nadležni ured na broj objavljen na stranicama inspekcije ili broj 112 (članak 65.).</li>
+<li>Sačuvajte mjesto događaja. Ako poslodavac ne obavijesti inspektora ili ne sačuva prostor i sredstva onakvima kakvi su bili u trenutku ozljede, smatra se da nije omogućio nadzor. Iznimka su promjene nužne za spašavanje i sprječavanje daljnjih rizika (članak 63. Zakona o Državnom inspektoratu).</li>
+<li>Kod smrtne ili teške ozljede pozovite na očevid povjerenika radnika za zaštitu na radu (članak 32.).</li>
 <li>Evidentirajte ozljedu i pripremite prijavu u propisanom roku.</li>
 </ol>
 <h2>Primjer: zaštita na radu u ugostiteljstvu</h2>
-<p>Za ugostiteljstvo vrijede ista pravila kao i za druge djelatnosti, ali se u praksi nekoliko stvari lako propusti. Sezonski radnici moraju biti osposobljeni prije samostalnog rada, a rad pod nadzorom ne smije trajati dulje od 60 dana. Procjena rizika treba obuhvatiti stvarne poslove u kuhinji, šanku i sali, na primjer rad s noževima i vrućim površinama, klizave podove i prenošenje tereta. Na svakom mjestu rada gdje istodobno radi od dva do 50 radnika najmanje jedan radnik mora biti osposobljen za prvu pomoć (članak 56.). Sanitarni nadzor provodi zasebna sanitarna inspekcija, pa uredna sanitarna dokumentacija ne zamjenjuje dokumentaciju zaštite na radu.</p>
-<h2>Kako se pripremiti za nadzor</h2>
+<p>Ugostitelji imaju ista pravila kao i druge djelatnosti. Sezonske radnike morate osposobiti prije nego što počnu raditi samostalno, a rad pod nadzorom smije trajati najdulje 60 dana. Procjena rizika treba obuhvatiti poslove koji se stvarno obavljaju u kuhinji, za šankom i u sali, na primjer rad s noževima i vrućim površinama, klizave podove i prenošenje tereta. Na svakom mjestu rada gdje istodobno radi od dva do 50 radnika barem jedan radnik mora biti osposobljen za prvu pomoć (članak 56.). Sanitarni nadzor provodi zasebna sanitarna inspekcija. Uredni sanitarni papiri zato ne zamjenjuju dokumentaciju zaštite na radu.</p>
+<h2>Kako se pripremiti za nadzor?</h2>
 <ol>
-<li><strong>Odredite osobu</strong> koja prima inspektora, zna gdje je dokumentacija i može pozvati stručnjaka zaštite na radu.</li>
-<li><strong>Usporedite procjenu rizika sa stvarnim stanjem.</strong> Ako ste uveli nove poslove, strojeve ili lokacije, provjerite pokriva li ih procjena.</li>
-<li><strong>Prođite zapisnike o osposobljavanju</strong> za svakog radnika, posebno za nove, sezonske i premještene radnike.</li>
-<li><strong>Provjerite rokove ispitivanja</strong> radne opreme i radnog okoliša prema važećim pravilnicima.</li>
-<li><strong>Provjerite upute na mjestu rada.</strong> Radnik ih mora razumjeti, što kod stranih radnika znači i na jeziku koji razumiju.</li>
-<li><strong>Dokumentirajte unutarnji nadzor.</strong> Kratak zapis o obilasku i otklonjenim nedostacima pokazuje da sustav stvarno radi.</li>
-<li><strong>Pripremite dokumentaciju za radilišta.</strong> Na radilištu na kojem rad traje kraće od 60 dana dokumenti ne moraju biti na licu mjesta, ali moraju biti dostupni u roku koji odredi inspektor (članak 62.).</li>
+<li>Odredite osobu koja prima inspektora, zna gdje je dokumentacija i može pozvati stručnjaka zaštite na radu.</li>
+<li>Usporedite procjenu rizika sa stvarnim stanjem. Ako ste uveli nove poslove, strojeve ili lokacije, provjerite pokriva li ih procjena.</li>
+<li>Prođite zapisnike o osposobljavanju za svakog radnika, posebno za nove, sezonske i premještene.</li>
+<li>Provjerite rokove ispitivanja radne opreme i radnog okoliša prema važećim pravilnicima.</li>
+<li>Provjerite upute na mjestu rada. Radnik ih mora razumjeti, pa strani radnici trebaju upute na jeziku koji razumiju.</li>
+<li>Zapišite unutarnji nadzor. Kratka bilješka o obilasku i otklonjenim nedostacima pokazuje da sustav stvarno radi.</li>
+<li>Pripremite dokumentaciju za radilišta. Ako rad na radilištu traje kraće od 60 dana, dokumenti ne moraju biti na licu mjesta, ali ih morate dostaviti u roku koji odredi inspektor (članak 62.).</li>
 </ol>
-<p>Tijekom nadzora surađujte i dajte tražene podatke. Zapisnik pažljivo pročitajte prije potpisa, a ako se ne slažete s utvrđenim, odmah se posavjetujte sa stručnjakom.</p>
-<h2>Najčešće greške</h2>
+<p>Tijekom nadzora surađujte i dajte tražene podatke. Zapisnik pažljivo pročitajte prije nego što ga potpišete. Ako se ne slažete s onim što je utvrđeno, odmah se posavjetujte sa stručnjakom.</p>
+<h2>Na što pripaziti</h2>
 <ul>
-<li><strong>Procjena rizika ne odgovara stvarnim poslovima</strong>, jer je izrađena prema predlošku ili nije ažurirana nakon promjena.</li>
-<li><strong>Novi radnik počne raditi samostalno</strong> prije nego što je osposobljen za rad na siguran način.</li>
-<li><strong>Upute postoje samo na hrvatskom</strong>, a radnici ih ne razumiju.</li>
-<li><strong>Dokumentacija je kod vanjskog stručnjaka</strong>, a na mjestu rada ne postoji ništa što bi se moglo pokazati.</li>
-<li><strong>Oprema nije ispitana u roku</strong> ili zapisnik o ispitivanju nije moguće pronaći.</li>
-<li><strong>Nakon ozljede mjesto događaja se odmah pospremi</strong> i nitko ne obavijesti inspekciju.</li>
+<li>Procjena rizika ne odgovara poslovima koji se stvarno obavljaju, jer je izrađena prema predlošku ili nije ažurirana nakon promjena.</li>
+<li>Novi radnik počne raditi samostalno prije nego što je osposobljen za rad na siguran način.</li>
+<li>Upute postoje samo na hrvatskom, a radnici ih ne razumiju.</li>
+<li>Dokumentacija stoji kod vanjskog stručnjaka, a na mjestu rada nemate što pokazati.</li>
+<li>Oprema nije ispitana u roku ili se zapisnik o ispitivanju ne može pronaći.</li>
+<li>Nakon ozljede netko odmah pospremi mjesto događaja, a inspekciju nitko ne obavijesti.</li>
 </ul>
 <h2>Česta pitanja</h2>
 <h3>Mora li inspektor najaviti nadzor?</h3>
-<p>Ne mora. Inspektor može obavijestiti poslodavca o početku nadzora, osim ako procijeni da bi obavještavanje umanjilo učinkovitost nadzora.</p>
+<p>Ne mora. Inspektor može obavijestiti poslodavca da nadzor počinje, osim ako procijeni da bi to umanjilo učinkovitost nadzora.</p>
 <h3>Što ako tražena dokumentacija nije na mjestu rada?</h3>
-<p>Procjena rizika, upute, dokaz o osposobljenosti i zapisnici o ispitivanjima moraju biti dostupni radniku. Iznimka su radilišta na kojima rad traje kraće od 60 dana. Ako ne osigurate uvid u traženu dokumentaciju u roku koji odredi inspektor, smatra se da niste omogućili nadzor.</p>
+<p>Procjena rizika, upute, dokaz o osposobljenosti i zapisnici o ispitivanjima moraju biti dostupni radniku. Iznimka su radilišta na kojima rad traje kraće od 60 dana. Ako traženu dokumentaciju ne date na uvid u roku koji odredi inspektor, smatra se da niste omogućili nadzor.</p>
 <h3>Može li inspektor zabraniti rad?</h3>
-<p>Može zabraniti uporabu neispravne opreme ili opreme bez propisane dokumentacije, zabraniti radni postupak bez zaštitne opreme i narediti udaljenje neosposobljenog radnika. Zabrana traje dok se nedostatak ne otkloni.</p>
+<p>Može zabraniti uporabu neispravne opreme ili opreme bez propisane dokumentacije, zabraniti radni postupak bez zaštitne opreme i narediti da se neosposobljeni radnik udalji s mjesta rada. Zabrana traje dok nedostatak ne otklonite.</p>
 <h3>Oslobađa li vanjski stručnjak poslodavca odgovornosti?</h3>
-<p>Ne. Poslodavac je odgovoran za zaštitu na radu i kad je poslove ugovorio s ovlaštenom osobom ili zaposlio stručnjaka (članak 19.). Prenošenje ovlaštenja ne oslobađa poslodavca odgovornosti.</p>
+<p>Ne oslobađa. Za zaštitu na radu odgovarate i kad ste poslove ugovorili s ovlaštenom osobom ili zaposlili stručnjaka (članak 19.). Ni prijenos ovlaštenja ne skida odgovornost s poslodavca.</p>
 <h3>Kakve su kazne za zaštitu na radu?</h3>
-<p>Zakon propisuje novčane kazne za poslodavca i za odgovornu osobu, a za većinu ponovljenih prekršaja dvostruki iznos. Točne iznose i to odnose li se na vaš slučaj provjerite u važećem zakonu ili sa stručnjakom.</p>
+<p>Zakon propisuje novčane kazne za poslodavca i za odgovornu osobu, a za većinu ponovljenih prekršaja dvostruki iznos. Točne iznose i to vrijede li za vaš slučaj provjerite u važećem zakonu ili sa stručnjakom.</p>
 <h3>Odnosi li se sve ovo i na malu firmu?</h3>
-<p>Da, zakon se primjenjuje u svim djelatnostima u kojima radnici rade za poslodavca. Ne primjenjuje se na obrtnika koji radi sam i na poslodavca kojeg zastupa jedna osoba koja je ujedno jedini radnik, osim ako za njih rade osobe na radu (članak 4.). Opseg obveza ovisi o broju radnika i rizicima.</p>
+<p>Da. Zakon se primjenjuje u svim djelatnostima u kojima radnici rade za poslodavca. Ne primjenjuje se na obrtnika koji radi sam ni na poslodavca kojeg zastupa jedna osoba koja mu je ujedno jedini radnik, osim ako za njih rade osobe na radu (članak 4.). Koliko obveza imate, ovisi o broju radnika i rizicima.</p>
 <h2>Kako vam možemo pomoći</h2>
-<p>Pregledamo vašu dokumentaciju i način rada prije nego što to napravi inspektor i dobijete jasan popis što je uređeno, a što nedostaje. Uz stručnjaka zaštite na radu uređujemo procjenu rizika, osposobljavanje radnika i evidencije. Više o usluzi pročitajte na stranici <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a> ili nam se javite putem stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a>.</p>
+<p>Prije inspektora pregledamo vašu dokumentaciju i način rada, a vi dobijete popis onoga što je uređeno i što nedostaje, pa sa stručnjakom zaštite na radu uredimo procjenu rizika, osposobljavanje i evidencije. Pišite nam preko stranice <a href="/admin-podrska-pregled/kontakt/">kontakt</a> ili pročitajte više o usluzi <a href="/admin-podrska-pregled/usluge/zastita-na-radu/">zaštita na radu</a>.</p>
 <h2>Izvori</h2>
 <ul>
 <li><a href="https://www.zakon.hr/z/167/Zakon-o-za%C5%A1titi-na-radu">Zakon o zaštiti na radu, NN 71/14, 118/14, 154/14, 94/18, 96/18, pročišćeni tekst (zakon.hr)</a></li>
@@ -119,7 +119,7 @@
 </ul>9:X
 e:X
 e:C
-0:{"buildId":"bDOdC88ukLMUNWinZ58s0","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Inspekcija zaštite na radu: što provjerava i kako se pripremiti\",\"description\":\"Inspekcija zaštite na radu: tko provodi nadzor, koju dokumentaciju inspektor traži, koje mjere može izreći i kako se poslodavac može pripremiti.\",\"datePublished\":\"2027-06-07\",\"dateModified\":\"2027-06-07\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/inspekcija-zastite-na-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Inspekcija zaštite na radu: što provjerava i kako se pripremiti"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Inspekcija zaštite na radu: tko provodi nadzor, koju dokumentaciju inspektor traži, koje mjere može izreći i kako se poslodavac može pripremiti."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","7. lipnja 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+0:{"buildId":"9bInIJ0pq5bk1oe2wu4uX","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Inspekcija zaštite na radu: što provjerava i kako se pripremiti\",\"description\":\"Inspekcija zaštite na radu: tko provodi nadzor, koju dokumentaciju inspektor traži, koje mjere može izreći i kako se poslodavac može pripremiti.\",\"datePublished\":\"2027-06-07\",\"dateModified\":\"2027-06-07\",\"inLanguage\":\"hr\",\"mainEntityOfPage\":\"https://horizonplus.hr/blog/inspekcija-zastite-na-radu/\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Horizon 2021 d.o.o.\",\"url\":\"https://horizonplus.hr\"}}"}}],["$","section",null,{"className":"blog-module__JsT-Oq__intro","children":["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"blog-module__JsT-Oq__crumbs","aria-label":"Putanja","children":[["$","$L2",null,{"href":"/","children":"Početna"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog/","children":"Novosti i vodiči"}]]}],["$","h1",null,{"className":"blog-module__JsT-Oq__title","children":"Inspekcija zaštite na radu: što provjerava i kako se pripremiti"}],["$","p",null,{"className":"blog-module__JsT-Oq__lead","children":"Inspekcija zaštite na radu: tko provodi nadzor, koju dokumentaciju inspektor traži, koje mjere može izreći i kako se poslodavac može pripremiti."}],["$","p",null,{"className":"blog-module__JsT-Oq__meta","children":[["$","span",null,{"children":["Objavljeno ","7. lipnja 2027."]}],null,["$","span",null,{"children":[10," min čitanja"]}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","children":"Zaštita na radu"}]]}],["$","p",null,{"className":"ArticleDisclaimer-module__tkHNUq__notice","children":["Informativni vodič izrađen uz pomoć umjetne inteligencije. Nije pravni savjet."," ",["$","a",null,{"href":"#napomena","children":"Pročitajte napomenu"}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"wrap blog-module__JsT-Oq__articleLayout","children":[["$","article",null,{"children":[["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}],"$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$9","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$9","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$9","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
 13:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[97367,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"ViewportBoundary"]
@@ -127,10 +127,10 @@ e:C
 18:I[27201,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"IconMark"]
 19:I[39756,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
 1a:I[37457,["/admin-podrska-pregled/_next/static/chunks/2x1c5zjowigxn.js"],"default"]
-:HL["/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","style"]
 4:["$","aside",null,{"id":"napomena","className":"ArticleDisclaimer-module__tkHNUq__box","aria-labelledby":"napomena-naslov","children":[["$","h2",null,{"id":"napomena-naslov","className":"ArticleDisclaimer-module__tkHNUq__title","children":"Važna napomena"}],["$","p",null,{"children":["Ovaj članak izrađen je uz pomoć umjetne inteligencije i služi isključivo kao opći informativni vodič."," ",["$","strong",null,{"children":"Nije pravni, porezni ni drugi stručni savjet."}]]}],["$","p",null,{"children":"Propisi, rokovi, iznosi i praksa institucija se mijenjaju, pa informacije u trenutku čitanja mogu biti zastarjele, nepotpune ili nevažeće."}],["$","p",null,{"children":["Horizon 2021 d.o.o."," ne preuzima odgovornost za odluke ni postupke poduzete na temelju ovog teksta. Prije bilo kakve odluke provjerite važeće propise i posavjetujte se sa stručnom osobom, na primjer odvjetnikom, računovođom, stručnjakom zaštite na radu ili nadležnom institucijom."]}]]}]
 5:["$","aside",null,{"className":"blog-module__JsT-Oq__aside","children":["$","div",null,{"className":"card blog-module__JsT-Oq__serviceBox","children":[["$","b",null,{"children":"Zaštita na radu"}],["$","p",null,{"children":"Povezujemo vas s ovlaštenim stručnjakom zaštite na radu i organiziramo procjenu rizika i osposobljavanje."}],["$","$L2",null,{"href":"/usluge/zastita-na-radu/","className":"btn btn-green","children":"Pogledajte uslugu"}]]}]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/0r5u8s-i5az61.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/admin-podrska-pregled/_next/static/chunks/3-a43s2l4qnue.css","precedence":"next"}]
 7:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
 a:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Inspekcija zaštite na radu: što provjerava i kako se pripremiti"}],["$","meta","1",{"name":"description","content":"Inspekcija zaštite na radu: tko provodi nadzor, koju dokumentaciju inspektor traži, koje mjere može izreći i kako se poslodavac može pripremiti."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://horizonplus.hr/blog/inspekcija-zastite-na-radu/"}],["$","meta","4",{"property":"og:title","content":"Inspekcija zaštite na radu: što provjerava i kako se pripremiti"}],["$","meta","5",{"property":"og:description","content":"Inspekcija zaštite na radu: tko provodi nadzor, koju dokumentaciju inspektor traži, koje mjere može izreći i kako se poslodavac može pripremiti."}],["$","meta","6",{"property":"og:url","content":"https://horizonplus.hr/blog/inspekcija-zastite-na-radu/"}],["$","meta","7",{"property":"og:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Horizon plus"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2027-06-07"}],["$","meta","13",{"property":"article:modified_time","content":"2027-06-07"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Inspekcija zaštite na radu: što provjerava i kako se pripremiti"}],["$","meta","16",{"name":"twitter:description","content":"Inspekcija zaštite na radu: tko provodi nadzor, koju dokumentaciju inspektor traži, koje mjere može izreći i kako se poslodavac može pripremiti."}],["$","meta","17",{"name":"twitter:image","content":"https://horizonplus.hr/images/og-default.jpg"}],["$","meta","18",{"name":"twitter:image:alt","content":"Horizon plus"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/admin-podrska-pregled/icon.svg?icon.1b7d6j25-8c7j.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","22",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 c:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]

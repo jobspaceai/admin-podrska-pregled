@@ -3,5 +3,6 @@
 :HL["/admin-podrska-pregled/_next/static/media/a24d9e981578d580-s.p.2dim39isyjvqg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/media/f7aa21714c1c53f8-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/admin-podrska-pregled/_next/static/chunks/3z9kq9ozs1bj9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"usluge","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"osnivanje-firme","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"9bInIJ0pq5bk1oe2wu4uX"}
+:HL["/admin-podrska-pregled/_next/static/chunks/1wswuthu-7qrk.css","style"]
+:HL["/admin-podrska-pregled/_next/static/chunks/2qfjcthp4ztzm.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"usluge","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"osnivanje-firme","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"SKHAw5-lk9xUdW2T5PR8w"}

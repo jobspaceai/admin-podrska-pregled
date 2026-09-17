@@ -5,4 +5,4 @@
 :HL["/admin-podrska-pregled/_next/static/media/fe1d9b66fdac40b2-s.p.0rk4w-o65wlzl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/admin-podrska-pregled/_next/static/chunks/0g2q1qpzon5ip.css","style"]
 :HL["/admin-podrska-pregled/_next/static/chunks/2qfjcthp4ztzm.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"usluge","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"SKHAw5-lk9xUdW2T5PR8w"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"usluge","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"S6LFN04Pp12aKMIWFbTvc"}
